@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - School Publicity/The BMSS Telegram.md
       - School Publicity/.keep
