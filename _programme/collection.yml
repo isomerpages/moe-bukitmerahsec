@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Events/.keep
       - National Digital Literacy/About NDLP.md
       - National Digital Literacy/Acer Helpdesk Service Centre.md
       - National Digital Literacy/.keep
