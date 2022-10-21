@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Partnership/School Staff Contacts.md
       - Partnership/Parents Support Group.md
       - Partnership/Alumni.md
       - Partnership/.keep
