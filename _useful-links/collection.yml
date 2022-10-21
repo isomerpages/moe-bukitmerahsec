@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - BMSS Staff/Useful Links for Staff.md
       - BMSS Staff/.keep
       - BMSS Students/Home Based Learning.md
       - BMSS Students/Exam Timetable.md
