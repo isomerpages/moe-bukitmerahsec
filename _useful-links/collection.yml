@@ -2,5 +2,6 @@ collections:
   useful-links:
     output: true
     order:
+      - BMSS Students/School Rules and Regulations.md
       - BMSS Students/Useful Links for Student.md
       - BMSS Students/.keep
