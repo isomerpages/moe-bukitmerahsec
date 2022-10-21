@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/banner.png
       key_highlights:
         - title: Events
           description: View all events
@@ -31,4 +31,3 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
-
