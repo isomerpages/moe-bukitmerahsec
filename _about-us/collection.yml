@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Departments/Mother Tongue Languages and Aesthetics.md
       - Departments/Humanities.md
       - Departments/Craft and Technology.md
       - Departments/Physical Education.md
