@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - School Publicity/The Merahan Pulse.md
       - School Publicity/The School Newsletter.md
       - School Publicity/The BMSS Telegram.md
       - School Publicity/.keep
