@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/School Emblem Motto.md
       - School Information/School Vision Mission Values.md
       - School Information/School History.md
       - School Information/School Song.md
