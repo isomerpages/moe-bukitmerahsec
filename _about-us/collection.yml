@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/School Calendar.md
       - School Information/School Opening Hours.md
       - School Information/.keep
       - Departments/English Language and Literature.md
