@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Achievements 2022.md
       - Achievements 2021.md
       - Staff Achievements.md
       - Alumni Achievements.md
