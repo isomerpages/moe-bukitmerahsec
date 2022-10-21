@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - Featured News Articles/The Straits Times — Young Athlete of the Year
+        Nominee.md
       - Featured News Articles/The Straits Times — 11 April 2018.md
       - Featured News Articles/The New Paper — 15 January 2018.md
       - Featured News Articles/The Straits Times — 25 February 2021.md
