@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - National Digital Literacy/Acer Helpdesk Service Centre.md
       - National Digital Literacy/.keep
       - Global Merahan Programme (GMP).md
       - Full Subject Based Banding.md
