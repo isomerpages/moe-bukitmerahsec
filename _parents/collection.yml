@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Letters to Parents/2021 Letters to Parents.md
       - Letters to Parents/.keep
       - School Publicity/The Merahan Pulse.md
       - School Publicity/The School Newsletter.md
