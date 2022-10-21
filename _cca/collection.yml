@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Club and Societies/Young Entrepreneurs' Club.md
       - Club and Societies/.keep
       - Uniformed Groups/National Cadet Corps.md
       - Uniformed Groups/Scouts.md
