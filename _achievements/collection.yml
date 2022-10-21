@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Staff Achievements.md
       - Alumni Achievements.md
       - Featured News Articles/Learning and Growing through the Arts.md
       - Featured News Articles/Channel NewsAsia — BUS Programme.md
