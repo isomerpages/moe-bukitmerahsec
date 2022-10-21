@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parents Links/Parents Support Group.md
       - Parents Links/Parents Resources.md
       - Parents Links/MOE Sexuality Education.md
       - Parents Links/BMSS Cyber Wellness.md
