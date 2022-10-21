@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - BMSS Students/LEAPS 2.md
       - BMSS Students/Student iCON.md
       - BMSS Students/Scheme of Assessment.md
       - BMSS Students/School Booklist.md
