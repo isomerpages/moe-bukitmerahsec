@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Partnership/.keep
       - Contact Us.md
