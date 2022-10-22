@@ -9,7 +9,7 @@ In Term 1 Week 9, Bukit Merah Secondary School ran a Humanities Week centered ar
 
 |  |  |  |  |
 |---|---|---|---|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| <img src="/images/humanities16.png" style="width:60%"> | <img src="/images/humanities17.png" style="width:80%"> | <img src="/images/humanities18.png" style="width:80%"> | <img src="/images/humanities19.png" style="width:80%"> |
+|<img src="/images/humanities20.png" style="width:80%">  | <img src="/images/humanities21.png" style="width:80%"> | <img src="/images/humanities22.png" style="width:80%"> | <img src="/images/humanities23.png" style="width:80%"> |
+| <img src="/images/humanities24.png" style="width:80%"> | <img src="/images/humanities25.png" style="width:80%"> | <img src="/images/humanities26.png" style="width:80%"> | <img src="/images/humanities27.png" style="width:80%"> |
+| <img src="/images/humanities28.png" style="width:80%"> | <img src="/images/humanities29.png" style="width:60%"> |  |  |
