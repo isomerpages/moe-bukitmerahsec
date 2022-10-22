@@ -2,4 +2,5 @@ collections:
   humanities:
     output: true
     order:
+      - Humanities Trail @ Singapore Zoo.md
       - Humanities Week 2019.md
