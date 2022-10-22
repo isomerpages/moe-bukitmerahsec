@@ -9,8 +9,11 @@ sections:
   - hero:
       background: /images/banner.png
       key_highlights:
+        - title: Announcements
+          description: View all Announcements here
+          url: /announcements/
         - title: Events
-          description: View all events
+          description: View all Events here
           url: /events/
   - infopic:
       title: Heart X Sole Challenge!
