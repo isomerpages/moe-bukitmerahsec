@@ -39,5 +39,5 @@ To nurture confident users of Mother Tongue Languages who uphold sound values
 
 |  |  |  |
 |---|---|---|
-|  |  |  |
-|  |  |  |
+| <figure><img src="/images/de15.png" style="width:90%"> </figure> | <figure><img src="/images/de16.png" style="width:90%"> </figure> | <figure><img src="/images/de17.png" style="width:90%"> </figure> |
+| <figure><img src="/images/de18.png" style="width:90%"> </figure> | <figure><img src="/images/de19.png" style="width:90%"> </figure> | <figure><img src="/images/de20.png" style="width:90%"> </figure> |
