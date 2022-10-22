@@ -11,6 +11,6 @@ Here are some of the highlights!
 
 |  |  |  |
 |---|---|---|
-| <img src="/images/el1.png" style="width:80%">  | <img src="/images/el2.png" style="width:80%"> | <img src="/images/el9.png" style="width:80%"> |
+| <img src="/images/el1.png" style="width:80%">  | <img src="/images/el2.png" style="width:80%"> | <img src="/images/el9.png" style="width:85%"> |
 | <img src="/images/el3.png" style="width:80%"> | <img src="/images/el4.png" style="width:80%"> | <img src="/images/el8.png" style="width:80%"> |
 | <img src="/images/el5.png" style="width:50%"> | <img src="/images/el6.png" style="width:50%"> | <img src="/images/el7.png" style="width:60%"> |
