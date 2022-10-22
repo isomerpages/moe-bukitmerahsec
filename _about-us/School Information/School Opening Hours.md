@@ -8,10 +8,10 @@ third_nav_title: School Information
 
 <figure><b>School Front Gate:</b>
 
-<i>Opening Hours  
+<i>Opening Hours  <br>
 	Monday to Friday: 6.30 am to 6.30 pm</i>
-
-<b>School Back Gate:</b>
+<br><br>
+<b>School Back Gate:</b><br>
 
 Bukit Merah Secondary School Turnstile Gate Opening / Closing Hours: </figure>
 
