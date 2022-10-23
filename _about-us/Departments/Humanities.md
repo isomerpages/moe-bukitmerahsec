@@ -46,10 +46,10 @@ In addition, Humanities lessons are a hub for National Education (NE). Topics co
 <img src="/images/de22.png" style="width:80%">
 
 *   [EBS Work Experience Programme](/files/EBS-WEP-Cert-Presentation-2020.pdf)
-*   [Humanities Trail @ Redhill](https://staging.d1w3gt6qa53vq2.amplifyapp.com/about-us/humanities/redhill)
+*   [Humanities Trail @ Redhill](https://staging.d1w3gt6qa53vq2.amplifyapp.com/humanities/redhill)
 *   War & Diplomacy History Competition
-*   [Humanities Trail @ Singapore Zoo](https://staging.d1w3gt6qa53vq2.amplifyapp.com/about-us/humanities/singapore-zoo)
-*   [Humanities Week 2019](https://staging.d1w3gt6qa53vq2.amplifyapp.com/about-us/humanities/week-2019)
+*   [Humanities Trail @ Singapore Zoo](https://staging.d1w3gt6qa53vq2.amplifyapp.com/humanities/singapore-zoo)
+*   [Humanities Week 2019](https://staging.d1w3gt6qa53vq2.amplifyapp.com/humanities/week-2019)
 *   Cambodia 2016
 *   Vivo City Learning Journey
 *   NUS Geography Challenge
