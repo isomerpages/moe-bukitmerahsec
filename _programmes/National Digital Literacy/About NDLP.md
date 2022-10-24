@@ -105,7 +105,11 @@ If needed, hard copies of the attached form are also available at the General Of
 <div>
 
 <p>
-text	
+As part of the NDLP, schools will progressively roll out ICT applications that will be vital to students’ learning experience and educational journey. <Br><br>
+
+The school will need to use your child/ward’s personal data such as his/her name and class to set up user accounts.<br><br>
+
+Please refer to our Frequently Asked Questions section for more information on the collection of data via these applications.
 </p>
 
 	
