@@ -78,7 +78,7 @@ To ensure affordability of PLD, there was a one-time Edusave top-up of $200 in y
 
 For students who need additional support, complete and submit the attached form and supporting income documents to the General Office latest by 25 Jan 2021 (for Sec 1s) and 1 Feb 2021 (for Sec 2s & 3s).<br><br>
 
-[Please click here to download the form.](https://bukitmerahsec.moe.edu.sg/wp-content/uploads/2021/01/Application-form-for-PDLP-Subsidy-BMSS.pdf) <br><br>
+<a href="https://staging.d1w3gt6qa53vq2.amplifyapp.com/files/Application-form-for-PDLP-Subsidy-BMSS.pdf">Please click here to download the form.</a>  <br><br>
 	
 
 
