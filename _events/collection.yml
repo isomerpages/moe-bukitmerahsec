@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2021 Events/Secondary 1 Orientation Programme.md
       - 2021 Events/Release of O Level Results 2020.md
       - 2021 Events/1st SPLT Session in 2021.md
       - 2021 Events/CCA Orientation Programme 2021.md
