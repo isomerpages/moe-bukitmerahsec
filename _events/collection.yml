@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2022 Events/O Level Results Release 2022.md
       - 2022 Events/Startright Programme 2022.md
       - 2022 Events/.keep
       - 2021 Events/Secondary 1 Orientation Programme.md
