@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - 2020 Events/Release of GCE N Level Results.md
       - 2020 Events/.keep
