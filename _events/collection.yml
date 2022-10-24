@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2021 Events/1st SPLT Session in 2021.md
       - 2021 Events/CCA Orientation Programme 2021.md
       - 2021 Events/President’s Visit.md
       - 2021 Events/Prefects’ Investiture 2021.md
