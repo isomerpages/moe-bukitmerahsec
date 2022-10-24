@@ -6,7 +6,7 @@ third_nav_title: Partnership
 ---
 ### Alumni
 
-<img src="/images/psg5.png" style="width:30%">
+<img src="/images/psg5.png" style="width:70%">
 
 **Bukit Merah Secondary School Alumni**
 
@@ -23,4 +23,3 @@ Membership fee is currently waived and you can look forward to reconnect through
 President  
 Xavier Ang (Graduated in 1998)  
 Bukit Merah Secondary School Alumni Committee (Pro-tem)
-
