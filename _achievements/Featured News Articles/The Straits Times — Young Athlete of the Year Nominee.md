@@ -16,7 +16,7 @@ We will like to congratulate John who managed to clinch the ST Young Star Award 
 
 _(please click the link above for the feature articles)_
 
-<img src="/images/news2.png" style="width:55%">  
+<img src="/images/news2.png" style="width:30%">  
 
 _Source Credits:_ 
 
