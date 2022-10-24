@@ -4,8 +4,6 @@ permalink: /programme/National-Digital-Literacy/about-ndlp/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-[ACCORDION 3](/files/Application-form-for-PDLP-Subsidy-BMSS.pdf)
-
 ### National Digital Literacy Programme (NDLP)
 
 [ Infographic on the PLD Initiative](/files/Infographic-on-the-PLD-Initiative.pdf) <br>
