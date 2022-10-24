@@ -3,7 +3,6 @@ title: Accordion code (page to be deleted)
 permalink: /accordion/
 description: ""
 ---
-
 <ul class="jekyllcodex_accordion">
 <li>
 
@@ -68,3 +67,5 @@ text
 </div>
 
 </li>
+	
+</ul>
