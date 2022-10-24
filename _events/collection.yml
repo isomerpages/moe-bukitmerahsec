@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - 2020 Events/Secondary One School Parent Meeting and CCA Orientation
+        2020.md
       - 2020 Events/Release of 2019 O Levels Results.md
       - 2020 Events/Student Play Lead Interact.md
       - 2020 Events/Lunar New Year Celebrations.md
