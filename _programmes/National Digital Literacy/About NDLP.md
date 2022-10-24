@@ -293,7 +293,7 @@ For the ICT Applications (student iCON, Microsoft ProPlus and Zoom), the school 
 </p>
 
 </div>
-
+</li>
 <li>
 
 <input id="accordion14" type="checkbox">
