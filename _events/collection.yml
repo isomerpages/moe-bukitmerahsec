@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - 2020 Events/Secondary Two eCamp 2020.md
       - 2020 Events/Release of GCE N Level Results.md
       - 2020 Events/.keep
