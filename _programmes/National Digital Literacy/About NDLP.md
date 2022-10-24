@@ -152,13 +152,18 @@ MOE will set up Zoom free account with 40 min time limit using Student iCON for 
 
 <input id="accordion6" type="checkbox">
 
-<label for="accordion6">T1</label>
+<label for="accordion6">Overview</label>
 
 <div>
 
 <p> 
 
-text	
+Please note that when you purchase a PLD, the PLD will be pre-installed with a Device Management Application (DMA). The DMA has a variety of functions that will support the use of the PLD in the classroom, as well as safeguard students’ cyber-wellness. The DMA can:<br><br>
+
+• Remotely deploy teaching and learning applications as well as security patches<br>
+• Enable teachers to monitor and control the students’ screens<br>
+• Restrict apps and websites accessible<br>
+• Limit screen time
 
 </p>
 
@@ -169,12 +174,12 @@ text
 
 <input id="accordion7" type="checkbox">
 
-<label for="accordion7">T2 </label>
+<label for="accordion7">Classroom Management </label>
 <div>
 
 <p>
 	
-text
+Teachers are able to actively monitor and control the student’s use of the PLD during lesson time to help student better manage distractions and deliver effective teaching.
 	
 </p>
 
@@ -184,12 +189,12 @@ text
 <li>
 <input id="accordion8" type="checkbox">
 
-<label for="accordion8">T2 </label>
+<label for="accordion8">Mobile Device Management </label>
 <div>
 
 <p>
 	
-text
+Remote deployment of teaching and learning applications as well as security patches is made possible with DMA. Schools may also leverage on the Mobile Device Management Service to install the school’s teaching and learning resources.
 	
 </p>
 
@@ -199,12 +204,12 @@ text
 <li>
 <input id="accordion9" type="checkbox">
 
-<label for="accordion9">T3</label>
+<label for="accordion9">Usage Management</label>
 
 <div>
 <p>
 
-text
+This addresses stress to the student’s eyes from prolonged use and cyber wellness concerns, such as excessive and inappropriate use of the PLD.
 </p>
 
 </div>
@@ -213,12 +218,18 @@ text
 
 <input id="accordion10" type="checkbox">
 
-<label for="accordion10">T4</label>
+<label for="accordion10">Updating Choice of After-School DMA Option</label>
 
 <div>
 
 <p>
-text	
+Choice of after-school DMA settings can be changed at any time using the following link.<br><br>
+
+Do note that changes to the after-school DMA option will only take effect at <b>the end of every month upon receipt of request before the 15th of each month.</b> An email confirmation will be sent to confirm the updated after-school DMA option once it has been activated.<br><br>
+
+Request made after the 15th of each month will only take effect the following month.<br><br>
+
+Link: <a href="https://go.gov.sg/bmssdma">https://go.gov.sg/bmssdma</a>
 </p>
 
 	
