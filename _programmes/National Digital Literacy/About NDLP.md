@@ -116,5 +116,183 @@ Please refer to our Frequently Asked Questions section for more information on t
 </div>
 
 </li>
+<li>
+
+<input id="accordion5" type="checkbox">
+
+<label for="accordion5">ICT Applications </label>
+<div>
+
+<p>
+
+In the following months, MOE will roll out some or all of the following applications: <br><br>
+
+•  <b>Student ICON</b><br>
+
+MOE will give every secondary school student an email address. This is a service provided by Google as part of Google Suite.<br><br>
+
+•  <b>Microsoft 365</b><Br>
+
+Every Secondary School will be granted a license to use Microsoft Office tools that include Word, PowerPoint and Excel.<br><br>
+
+•   <b>Zoom</b><br>
+
+MOE will set up Zoom free account with 40 min time limit using Student iCON for the schools’ video conferencing needs.	
+</p>
+
+</div>
+</li>
+	
+</ul>
+
+#### Device Management Application (DMA)
+
+<ul class="jekyllcodex_accordion">
+<li>
+
+<input id="accordion6" type="checkbox">
+
+<label for="accordion6">T1</label>
+
+<div>
+
+<p> 
+
+text	
+
+</p>
+
+</div>
+
+</li>
+<li>
+
+<input id="accordion7" type="checkbox">
+
+<label for="accordion7">T2 </label>
+<div>
+
+<p>
+	
+text
+	
+</p>
+
+</div>
+
+</li>
+<li>
+<input id="accordion8" type="checkbox">
+
+<label for="accordion8">T2 </label>
+<div>
+
+<p>
+	
+text
+	
+</p>
+
+</div>
+
+</li>	
+<li>
+<input id="accordion9" type="checkbox">
+
+<label for="accordion9">T3</label>
+
+<div>
+<p>
+
+text
+</p>
+
+</div>
+
+<li>
+
+<input id="accordion10" type="checkbox">
+
+<label for="accordion10">T4</label>
+
+<div>
+
+<p>
+text	
+</p>
+
+	
+</div>
+
+</li>
+	
+</ul>
+
+#### Frequently Asked Questions
+
+<ul class="jekyllcodex_accordion">
+<li>
+
+<input id="accordion11" type="checkbox">
+
+<label for="accordion11">T1</label>
+
+<div>
+
+<p> 
+
+text	
+
+</p>
+
+</div>
+
+</li>
+<li>
+
+<input id="accordion12" type="checkbox">
+
+<label for="accordion12">T2 </label>
+<div>
+
+<p>
+	
+text
+	
+</p>
+
+</div>
+
+</li>
+	
+<li>
+<input id="accordion13" type="checkbox">
+
+<label for="accordion13">T3</label>
+
+<div>
+<p>
+
+text
+</p>
+
+</div>
+
+<li>
+
+<input id="accordion14" type="checkbox">
+
+<label for="accordion14">T4</label>
+
+<div>
+
+<p>
+text	
+</p>
+
+	
+</div>
+
+</li>
 	
 </ul>
