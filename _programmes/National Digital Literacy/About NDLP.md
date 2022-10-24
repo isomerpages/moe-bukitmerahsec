@@ -312,3 +312,17 @@ Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. 
 </li>
 	
 </ul>
+
+
+#### Parent Handbook
+
+Refer to Parent Handbook [here](/files/IP2%20-%20Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf) .
+
+#### Acceptable Use Policy
+
+Refer to Acceptable Use Policy [here](/files/BMSS%20AUP%20(20210401).pdf)
+
+### Parent Briefing Slides / Q&A Response
+
+[Personal Learning Device (PLD) Briefing for Parents](/files/Personal-Learning-Devices-PLD-for-Parents.pdf)
+[Student Device Information Kit\_16 Mar 22](/files/PDLP-Student-Device-Information-Kit_16-Mar-22.pdf)
