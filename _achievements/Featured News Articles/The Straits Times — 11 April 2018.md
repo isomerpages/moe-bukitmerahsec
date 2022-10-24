@@ -10,8 +10,7 @@ third_nav_title: Featured News Articles
 
 Click on the picture for high resolution scanned copy.
 
-![](/images/news3.png)
+<p><a href="https://staging.d1w3gt6qa53vq2.amplifyapp.com/images/news3.png"><img style="width:65%" src="/images/news3.png"></a></p>  
 
-<img src="/images/news3.png" style="width:60%">  
 
 Source:\[State publication\] ©️ Singapore Press Holdings Limited. Permission required for reproduction.
