@@ -211,7 +211,7 @@ This addresses stress to the student’s eyes from prolonged use and cyber welln
 </p>
 
 </div>
-
+</li>	
 <li>
 
 <input id="accordion10" type="checkbox">
@@ -280,7 +280,7 @@ All user data which is collected by MOE will be stored in secure servers managed
 <li>
 <input id="accordion13" type="checkbox">
 
-<label for="accordion13">How will my chi;d/ward's data be used in the ICT Applications?</label>
+<label for="accordion13">How will my child/ward's data be used in the ICT Applications?</label>
 
 <div>
 <p>
