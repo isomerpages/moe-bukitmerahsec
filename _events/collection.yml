@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2021 Events/Prefects’ Investiture 2021.md
       - 2021 Events/.keep
       - 2020 Events/Secondary One School Parent Meeting and CCA Orientation
         2020.md
