@@ -1,0 +1,4 @@
+collections:
+  subject-teachers:
+    output: true
+    order: []
