@@ -3,7 +3,7 @@ title: School Staff Contacts
 permalink: /about-us/school-staff-contacts/
 description: ""
 ---
-### School Staff Contacts not done
+### School Staff Contacts  
 
 #### SCHOOL DETAILS
 
