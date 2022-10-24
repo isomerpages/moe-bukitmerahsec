@@ -50,7 +50,7 @@ text
 </p>
 
 </div>
-
+</li>
 <li>
 
 <input id="accordion4" type="checkbox">
