@@ -6,7 +6,7 @@ third_nav_title: Secondary 1
 ---
 ### Sec 1T2 Subject Teachers
 
- | Teacher | Subject | Email |
+| Teacher | Subject | Email |
 |:---:|:---:|:---:|
 | Yeo Jun Zhong | FT (PCT / CCE / SSB) | yeo_jun_zhong@schools.gov.sg |
 | Lim Chee Khern Dennis | ALP | lim_chee_khern_dennis@schools.gov.sg |
