@@ -23,3 +23,27 @@ Membership fee is currently waived and you can look forward to reconnect through
 President  
 Xavier Ang (Graduated in 1998)  
 Bukit Merah Secondary School Alumni Committee (Pro-tem)
+
+<ul class="jekyllcodex_accordion">
+<li>
+
+<input id="accordion1" type="checkbox">
+
+<label for="accordion1">2020 Executive Committee Formation (Pro-tem)</label>
+
+<div>
+
+<p> 
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bolder">President       </span></th><th style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mr Xavier Ang</th></tr></thead><tbody><tr><td style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bolder">Advisor</span></td><td style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mr Timothy Cheng, Current Principal</td></tr><tr><td style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bolder">Vice-President/s</span></td><td style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bolder">Not applicable at the moment</span></td></tr><tr><td style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bolder">Honorary Secretary</span></td><td style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mr Wun Boon Leng</td></tr><tr><td style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bolder">Honorary Treasurer</span></td><td style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ms Gina Tan</td></tr><tr><td style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bolder">Executive Members</span></td><td style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mr Tan Teck Lee<br><br>Ms Amina Begum<br>Mr Sam Lee Mun Keat<br>Mr Handy Aulia<br>Ms Lee Soon Ngoh</td></tr></tbody></table>	
+
+</p>
+
+</div>
+
+</li>
+</ul>
+
+Interested to join our Alumni group? Please do visit our Facebook page for more information:
+
+[https://www.facebook.com/groups/29538056037](https://www.facebook.com/groups/29538056037)
