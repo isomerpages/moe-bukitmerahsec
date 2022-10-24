@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2020 Events/Prefect Investiture 2020.md
       - 2020 Events/Racial Harmony Day 2020.md
       - 2020 Events/National Day Celebrations 2020 and 52nd Speech and Prize
         giving Day.md
