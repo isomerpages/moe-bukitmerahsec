@@ -6,7 +6,7 @@ third_nav_title: Featured News Articles
 ---
 ### The New Paper — 15 January 2018
 
-News article from http://www.tnp.sg/news/singapore/boy-profound-hearing-loss-gets-early-admission-poly-course
+News article from: [http://www.tnp.sg/news/singapore/boy-profound-hearing-loss-gets-early-admission-poly-course](http://www.tnp.sg/news/singapore/boy-profound-hearing-loss-gets-early-admission-poly-course)
 
 (Date: 15 Jan 2018)
 
