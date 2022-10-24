@@ -324,5 +324,5 @@ Refer to Acceptable Use Policy [here](/files/BMSS%20AUP%20(20210401).pdf)
 
 ### Parent Briefing Slides / Q&A Response
 
-[Personal Learning Device (PLD) Briefing for Parents](/files/Personal-Learning-Devices-PLD-for-Parents.pdf)
+[Personal Learning Device (PLD) Briefing for Parents](/files/Personal-Learning-Devices-PLD-for-Parents.pdf)<br>
 [Student Device Information Kit\_16 Mar 22](/files/PDLP-Student-Device-Information-Kit_16-Mar-22.pdf)
