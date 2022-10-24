@@ -2,6 +2,7 @@ collections:
   subject-teachers:
     output: true
     order:
+      - Secondary 2/2E3 Class.md
       - Secondary 2/.keep
       - Secondary 3/3T1 Class.md
       - Secondary 3/3N1 Class.md
