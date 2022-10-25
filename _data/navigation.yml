@@ -4,6 +4,19 @@ links:
     collection: about-us
   - title: Achievements
     collection: achievements
+  - title: Programmes
+    url: /programme/Events/2022/
+    sublinks:
+      - title: Events
+        url: /programme/Events/2022/
+      - title: National Digital Literacy
+        url: /programme/National-Digital-Literacy/about-ndlp/
+      - title: Submenu Title
+        url: /permalink
+      - title: Full Subject-Based Banding
+        url: /programme/full-subject-based-banding/
+      - title: "Learning for Life Programme "
+        url: /programme/learning-for-life/
   - title: CCA
     collection: cca
   - title: Useful Links
