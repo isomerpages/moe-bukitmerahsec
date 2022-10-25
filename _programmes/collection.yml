@@ -2,11 +2,11 @@ collections:
   programmes:
     output: true
     order:
-      - National Digital Literacy/.keep
+      - Events/.keep
       - Events/2022 Events.md
       - Events/2021 Events.md
       - Events/2020 Events.md
-      - Events/.keep
+      - National Digital Literacy/.keep
       - Full Subject Based Banding.md
       - Learning for Life (Sports) Programme (LLP).md
       - Applied Learning (STEM) Programme (ALP).md
