@@ -1,8 +1,0 @@
-collections:
-  prog:
-    output: true
-    order:
-      - Global Merahan Programme/.keep
-      - Events/.keep
-      - National Digital Literacy/.keep
-      - Global Merahan Programme (GMP).md
