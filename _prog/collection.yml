@@ -1,5 +1,5 @@
 collections:
-  programmes:
+  prog:
     output: true
     order:
       - Global Merahan Programme/.keep
