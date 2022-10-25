@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Learning for Life (Sports) Programme (LLP).md
       - Applied Learning (STEM) Programme (ALP).md
       - Budding Reading Programme.md
