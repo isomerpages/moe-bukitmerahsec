@@ -16,6 +16,6 @@ Schools offer a range of co-curricular programmes to help students achieve a hol
 
 For more information, you can refer to the following PDF attachments:
 
-[LEAPS 2.0](/files/LEAPS.pdf)  
-[Annex A](/files/Annex-A.pdf)
+[LEAPS 2.0](/files/LEAPS.pdf)<br>
+[Annex A](/files/Annex-A.pdf)<br>
 [Annex B](/files/Annex-B.pdf)
