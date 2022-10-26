@@ -4,8 +4,9 @@ collections:
     order:
       - BMSS Staff/Useful Links for Staff.md
       - BMSS Staff/.keep
-      - BMSS Students/School Timetable.md
+      - BMSS Students/.keep
       - BMSS Students/Home Based Learning.md
+      - BMSS Students/School Timetable.md
       - BMSS Students/Exam Timetable.md
       - BMSS Students/LEAPS 2.md
       - BMSS Students/Student iCON.md
@@ -13,4 +14,3 @@ collections:
       - BMSS Students/School Booklist.md
       - BMSS Students/School Rules and Regulations.md
       - BMSS Students/Useful Links for Student.md
-      - BMSS Students/.keep
