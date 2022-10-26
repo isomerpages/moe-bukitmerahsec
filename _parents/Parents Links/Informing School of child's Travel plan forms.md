@@ -10,3 +10,4 @@ If your child is travelling overseas, kindly download and fill up the form below
 
 _Travel Form:  
 [Bukit\_Merah\_Secondary\_School\_Travel\_Form](https://bukitmerahsec.moe.edu.sg/wp-content/uploads/2017/11/Bukit_Merah_Secondary_School_Travel_Form.doc)_ (Upload doc file here)
+
