@@ -4,3 +4,41 @@ permalink: /parents/Parents-Links/parents-support-group/
 description: ""
 third_nav_title: Parents Links
 ---
+### Parents Support Group
+
+<img src="/images/psg4.png" style="width:30%">  
+
+<img src="/images/psg2.png" style="width:60%">  
+
+#### Vision
+
+To strengthen the cohesive partnership between the school and Parents’ Support Group so as to sustain the momentum of trust and confidence parents have towards the school.
+
+#### Mission
+
+To provide constructive feedback with the aim of improving the overall performance in academic and holistic education with due respect to the discipline and moral values of students.
+
+#### Functions of Parents’ Support Group
+
+As school partners in education we provide constructive and valuable feedback for the betterment of the school and the pupils.
+
+To provide an avenue for parents to raise issues and concerns and to seek clarifications of decisions. This will enable the school to identity and respond to issues of interests to parents.
+
+To support the school functions and activities and enhance the publicity efforts of the school.
+
+To enhance and encourage parents’ participation in the Parents’ Support Group for greater involvment in the school and create a network among parents to exchange views and share a common interest, vision and goals for the betterment of your children and the school.
+
+### PSG Activities
+
+[BMSS PSG Slides](/files/psg.pdf)
+
+#### Membership
+
+Sign up as a member of BMSS Parents’ Support Group [**here.**](https://go.gov.sg/bmpsgregistration)  
+Or scan the QR code below!
+
+<img src="/images/psg3.png" style="width:30%">
+
+#### Contact Us
+
+If you have any enquiries, please send an email to: [bmsspsg@gmail.com](mailto:bmsspsg@gmail.com), alternatively, you can visit us via our Facebook page [PSGbukitmerahsecsch](https://www.facebook.com/PSGbukitmerahsecsch/).
