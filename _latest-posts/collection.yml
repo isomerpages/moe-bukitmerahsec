@@ -2,5 +2,6 @@ collections:
   latest-posts:
     output: true
     order:
+      - Heart X Sole Challenge.md
       - “B” Division Floorball NSG Champions.md
       - Festivo.md
