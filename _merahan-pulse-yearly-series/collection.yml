@@ -1,4 +1,5 @@
 collections:
   merahan-pulse-yearly-series:
     output: true
-    order: []
+    order:
+      - Merahan Pulse Yearly Series 2019.md
