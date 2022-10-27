@@ -12,3 +12,9 @@ description: ""
 [Merahan Pulse – Issue 03](https://bukitmerahsec.moe.edu.sg/wp-content/uploads/2021/05/Merahan-Pulse-03-May_final-scaled.gif)
 
 [Merahan Pulse – Issue 04](https://bukitmerahsec.moe.edu.sg/wp-content/uploads/2021/07/Merahan-Pulse-4_Sec-2-Camp-scaled.jpg)
+
+![2](/images/mpi2.png)
+
+![3](/images/mpi3.png)
+
+![4](/images/mpi4.png)
