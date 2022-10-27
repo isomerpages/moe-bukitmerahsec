@@ -19,18 +19,24 @@ sections:
       title: Heart X Sole Challenge!
       description: Our Merahans gathered last Friday at the Singapore Sports Hub for
         the aptly named Heart x Sole Challenge.
-      button: Button Text
+      button: Click here for more
       alt: Image alt text
+      image: /images/infopic1.jpeg
+      url: /latest-posts/heart-x-sole-challenge
   - infopic:
       title: “B” Division Floorball NSG Champions!
       description: "Our Merahan ‘B’ division Floorball boys have reclaimed the
         championship title! "
-      button: Button Text
+      button: Click here for more
       alt: Image alt text
+      image: /images/infopic2.png
+      url: /latest-posts/floorball-nsg-champions
   - infopic:
       title: Festivo!
       description: Festivo is back! Our Performing Arts and AEP students performed
         with great energy and enthusiasm Tuesday morning.
-      button: Button Text
+      button: Click here for more
       alt: Image alt text
+      url: /latest-posts/festivo
+      image: /images/infopic3.png
 ---
