@@ -3,7 +3,7 @@ title: 2019 Merahan Pulse Series
 permalink: /merahan-pulse-yearly-series/2019/
 description: ""
 ---
-# 2019 Merahan Pulse E-Newsletter Edition Series:
+### 2019 Merahan Pulse E-Newsletter Edition Series:
 
 [Merahan Pulse – Issue 01](/files/mpi7.pdf)
 
