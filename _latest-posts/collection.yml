@@ -2,4 +2,5 @@ collections:
   latest-posts:
     output: true
     order:
+      - “B” Division Floorball NSG Champions.md
       - Festivo.md
