@@ -9,4 +9,4 @@ description: ""
 
 [Merahan Pulse – Issue 02](https://bukitmerahsec.moe.edu.sg/wp-content/uploads/2020/03/Merahan-Pulse-Issue-02.pdf)
 
-[Merahan Pulse – Issue 03](https://bukitmerahsec.moe.edu.sg/wp-content/uploads/2020/07/Merahan-Pulse-%E2%80%93-Issue-03.pdf)
+[Merahan Pulse – Issue 03](https://bukitmerahsec.moe.edu.sg/wp-content/uploads/2020/07/Merahan-Pulse-%E2%80%93-Issue-03.pdf) (Please reupload)
