@@ -1,0 +1,4 @@
+collections:
+  merahan-pulse-yearly-series:
+    output: true
+    order: []
