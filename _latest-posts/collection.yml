@@ -1,0 +1,4 @@
+collections:
+  latest-posts:
+    output: true
+    order: []
