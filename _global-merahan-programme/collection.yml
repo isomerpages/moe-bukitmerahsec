@@ -2,4 +2,5 @@ collections:
   global-merahan-programme:
     output: true
     order:
+      - GMP 2018/Global Merahan Programme – SWPY, Phayao Thailand.md
       - GMP 2018/.keep
