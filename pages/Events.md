@@ -3,4 +3,4 @@ title: Events
 permalink: /events/
 description: ""
 ---
-Please insert google calendar here.
+Please insert calendar here.
