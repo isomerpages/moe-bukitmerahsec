@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: View all Announcements here
-          url: /announcements/
+          url: /announcements/resources/
         - title: Events
           description: View all Events here
           url: /events/
