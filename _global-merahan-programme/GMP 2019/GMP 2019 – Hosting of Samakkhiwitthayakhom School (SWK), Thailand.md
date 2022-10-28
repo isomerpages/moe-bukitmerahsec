@@ -11,7 +11,7 @@ We are honoured to host our visiting GMP partner school Samakkhiwitthayakhom Sch
 
 |  |  |  |  |
 |---|---|---|---|
-| <img src="/images/swk4.png" style="width:90%"> |<img src="/images/swk9.png" style="width:60%">  | <img src="/images/swk11.png" style="width:90%"> |  <img src="/images/swk14.png" style="width:90%">|
+| <img src="/images/swk4.png" style="width:90%"> |<img src="/images/swk9.png" style="width:50%">  | <img src="/images/swk11.png" style="width:90%"> |  <img src="/images/swk14.png" style="width:90%">|
 |  |  |  |  |
 
-Please upload the rest of the pictures here
+Please upload the rest of the pictures here.
