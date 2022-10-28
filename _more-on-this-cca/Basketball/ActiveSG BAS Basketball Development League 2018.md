@@ -4,4 +4,8 @@ permalink: /more-on-this-cca/Basketball/active-sg-basketball-development-league-
 description: ""
 third_nav_title: Basketball
 ---
-https://bukitmerahsec.moe.edu.sg/cca/sports/basketball/activesg-bas-basketball-development-league-2018/
+### ActiveSG BAS Basketball Development League 2018
+
+We celebrate the ‘Resilient’ spirit of Merahans! Congratulations to our B Division Basketball Girls for being the 1st Runner Up in the ActiveSG-BAS Basketball Development League 2018. Great teamwork! Great Basketball Action! Great Supporters! Well done Merahans!
+
+<img src="/images/bb8.png" style="width:80%">
