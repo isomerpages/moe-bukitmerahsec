@@ -2,6 +2,7 @@ collections:
   global-merahan-programme:
     output: true
     order:
+      - GMP 2018/Hosting of Samakkhiwitthayakhom School (SWK), Thailand.md
       - GMP 2018/Global Merahan Programme – JNMS, Wuxi China.md
       - GMP 2018/Global Merahan Programme – SWPY, Phayao Thailand.md
       - GMP 2018/.keep
