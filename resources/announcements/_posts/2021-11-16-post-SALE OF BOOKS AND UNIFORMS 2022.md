@@ -28,4 +28,4 @@ Vendor: KH Uniform Pte Ltd
 Website for online purchase: [www.khuniform.com](http://www.khuniform.com/)  
 _(require to r__egister an account with vendor)_
 
-For more information regarding the self-collection dates, visit [here](https://bukitmerahsec.moe.edu.sg/booklist/).
+For more information regarding the self-collection dates, visit [here](https://staging.d1w3gt6qa53vq2.amplifyapp.com/useful-links/BMSS-Students/school-booklist/).
