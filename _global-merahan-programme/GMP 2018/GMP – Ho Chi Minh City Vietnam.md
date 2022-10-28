@@ -31,8 +31,7 @@ Before they bid farewell to Vietnam, Merahans mailed their postcards back to Si
 
 |  |  |  |  |
 |---|---|---|---|
-| <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> |
-| <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> |
-| <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> |
-| <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> |
-| <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> | <img src="/images/hcm.png" style="width:80%"> |
+| <img src="/images/hcm41.png" style="width:80%"> | <img src="/images/hcm42.png" style="width:80%"> | <img src="/images/hcm43.png" style="width:80%"> | <img src="/images/hcm44.png" style="width:80%"> |
+| <img src="/images/hcm45.png" style="width:80%"> | <img src="/images/hcm46.png" style="width:80%"> | <img src="/images/hcm47.png" style="width:50%"> | <img src="/images/hcm48.png" style="width:80%"> |
+| <img src="/images/hcm49.png" style="width:80%"> | <img src="/images/hcm50.png" style="width:80%"> | <img src="/images/hcm51.png" style="width:50%"> | <img src="/images/hcm52.png" style="width:80%"> |
+| <img src="/images/hcm53.png" style="width:80%"> |  |  |  |
