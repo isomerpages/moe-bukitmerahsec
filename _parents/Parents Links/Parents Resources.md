@@ -6,8 +6,6 @@ third_nav_title: Parents Links
 ---
 ###  Parents Resources 
 
-![](/images/pr1.png)
-
 **2022 Subject Relevance**
 
 *   [BMSS\_Briefing on Subject Relevance](/files/pr1.pdf)
@@ -46,5 +44,4 @@ third_nav_title: Parents Links
 
 **2022 Merahan Pulse E-Newsletter Edition Series:**
 
-*   [Merahan Pulse – Issue 01](https://bukitmerahsec.moe.edu.sg/wp-content/uploads/2022/03/2022_JanFeb_Merahan-Pulse_1-scaled.gif)
-
+*   [Merahan Pulse – Issue 01](https://staging.d1w3gt6qa53vq2.amplifyapp.com/images/pr1.png)
