@@ -4,14 +4,13 @@ permalink: /programme/Events/2021/
 description: ""
 third_nav_title: Events
 ---
-
 #### Semester 1 Highlights
 
-*   [Secondary 1 Orientation Programme](https://bukitmerahsec.moe.edu.sg/secondary-1-orientation-programme/)
-*   [Release of O Level Results 2020](https://bukitmerahsec.moe.edu.sg/release-of-o-levels-results-2020/)
-*   [1st SPLT Session in 2021](https://bukitmerahsec.moe.edu.sg/1st-splt-session-in-2021/)
-*   [CCA Orientation Programme 2021](https://bukitmerahsec.moe.edu.sg/cca-orientation-programme-2021/)
-*   [President’s Visit](https://bukitmerahsec.moe.edu.sg/presidents-visit/) 
-*   [Prefects’ Investiture 2021](https://bukitmerahsec.moe.edu.sg/prefects-investiture-2021/)
+*   [Secondary 1 Orientation Programme](https://staging.d1w3gt6qa53vq2.amplifyapp.com/events/2021-Events/s1-orientation/)
+*   [Release of O Level Results 2020](https://staging.d1w3gt6qa53vq2.amplifyapp.com/events/2021-Events/o-level-results/)
+*   [1st SPLT Session in 2021](https://staging.d1w3gt6qa53vq2.amplifyapp.com/events/2021-Events/splt-session/)
+*   [CCA Orientation Programme 2021](https://staging.d1w3gt6qa53vq2.amplifyapp.com/events/2021-Events/cca-orientation-programme/)
+*   [President’s Visit](https://staging.d1w3gt6qa53vq2.amplifyapp.com/events/2021-Events/presidents-visit/) 
+*   [Prefects’ Investiture 2021](https://staging.d1w3gt6qa53vq2.amplifyapp.com/events/2021-Events/prefects-investiture/)
 
 #### Semester 2 Highlights
