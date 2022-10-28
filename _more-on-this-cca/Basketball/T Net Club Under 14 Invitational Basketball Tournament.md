@@ -14,5 +14,4 @@ Both our teams gave it their best shot and gained much experience from this tour
 
 |  |  |
 |---|---|
-| <br><img src="/images/bb2.png" style="width:90%"><br>C Girls In Action! | <br><img src="/images/bb3.png" style="width:70%"><br>Champions! Well Done C Girls! |
-
+| <br><img src="/images/bb2.png" style="width:90%"><br>C Girls In Action! | <br><img src="/images/bb3.png" style="width:60%"><br>Champions! Well Done C Girls! |
