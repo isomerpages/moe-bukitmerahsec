@@ -7,14 +7,9 @@ description: ""
 
 [Merahan Pulse – Issue 01](/files/mpi1.pdf)
 
-[Merahan Pulse – Issue 02](https://bukitmerahsec.moe.edu.sg/wp-content/uploads/2021/03/Merahan-Pulse-02-March-scaled.jpg)
+[Merahan Pulse – Issue 02](https://staging.d1w3gt6qa53vq2.amplifyapp.com/images/mpi2.png)
 
-[Merahan Pulse – Issue 03](https://bukitmerahsec.moe.edu.sg/wp-content/uploads/2021/05/Merahan-Pulse-03-May_final-scaled.gif)
+[Merahan Pulse – Issue 03](https://staging.d1w3gt6qa53vq2.amplifyapp.com/images/mpi3.png)
 
-[Merahan Pulse – Issue 04](https://bukitmerahsec.moe.edu.sg/wp-content/uploads/2021/07/Merahan-Pulse-4_Sec-2-Camp-scaled.jpg)
-
-![2](/images/mpi2.png)
-
-![3](/images/mpi3.png)
-
-![4](/images/mpi4.png)
+[Merahan Pulse – Issue 04](https://staging.d1w3gt6qa53vq2.amplifyapp.com/images/mpi4.png)
+ 
