@@ -1,4 +1,5 @@
 collections:
   global-merahan-programme:
     output: true
-    order: []
+    order:
+      - GMP 2018/.keep
