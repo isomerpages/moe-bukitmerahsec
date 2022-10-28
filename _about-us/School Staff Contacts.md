@@ -112,15 +112,15 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 
 | Form Teachers | Class | Email |
 |:---:|:---:|:---:|
-| [4T1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4/4T1/) | Ong Min Li | ong_min_li@schools.gov.sg |
-| [4T1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4/4T1/) | Tan Phuay Heng | tan_phuay_heng@schools.gov.sg |
-| [4N1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4/4N1/) | Ho Wing Leong, David | ho_wing_leong@schools.gov.sg |
-| [4N1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4/4N1/) | Fong Min Shi Chloe | fong_min_shi@schools.gov.sg |
-| [4N2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4/4N2/) | Eric Yong Junxiong | yong_junxiong_eric@schools.gov.sg |
-| [4N2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4/4N2/) | Ng Hsueh Mei | ng_hsueh_mei@schools.gov.sg |
-| [4E1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4/4E1/) | Ng Wai Ping | ng_wai_ping@schools.gov.sg |
-| [4E2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4/4E2/) | Chian Yuan Lin | chian_yuan_lin@schools.gov.sg |
-| [4E3](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4/4E3/) | Eunice Low Sook Han | low_sook_han@schools.gov.sg |
-| [4E4](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4/4E4/) | Du Tongtong | du_tongtong@schools.gov.sg |
-| [5N1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4/5N1/) | Lawrence Tan Eng Chuan | tan_eng_chuan@schools.gov.sg |
+| [4T1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4T1/) | Ong Min Li | ong_min_li@schools.gov.sg |
+| [4T1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4T1/) | Tan Phuay Heng | tan_phuay_heng@schools.gov.sg |
+| [4N1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4N1/) | Ho Wing Leong, David | ho_wing_leong@schools.gov.sg |
+| [4N1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4N1/) | Fong Min Shi Chloe | fong_min_shi@schools.gov.sg |
+| [4N2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4N2/) | Eric Yong Junxiong | yong_junxiong_eric@schools.gov.sg |
+| [4N2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4N2/) | Ng Hsueh Mei | ng_hsueh_mei@schools.gov.sg |
+| [4E1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4E1/) | Ng Wai Ping | ng_wai_ping@schools.gov.sg |
+| [4E2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4E2/) | Chian Yuan Lin | chian_yuan_lin@schools.gov.sg |
+| [4E3](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4E3/) | Eunice Low Sook Han | low_sook_han@schools.gov.sg |
+| [4E4](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4E4/) | Du Tongtong | du_tongtong@schools.gov.sg |
+| [5N1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/5N1/) | Lawrence Tan Eng Chuan | tan_eng_chuan@schools.gov.sg |
 |  |  |  |
