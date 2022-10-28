@@ -42,7 +42,7 @@ To nurture confident users of Mother Tongue Languages who uphold sound values
 | <figure><img src="/images/de15.png" style="width:60%"> </figure> | <figure><img src="/images/de16.png" style="width:90%"> </figure> | <figure><img src="/images/de17.png" style="width:99%"> Language Game 8</figure> |
 | <figure><img src="/images/de18.png" style="width:60%"> Mtl Fortnight Cl 1</figure> | <figure><img src="/images/de19.png" style="width:95%">Mtl Fortnight Cl 2 </figure> | <figure><img src="/images/de20.png" style="width:90%">Quiz 2 </figure> |
 
-[Mother Tongue Languages Parent Engagement Workshop](https://staging.d1w3gt6qa53vq2.amplifyapp.com/about-us/mtl-workshop/)  
+[Mother Tongue Languages Parent Engagement Workshop](https://staging.d1w3gt6qa53vq2.amplifyapp.com/mtl-workshop/)  
 MTL Intensive Programme  
 Graduating Cohort MTL Oral Practice
 
