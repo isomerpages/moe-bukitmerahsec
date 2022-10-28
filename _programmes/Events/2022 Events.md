@@ -4,10 +4,9 @@ permalink: /programme/Events/2022/
 description: ""
 third_nav_title: Events
 ---
-
 #### Semester 1 Highlights
 
-*   [Startright Programme 2022](https://bukitmerahsec.moe.edu.sg/startright-programme-2022/)
-*   [O Level Results Release 2022](https://bukitmerahsec.moe.edu.sg/o-level-results-release-2022/)
+*   [Startright Programme 2022](https://staging.d1w3gt6qa53vq2.amplifyapp.com/events/2022-Events/startright-programme-2022/)
+*   [O Level Results Release 2022](https://staging.d1w3gt6qa53vq2.amplifyapp.com/events/2022-Events/o-level-results/)
 
 #### Semester 2 Highlights
