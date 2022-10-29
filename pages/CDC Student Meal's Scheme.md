@@ -38,8 +38,16 @@ Eligible students may wish to sign-up directly by scanning the QR codes of your 
 
 | Community Development Council | QR Code for Sign-up |
 |:---:|:---:|
-| Central Singapore CDC | <img src="/images/qr1.png" style="width:30%"> |
-| North East CDC | <img src="/images/qr1.png" style="width:30%"> |
-| North West CDC | <img src="/images/qr1.png" style="width:30%"> |
-| South East CDC | <img src="/images/qr1.png" style="width:30%"> |
-| South West CDC | <img src="/images/qr1.png" style="width:30%"> |
+| Central Singapore CDC | <img src="/images/qr2.png" style="width:30%"> |
+| North East CDC | <img src="/images/qr3.png" style="width:30%"> |
+| North West CDC | <img src="/images/qr4.png" style="width:30%"> |
+| South East CDC | <img src="/images/qr5.png" style="width:30%"> |
+| South West CDC | <img src="/images/qr6.png" style="width:30%"> |
+
+Alternatively, you can email to [cdcmeals\_centralsg@pa.gov.sg](mailto:cdcmeals_centralsg@pa.gov.sg).
+
+Click on the links here for more information.
+
+[CDC Student Meals Scheme – FAQ](/files/CDC-Student-Meals-Scheme-FAQ.pdf)
+
+[CDC Student Meals Scheme Publicity](/files/CDC-Student-Meals-Scheme-Publicity.pdf)
