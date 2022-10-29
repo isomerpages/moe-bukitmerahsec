@@ -4,3 +4,94 @@ permalink: /cca/Direct-School-Admission/floorball-basketball-tchoukball/
 description: ""
 third_nav_title: Direct School Admission
 ---
+<figure><b>Direct School Admission (DSA) 2022<br>
+Learning for Life (Sports) Programme<br>
+Character Development Through Sports  
+(Floorball (Mixed) / Basketball (Mixed)/ Tchoukball (Girls))<br>for Academic Year 2023</b></figure>
+
+
+**Direct School Admission**
+
+The DSA-Sec Exercise was introduced by the Ministry of Education in 2004 to promote holistic education and provide students an opportunity to demonstrate a more diverse range of achievements and talents in seeking admission to a secondary school.  Under this DSA-Sec Exercise, participating schools will be able to select some Primary Six (P6) students for admission to Secondary One. The selection will be based on their achievements and talents before the Primary School Leaving Examination (PSLE) results are released.
+
+For more information, please visit [**http://www.moe.gov.sg/dsa-sec**](http://www.moe.gov.sg/dsa-sec)
+
+**School Vision** 
+
+Our vision is “Every Merahan a resilient, caring and self-directed learner”. We believe that the sporting arena provides an authentic learning experience for our students to develop the values of Resilience, Integrity, Self-Discipline and Empathy as envisioned by our school.
+
+**Achievements in Floorball National School Games Championship (National Level)**
+
+<img src="/images/cca25.png" style="width:80%">
+
+| Teams/Year | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2022 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| B Div Boys | 2nd Runner-Up | 1st Runner-Up | – | 2nd Runner-Up | – | National<br>Champion | – | National<br>Champion |
+| B Div Girls | National<br>Champion | National<br>Champion | 2nd  Runner-Up | National<br>Champion | 3rd Runner-Up | 3rd Runner-Up | 3rd Runner-Up | – |
+| C Div Boys | 2nd Runner-Up | – | – | – | – | – | 2nd  Runner-Up |   |
+| C Div Girls | 2nd Runner-Up | National<br>Champion | – | 3rd Runner-Up | – | – | 2nd  Runner-Up |   |
+
+**Achievements in Basketball School Games Championships**
+
+<img src="/images/cca26.png" style="width:80%">
+
+| Name of Competitions | Teams/Year | 2016 | 2017 | 2018 | 2019 | 2022 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| SSSC South Zone B Division Basketball Championships | B Div Boys | – | – | – | – | Fair Play Award |
+|  | B Div Girls | – | – | Fair Play Award | 3rd Runner-Up | – |
+| SSSC South Zone C Division Basketball Championships | C Div Boys | Fair Play Award | Fair Play Award | – | Fair Play Award |   |
+|  | C Div Girls | 2nd Runner-Up | Fair Play Award | – | Fair Play Award |   |
+| ActiveSG – BAS Basketball Development League | C Div Girls | – | 2nd Runner-Up | 1st Runner-Up | – |   |
+| T-Net Under 16 Invitational Basketball Tournament | B Div Boys | Champion in Level 2 Category | 3rd Runner-Up in Level 3 Category | – | 1st Runner-Up in Level 3 Category |   |
+|  | B Div Girls | 1st Runner-Up in Level 3 Category | 2nd Runner-Up in Level 3 Category | Champion in Level 3 Category | 3rd Runner-Up in Level 3 Category |   |
+| T-Net Under 14 Invitational Basketball Tournament | B Div Boys | Champion in Level 2 Category | 3rd Runner-Up in Level 3 Category | – | 2nd Runner-Up in Level 2 Category |   |
+|  | B Div Girls | 2nd Runner-Up in Level 3 Category | Champion in Level 3 Category | 3rd Runner-Up in Level 3 Category | 2nd Runner-Up in Level 3 Category |   |
+
+**Achieving Sporting Excellence through Tchoukball (Girls) CCA**
+
+<img src="/images/cca27.png" style="width:80%">
+
+Bukit Merah Secondary School’s Tchoukball (Girls) CCA was formed in 2018 and has participated in the annual Tchoukball Association of Singapore (TBAS) Inter School Championships since 2019. Our Tchoukball (Girls) CCA seeks to develop young athletes holistically through structured training programs and character development led by experienced teachers and coaches. Besides skills acquisition and physical development through our training programs, students will be exposed to competitions throughout the academic year so that they can put into practice what they have learnt during the training sessions. Students will learn to exhibit positive character traits through sporting excellence in a competitive setting.
+
+**Application Procedure**
+
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm.
+
+Follow these steps to submit your child’s application:
+
+1\.  Log in to the [DSA-Sec portal](https://go.gov.sg/apply-dsa-sec) with your SingPass Two-Factor Authentication (SingPass 2FA). Find out [how to register for a SingPass and 2FA](http://www.singpass.gov.sg/home/ui/login) if you don’t have one.<br><br>
+2.  You can indicate up to 3 choices and 3 talent areas.<Br><br>
+3.  You may indicate up to 2 talent areas for the same secondary school. If you are keen to apply for 2 of the 4 talent areas offered by our school, you must indicate both talent areas as separate choices.<Br><br>
+4.  You may provide information for up to 10 non-school based activities and achievements which are related to your child’s chosen talent areas.<Br><br>
+5.  There is no need to submit any supporting documents during application. Your child’s primary school records (for example, P5 and P6 academic results, CCA, school-based activities, achievements or awards) will be automatically shared with the schools.<Br><br>
+6.  Enter your contact details correctly. This allows the schools to contact you if your child is shortlisted for the selection process.<Br><br>
+7.  You can update, withdraw and re-submit your application during the application period.<Br><br>
+8.  If you are unable to apply online, approach your child’s primary school for assistance.
+
+**Important Things to Note before Applying**
+
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
+
+**Admission Criteria**
+
+Students who intend to apply for admission to our Character Development Through Sports (Floorball (Mixed) / Basketball (Mixed)/ Tchoukball (Girls)) Programme must satisfy the following criteria:
+
+| CCA Component |
+|---|
+| a. Member of Floorball/ Basketball/ Tchoukball Teams or any Sports CCAs in primary school<br>b. Represented school at Inter-School Sports Competitions<br>c. Represented Singapore Schools etc.<br>d. Good track record of sports performance in primary school |
+| **Physical Fitness Component** |
+| a. Achieved at least a Silver Award in the most recent NAPFA Test |
+| **Selection** |
+| a. Physical Assessment & Testing in<br>Skills (Ball Handling Skill, Teamwork and Game Awareness)<br>Speed<br>Agility<br>Cardiovascular Endurance |
+| **Others** |
+| a. Demonstrates strong leadership potential, resilience and self-discipline<br>b. Medically fit for Outdoor activities<br>c. Recommendation by coaches or teachers in charge<br>d. Strong academic performance is an advantage |
+
+Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
+
+Students admitted through DSA exercise must remain in their respective Sports CCAs throughout his/her 4–5 years in the school.
+
+|  |  |  |  |
+|---|---|---|---|
+| <img src="/images/cca28.png" style="width:90%"> | <img src="/images/cca29.png" style="width:90%"> | <img src="/images/cca30.png" style="width:90%"> | <img src="/images/cca31.png" style="width:90%"> |
