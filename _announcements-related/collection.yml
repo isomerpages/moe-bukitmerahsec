@@ -2,6 +2,7 @@ collections:
   announcements-related:
     output: true
     order:
+      - Provision of Meals Subsidies for Students.md
       - School Booklist and Stationery.md
       - Full HBL for FAS.md
       - CDC Student Meal's Scheme.md
