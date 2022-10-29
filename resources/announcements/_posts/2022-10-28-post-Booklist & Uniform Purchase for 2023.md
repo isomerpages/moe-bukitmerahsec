@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+Click the following link below to view the booklist and uniform purchase for the school semester year 2023:
+
+[/booklist-stationery/](https://bukitmerahsec.moe.edu.sg/booklist-stationery/)
