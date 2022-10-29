@@ -39,4 +39,10 @@ sections:
       alt: Image alt text
       url: /latest-posts/festivo
       image: /images/infopic3.png
+  - infobar:
+      title: Contact Us
+      description: 64748934 | bmss@moe.edu.sg | Bukit Merah Secondary School 10
+        Lengkok Bahru Singapore 159050
+      button: Click here for more
+      url: m/about-us/contact-us/
 ---
