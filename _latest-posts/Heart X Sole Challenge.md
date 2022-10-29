@@ -11,7 +11,7 @@ Our Merahans gathered last Friday at the Singapore Sports Hub for the aptly name
  
 |  |  |  |
 |---|---|---|
-| <img src="/images/hxs1.png" style="width:80%"> | <img src="/images/hxs2.png" style="width:80%"> | <img src="/images/hxs3.png" style="width:80%"> |
+| <img src="/images/hxs1.png" style="width:75%"> | <img src="/images/hxs2.png" style="width:80%"> | <img src="/images/hxs3.png" style="width:80%"> |
 | <img src="/images/hxs4.png" style="width:80%"> | <img src="/images/hxs5.png" style="width:80%"> | <img src="/images/hxs6.png" style="width:80%"> |
 | <img src="/images/hxs7.png" style="width:80%"> | <img src="/images/hxs8.png" style="width:80%"> | <img src="/images/hxs9.png" style="width:80%"> |
 | <img src="/images/hxs10.png" style="width:80%"> | <img src="/images/hxs11.png" style="width:80%"> |  <img src="/images/hxs12.png" style="width:80%">|
