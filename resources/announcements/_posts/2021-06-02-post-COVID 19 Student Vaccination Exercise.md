@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+Click [here](https://staging.d1w3gt6qa53vq2.amplifyapp.com/parents/covid19-student-vaccination-exercise/) to find out more about the student vaccination exercise.
