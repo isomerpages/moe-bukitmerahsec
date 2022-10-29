@@ -1,4 +1,5 @@
 collections:
   announcements-related:
     output: true
-    order: []
+    order:
+      - CDC Student Meal's Scheme.md
