@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Students,
+
+You can click on the following [link](https://staging.d1w3gt6qa53vq2.amplifyapp.com/useful-links/BMSS-Students/exam-timetable/) to view the prelim examination timetable.
