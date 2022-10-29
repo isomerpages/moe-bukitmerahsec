@@ -2,4 +2,5 @@ collections:
   announcements-related:
     output: true
     order:
+      - Full HBL for FAS.md
       - CDC Student Meal's Scheme.md
