@@ -95,3 +95,21 @@ Students admitted through DSA exercise must remain in their respective Sports CC
 |  |  |  |  |
 |---|---|---|---|
 | <img src="/images/cca28.png" style="width:90%"> | <img src="/images/cca29.png" style="width:90%"> | <img src="/images/cca30.png" style="width:90%"> | <img src="/images/cca31.png" style="width:90%"> |
+
+**Selection Process**
+
+a. Short-listed applicants for the trials are to report in PE attire (school PE t-shirt and shorts) on 23 July 2022 (9.00am), at the foyer outside the General Office.
+
+b. Short-listed candidates will be notified by post by 12 September 2022.
+
+**Schedule**
+
+| Process | Date / Time |
+|:---:|:---:|
+| Application Opens | 5 May 2022 |
+| Closing date for submission of application online through the DSA-Sec portal | 1 June 2022 (3pm) |
+| Notification of short-listed applicants for Floorball / Basketball / Tchoukball Trials (by phone call, email or post) | By 11 July 2022 |
+| Floorball / Basketball / Tchoukball Trials | Boys & Girls<br>23 July 2022 at 9.00am – 12.00pm |
+| Notification Letter (Outcome of application) | By 12 September 2022 |
+| Exercise School Preference by students | 31 October 2022 – 4 November 2022 |
+| Notification of DSA-Sec admission results (on the same day as the release of the PSLE results) | Between 23 November 2022 – 25 November 2022 |
