@@ -2,5 +2,6 @@ collections:
   announcements-related:
     output: true
     order:
+      - School Booklist and Stationery.md
       - Full HBL for FAS.md
       - CDC Student Meal's Scheme.md
