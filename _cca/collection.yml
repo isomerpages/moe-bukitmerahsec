@@ -2,24 +2,24 @@ collections:
   cca:
     output: true
     order:
-      - Direct School Admission/.keep
+      - Club and Societies/.keep
       - Club and Societies/AVA Club.md
       - Club and Societies/Engineering and Innovation Club.md
       - Club and Societies/Info Media Club.md
       - Club and Societies/Prefectorial Board.md
       - Club and Societies/Young Entrepreneurs' Club.md
-      - Club and Societies/.keep
+      - Uniformed Groups/.keep
       - Uniformed Groups/National Cadet Corps.md
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/St John Brigade.md
-      - Uniformed Groups/.keep
+      - Sports/.keep
       - Sports/Basketball.md
       - Sports/Floorball.md
       - Sports/Tchoukball.md
-      - Sports/.keep
+      - Performing Arts/.keep
       - Performing Arts/Concert Band.md
       - Performing Arts/Modern Dance.md
       - Performing Arts/Drama Club.md
-      - Performing Arts/.keep
       - CCA Holiday Training Schedule.md
+      - Direct School Admission/.keep
       - Direct School Admission (DSA).md
