@@ -135,7 +135,7 @@ b. Short-listed candidates will be notified by post by 12 September 2022.
 
 * * *
 
-<img src="/images/cca32.png" style="width:260px;height:240px;margin-right:15px;" align = "left">Adrian Then (2017)<br><Br>2017 – Basketball Boys’ Vice-Captain<br><Br>Discipline. Leadership. Teamwork. These are essentially the main 3 takeaways during my journey in the Basketball CCA.  All the blood, sweat and tears my teammates and I had gone through over the course of my 5 years in the school, enriched me with the best experiences that are precious to me.  From running laps around the court, to sweet twilight camp moments, I will not forget these memories. I am blessed with the most hardworking and caring teachers who constantly go the extra mile, just to see the smiles on our faces. Without these experiences I had in Basketball CCA, I definitely would not have become who I am today.
+<img src="/images/cca37.png" style="width:180px;height:290px;margin-right:15px;" align = "left">Adrian Then (2017)<br><Br>2017 – Basketball Boys’ Vice-Captain<br><Br>Discipline. Leadership. Teamwork. These are essentially the main 3 takeaways during my journey in the Basketball CCA.  All the blood, sweat and tears my teammates and I had gone through over the course of my 5 years in the school, enriched me with the best experiences that are precious to me.  From running laps around the court, to sweet twilight camp moments, I will not forget these memories. I am blessed with the most hardworking and caring teachers who constantly go the extra mile, just to see the smiles on our faces. Without these experiences I had in Basketball CCA, I definitely would not have become who I am today.
 
 * * *
 
