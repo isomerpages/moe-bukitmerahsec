@@ -24,7 +24,7 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | Mr Daryl Koh | Vice-Principal 1 | daryl_koh@schools.gov.sg |
 | Ms Sharon Yap | Vice-Principal 2 | yap_sharon@schools.gov.sg |
 | Dr Leong Swee Ling | Master Teacher | leong_swee_ling@schools.gov.sg |
-|  |  |  |
+<br>|  |  |  |
 | Leow Ser Leng | HOD English Language | leow_ser_leng@schools.gov.sg |
 | Huang Wen Qing | HOD ICT | huang_wen_qing@schools.gov.sg |
 | Wun Boon Leng | HOD Mathematics | wun_boon_leng@schools.gov.sg |
