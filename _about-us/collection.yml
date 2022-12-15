@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Contacts.md
       - Principal's Message.md
       - School Information/School Emblem Motto.md
       - School Information/School Vision Mission Values.md
