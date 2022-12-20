@@ -45,7 +45,7 @@ To further this aim, the Bukit Merah English Literature programme strives to ins
 
  <img src="/images/de2.png" style="width:80%">
  
- *   [EL Week](https://staging.d1w3gt6qa53vq2.amplifyapp.com/english-week-2019/)
+ *  EL Week
 *   Sec 1E / NA Poetry Slam Workshop
 *   Sec 4E/5NA Oral Communications Workshop
 *   4NT Learning Journey
