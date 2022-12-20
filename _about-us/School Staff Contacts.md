@@ -83,26 +83,26 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | 2N2 | Lim Kailin | lim_kailin@schools.gov.sg |
 | 2N2 | Tay Wee Leong | tay_wee_leong@schools.gov.sg |
 | 2E1 | Goh Shumin<br> Darshan Kaur | ho_shumin@schools.gov.sg<br> <br>darshan_kaur_a@schools.gov.sg  |
-| [2E2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-2/2E2/) | Teo Wei Ting Eunice | teo_wei_ting_eunice@schools.gov.sg |
-| [2E3](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-2/2E3/) | Tan Sheng Xian | tan_sheng_xian@schools.gov.sg |
-| [2E3](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-2/2E3/) | Chen Ying | chen_ying_d@schools.gov.sg |
+| 2E2| Teo Wei Ting Eunice | teo_wei_ting_eunice@schools.gov.sg |
+| 2E3 | Tan Sheng Xian | tan_sheng_xian@schools.gov.sg |
+| 2E3 | Chen Ying | chen_ying_d@schools.gov.sg |
 |  |  |  |
 
 #### Secondary 3 (Click on link for subject teachers of the class)
 
 | Form Teachers | Class | Email |
 |:---:|:---:|:---:|
-| [3T1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-3/3T1/) |  Shahrizal Salim | shahrizal_salim@schools.gov.sg |
-| [3T1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-3/3T1/) | Jayne Ng Shi Ming | ng_shi_ming@schools.gov.sg |
-| [3N1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-3/3N1/) | Muhammad Hisham | muhammad_hisham_anwar@schools.gov.sg |
-| [3N1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-3/3N1/) | Belwit Kaur | belwit_kaur@schools.gov.sg |
-| [3N2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-3/3N2/) | Sriwanty Bte Ramli | sriwanty_ramli@schools.gov.sg |
-| [3N2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-3/3N2/) | Law Ngiap Hui | law_ngiap_hui@schools.gov.sg |
-| [3E1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-3/3E1/) | Lui Yan Ling, Esther | lui_yan_ling_esther@schools.gov.sg |
-| [3E1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-3/3E1/) | Yit Ming En, Luke | yit_ming_en_luke@schools.gov.sg |
-| [3E2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-3/3E2/) | Qin Zhenzhen | qin_zhenzhen@schools.gov.sg |
-| [3E2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-3/3E2/) | Goh Ee Xin | goh_ee_xin@schools.gov.sg |
-| [3E3](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-3/3E3/) | Evelyn Wu Ing Geok | evelyn_wu_ing_geok@schools.gov.sg |
+| 3T1 |  Shahrizal Salim | shahrizal_salim@schools.gov.sg |
+| 3T1 | Jayne Ng Shi Ming | ng_shi_ming@schools.gov.sg |
+| 3N1 | Muhammad Hisham | muhammad_hisham_anwar@schools.gov.sg |
+| 3N1 | Belwit Kaur | belwit_kaur@schools.gov.sg |
+| 3N2 | Sriwanty Bte Ramli | sriwanty_ramli@schools.gov.sg |
+| 3N2 | Law Ngiap Hui | law_ngiap_hui@schools.gov.sg |
+| 3E1 | Lui Yan Ling, Esther | lui_yan_ling_esther@schools.gov.sg |
+| 3E1 | Yit Ming En, Luke | yit_ming_en_luke@schools.gov.sg |
+| 3E2 | Qin Zhenzhen | qin_zhenzhen@schools.gov.sg |
+| 3E2 | Goh Ee Xin | goh_ee_xin@schools.gov.sg |
+| 3E3 | Evelyn Wu Ing Geok | evelyn_wu_ing_geok@schools.gov.sg |
 |  |  |  |
 
 #### Secondary 4 and 5 (Click on link for subject teachers of the class)
