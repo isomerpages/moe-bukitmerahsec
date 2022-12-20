@@ -64,8 +64,8 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | 1T2 | Yeo Jun Zhong | yeo_jun_zhong@schools.gov.sg |
 | 1N1 | Ng Hui Ling | Ng_hui_ling@schools.gov.sg |
 | 1N2 | Marina Bohari | marina_bohari@schools.gov.sg |
-| [1N2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-1/1N2/) | Phang Kay Yen | phang_kay_yen@schools.gov.sg |
-| [1E1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-1/1E1/) | Anthony Fang Swee Foong | fang_swee_foong@schools.gov.sg |
+| 1N2| Phang Kay Yen | phang_kay_yen@schools.gov.sg |
+| 1E1 | Anthony Fang Swee Foong | fang_swee_foong@schools.gov.sg |
 | [1E1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-1/1E1/) | Rosli Bin Hamim | rosli_hamim@schools.gov.sg |
 | [1E2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-1/1E2/) | Tan Wai Hong | tan_wai_hong@schools.gov.sg |
 | [1E3](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-1/1E3/) | Kristina Chandran | kristina_chandran_ming_ming@schools.gov.sg |
