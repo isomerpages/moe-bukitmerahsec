@@ -18,13 +18,13 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 
 #### STAFF CONTACTS
 
-| School Leaders | Designation | Email |
+| School Leaders | Designation | Email Address |
 |:---:|:---:|:---:|
 | Mr Darren Chong | Principal | darren_chong@schools.gov.sg |
 | Mr Clifton Koh | Vice-Principal 1 | KOH_Siew_Boon@schools.gov.sg|
 | Ms Sharon Yap | Vice-Principal 2 | yap_sharon@schools.gov.sg |
 | Dr Leong Swee Ling | Master Teacher | leong_swee_ling@schools.gov.sg |
-<br>|  |  |  |
+<br>**Key Personnel** |  <br>**Designation**  | <br>**Email Address**  |
 | Leow Ser Leng | HOD English Language | leow_ser_leng@schools.gov.sg |
 | Huang Wen Qing | HOD ICT | huang_wen_qing@schools.gov.sg |
 | Wun Boon Leng | HOD Mathematics | wun_boon_leng@schools.gov.sg |
