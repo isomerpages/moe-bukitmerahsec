@@ -60,16 +60,15 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 
 | Form Teachers | Class | Email |
 |:---:|:---:|:---:|
-| [1T1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-1/1T1/) | Johnson Chua Chwee Guan | chua_chwee_guan_johnson@schools.gov.sg |
-| 1T2 | Yeo Jun Zhong | yeo_jun_zhong@schools.gov.sg |
-| 1N1 | Ng Hui Ling | Ng_hui_ling@schools.gov.sg |
-| 1N2 | Marina Bohari | marina_bohari@schools.gov.sg |
-| 1N2| Phang Kay Yen | phang_kay_yen@schools.gov.sg |
-| 1E1 | Anthony Fang Swee Foong | fang_swee_foong@schools.gov.sg |
-| [1E1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-1/1E1/) | Rosli Bin Hamim | rosli_hamim@schools.gov.sg |
-| [1E2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-1/1E2/) | Tan Wai Hong | tan_wai_hong@schools.gov.sg |
-| [1E3](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-1/1E3/) | Kristina Chandran | kristina_chandran_ming_ming@schools.gov.sg |
-| [1E4](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-1/1E4/) | Faith Ng Shuping | ng_shuping@schools.gov.sg |
+| 1R1 |  |  |
+| 1R2 | Yeo Jun Zhong | yeo_jun_zhong@schools.gov.sg |
+| 1R3 | Ng Hui Ling | Ng_hui_ling@schools.gov.sg |
+| 1R4 | Marina Bohari | marina_bohari@schools.gov.sg |
+| 1R5 | Phang Kay Yen | phang_kay_yen@schools.gov.sg |
+| 1R6 | Anthony Fang Swee Foong | fang_swee_foong@schools.gov.sg |
+| 1R7 | Rosli Bin Hamim | rosli_hamim@schools.gov.sg |
+| 1R8 | Tan Wai Hong | tan_wai_hong@schools.gov.sg |
+|
 |  |  |  |
 
 #### Secondary 2 (Click on link for subject teachers of the class)
