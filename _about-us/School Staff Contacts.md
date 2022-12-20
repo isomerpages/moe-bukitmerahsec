@@ -21,7 +21,7 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | School Leaders | Designation | Email |
 |:---:|:---:|:---:|
 | Mr Darren Chong | Principal | darren_chong@schools.gov.sg |
-| Mr Daryl Koh | Vice-Principal 1 | daryl_koh@schools.gov.sg |
+| Mr Clifton Koh | Vice-Principal 1 | KOH_Siew_Boon@schools.gov.sg|
 | Ms Sharon Yap | Vice-Principal 2 | yap_sharon@schools.gov.sg |
 | Dr Leong Swee Ling | Master Teacher | leong_swee_ling@schools.gov.sg |
 <br>|  |  |  |
