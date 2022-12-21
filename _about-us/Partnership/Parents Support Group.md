@@ -6,9 +6,8 @@ third_nav_title: Partnership
 ---
 ### Parents Support Group
 
-<img src="/images/psg4.png" style="width:30%">  
+<img src="/images/psg4.png" style="width:60">  
 
-<img src="/images/psg2.png" style="width:60%">  
 
 #### Vision
 
@@ -37,7 +36,7 @@ To enhance and encourage parents’ participation in the Parents’ Support Grou
 Sign up as a member of BMSS Parents’ Support Group [**here.**](https://go.gov.sg/bmpsgregistration)  
 Or scan the QR code below!
 
-<img src="/images/psg3.png" style="width:30%">
+<img src="/images/psg3.png" style="width:60%">
 
 #### Contact Us
 
