@@ -5,7 +5,7 @@ description: ""
 ---
 ### Principal's Message 2023
 
-<img src="/images/Darren Chong P.jpg" style="width:1900px;height:800px;margin-right:15px;" align = "left"> 
+<img src="/images/Darren Chong P.jpg" style="width:60" align = "left"> 
 
 I am thankful to be given the opportunity to lead Bukit Merah Secondary School (BMSS). While I am new to the school, the school is not entirely new to me. In fact, the posting feels like homecoming to me. After all, I have not only grown up and attended schools in the vicinity but also started my formative teaching expedition more than 15 years ago in the neighbouring Henderson Secondary School (HSS), which merged with BMSS in 2017.
  
