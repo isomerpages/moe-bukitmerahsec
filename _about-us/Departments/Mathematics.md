@@ -14,13 +14,12 @@ third_nav_title: Departments
 *   Dr Leong Swee Ling (MTT)
 *   Ms Huang Wen Qing (HOD ICT)
 *   Ms Neo Siew Eng (HOD Normal Stream)
-*   Ms Toh Yongmei Stella (Year Head)
+*   Ms Toh Yongmei Stella (Year Head Upper Sec)
 *   Mr Seow Xian Yi Winston (SH ICT)
-*   Ms Liao Xinwei (SH Math) (Covering)
+*   Ms Liao Xinwei (SH Math)
 *   Ms Phang Kay Yen (ST Math)
 *   Mr Lee Tzi Wei Gaius (ST Physics)
 *   Ms Lim Lay Eng
-*   Mr Tan Soon Yong
 *   Ms Tan Sheng Xian
 *   Ms Jayne Ng Shi Ming
 *   Ms Du Tongtong
