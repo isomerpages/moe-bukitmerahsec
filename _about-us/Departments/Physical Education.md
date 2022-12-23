@@ -13,7 +13,7 @@ third_nav_title: Departments
 *   Mr Kek Boon Ann Zubi (HOD PE & CCA)
 *   Mr Satwant Singh (HOD Student Management & Well-Being)
 *   Ms Neo Siew Eng (HOD Normal Course)
-*   Ms Suzanne Eng Siew San (SH/PE & CCA (Covering))
+*   Ms Suzanne Eng Siew San (SH/PE & CCA)
 *   Ms Loke Jia Yi
 *   Mr Chua Chwee Guan Johnson
 *   Mr Yit Ming En Luke
