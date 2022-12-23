@@ -21,8 +21,8 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | School Leaders | Designation | Email Address |
 |:---:|:---:|:---:|
 | Mr Darren Chong | Principal | darren_chong@schools.gov.sg |
-| Mr Clifton Koh | Vice-Principal 1 | KOH_Siew_Boon@schools.gov.sg|
-| Ms Sharon Yap | Vice-Principal 2 | yap_sharon@schools.gov.sg |
+| Mr Clifton Koh | Vice-Principal | KOH_Siew_Boon@schools.gov.sg|
+| Ms Sharon Yap | Vice-Principal | yap_sharon@schools.gov.sg |
 | Dr Leong Swee Ling | Master Teacher | leong_swee_ling@schools.gov.sg |
 <br>**Key Personnel** |  <br>**Designation**  | <br>**Email Address**  |
 | Leow Ser Leng | HOD English Language | leow_ser_leng@schools.gov.sg |
@@ -37,7 +37,8 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | Neo Siew Eng | HOD Normal Course | neo_siew_eng@schools.gov.sg |
 | Satwant Singh | HOD Student Management & Well-Being | satwant_singh_sajjan_singh@schools.gov.sg |
 | Lee Siew Yong Loretta | School Staff Developer | lee_siew_yong_loretta@schools.gov.sg |
-| Toh Yongmei Stella | Year Head Sec 4/5 | toh_yongmei_stella@schools.gov.sg |
+| Toh Yongmei Stella | Year Head Upper Sec | toh_yongmei_stella@schools.gov.sg |
+| Yap Chin Hua | Assistant Year Head Upper Sec |  |
 | Chee Kwok Seng (Jereme) | Assistant Year Head Sec 3 | chee_kwok_seng@schools.gov.sg |
 | Hu Jinyuan (Ken) | Assistant Year Head Sec 2 (Cov) | hu_jinyuan@schools.gov.sg |
 | Tay Siew Hoon (Janelle) | Assistant Year Head Sec 1 | tay_siew_hoon_c@schools.gov.sg |
