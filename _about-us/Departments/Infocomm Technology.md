@@ -12,7 +12,7 @@ third_nav_title: Departments
 
 *   Ms Huang Wen Qing (HOD ICT)
 *   Mr Seow Xian Yi Winston (SH ICT)
-*   Mr Chee Kwok Seng Jereme (Asst. Year Head)
+*   Mr Chee Kwok Seng Jereme (LH Student Management)
 *   Mr Jason Tan Soon Peng
 *   Mr Muhammad Haikal Bin Razali (ICT Associate)
 *   Mr Low Pow Huat (Desktop Engineer)
