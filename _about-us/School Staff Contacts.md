@@ -52,6 +52,7 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | Lui Yan Ling, Esther | Senior Teacher (Biology) | lui_yan_ling_esther@schools.gov.sg |
 | Nurhayati Bte Mohamad | Senior Teacher (Educational Support) | nurhayati_mohamad@schools.gov.sg |
 | Kong Yin Ling Adeline | Senior Teacher (English Language) | kong_yin_ling_adeline@schools.gov.sg |
+| Leow Li Quin | Senior Teacher (English Language) | TBA |
 | Phang Kay Yen | Senior Teacher (Mathematics) | phang_kay_yen@schools.gov.sg |
 | Lee Tzi Wei, Gaius | Senior Teacher (Physics) | lee_tzi_wei@schools.gov.sg |
 
@@ -65,9 +66,6 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | 1R4 |  |  |
 | 1R5 |  |  |
 | 1R6 |  |  |
-| 1R7 |  |  |
-| 1R8 |  |  |
-|
 |  |  |  |
 
 #### Secondary 2 (Click on link for subject teachers of the class)
