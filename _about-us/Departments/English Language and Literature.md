@@ -11,14 +11,13 @@ third_nav_title: Departments
  **Department Teachers**
 
 *   Mdm Leow Ser Leng (HOD/ EL)
-*   Ms Park Han Na (SH/ EL)
 *   Ms Kong Yin Ling Adeline (ST/ EL)
+*   Mdm Leow Li Quin (ST/ELL)
 *   Ms Lee Siew Yong Loretta (SSD)
 *   Ms Chong Oi Lin
 *   Ms Fong Min Shi Chloe
 *   Mr Lim Rong Hua Eric
 *   Ms Darshan Kaur
-*   Mdm Samsiah Kushen
 *   Ms Giselle Maria Rai
 *   Mdm Belwit Kaur
 *   Ms Ng Shuping Faith
