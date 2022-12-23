@@ -38,16 +38,14 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | Satwant Singh | HOD Student Management & Well-Being | satwant_singh_sajjan_singh@schools.gov.sg |
 | Lee Siew Yong Loretta | School Staff Developer | lee_siew_yong_loretta@schools.gov.sg |
 | Toh Yongmei Stella | Year Head Upper Sec | toh_yongmei_stella@schools.gov.sg |
-| Yap Chin Hua | Assistant Year Head Upper Sec |  |
-| Chee Kwok Seng (Jereme) | Assistant Year Head Sec 3 | chee_kwok_seng@schools.gov.sg |
-| Hu Jinyuan (Ken) | Assistant Year Head Sec 2 (Cov) | hu_jinyuan@schools.gov.sg |
-| Tay Siew Hoon (Janelle) | Assistant Year Head Sec 1 | tay_siew_hoon_c@schools.gov.sg |
-| Tan Tua Choon | Level Head Student Management | tan_tua_choon@schools.gov.sg |
+| Yap Chin Hua | Assistant Year Head Upper Sec |  TBA|
+| Hu Jinyuan (Ken) | Assistant Year Head Upper Sec |   hu_jinyuan@schools.gov.sg |
+| Tan Tua Choon | Assistant Year Head Lower Sec | tan_tua_choon@schools.gov.sg |
+| Chee Kwok Seng (Jereme) | Level Head Student Management | chee_kwok_seng@schools.gov.sg |
 | How Si Si, Jacqueline | Subject Head Chemistry | how_si_si_jacqueline@schools.gov.sg |
 | Lim Kailin | Subject Head Chinese Language | lim_kailin@schools.gov.sg |
-| Park Han Na | Subject Head English Language | park_han_na@schools.gov.sg |
 | Seow Xian Yi Winston | Subject Head ICT | seow_xian_yi@schools.gov.sg |
-| Suzanne Eng Siew San | Subject Head PE & CCA (Cov) | suzanne_eng@schools.gov.sg |
+| Suzanne Eng Siew San | Subject Head PE & CCA | suzanne_eng@schools.gov.sg |
 | Au Yong Kok Soon | Subject Head Student Well-Being | au_yong_kok_soon@schools.gov.sg |
 | Yeo Xing Wen | Subject Head Character & Citizenship Education | yeo_xing_wen@schools.gov.sg |
 | Sriwanty Bte Ramli | Senior Teacher (History) | sriwanty_ramli@schools.gov.sg |
