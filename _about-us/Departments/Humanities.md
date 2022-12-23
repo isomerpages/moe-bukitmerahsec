@@ -13,14 +13,11 @@ third_nav_title: Departments
 *   Mdm Kua See Hong (HOD Humanities)
 *   Ms Sriwanty Bte Ramli (ST History)
 *   Mr Fang Swee Foong Anthony
+*   Mr Ken Hu Jinyuan (Assist Year Head Upper Sec)
 *   Ms Ng Hsueh Mei
-*   Mr Ken Hu Jinyuan
-*   Ms Du Tongtong
 *   Ms Ng Shi Ming
 *   Mr Law Ngiap Hui
 *   Mr Ho Wing Leong David
-*   Mdm Darshan Kaur
-*   Ms Low Sook Han Eunice
 *   Mr Lim Rong Hua Eric
 *   Mdm Belwit Kaur
 *   Ms Giselle Maria Rai
