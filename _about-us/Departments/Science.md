@@ -14,7 +14,8 @@ third_nav_title: Departments
 *   Ms How Si Si Jacqueline (SH Chemistry)
 *   Mr Lee Tzi Wei Gaius (ST Physics)
 *   Mr Seow Xian Yi Winston (SH ICT)
-*   Mr Tan Tua Choon (LH Student Management)
+*   Mr Tan Tua Choon (Assistant
+Year Head Lower Sec)
 *   Mr Au Yong Kok Soon (SH Student Well-Being)
 *   Ms Lui Yan Ling Esther (ST Biology)
 *   Ms Tay Siew Hoon Janelle
