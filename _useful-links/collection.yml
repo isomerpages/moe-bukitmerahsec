@@ -2,8 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - For BMSS Staff/Useful Links for Staff.md
-      - For BMSS Staff/.keep
       - For Students/.keep
       - For Students/Home Based Learning.md
       - For Students/School Timetable.md
@@ -14,3 +12,5 @@ collections:
       - For Students/School Booklist.md
       - For Students/School Rules and Regulations.md
       - For Students/Useful Links for Student.md
+      - For BMSS Staff/.keep
+      - For BMSS Staff/Useful Links for Staff.md
