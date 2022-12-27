@@ -3,8 +3,7 @@ title: Our Merahan Contacts
 permalink: /about-us/school-staff-contacts/
 description: ""
 ---
-
-### School Staff Contacts  
+### Merahan Staff Contacts  
 
 #### SCHOOL DETAILS
 
