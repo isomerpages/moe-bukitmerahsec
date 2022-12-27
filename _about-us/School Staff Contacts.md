@@ -56,9 +56,9 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | Phang Kay Yen | Senior Teacher (Mathematics) | phang_kay_yen@schools.gov.sg |
 | Lee Tzi Wei, Gaius | Senior Teacher (Physics) | lee_tzi_wei@schools.gov.sg |
 
-#### Secondary 1 (Click on link for subject teachers of the class)
+#### Secondary 1 
 
-| Form Teachers | Class | Email |
+| Class | Form Teachers | Email |
 |:---:|:---:|:---:|
 | 1R1 |  |  |
 | 1R2 |  |  |
