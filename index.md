@@ -15,13 +15,5 @@ sections:
         - title: Events
           description: View all Events here
           url: /events/
-  - infopic:
-      title: Festivo!
-      description: Festivo is back! Our Performing Arts and AEP students performed
-        with great energy and enthusiasm Tuesday morning.
-      button: Click here for more
-      alt: Image alt text
-      url: /latest-posts/festivo
-      image: /images/infopic3.png
   - resources: {}
 ---
