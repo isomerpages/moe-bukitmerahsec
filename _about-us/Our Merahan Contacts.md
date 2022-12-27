@@ -5,18 +5,7 @@ description: ""
 ---
 ### Merahan Staff Contacts  
 
-#### SCHOOL DETAILS
-
-Bukit Merah Secondary School<br>
-Address: 10 Lengkok Bahru Singapore 159050<br>
-Telephone Number: 6474 8934
-
-Fax: 6474 4122
-
-School Website: [http://www.bukitmerahsec.moe.edu.sg](https://staging.d1w3gt6qa53vq2.amplifyapp.com/)<br>
-Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
-
-#### STAFF CONTACTS
+#### School Management 
 
 | School Leaders | Designation | Email Address |
 |:---:|:---:|:---:|
@@ -56,7 +45,7 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | Phang Kay Yen | Senior Teacher (Mathematics) | phang_kay_yen@schools.gov.sg |
 | Lee Tzi Wei, Gaius | Senior Teacher (Physics) | lee_tzi_wei@schools.gov.sg |
 
-#### Secondary 1 
+#### Secondary 1 Form Teachers
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
@@ -68,7 +57,7 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | 1R6 |  |  |
 |  |  |  |
 
-#### Secondary 2 (Click on link for subject teachers of the class)
+#### Secondary 2 Form Teachers (Click on link for subject teachers of the class)
 
 | Form Teachers | Class | Email |
 |:---:|:---:|:---:|
@@ -85,7 +74,7 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | 2E3 | Chen Ying | chen_ying_d@schools.gov.sg |
 |  |  |  |
 
-#### Secondary 3 (Click on link for subject teachers of the class)
+#### Secondary 3 Form Teachers (Click on link for subject teachers of the class)
 
 | Form Teachers | Class | Email |
 |:---:|:---:|:---:|
@@ -102,7 +91,7 @@ Email Address: [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg)
 | 3E3 | Evelyn Wu Ing Geok | evelyn_wu_ing_geok@schools.gov.sg |
 |  |  |  |
 
-#### Secondary 4 and 5 (Click on link for subject teachers of the class)
+#### Secondary 4 and 5 Form Teachers (Click on link for subject teachers of the class)
 
 | Form Teachers | Class | Email |
 |:---:|:---:|:---:|
