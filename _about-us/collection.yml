@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message.md
       - School Information/.keep
       - School Information/School Emblem Motto.md
       - School Information/School Vision Mission Values.md
@@ -10,6 +9,7 @@ collections:
       - School Information/School Song.md
       - School Information/School Calendar.md
       - School Information/School Opening Hours.md
+      - Principal's Message.md
       - Our Merahan Family/.keep
       - Our Merahan Family/English Language and Literature.md
       - Our Merahan Family/Mathematics.md
