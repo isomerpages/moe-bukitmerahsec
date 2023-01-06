@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - For Parents/.keep
+      - For Staff/.keep
+      - For Staff/Useful Links for Staff.md
       - For Students/.keep
       - For Students/School Timetable.md
       - For Students/Exam Timetable.md
@@ -13,5 +15,3 @@ collections:
       - For Students/LEAPS.md
       - For Students/Scheme of Assessment.md
       - For Students/School Rules and Regulations.md
-      - For Staff/.keep
-      - For Staff/Useful Links for Staff.md
