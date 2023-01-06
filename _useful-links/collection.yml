@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Parents/Parents Gateway (PG).md
       - For Parents/Covid19 Student Vaccination Exercise.md
       - For Parents/Financial Assistance.md
       - For Parents/.keep
