@@ -58,13 +58,13 @@ description: ""
 | 1R6 | Chloe Fong<br><br>Neo Hock Kheng | fong_min_shi@schools.gov.sg<br><br><br>neo_hock_kheng@schools.gov.sg |
 |  |  |  |
 
-#### Secondary 2 Form Teachers (Click on link for subject teachers of the class)
+#### Secondary 2 Form Teachers 
 
-| Form Teachers | Class | Email |
+| Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-| 2T1 | Liao Xinwei | liao_xinwei@schools.gov.sg |
-| 2T1 | Loke Jia Yi | loke_jia_yi@schools.gov.sg |
-| 2T2 | Lim Rong Hua Eric | lim_rong_hua_eric@schools.gov.sg |
+| 2T1 | Chua Chwee Guan Johnson | chua_chwee_guan_johnson@schools.gov.sg |
+| 2T2 | Yeo Jun Zhong | yeo_jun_zhong@schools.gov.sg |
+| 2N1 | Tay Fang Lin (Catherine)<br><br>Ng Hui Ling | tay_fang_lin@schools.gov.sg <br><br><br><br>ng_hui_ling@schools.gov.sg|
 | 2N1 | Low Young Fei | low_young_fei@schools.gov.sg |
 | 2N1 | Shahirah Banu bte Leyakat Ali | shahirah_banu_leyakat_ali@schools.gov.sg |
 | 2N2 | Lim Kailin | lim_kailin@schools.gov.sg |
