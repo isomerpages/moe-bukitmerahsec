@@ -4,12 +4,11 @@ permalink: /programme/National-Digital-Literacy/about-ndlp/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-
 ### National Digital Literacy Programme (NDLP)
 
 [ Infographic on the PLD Initiative](/files/Infographic-on-the-PLD-Initiative.pdf) <br>
-[DMA After-School Parent Options (For parents who have not exercised their DMA)](/files/DMA-Parent-Options.pdf) <br>
-[DMA After-School Parent Options (For parents who have exercised their DMA)](/files/DMA-Parent-Options2.pdf)
+[DMA After-School Parent Options (For parents who have not exercised their DMA)]() <br>
+[DMA After-School Parent Options (For parents who have exercised their DMA)]()
 
 MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021.
 
@@ -73,17 +72,19 @@ Acer TravelMate is a portable device that offers students convenient learning on
 <div>
 <p>
 
-To ensure affordability of PLD, there was a one-time Edusave top-up of $200 in your child’s Edusave account in April 2020 on top of the annual $290 credited into the Edusave account for Secondary School students. <br><br>
 
-For students who need additional support, complete and submit the attached form and supporting income documents to the General Office latest by 25 Jan 2021 (for Sec 1s) and 1 Feb 2021 (for Sec 2s & 3s).<br><br>
+To ensure affordability of PLD, MOE has provided Edusave top-ups of $200 in 2020, 2021 and 2022 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual $290 credited into the Edusave account for Secondary School students.<br><br>
+
+
+
+For students who need additional support, complete and submit the attached form and supporting income documents to the General Office latest by 20 Jan 2023 (Friday).<br><br>
 
 <a href="https://staging.d1w3gt6qa53vq2.amplifyapp.com/files/Application-form-for-PDLP-Subsidy-BMSS.pdf">Please click here to download the form.</a>  <br><br>
 	
 
+Application is open to all students whose Gross Household Income (GHI) ≤ $4,400 or Per Capita Income (PCI) ≤ $1,100. PCI is GHI divided by the number of household members. Students on MOE Financial Assistance Scheme or School-Based Financial Assistance Scheme do not need to apply for this as they will automatically be granted the subsidy by the school.. <br><br>
 
-Application is open to all students whose Gross Household Income (GHI) ≤ $4,000 or Per Capita Income (PCI) ≤ $1,000. PCI is GHI divided by the number of household members. Students on MOE Financial Assistance Scheme or School-Based Financial Assistance Scheme do not need to apply for this as they will automatically be granted the subsidy by the school. <br><br>
 
-If needed, hard copies of the attached form are also available at the General Office.
 </p>
 
 </div>
