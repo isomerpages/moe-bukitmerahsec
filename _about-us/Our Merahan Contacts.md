@@ -27,10 +27,11 @@ description: ""
 | Satwant Singh | HOD Student Management & Well-Being | satwant_singh_sajjan_singh@schools.gov.sg |
 | Lee Siew Yong Loretta | School Staff Developer | lee_siew_yong_loretta@schools.gov.sg |
 | Toh Yongmei Stella | Year Head Upper Sec | toh_yongmei_stella@schools.gov.sg |
-| Yap Chin Hua | Assistant Year Head Upper Sec |  TBA|
+| Yap Chin Hua | Assistant Year Head Upper Sec |  yap_chin_hua@schools.gov.sg|
 | Hu Jinyuan (Ken) | Assistant Year Head Upper Sec |   hu_jinyuan@schools.gov.sg |
 | Tan Tua Choon | Assistant Year Head Lower Sec | tan_tua_choon@schools.gov.sg |
 | Chee Kwok Seng (Jereme) | Level Head Student Management | chee_kwok_seng@schools.gov.sg |
+| Liao Xinwei | Level Head (Mathematics) | liao_xinwei@schools.gov.sg
 | How Si Si, Jacqueline | Subject Head Chemistry | how_si_si_jacqueline@schools.gov.sg |
 | Lim Kailin | Subject Head Chinese Language | lim_kailin@schools.gov.sg |
 | Seow Xian Yi Winston | Subject Head ICT | seow_xian_yi@schools.gov.sg |
@@ -41,7 +42,7 @@ description: ""
 | Lui Yan Ling, Esther | Senior Teacher (Biology) | lui_yan_ling_esther@schools.gov.sg |
 | Nurhayati Bte Mohamad | Senior Teacher (Educational Support) | nurhayati_mohamad@schools.gov.sg |
 | Kong Yin Ling Adeline | Senior Teacher (English Language) | kong_yin_ling_adeline@schools.gov.sg |
-| Leow Li Quin | Senior Teacher (English Language) | TBA |
+| Leow Li Quin | Senior Teacher (English Language) | leow_li_quin@schools.gov.sg |
 | Phang Kay Yen | Senior Teacher (Mathematics) | phang_kay_yen@schools.gov.sg |
 | Lee Tzi Wei, Gaius | Senior Teacher (Physics) | lee_tzi_wei@schools.gov.sg |
 
@@ -49,8 +50,8 @@ description: ""
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-| 1R1 |  |  |
-| 1R2 |  |  |
+| 1R1 | Nurhayati Bte Mohamad | nurhayati_mohamad@schools.gov.sg |
+| 1R2 | Lawrence Tan Eng Chuan<br><br>Chen Ying | tan_eng_chuan@schools.gov.sg<br><br><br><br>chen_ying_d@schools.gov.sg|
 | 1R3 |  |  |
 | 1R4 |  |  |
 | 1R5 |  |  |
