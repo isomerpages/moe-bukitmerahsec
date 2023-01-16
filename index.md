@@ -10,11 +10,9 @@ sections:
       background: /images/Banner 1(new).jpg
       key_highlights:
         - title: Announcements
-          description: ""
+          description: View latest announcements
           url: resources/announcements/
-        - title: Parents Information
-          description: Information for Parents
+        - title: Events
+          description: Key Highlight description
           url: ""
-  - resources:
-      subtitle: Annoucements
 ---
