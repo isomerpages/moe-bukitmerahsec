@@ -64,15 +64,13 @@ description: ""
 |:---:|:---:|:---:|
 | 2T1 | Chua Chwee Guan Johnson | chua_chwee_guan_johnson@schools.gov.sg |
 | 2T2 | Yeo Jun Zhong | yeo_jun_zhong@schools.gov.sg |
-| 2N1 | Tay Fang Lin (Catherine)<br><br>Ng Hui Ling | tay_fang_lin@schools.gov.sg <br><br><br><br>ng_hui_ling@schools.gov.sg|
-| 2N1 | Low Young Fei | low_young_fei@schools.gov.sg |
+| 2N1 | Tay Fang Lin (Catherine)<br><br>Ng Hui Ling | tay_fang_lin@schools.gov.sg <br><br>ng_hui_ling@schools.gov.sg|
+| 2N2 | Phang Kay Yen<br><br>Chen Jing | phang_kay_yen@schools.gov.sg <br><br> chen_jing@schools.gov.sg|
 | 2N1 | Shahirah Banu bte Leyakat Ali | shahirah_banu_leyakat_ali@schools.gov.sg |
-| 2N2 | Lim Kailin | lim_kailin@schools.gov.sg |
-| 2N2 | Tay Wee Leong | tay_wee_leong@schools.gov.sg |
-| 2E1 | Goh Shumin<br> Darshan Kaur | ho_shumin@schools.gov.sg<br> <br>darshan_kaur_a@schools.gov.sg  |
-| 2E2| Teo Wei Ting Eunice | teo_wei_ting_eunice@schools.gov.sg |
-| 2E3 | Tan Sheng Xian | tan_sheng_xian@schools.gov.sg |
-| 2E3 | Chen Ying | chen_ying_d@schools.gov.sg |
+| 2E1 | Fang Swee Foong (Anthony) | fang_swee_foong@schools.gov.sg |
+| 2E2 | Tan Wai Hong<br><br>Leow Li Quin | tan_wai_hong@schools.gov.sg<br><br>leow_li_quin@schools.gov.sg |
+| 2E3 | Ho Shumin | ho_shumin@schools.gov.sg  |
+| 2E4| Ng Shuping (Faith)<br><br>Tan Sheng Xian | ng_shuping@schools.gov.sg<br><br>tan_shen_xian@schools.gov.sg |
 |  |  |  |
 
 #### Secondary 3 Form Teachers (Click on link for subject teachers of the class)
