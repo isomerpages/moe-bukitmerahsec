@@ -66,7 +66,6 @@ description: ""
 | 2T2 | Yeo Jun Zhong | yeo_jun_zhong@schools.gov.sg |
 | 2N1 | Tay Fang Lin (Catherine)<br><br>Ng Hui Ling | tay_fang_lin@schools.gov.sg <br><br>ng_hui_ling@schools.gov.sg|
 | 2N2 | Phang Kay Yen<br><br>Chen Jing | phang_kay_yen@schools.gov.sg <br><br> chen_jing@schools.gov.sg|
-| 2N1 | Shahirah Banu bte Leyakat Ali | shahirah_banu_leyakat_ali@schools.gov.sg |
 | 2E1 | Fang Swee Foong (Anthony) | fang_swee_foong@schools.gov.sg |
 | 2E2 | Tan Wai Hong<br><br>Leow Li Quin | tan_wai_hong@schools.gov.sg<br><br>leow_li_quin@schools.gov.sg |
 | 2E3 | Ho Shumin | ho_shumin@schools.gov.sg  |
