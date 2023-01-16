@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.png
+      background: /images/Banner 1.jpg
       key_highlights:
         - title: Announcements
           description: View all Announcements here
@@ -15,5 +15,4 @@ sections:
         - title: Events
           description: View all Events here
           url: /events/
-  - resources: {}
 ---
