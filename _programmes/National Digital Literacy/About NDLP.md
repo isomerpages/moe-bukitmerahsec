@@ -79,7 +79,7 @@ To ensure affordability of PLD, MOE has provided Edusave top-ups of $200 in 2020
 
 For students who need additional support, complete and submit the attached form and supporting income documents to the General Office latest by 20 Jan 2023 (Friday).<br><br>
 
-<a href="https://staging.d1w3gt6qa53vq2.amplifyapp.com/files/Application-form-for-PDLP-Subsidy-BMSS.pdf">Please click here to download the form.</a>  <br><br>
+<a href="/files/Application-form-for-PDLP-Subsidy-BMSS%20-%202023.pdf">Please click here to download the form.</a>  <br><br>
 	
 
 Application is open to all students whose Gross Household Income (GHI) ≤ $4,400 or Per Capita Income (PCI) ≤ $1,100. PCI is GHI divided by the number of household members. Students on MOE Financial Assistance Scheme or School-Based Financial Assistance Scheme do not need to apply for this as they will automatically be granted the subsidy by the school.. <br><br>
@@ -318,7 +318,8 @@ Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. 
 
 #### Parent Handbook
 
-Refer to Parent Handbook [here](/files/IP2%20-%20Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf) .
+[Parent Handbook (II) on Learning with a PLD_2023](/files/Parent%20Handbook%20PLD_1.pdf)
+[Parent Handbook (II) on Learning with a PLD_2023](/files/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_2023.pdf)
 
 #### Acceptable Use Policy
 
@@ -326,5 +327,4 @@ Refer to Acceptable Use Policy [here](/files/BMSS%20AUP%20(20210401).pdf)
 
 ### Parent Briefing Slides / Q&A Response
 
-[Personal Learning Device (PLD) Briefing for Parents](/files/Personal-Learning-Devices-PLD-for-Parents.pdf)<br>
-[Student Device Information Kit\_16 Mar 22](/files/PDLP-Student-Device-Information-Kit_16-Mar-22.pdf)
+[Parent Engagement Deck_2023.pdf]()
