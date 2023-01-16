@@ -85,19 +85,15 @@ description: ""
 | 3E3 | Tan Phuay Heng <br><br>Lee Sheau Yin| tan_phuay_heng@schools.gov.sg <br><br>TBA |
 |  |  |  |
 
-#### Secondary 4 and 5 Form Teachers (Click on link for subject teachers of the class)
+#### Secondary 4 and 5 Form Teachers
 
-| Form Teachers | Class | Email |
+| Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-| [4T1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4T1/) | Ong Min Li | ong_min_li@schools.gov.sg |
-| [4T1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4T1/) | Tan Phuay Heng | tan_phuay_heng@schools.gov.sg |
-| [4N1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4N1/) | Ho Wing Leong, David | ho_wing_leong@schools.gov.sg |
-| [4N1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4N1/) | Fong Min Shi Chloe | fong_min_shi@schools.gov.sg |
-| [4N2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4N2/) | Eric Yong Junxiong | yong_junxiong_eric@schools.gov.sg |
-| [4N2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4N2/) | Ng Hsueh Mei | ng_hsueh_mei@schools.gov.sg |
-| [4E1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4E1/) | Ng Wai Ping | ng_wai_ping@schools.gov.sg |
-| [4E2](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4E2/) | Chian Yuan Lin | chian_yuan_lin@schools.gov.sg |
-| [4E3](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4E3/) | Eunice Low Sook Han | low_sook_han@schools.gov.sg |
-| [4E4](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/4E4/) | Du Tongtong | du_tongtong@schools.gov.sg |
-| [5N1](https://staging.d1w3gt6qa53vq2.amplifyapp.com/subject-teachers/Secondary-4-and-5/5N1/) | Lawrence Tan Eng Chuan | tan_eng_chuan@schools.gov.sg |
+| 4T1 | Shahrizal Salim<br><br>Jayne Ng Shi Ming | shahrizal_salim@schools.gov.sg<br><br>ng_shi_ming@schools.gov.sg |
+| 4N1| Muhammad Hisham <br><br>Belwit Kaur| muhammad_hisham_anwar@schools.gov.sg<br><br>belwit_kaur@schools.gov.sg |
+| 4N2 | Sriwanty Bte Ramli<br><br>Law Ngiap Hui | sriwanty_ramli@schools.gov.sg <br><br>law_ngiap_hui@schools.gov.sg|
+| 4E1 | Lui Yan Ling, Esther <br><br>Yit Ming En, Luke| lui_yan_ling_esther@schools.gov.sg <br><br>yit_ming_en_luke@schools.gov.sg|
+| 4E2| Qin Zhenzhen <br><br>Goh Ee Xin| qin_zhenzhen@schools.gov.sg <br><br>goh_ee_xin@schools.gov.sg|
+| 4E3 | Seow Xian Yi Winston | seow_xian_yi@schools.gov.sg |
+| 5N1 | Ho Wing Leong (David) | ho_wing_leong@schools.gov.sg |
 |  |  |  |
