@@ -52,9 +52,9 @@ description: ""
 |:---:|:---:|:---:|
 | 1R1 | Nurhayati Bte Mohamad | nurhayati_mohamad@schools.gov.sg |
 | 1R2 | Lawrence Tan Eng Chuan<br><br>Chen Ying | tan_eng_chuan@schools.gov.sg<br><br><br><br>chen_ying_d@schools.gov.sg|
-| 1R3 |  |  |
-| 1R4 |  |  |
-| 1R5 |  |  |
+| 1R3 | Loke Jia Yi<br><br>Rosli Bin Hamim |loke_jia_yi@schools.gov.sg<br><br><br>rosli_hamim@schools.gov.sg  |
+| 1R4 | Quek Jia Liang<br><br>Ong Min Li | TBA<br><br><br>ong_min_li@schools.gov.sg |
+| 1R5 | Darshan Kaur<br><br>Tay Wee Leong | darshan_kaur_a@schools.gov.sg<br><br><br>tay_wee_leong@schools.gov.sg |
 | 1R6 |  |  |
 |  |  |  |
 
