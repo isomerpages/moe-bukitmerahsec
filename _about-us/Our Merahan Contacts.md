@@ -72,21 +72,17 @@ description: ""
 | 2E4| Ng Shuping (Faith)<br><br>Tan Sheng Xian | ng_shuping@schools.gov.sg<br><br>tan_shen_xian@schools.gov.sg |
 |  |  |  |
 
-#### Secondary 3 Form Teachers (Click on link for subject teachers of the class)
+#### Secondary 3 Form Teachers
 
-| Form Teachers | Class | Email |
+| Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-| 3T1 |  Shahrizal Salim | shahrizal_salim@schools.gov.sg |
-| 3T1 | Jayne Ng Shi Ming | ng_shi_ming@schools.gov.sg |
-| 3N1 | Muhammad Hisham | muhammad_hisham_anwar@schools.gov.sg |
-| 3N1 | Belwit Kaur | belwit_kaur@schools.gov.sg |
-| 3N2 | Sriwanty Bte Ramli | sriwanty_ramli@schools.gov.sg |
-| 3N2 | Law Ngiap Hui | law_ngiap_hui@schools.gov.sg |
-| 3E1 | Lui Yan Ling, Esther | lui_yan_ling_esther@schools.gov.sg |
-| 3E1 | Yit Ming En, Luke | yit_ming_en_luke@schools.gov.sg |
-| 3E2 | Qin Zhenzhen | qin_zhenzhen@schools.gov.sg |
-| 3E2 | Goh Ee Xin | goh_ee_xin@schools.gov.sg |
-| 3E3 | Evelyn Wu Ing Geok | evelyn_wu_ing_geok@schools.gov.sg |
+| 3T1 |  Liao Xinwei | liao_xinwei@schools.gov.sg |
+| 3T2 | Eric Lim | lim_rong_hua_eric@schools.gov.sg |
+| 3N1 | Shahirah Banu Binte Leyakat Ali<br><br>Yong Junxiong Eric | shahirah_banu_leyakat_ali@schools.gov.sg<br><br>yong_junxiong_eric@schools.gov.sg |
+| 3N2 | Low Young Fei<br><br>Low Sook Han (Eunice) | low_young_fei@schools.gov.sg<br><br>low_sook_han@schools.gov.sg |
+| 3E1 | Ng Wai Ping | ng_wai_ping@schools.gov.sg |
+| 3E2 | Ng Hsueh Mei | ng_hsueh_mei@schools.gov.sg |
+| 3E3 | Tan Phuay Heng <br><br>Lee Sheau Yin| tan_phuay_heng@schools.gov.sg <br><br>TBA |
 |  |  |  |
 
 #### Secondary 4 and 5 Form Teachers (Click on link for subject teachers of the class)
