@@ -55,7 +55,7 @@ description: ""
 | 1R3 | Loke Jia Yi<br><br>Rosli Bin Hamim |loke_jia_yi@schools.gov.sg<br><br><br>rosli_hamim@schools.gov.sg  |
 | 1R4 | Quek Jia Liang<br><br>Ong Min Li | TBA<br><br><br>ong_min_li@schools.gov.sg |
 | 1R5 | Darshan Kaur<br><br>Tay Wee Leong | darshan_kaur_a@schools.gov.sg<br><br><br>tay_wee_leong@schools.gov.sg |
-| 1R6 |  |  |
+| 1R6 | Chloe Fong<br><br>Neo Hock Kheng | fong_min_shi@schools.gov.sg<br><br><br>neo_hock_kheng@schools.gov.sg |
 |  |  |  |
 
 #### Secondary 2 Form Teachers (Click on link for subject teachers of the class)
