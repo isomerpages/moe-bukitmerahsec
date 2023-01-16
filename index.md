@@ -12,7 +12,7 @@ sections:
         - title: Announcements
           description: View all Announcements here
           url: resources/announcements/
-        - title: Events
-          description: View all Events here
-          url: /events/
+        - title: Parents Info
+          description: Information for Parents
+          url: ""
 ---
