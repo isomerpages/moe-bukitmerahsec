@@ -6,9 +6,9 @@ third_nav_title: National Digital Literacy
 ---
 ### National Digital Literacy Programme (NDLP)
 
-[ Infographic on the PLD Initiative](/files/Infographic-on-the-PLD-Initiative.pdf) <br>
+[ PLD Infographic](/files/Infographic-on-the-PLD-Initiative.pdf) <br>
 [DMA After-School Parent Options (For parents who have not exercised their DMA)]() <br>
-[DMA After-School Parent Options (For parents who have exercised their DMA)]()
+[DMA After-School Parent Options (For parents who have exercised their DMA](/files/IP8%20-%20Infographic%20on%20the%20PLD%20Initiative_2023(2).pdf)
 
 MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021.
 
