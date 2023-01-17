@@ -1,0 +1,15 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Achievements 2022.md
+      - Achievements 2021.md
+      - Alumni Achievements.md
+      - Featured News Articles/Learning and Growing through the Arts.md
+      - Featured News Articles/Channel NewsAsia — BUS Programme.md
+      - Featured News Articles/The Straits Times — Young Athlete of the Year
+        Nominee.md
+      - Featured News Articles/The Straits Times — 11 April 2018.md
+      - Featured News Articles/The New Paper — 15 January 2018.md
+      - Featured News Articles/The Straits Times — 25 February 2021.md
+      - Featured News Articles/.keep

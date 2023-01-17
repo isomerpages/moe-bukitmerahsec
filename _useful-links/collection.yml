@@ -1,0 +1,24 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - For Parents/.keep
+      - For Parents/Financial Assistance.md
+      - For Parents/Parents Gateway (PG).md
+      - For Parents/Parents Resources.md
+      - For Parents/BMSS Cyber Wellness.md
+      - For Parents/MOE Sexuality Education.md
+      - For Parents/Informing School of child's Travel plan forms.md
+      - For Parents/Covid19 Student Vaccination Exercise.md
+      - For Staff/.keep
+      - For Staff/Useful Links for Staff.md
+      - For Students/.keep
+      - For Students/School Timetable.md
+      - For Students/Exam Timetable.md
+      - For Students/School Booklist.md
+      - For Students/Home Based Learning.md
+      - For Students/Useful Links for Student.md
+      - For Students/Student iCON.md
+      - For Students/LEAPS.md
+      - For Students/Scheme of Assessment.md
+      - For Students/School Rules and Regulations.md
