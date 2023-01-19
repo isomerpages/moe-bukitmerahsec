@@ -4,7 +4,7 @@ permalink: /useful-links/BMSS-Students/school-timetable/
 description: ""
 third_nav_title: For Students
 ---
-### 2023 Semester 1 Curriculum Timetable  
+[](/files/4E2%20ODD%20WEEK.pdf)### 2023 Semester 1 Curriculum Timetable  
 
 <figure> (Click on the respective links to download the timetable of the class)<br><br>
 
@@ -52,10 +52,10 @@ third_nav_title: For Students
 
 |  |  |  |
 |---|---|---|
-| 4T1 | [4T1 ODD WEEK]() | [4T1 EVEN WEEK]() |
-| 4N1 | [4N1 ODD WEEK]() | [4N1 EVEN WEEK]() |
-| 4N2 | [4N2 ODD WEEK]() | [4N2 EVEN WEEK]() |
-| 4E1 | [4E1 ODD WEEK]() | [4E1 EVEN WEEK]() |
-| 4E2 | [4E2 ODD WEEK]() | [4E2 EVEN WEEK]() |
-| 4E3 | [4E3 ODD WEEK]() | [4E3 EVEN WEEK]() |
-| 5N1 | [5N1 ODD WEEK]() | [5N1 EVEN WEEK]() |
+| 4T1 | [4T1 ODD WEEK]([](/files/4T1%20ODD%20WEEK.pdf)) | [4T1 EVEN WEEK]([](/files/4T1%20EVEN%20WEEK.pdf)) |
+| 4N1 | [4N1 ODD WEEK]([](/files/4N1%20ODD%20WEEK.pdf)) | [4N1 EVEN WEEK]([](/files/4N1%20EVEN%20WEEK.pdf)) |
+| 4N2 | [4N2 ODD WEEK]([](/files/4N2%20ODD%20WEEK.pdf)) | [4N2 EVEN WEEK]([](/files/4N2%20EVEN%20WEEK.pdf)) |
+| 4E1 | [4E1 ODD WEEK]([](/files/4E1%20ODD%20WEEK.pdf)) | [4E1 EVEN WEEK]([](/files/4E1%20EVEN%20WEEK.pdf)) |
+| 4E2 | [4E2 ODD WEEK]([](/files/4E2%20ODD%20WEEK.pdf)) | [4E2 EVEN WEEK]([](/files/4E2%20EVEN%20WEEK.pdf)) |
+| 4E3 | [4E3 ODD WEEK]([](/files/4E3%20ODD%20WEEK.pdf)) | [4E3 EVEN WEEK]([](/files/4E3%20EVEN%20WEEK.pdf)) |
+| 5N1 | [5N1 ODD WEEK]([](/files/5N1%20ODD%20WEEK.pdf)) | [5N1 EVEN WEEK]([](/files/5N1%20EVEN%20WEEK.pdf)) |
