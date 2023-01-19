@@ -26,8 +26,8 @@ description: ""
 | Neo Siew Eng | HOD Normal Course | neo_siew_eng@schools.gov.sg |
 | Satwant Singh | HOD Student Management & Well-Being | satwant_singh_sajjan_singh@schools.gov.sg |
 | Lee Siew Yong Loretta | School Staff Developer | lee_siew_yong_loretta@schools.gov.sg |
-| Toh Yongmei Stella | Year Head Upper Sec | toh_yongmei_stella@schools.gov.sg |
-| Yap Chin Hua | Assistant Year Head Upper Sec |  yap_chin_hua@schools.gov.sg|
+| Toh Yongmei Stella | Year Head Lower Sec | toh_yongmei_stella@schools.gov.sg |
+| Yap Chin Hua | Year Head Upper Sec |  yap_chin_hua@schools.gov.sg|
 | Hu Jinyuan (Ken) | Assistant Year Head Upper Sec |   hu_jinyuan@schools.gov.sg |
 | Tan Tua Choon | Assistant Year Head Lower Sec | tan_tua_choon@schools.gov.sg |
 | Chee Kwok Seng (Jereme) | Level Head Student Management | chee_kwok_seng@schools.gov.sg |
