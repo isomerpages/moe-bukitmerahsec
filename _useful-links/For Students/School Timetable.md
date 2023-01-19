@@ -40,13 +40,13 @@ third_nav_title: For Students
 
 |  |  |  |
 |---|---|---|
-| 3T1 | [3T1 ODD WEEK]([](/files/3T1%20ODD%20WEEK.pdf)) | [3T1 EVEN WEEK]([](/files/3T1%20EVEN%20WEEK.pdf)) |
-| 3T2 | [3T1 ODD WEEK]([](/files/3T2%20ODD%20WEEK.pdf)) | [3T2 EVEN WEEK]([](/files/3T2%20EVEN%20WEEK.pdf)) |
-| 3N1 | [3N1 ODD WEEK]([](/files/3N1%20ODD%20WEEK.pdf)) | [3N1 EVEN WEEK]([](/files/3N1%20EVEN%20WEEK.pdf)) |
-| 3N2 | [3N2 ODD WEEK]([](/files/3N2%20ODD%20WEEK.pdf)) | [3N2 EVEN WEEK]([](/files/3N2%20EVEN%20WEEK.pdf)) |
-| 3E1 | [3E1 ODD WEEK]([](/files/3E1%20ODD%20WEEK.pdf)) | [3E1 EVEN WEEK]([](/files/3E1%20EVEN%20WEEK.pdf)) |
-| 3E2 | [3E2 ODD WEEK]([](/files/3E2%20ODD%20WEEK.pdf)) | [3E2 EVEN WEEK]([](/files/3E2%20EVEN%20WEEK.pdf)) |
-| 3E3 | [3E3 ODD WEEK]([](/files/3E3%20ODD%20WEEK.pdf)) | [3E3 EVEN WEEK]([](/files/3E3%20EVEN%20WEEK.pdf)) |
+| 3T1 | [3T1 ODD WEEK](/files/3T1%20ODD%20WEEK.pdf) | [3T1 EVEN WEEK](/files/3T1%20EVEN%20WEEK.pdf) |
+| 3T2 | [3T1 ODD WEEK](/files/3T2%20ODD%20WEEK.pdf) | [3T2 EVEN WEEK](/files/3T2%20EVEN%20WEEK.pdf) |
+| 3N1 | [3N1 ODD WEEK](files/3N1%20ODD%20WEEK.pdf) | [3N1 EVEN WEEK](/files/3N1%20EVEN%20WEEK.pdf) |
+| 3N2 | [3N2 ODD WEEK](/files/3N2%20ODD%20WEEK.pdf) | [3N2 EVEN WEEK](/files/3N2%20EVEN%20WEEK.pdf) |
+| 3E1 | [3E1 ODD WEEK](/files/3E1%20ODD%20WEEK.pdf) | [3E1 EVEN WEEK](/files/3E1%20EVEN%20WEEK.pdf) |
+| 3E2 | [3E2 ODD WEEK](/files/3E2%20ODD%20WEEK.pdf) | [3E2 EVEN WEEK](/files/3E2%20EVEN%20WEEK.pdf) |
+| 3E3 | [3E3 ODD WEEK](/files/3E3%20ODD%20WEEK.pdf) | [3E3 EVEN WEEK](/files/3E3%20EVEN%20WEEK.pdf) |
 
 **SECONDARY 4 & 5 TIMETABLE**
 
