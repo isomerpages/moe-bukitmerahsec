@@ -27,14 +27,14 @@ third_nav_title: For Students
 
 |  |  |  |
 |---|---|---|
-| 2T1 | [2T1 ODD WEEK](/files/2t1o.pdf) | [2T1 EVEN WEEK](/files/2t1e.pdf) |
-| 2T2 | [2T2 ODD WEEK](/files/2t2o.pdf) | [2T2 EVEN WEEK](/files/2t2e.pdf) |
-| 2N1 | [2N1 ODD WEEK](/files/2n1o.pdf) | [2N1 EVEN WEEK](/files/2n1e.pdf) |
-| 2N2 | [2N2 ODD WEEK](/files/2n2o.pdf) | [2N2 EVEN WEEK](/files/2n2e.pdf) |
-| 2E1 | [2E1 ODD WEEK](/files/2e1o.pdf) | [2E1 EVEN WEEK](/files/2e1e.pdf) |
-| 2E2 | [2E2 ODD WEEK](/files/2e2o.pdf) | [2E2 EVEN WEEK](/files/2e2e.pdf) |
-| 2E3 | [2E3 ODD WEEK](/files/2e3o.pdf) | [2E3 EVEN WEEK](/files/2e3e.pdf) |
-| 2E4 | [2E3 ODD WEEK]() | [2E3 EVEN WEEK]() |
+| 2T1 | [2T1 ODD WEEK]() | [2T1 EVEN WEEK]() |
+| 2T2 | [2T2 ODD WEEK]() | [2T2 EVEN WEEK]() |
+| 2N1 | [2N1 ODD WEEK]() | [2N1 EVEN WEEK]() |
+| 2N2 | [2N2 ODD WEEK]() | [2N2 EVEN WEEK]() |
+| 2E1 | [2E1 ODD WEEK]() | [2E1 EVEN WEEK]() |
+| 2E2 | [2E2 ODD WEEK]() | [2E2 EVEN WEEK]() |
+| 2E3 | [2E3 ODD WEEK]() | [2E3 EVEN WEEK]() |
+| 2E4 | [2E4 ODD WEEK]() | [2E4 EVEN WEEK]() |
 
 **SECONDARY 3 TIMETABLE**
 
