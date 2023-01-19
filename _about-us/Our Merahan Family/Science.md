@@ -4,8 +4,7 @@ permalink: /about-us/Departments/science/
 description: ""
 third_nav_title: Our Merahan Family
 ---
-
-### Mathematics
+### Science
 
 <img src="/images/de12.png" style="width:80%">  
 
