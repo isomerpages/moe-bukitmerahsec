@@ -16,11 +16,11 @@ third_nav_title: For Students
 |  |  |  |
 |---|---|---|
 | 1R1 | [1R1 ODD WEEK](/files/1R1%20ODD%20WEEK.pdf) | [1R1 EVEN WEEK](/files/1R1%20EVEN%20WEEK.pdf) |
-| 1R2 | [1T2 ODD WEEK](/files/1t2o.pdf) | [1T2 EVEN WEEK](/files/1t2e.pdf) |
-| 1R3 | [1N1 ODD WEEK](/files/1n1o.pdf) | [1N1 EVEN WEEK](/files/1n1e.pdf) |
-| 1R4 | [1N2 ODD WEEK](/files/1n2o.pdf) | [1N2 EVEN WEEK](/files/1n2e.pdf) |
-| 1R5 | [1E1 ODD WEEK](/files/1e1o.pdf) | [1E1 EVEN WEEK](/files/1e1e.pdf) |
-| 1R6 | [1E2 ODD WEEK](/files/1e2o.pdf) | [1E2 EVEN WEEK](/files/1e2e.pdf) |
+| 1R2 | [1R2 ODD WEEK](/files/1t2o.pdf) | [1R2 EVEN WEEK](/files/1t2e.pdf) |
+| 1R3 | [1R3 ODD WEEK](/files/1n1o.pdf) | [1R3 EVEN WEEK](/files/1n1e.pdf) |
+| 1R4 | [1R4 ODD WEEK](/files/1n2o.pdf) | [1R4 EVEN WEEK](/files/1n2e.pdf) |
+| 1R5 | [1R5 ODD WEEK](/files/1e1o.pdf) | [1R5 EVEN WEEK](/files/1e1e.pdf) |
+| 1R6 | [1R6 ODD WEEK](/files/1e2o.pdf) | [1R6 EVEN WEEK](/files/1e2e.pdf) |
 
 
 **SECONDARY 2 TIMETABLE**
@@ -41,6 +41,7 @@ third_nav_title: For Students
 |  |  |  |
 |---|---|---|
 | 3T1 | [3T1 ODD WEEK](/files/3t1o.pdf) | [3T1 EVEN WEEK](/files/3t1e.pdf) |
+| 3T2 | [3T1 ODD WEEK](/files/3t1o.pdf) | [3T2 EVEN WEEK](/files/3t1e.pdf) |
 | 3N1 | [3N1 ODD WEEK](/files/3n1o.pdf) | [3N1 EVEN WEEK](/files/3n1e.pdf) |
 | 3N2 | [3N2 ODD WEEK](/files/3n2o.pdf) | [3N2 EVEN WEEK](/files/3n2e.pdf) |
 | 3E1 | [3E1 ODD WEEK](/files/3e1o.pdf) | [3E1 EVEN WEEK](/files/3e1e.pdf) |
@@ -57,5 +58,4 @@ third_nav_title: For Students
 | 4E1 | [4E1 ODD WEEK](/files/4e1o.pdf) | [4E1 EVEN WEEK](/files/4e1e.pdf) |
 | 4E2 | [4E2 ODD WEEK](/files/4e2o.pdf) | [4E2 EVEN WEEK](/files/4e2e.pdf) |
 | 4E3 | [4E3 ODD WEEK](/files/4e3o.pdf) | [4E3 EVEN WEEK](/files/4e3e.pdf) |
-| 4E4 | [4E4 ODD WEEK](/files/4e4o.pdf) | [4E4 EVEN WEEK](/files/4e4e.pdf) |
 | 5N1 | [5N1 ODD WEEK](/files/5n1o.pdf) | [5N1 EVEN WEEK](/files/5n1e.pdf) |
