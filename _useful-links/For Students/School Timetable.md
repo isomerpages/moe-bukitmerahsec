@@ -27,7 +27,7 @@ third_nav_title: For Students
 
 |  |  |  |
 |---|---|---|
-| 2T1 | [2T1 ODD WEEK]() | [2T1 EVEN WEEK]() |
+| 2T1 | [2T1 ODD WEEK]([](/files/Timetable%202023%20Semester%201/2T1%20ODD%20WEEK.pdf)) | [2T1 EVEN WEEK]([](/files/Timetable%202023%20Semester%201/2T1%20EVEN%20WEEK.pdf)) |
 | 2T2 | [2T2 ODD WEEK]() | [2T2 EVEN WEEK]() |
 | 2N1 | [2N1 ODD WEEK]() | [2N1 EVEN WEEK]() |
 | 2N2 | [2N2 ODD WEEK]() | [2N2 EVEN WEEK]() |
