@@ -30,7 +30,7 @@ third_nav_title: For Students
 | 2T1 | [2T1 ODD WEEK](/files/2T1%20ODD%20WEEK.pdf) | [2T1 EVEN WEEK](/files/2T1%20EVEN%20WEEK.pdf) |
 | 2T2 | [2T2 ODD WEEK](/files/2T2%20ODD%20WEEK.pdf) | [2T2 EVEN WEEK](/files/2T2%20EVEN%20WEEK.pdf) |
 | 2N1 | [2N1 ODD WEEK](/files/2N1%20ODD%20WEEK.pdf) | [2N1 EVEN WEEK]([/files/2N1%20EVEN%20WEEK.pdf) |
-| 2N2 | [2N2 ODD WEEK](/files/2N2%20ODD%20WEEK.pdf) | [2N2 EVEN WEEK](/files/2N2%20ODD%20WEEK.pd) |
+| 2N2 | [2N2 ODD WEEK](/files/2N2%20ODD%20WEEK.pdf) | [2N2 EVEN WEEK](/files/2N2%20ODD%20WEEK.pdf) |
 | 2E1 | [2E1 ODD WEEK](/files/2E1%20ODD%20WEEK.pdf) | [2E1 EVEN WEEK](/files/2E1%20EVEN%20WEEK.pdf) |
 | 2E2 | [2E2 ODD WEEK](/files/2E2%20ODD%20WEEK.pdf) | [2E2 EVEN WEEK](/files/2E2%20EVEN%20WEEK.pdf) |
 | 2E3 | [2E3 ODD WEEK](/files/2E3%20ODD%20WEEK.pdf) | [2E3 EVEN WEEK](/files/2E3%20EVEN%20WEEK.pdf) |
