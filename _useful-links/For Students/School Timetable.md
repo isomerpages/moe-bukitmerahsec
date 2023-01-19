@@ -40,8 +40,8 @@ third_nav_title: For Students
 
 |  |  |  |
 |---|---|---|
-| 3T1 | [3T1 ODD WEEK]() | [3T1 EVEN WEEK]() |
-| 3T2 | [3T1 ODD WEEK]() | [3T2 EVEN WEEK]() |
+| 3T1 | [3T1 ODD WEEK]([](/files/3T1%20ODD%20WEEK.pdf)) | [3T1 EVEN WEEK]([](/files/3T1%20EVEN%20WEEK.pdf)) |
+| 3T2 | [3T1 ODD WEEK]([](/files/3T2%20ODD%20WEEK.pdf)) | [3T2 EVEN WEEK]([](/files/3T2%20EVEN%20WEEK.pdf)) |
 | 3N1 | [3N1 ODD WEEK]() | [3N1 EVEN WEEK]() |
 | 3N2 | [3N2 ODD WEEK]() | [3N2 EVEN WEEK]() |
 | 3E1 | [3E1 ODD WEEK]() | [3E1 EVEN WEEK]() |
