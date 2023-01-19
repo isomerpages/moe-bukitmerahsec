@@ -4,8 +4,7 @@ permalink: /useful-links/BMSS-Students/school-timetable/
 description: ""
 third_nav_title: For Students
 ---
-
-### 2022 Semester 2 Curriculum Timetable  
+### 2023 Semester 1 Curriculum Timetable  
 
 <figure> (Click on the respective links to download the timetable of the class)<br><br>
 
@@ -16,14 +15,13 @@ third_nav_title: For Students
 
 |  |  |  |
 |---|---|---|
-| 1T1 | [1T1 ODD WEEK](/files/1t1o.pdf) | [1T1 EVEN WEEK](/files/1t1e.pdf) |
-| 1T2 | [1T2 ODD WEEK](/files/1t2o.pdf) | [1T2 EVEN WEEK](/files/1t2e.pdf) |
-| 1N1 | [1N1 ODD WEEK](/files/1n1o.pdf) | [1N1 EVEN WEEK](/files/1n1e.pdf) |
-| 1N2 | [1N2 ODD WEEK](/files/1n2o.pdf) | [1N2 EVEN WEEK](/files/1n2e.pdf) |
-| 1E1 | [1E1 ODD WEEK](/files/1e1o.pdf) | [1E1 EVEN WEEK](/files/1e1e.pdf) |
-| 1E2 | [1E2 ODD WEEK](/files/1e2o.pdf) | [1E2 EVEN WEEK](/files/1e2e.pdf) |
-| 1E3 | [1E3 ODD WEEK](/files/1e3o.pdf) | [1E3 EVEN WEEK](/files/1e3e.pdf) |
-| 1E4 | [1E4 ODD WEEK](/files/1e4o.pdf) | [1E4 EVEN WEEK](/files/1e4e.pdf) |
+| 1R1 | [1R1 ODD WEEK](/files/1R1%20ODD%20WEEK.pdf) | [1R1 EVEN WEEK](/files/1R1%20EVEN%20WEEK.pdf) |
+| 1R2 | [1T2 ODD WEEK](/files/1t2o.pdf) | [1T2 EVEN WEEK](/files/1t2e.pdf) |
+| 1R3 | [1N1 ODD WEEK](/files/1n1o.pdf) | [1N1 EVEN WEEK](/files/1n1e.pdf) |
+| 1R4 | [1N2 ODD WEEK](/files/1n2o.pdf) | [1N2 EVEN WEEK](/files/1n2e.pdf) |
+| 1R5 | [1E1 ODD WEEK](/files/1e1o.pdf) | [1E1 EVEN WEEK](/files/1e1e.pdf) |
+| 1R6 | [1E2 ODD WEEK](/files/1e2o.pdf) | [1E2 EVEN WEEK](/files/1e2e.pdf) |
+
 
 **SECONDARY 2 TIMETABLE**
 
@@ -36,6 +34,7 @@ third_nav_title: For Students
 | 2E1 | [2E1 ODD WEEK](/files/2e1o.pdf) | [2E1 EVEN WEEK](/files/2e1e.pdf) |
 | 2E2 | [2E2 ODD WEEK](/files/2e2o.pdf) | [2E2 EVEN WEEK](/files/2e2e.pdf) |
 | 2E3 | [2E3 ODD WEEK](/files/2e3o.pdf) | [2E3 EVEN WEEK](/files/2e3e.pdf) |
+| 2E4 | [2E3 ODD WEEK]() | [2E3 EVEN WEEK]() |
 
 **SECONDARY 3 TIMETABLE**
 
