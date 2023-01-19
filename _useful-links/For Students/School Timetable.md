@@ -52,10 +52,10 @@ third_nav_title: For Students
 
 |  |  |  |
 |---|---|---|
-| 4T1 | [4T1 ODD WEEK](/files/4t1o.pdf) | [4T1 EVEN WEEK](/files/4t1e.pdf) |
-| 4N1 | [4N1 ODD WEEK](/files/4n1o.pdf) | [4N1 EVEN WEEK](/files/4n1e.pdf) |
-| 4N2 | [4N2 ODD WEEK](/files/4n2o.pdf) | [4N2 EVEN WEEK](/files/4n2e.pdf) |
-| 4E1 | [4E1 ODD WEEK](/files/4e1o.pdf) | [4E1 EVEN WEEK](/files/4e1e.pdf) |
-| 4E2 | [4E2 ODD WEEK](/files/4e2o.pdf) | [4E2 EVEN WEEK](/files/4e2e.pdf) |
-| 4E3 | [4E3 ODD WEEK](/files/4e3o.pdf) | [4E3 EVEN WEEK](/files/4e3e.pdf) |
-| 5N1 | [5N1 ODD WEEK](/files/5n1o.pdf) | [5N1 EVEN WEEK](/files/5n1e.pdf) |
+| 4T1 | [4T1 ODD WEEK]() | [4T1 EVEN WEEK]() |
+| 4N1 | [4N1 ODD WEEK]() | [4N1 EVEN WEEK]() |
+| 4N2 | [4N2 ODD WEEK]() | [4N2 EVEN WEEK]() |
+| 4E1 | [4E1 ODD WEEK]() | [4E1 EVEN WEEK]() |
+| 4E2 | [4E2 ODD WEEK]() | [4E2 EVEN WEEK]() |
+| 4E3 | [4E3 ODD WEEK]() | [4E3 EVEN WEEK]() |
+| 5N1 | [5N1 ODD WEEK]() | [5N1 EVEN WEEK]() |
