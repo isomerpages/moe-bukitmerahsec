@@ -4,11 +4,10 @@ permalink: /useful-links/BMSS-Students/student-icon/
 description: ""
 third_nav_title: For Students
 ---
-
 ### Student iCON Resources
 [Student iCON Onboarding Guide](/files/Student-iCON-Onboarding-Guide.pdf)
 
-[Student iCON Student EDM Onboarding Introducing Student iCON](/files/Student-iCON-Student-EDM-Onboarding-Introducing-Student-iCON.pdf)
+
 
 #### Password Reset / Account Locked
 

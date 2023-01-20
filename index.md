@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner 1(new).jpg
+      background: /images/New Website Banner copy.jpg
       key_highlights:
         - title: Announcements
           description: View latest announcements
