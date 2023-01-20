@@ -9,7 +9,7 @@ third_nav_title: For Students
 
 |  |  |
 |---|---|
-| Secondary 1 | [1NT Scheme of Assessment](/files/Secondary%201%20Scheme%20of%20Assesment.pdf) |
+| Secondary 1 | [Sec 1 Scheme of Assessment](/files/Secondary%201%20Scheme%20of%20Assesment.pdf) |
 
 
 |  |  |
