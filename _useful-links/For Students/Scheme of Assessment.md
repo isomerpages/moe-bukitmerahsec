@@ -14,7 +14,7 @@ third_nav_title: For Students
 
 |  |  |
 |---|---|
-| Secondary 2 | [2NT Scheme of Assessment](/files/soa4.pdf)<br><br>[2NA Scheme of Assessment](/files/soa5.pdf)<br><br>[2E Scheme of Assessment](/files/soa6.pdf) |
+| Secondary 2 | [2NT Scheme of Assessment](/files/2NT%20Scheme%20of%20Assesment.pdf)<br><br>[2NA Scheme of Assessment](/files/2NA%20Scheme%20of%20Assesment.pdf)<br><br>[2E Scheme of Assessment](/files/2E%20Scheme%20of%20Assesment.pdf) |
 
 
 |  |  |
