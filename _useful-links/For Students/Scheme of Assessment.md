@@ -24,4 +24,4 @@ third_nav_title: For Students
 
 |  |  |
 |---|---|
-| Secondary 4 | [4NT Scheme of Assessment](/files/4NT%20Scheme%20of%20Assesment.pdf)<br><br>[4NA Scheme of Assessment](/files/4NA%20Scheme%20of%20Assesment.pdf)<br><br>[4E & 5N Scheme of Assessment](/files/4E5N%20Scheme%20of%20Assesment.pdf) |
+| Secondary 4/5 | [4NT Scheme of Assessment](/files/4NT%20Scheme%20of%20Assesment.pdf)<br><br>[4NA Scheme of Assessment](/files/4NA%20Scheme%20of%20Assesment.pdf)<br><br>[4E & 5N Scheme of Assessment](/files/4E5N%20Scheme%20of%20Assesment.pdf) |
