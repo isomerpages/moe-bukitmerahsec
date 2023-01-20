@@ -4,12 +4,12 @@ permalink: /useful-links/BMSS-Students/scheme-of-assessment/
 description: ""
 third_nav_title: For Students
 ---
+###  Scheme of Assessment 2023 
 
-###  Scheme of Assessment 2022 (End-Of-Year) 
 
 |  |  |
 |---|---|
-| Secondary 1 | [1NT Scheme of Assessment](/files/soa1.pdf)<br><br>[1NA Scheme of Assessment](/files/soa2.pdf)<br><br>[1E Scheme of Assessment](/files/soa3.pdf) |
+| Secondary 1 | [1NT Scheme of Assessment](/files/Secondary%201%20Scheme%20of%20Assesment.pdf) |
 
 
 |  |  |
@@ -21,7 +21,6 @@ third_nav_title: For Students
 |---|---|
 | Secondary 3 | [3NT Scheme of Assessment](/files/soa7.pdf)<br><br>[3NA Scheme of Assessment](/files/soa8.pdf)<br><br>[3E Scheme of Assessment](/files/soa9.pdf) |
 
-####  Preliminary Examination 2022 
 
 |  |  |
 |---|---|
