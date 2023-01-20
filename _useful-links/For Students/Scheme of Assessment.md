@@ -19,9 +19,9 @@ third_nav_title: For Students
 
 |  |  |
 |---|---|
-| Secondary 3 | [3NT Scheme of Assessment](/files/soa7.pdf)<br><br>[3NA Scheme of Assessment](/files/soa8.pdf)<br><br>[3E Scheme of Assessment](/files/soa9.pdf) |
+| Secondary 3 | [3NT Scheme of Assessment](/files/3NT%20Scheme%20of%20Assesment.pdf)<br><br>[3NA Scheme of Assessment](/files/3NA%20Scheme%20of%20Assesment.pdf)<br><br>[3E Scheme of Assessment](/files/3E%20Scheme%20of%20Assesment.pdf) |
 
 
 |  |  |
 |---|---|
-| Secondary 4 | [4NT Scheme of Assessment](/files/soa10.pdf)<br><br>[4NA Scheme of Assessment](/files/soa11.pdf)<br><br>[4E & 5N Scheme of Assessment](/files/soa12.pdf) |
+| Secondary 4 | [4NT Scheme of Assessment](/files/4NT%20Scheme%20of%20Assesment.pdf)<br><br>[4NA Scheme of Assessment](/files/4NA%20Scheme%20of%20Assesment.pdf)<br><br>[4E & 5N Scheme of Assessment](/files/4E5N%20Scheme%20of%20Assesment.pdf) |
