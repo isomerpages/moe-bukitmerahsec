@@ -22,13 +22,6 @@ TBA
 
 **Trainings**
 
-**Odd Week:**
-
-*   Wednesday: 3:00pm – 6:00pm
-*   Friday: 1:00pm – 3:00pm
-
-**Even Week:**
-
 *   Wednesday: 2:30pm – 5:30pm
 *   Friday: 1pm – 3pm
 
