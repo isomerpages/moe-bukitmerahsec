@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 ### Floorball
 
-<img src="/images/cca19.png" style="width:60%">
+<img src="/images/floorball page.jpg" style="width:60%">
 
 **CCA Announcement**
 
