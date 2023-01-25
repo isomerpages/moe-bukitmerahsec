@@ -18,6 +18,7 @@ TBA
 *   Yeo Xing Wen
 *   Ng Hui Ling
 *   Dan Kwoh (Instructor)
+*   Mr. Emmet Ng (Assistant Instructor)
 
 **Trainings**
 
@@ -28,8 +29,8 @@ TBA
 
 **Even Week:**
 
-*   Wednesday: 3:00pm – 6:00pm
-*   Friday: 1:00pm – 3:00pm
+*   Wednesday: 2:30pm – 5:30pm
+*   Friday: 1pm – 3pm
 
 **Venue:** 
 
@@ -37,8 +38,8 @@ TBA
 
 **Activities**
 
-*   Sec 1 CCA Orientation (January)
-*   Festivo V (March)
+*   Singapore Youth Festival (April)
+
 
 **Achievements**
 

@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 ### Floorball
 
-<img src="/images/cca19.png" style="width:60%">
+<img src="/images/floorball page.jpg" style="width:60%">
 
 **CCA Announcement**
 
@@ -14,51 +14,38 @@ TBA
 
 **Teachers-in-charge**
 
-*   Zubi Kek (Teacher Advisor)
-*   Law Ngiap Hui (Boys’ IC)
-*   Loke Jia Yi (Girls’ IC)
-*   Marina Binte Bohari
-*   Chua Chwee Guan Johnson
-*   Tay Siew Hoon Janelle
-*   Muhammad Shamir Alfee Bin Aminudin (Girls’ Coach)
+
+*   Loke Jia Yi (Boys’ IC)
+*   Yit Ming En Luke (Girls’ IC)
+*   Stephanie Goh
+
+**Floorball Coaches**
 *   Mohamad Rashid Bin Jalaluddin (Boys’ Coach)
+*    Muhammad Shamir Alfee Bin Aminudin (Girls’ Coach)
 
 **Trainings**
 
-**Odd Week:**
 
-Monday:
+Mondays:
 
-*   3.00pm – 5.30pm (C Div Sch Team Boys & Girls)
+*   3pm - 5.30pm (School Team Boys) (School Hall)
+*   3pm - 5.30pm (School Team Girls) (ISH)
+    
+*(*Optional for non-school team players*) <br><br>
 
-Wednesday:
 
-*   2.30pm – 4.00pm (All Boys)
-*   2.30pm – 5.00pm (All Girls)
+Wednesdays:
 
-Friday:
+*   2.30pm – 4.00pm (All Boys) (ISH)
+*   2.30pm – 5.00pm (All Girls) (School Hall)
 
-*   1.30pm – 3.30pm (All Girls)
-*   3.30pm – 5.30pm (All Boys)
+Fridays:
 
-**Even Week:**
+*   1.30pm – 3.30pm (All Girls) (ISH)
+*   3.30pm – 5.30pm (All Boys) (ISH)
 
-Monday:
 
-*   3.00pm – 5.30pm (C Div Sch Team Boys & Girls)
-
-Wednesday:
-
-*   2.30pm – 4.00pm (All Boys)
-*   2.30pm – 5.00pm (All Girls)
-
-Friday:
-
-*   1.30pm – 3.30pm (All Girls)
-*   3.30pm – 5.30pm (All Boys)
-
-**  
-Venues:**
+**Venues:**
 
 *   Indoor Sports Hall L2
 *   School Hall
@@ -106,7 +93,7 @@ Venues:**
     *   ‘C’ Division Boys: 2nd RUNNER-UP
     *   ‘C’ Division Girls: 2nd RUNNER-UP
 *   National Inter-Schools Floorball Competitions 2018
-    *   [‘B’ Division Boys: CHAMPION](https://bukitmerahsec.moe.edu.sg/cca/sports/floorball/we-are-national-champions/)
+    *   ‘B’ Division Boys: CHAMPION
     *   ‘B’ Division Girls: 3rd RUNNER-UP
 *   National Inter-Schools Floorball Competitions 2017
     *   ‘B’ Division Girls: 3rd RUNNER-UP
@@ -142,23 +129,47 @@ Venues:**
     *   ‘B’ Division Boys: CHAMPION
     *   ‘C’ Division Girls: 3rd RUNNER-UP
 
-#### Singapore Schools Sports Council Colours Award in recognition of sporting excellence
 
-| Floorball ‘C’ Division Girls | Floorball ‘B’ Division Girls | Floorball ‘B’ Division Boys |
-|---|---|---|
-| Althea Dominique De Gracia | Nur Anisah Bte Shukor | Earl John Alicante Embile |
-| Ang Xin | Nurul Syafiqah Bte Abdullah | Muhammad Zaidan B Abdul Wahab |
-| Berdan Jemarie Concepcion | Abygael Attirmidzi Koh | Khant Ye Wint Thant |
-| Kinski Tan Shi Qi | Cheryl Tan Huey | Tan Shao Siang |
-| Ng Qi Le | Fatin Athirah Bte Murad | Alexander Lee Yuheng |
-| Regine Wan Kar Yee | Berdan Jerylou Concepcion | Isaac Tan Jing Jie |
-| Sri Syawallya Shusilawatie | Siti Mariam Bte Imadeddin | Amirul Amsyar B Mohamed Asrori |
-| Puteri Najihah Bte Feeroz | Jessica Chua Yi Ping | Ng Yong Jie |
-| Sarah Natasa Bte Abdul Kassim | Agnes Loh Siew Fang | Wang Jia Jun |
-| Iman Humirah Bte Haszman | Angel Thong En Qi | Teo Jing Yi |
-| Ling Pei Juan | Edelyn Grace A Embile | Muhammad Iman Zulhakim B A G |
-| Mabel Soh See Eann | Tan Wan Ni | Soh Ming Sheng |
-| Jolene Er Pei Qi | Lim Hui Min | Iryan Shah B Khairul Anuar |
-| Charlene Soh Jing Ying | Nurul Shahirah Bte Salleh | Safiuddin B Salleh |
-| Ma Yi Fang | Nureen Farishah Bte Zubairi | Siew Kang Jie, Nicolas |
-| Serene |  |  |
+**Singapore Schools Sports Council Colours Award in recognition of sporting excellence in the ‘B’ Division Floorball Championships 2022**
+  
+* Ng Jun Yang
+
+* Mohamed Zu’fierzan Bin Mohamed Nesani
+
+ * M Raihan Bin Edwan
+
+* Andry Zukri Bin Suwandi
+
+ * Muhamad Anndeeqa Rasheede Bin Muhamad Rashid
+
+* Ho En Jay Joel
+
+ * Muhammad Naufal Bin M Bahseer Ahamad
+
+* Zuhair Bin Samion
+
+* Juan Fikry Bin Muhammad Jeremy
+
+ * Hiren
+
+ * Oliver Ong Ann Yen
+
+* Muhammad Fattah Bin Barin
+
+*  Muhammad Ilyasa Hilham Putera Haswandi
+
+*  Danial Amirul Bin Hamdi
+
+ * Muhammad Ashriq Reyshafiq Bin Roslee
+
+* Lee Taeyang
+
+* William Zaw Tun
+
+
+
+**Singapore Schools Sports Council Sportsmanship Award in recognition for demonstrating outstanding sportsmanship in the ‘B’ Division Floorball Championships 2022:**
+
+* Muhammad Fattah Bin Barin
+
+* Nurul Ramadhani
