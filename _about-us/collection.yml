@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Publications/.keep
-      - Our Achievements/.keep
       - Principal's Message.md
       - Our School Crest and Song/.keep
       - Our School Crest and Song/School Emblem Motto.md
@@ -14,3 +12,5 @@ collections:
       - Our People/Key Personnel.md
       - Our People/Our Teachers.md
       - Our People/Our Non Teaching Staff.md
+      - Our Achievements/.keep
+      - Our Publications/.keep
