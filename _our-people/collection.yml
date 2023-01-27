@@ -2,6 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Our Non Teaching Staff.md
       - Key Personnel.md
       - Our Teachers.md
+      - Our Non Teaching Staff.md
