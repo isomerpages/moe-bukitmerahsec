@@ -1,5 +1,4 @@
 collections:
   our-school-crest-and-song:
     output: true
-    order:
-      - School Information/.keep
+    order: []
