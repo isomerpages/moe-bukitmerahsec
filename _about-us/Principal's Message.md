@@ -3,12 +3,11 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-
-
 ### Principal's Message 2023
 
 <img src="/images/Darren Chong P.jpg" style="width:60" align = "left"> 
 
+<br><br>
 I am thankful to be given the opportunity to lead Bukit Merah Secondary School (BMSS). While I am new to the school, the school is not entirely new to me. In fact, the posting feels like homecoming to me. After all, I have not only grown up and attended schools in the vicinity but also started my formative teaching expedition more than 15 years ago in the neighbouring Henderson Secondary School (HSS), which merged with BMSS in 2017.
  
 A school is more than its name, geographical location and range of programmes offered to me. Its foundation is anchored not merely in the vision, mission and values but the people — Students, Staff and Partners — members of the Merahan family who live and work towards these aspirations every day. BMSS is not Hogwarts. Yet, as a new addition to the Merahan family, I am heartened and very proud to attest to ‘magic’, marked by a strong sense of care, warmth and camaraderie, that permeates the grounds of our school. Such wizardry is made possible by human alchemy comprising a mix of:
