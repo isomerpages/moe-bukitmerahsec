@@ -1,5 +1,12 @@
 logo: /images/logo.png
 links:
+  - title: About US
+    url: /permalink
+    sublinks:
+      - title: Principal Message
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
   - title: Our Merahan Curriculum
     url: /programme/Events/2022/
     sublinks:
