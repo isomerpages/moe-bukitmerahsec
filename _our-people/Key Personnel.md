@@ -3,7 +3,6 @@ title: Key Personnel
 permalink: /our-people/key-personnel/
 description: ""
 ---
-### Merahan Staff Contacts  
 
 #### School Management 
 
