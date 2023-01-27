@@ -1,5 +1,5 @@
 collections:
-  our-school-crest-and-song:
+  about-us:
     output: true
     order:
       - School Emblem Motto.md
