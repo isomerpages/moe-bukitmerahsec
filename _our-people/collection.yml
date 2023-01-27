@@ -1,5 +1,4 @@
 collections:
   our-people:
     output: true
-    order:
-      - Our Non Teaching Staff.md
+    order: []
