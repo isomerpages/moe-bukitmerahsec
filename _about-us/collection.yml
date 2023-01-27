@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our Code of Conduct.md
       - Principal's Message.md
       - Our School Crest and Song/.keep
       - Our School Crest and Song/School Emblem Motto.md
       - Our School Crest and Song/School Song.md
       - Our School Heritage.md
+      - Our Code of Conduct.md
