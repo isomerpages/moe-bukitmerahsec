@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Our School Crest and Song/School Song.md
       - Our School Crest and Song/.keep
       - School Emblem Motto.md
