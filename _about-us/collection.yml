@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - School Information/.keep
-      - School Information/School Emblem Motto.md
       - School Information/School Vision Mission Values.md
       - School Information/School Song.md
