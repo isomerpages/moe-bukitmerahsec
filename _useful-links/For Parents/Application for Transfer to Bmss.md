@@ -8,4 +8,4 @@ third_nav_title: For Parents
 
 To apply for transfer, please fill up the online form:
 
-[Application for Transfer to Bmss](https://go.gov.sg/applytransfertobmss)
+[Application for Transfer to BMSS](https://go.gov.sg/applytransfertobmss)
