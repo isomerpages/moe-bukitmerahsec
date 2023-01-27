@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - School Information/.keep
-      - School Information/School Song.md
