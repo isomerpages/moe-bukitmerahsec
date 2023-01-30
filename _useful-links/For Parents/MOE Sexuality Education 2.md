@@ -4,8 +4,6 @@ permalink: /permalink/
 description: ""
 third_nav_title: For Parents
 ---
-
-
 #### Moe Sexuality Education in Schools
 
 
