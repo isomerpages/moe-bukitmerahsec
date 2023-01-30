@@ -49,37 +49,26 @@ b.    Character and Citizenship Education (CCE)
 
 **At Bukit Merah Secondary School, the following Sexuality Education lessons will be taught in 2023:**
 
-<figure><b>Secondary 1</b></figure>
 
 ![](/images/Sex%20Ed%201.jpg)
 ![](/images/Sex%20Ed%202.jpg)
+![](/images/Sex%20Ed%203.jpg)
+![](/images/Sex%20Ed%204.jpg)
+![](/images/Sex%20Ed%205(2).jpg)
+![](/images/Sex%20Ed%206.jpg)
+![](/images/Sex%20Ed%207.jpg)
+![](/images/Sex%20Ed%208.jpg)
+![](/images/Sex%20Ed%209.jpg)
+![](/images/Sex%20Ed%2010.jpg)
+![](/images/Sex%20Ed%2011.jpg)
 
 
 
 
-##### eTeens Programme:
 
-8\.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.  
-      
-    
-9\.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Bukit Merah Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bolder">Topics/Lessons</span></th><th style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bolder">Programme Learning Objectives</span></th><th style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bolder">Time Period</span><br><span style="font-weight:bolder">(e.g. Term 3 Week 9)</span></th></tr></thead><tbody><tr><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mass Talk by HPB appointed vendor</td><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">·       Awareness of the different STIs and HIV/AIDS<br>·       Modes of transmission<br>·       Modes of protection, specifically on how the condom is used<br>·       Consequences and impact of STIs/HIV<br> </td><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Term 3 Week 5</td></tr><tr><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Classroom-based Lesson</td><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br> </td><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Term 3 Week 6</td></tr></tbody></table>
 
-##### Information for Parents
 
-10\.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.  
-      
-    
-11\.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents in February and is also downloadable [here](/files/Annex-A_SEd-Programme-Opt-out-Form.pdf). The completed form is to be submitted by 04/03/2022.  
-      
-    
-12\.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents in February and is also downloadable [here](/files/Annex-B_-eTeens-Opt-out-Form.pdf). The completed form is to be submitted by 04/03/2022.  
-      
-    
-13\.  Parents can contact the school at [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
-      
-    
-14\.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+
+
