@@ -2,8 +2,11 @@
 title: School Song
 permalink: /about-us/School-Information/school-song/
 description: ""
-third_nav_title: School Information
+third_nav_title: Our School Crest and Song
 ---
+
+
+
 ### School Song
 
 <img src="/images/songpattern.png" style="width:80%">  

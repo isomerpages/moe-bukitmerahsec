@@ -2,8 +2,8 @@
 title: Mathematics
 permalink: /about-us/Departments/mathematics/
 description: ""
-third_nav_title: Our Merahan Family
 ---
+
 ### Mathematics
 
 <img src="/images/de4.png" style="width:80%">  

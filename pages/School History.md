@@ -2,8 +2,8 @@
 title: School History
 permalink: /about-us/School-Information/school-history/
 description: ""
-third_nav_title: School Information
 ---
+
 ### School History
 
 Bukit Merah Secondary School (BMSS) was the 101st school built by the government. It was completed and handed over to the Ministry of Education on 28th December 1967.

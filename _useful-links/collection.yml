@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Informing School of child's Travel plan forms.md
-      - For Parents/Application for Transfer to Bmss.md
+      - For Parents/Application for Transfer to BMSS.md
       - For Parents/Financial Assistance.md
+      - For Parents/BMSS Cyber Wellness.md
+      - For Parents/Covid19 Student Vaccination Exercise.md
+      - For Parents/Informing School of child's Travel plan forms.md
+      - For Parents/MOE Sexuality Education.md
       - For Parents/Parents Gateway (PG).md
       - For Parents/Parents Resources.md
-      - For Parents/BMSS Cyber Wellness.md
-      - For Parents/MOE Sexuality Education.md
-      - For Parents/Covid19 Student Vaccination Exercise.md
       - For Staff/.keep
       - For Staff/Useful Links for Staff.md
       - For Students/.keep

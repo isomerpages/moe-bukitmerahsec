@@ -2,8 +2,8 @@
 title: Science
 permalink: /about-us/Departments/science/
 description: ""
-third_nav_title: Our Merahan Family
 ---
+
 ### Science
 
 <img src="/images/de12.png" style="width:80%">  

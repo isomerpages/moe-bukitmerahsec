@@ -4,7 +4,6 @@ permalink: /parents/financial-assistance/
 description: ""
 third_nav_title: For Parents
 ---
-
 ### Ministry of Education Financial Assistance Scheme (MOE FAS)
 
 The Ministry of Education provides financial assistance to needy Singapore Citizen students in Government, Government-aided schools, specialized and some independent schools so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education.
@@ -23,7 +22,7 @@ Singapore Citizen students who wish to apply for financial assistance are requir
 
 Please ensure that the FAS application is accompanied by all relevant documents required by MOE.
 
-a) Hardcopy [MOE FAS Application Form](https://bukitmerahsec.moe.edu.sg/wp-content/uploads/2022/10/2023-MOE-FAS-Application-Form-BMSS-1.pdf)
+a) Hardcopy [MOE FAS Application Form]((/files/2023%20MOE%20FAS%20Application%20Form%20(BMSS).pdf)
 
     Hardcopy form is required for:
 

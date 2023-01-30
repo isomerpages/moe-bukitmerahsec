@@ -2,7 +2,7 @@ logo: /images/logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: Programmes
+  - title: Our Merahan Curriculum
     url: /programme/Events/2022/
     sublinks:
       - title: National Digital Literacy
@@ -17,11 +17,9 @@ links:
         url: /global-merahan-programme/overview/
       - title: Budding Reading Programme
         url: /programme/budding-reading-programme/
-  - title: Cca
+  - title: Our Merahan Co-curriculum
     collection: cca
   - title: Links
     collection: useful-links
   - title: Partnership
     collection: partnership
-  - title: News & Media
-    resource_room: true

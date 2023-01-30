@@ -2,22 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - School Information/.keep
-      - School Information/School Emblem Motto.md
-      - School Information/School Vision Mission Values.md
-      - School Information/School History.md
-      - School Information/School Song.md
-      - School Information/School Calendar.md
-      - School Information/School Opening Hours.md
       - Principal's Message.md
-      - Our Merahan Family/.keep
-      - Our Merahan Family/English Language and Literature.md
-      - Our Merahan Family/Mathematics.md
-      - Our Merahan Family/Science.md
-      - Our Merahan Family/Mother Tongue Languages and Aesthetics.md
-      - Our Merahan Family/Humanities.md
-      - Our Merahan Family/Craft and Technology.md
-      - Our Merahan Family/Physical Education.md
-      - Our Merahan Family/Infocomm Technology.md
-      - Our Merahan Contacts.md
+      - Our School Crest and Song/.keep
+      - Our School Crest and Song/School Emblem Motto.md
+      - Our School Crest and Song/School Song.md
+      - Our People/.keep
+      - Our People/Key Personnel.md
+      - Our People/Our Teachers.md
       - Contact Us.md
