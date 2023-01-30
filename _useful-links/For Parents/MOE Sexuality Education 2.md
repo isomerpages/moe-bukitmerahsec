@@ -62,13 +62,23 @@ b.    Character and Citizenship Education (CCE)
 ![](/images/Sex%20Ed%2010.jpg)
 ![](/images/Sex%20Ed%2011.jpg)
 
+**_eTeens_** **Programme**:
+
+8.       _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Bukit Merah Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
 
 
 
 
+**Information for Parents**
 
+10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
+11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A.pdf). The completed form is to be submitted by 20/03/2023.
 
+12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B.pdf). The completed form is to be submitted by 20/03/2023.
 
-
-
+13.      Parents can contact the school at [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
