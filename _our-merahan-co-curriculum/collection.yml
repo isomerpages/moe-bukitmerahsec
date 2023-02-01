@@ -2,4 +2,5 @@ collections:
   our-merahan-co-curriculum:
     output: true
     order:
+      - Overview.md
       - CCE Programme.md
