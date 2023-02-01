@@ -2,13 +2,6 @@ collections:
   links:
     output: true
     order:
-      - For Students/.keep
-      - For Students/School Timetable.md
-      - For Students/School Booklist.md
-      - For Students/Exam Timetable.md
-      - For Students/Scheme of Assessment.md
-      - For Students/Student iCON.md
-      - For Students/Useful Links for Student.md
       - Featured News and Articles/.keep
       - Featured News and Articles/The Straits Times — 11 April 2018.md
       - Featured News and Articles/The Straits Times — Young Athlete of the Year
@@ -16,11 +9,18 @@ collections:
       - Featured News and Articles/The Straits Times — 25 February 2021.md
       - Featured News and Articles/The New Paper — 15 January 2018.md
       - Featured News and Articles/Channel NewsAsia — BUS Programme.md
-      - For Parents/Full Subject Based Banding.md
       - For Parents/.keep
+      - For Parents/Full Subject Based Banding.md
       - For Parents/Application for Transfer to BMSS.md
       - For Parents/Informing School of Child's Travel Plan Form.md
       - For Parents/MOE Sexuality Education.md
       - For Parents/Parents Gateway (PG).md
       - For Parents/Parents Resources.md
+      - For Students/.keep
+      - For Students/School Timetable.md
+      - For Students/School Booklist.md
+      - For Students/Exam Timetable.md
+      - For Students/Scheme of Assessment.md
+      - For Students/Student iCON.md
+      - For Students/Useful Links for Student.md
       - Financial Assistance Scheme.md
