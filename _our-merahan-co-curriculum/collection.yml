@@ -2,5 +2,6 @@ collections:
   our-merahan-co-curriculum:
     output: true
     order:
+      - Learning for Life (Sports) Programme (LLP).md
       - CCE Programme.md
       - Global Merahan Programme.md
