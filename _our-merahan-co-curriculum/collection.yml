@@ -2,5 +2,5 @@ collections:
   our-merahan-co-curriculum:
     output: true
     order:
-      - Overview.md
+      - Global Merahan Programme.md
       - CCE Programme.md
