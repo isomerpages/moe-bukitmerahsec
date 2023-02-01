@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - For Students/School Timetable.md
       - For Students/.keep
       - School Booklist.md
       - Student iCON.md
