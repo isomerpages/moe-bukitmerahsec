@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Application for Transfer to BMSS.md
       - For Parents/Financial Assistance.md
       - For Parents/BMSS Cyber Wellness.md
       - For Parents/Covid19 Student Vaccination Exercise.md
