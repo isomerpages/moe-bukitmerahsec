@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Parents/Application for Transfer to BMSS.md
       - Parents/.keep
       - Financial Assistance.md
       - Informing School of child's Travel plan forms.md
