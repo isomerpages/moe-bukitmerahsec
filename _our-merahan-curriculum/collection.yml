@@ -1,5 +1,5 @@
 collections:
-  our-curriculum-programmes:
+  our-merahan-curriculum:
     output: true
     order:
       - National Digital Literacy/About NDLP.md
