@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Informing School of child's Travel plan forms.md
       - For Parents/MOE Sexuality Education.md
       - For Parents/Parents Gateway (PG).md
       - For Parents/Parents Resources.md
