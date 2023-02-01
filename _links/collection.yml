@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - For Students/Useful Links for Student.md
       - For Students/Exam Timetable.md
       - For Students/Scheme of Assessment.md
       - For Students/Student iCON.md
