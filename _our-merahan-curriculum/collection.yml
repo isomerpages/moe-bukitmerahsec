@@ -2,7 +2,6 @@ collections:
   our-merahan-curriculum:
     output: true
     order:
-      - Science.md
       - Mathematics.md
       - English Language & Literature.md
       - Home Based Learning.md
