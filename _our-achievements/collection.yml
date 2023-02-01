@@ -2,7 +2,6 @@ collections:
   our-achievements:
     output: true
     order:
-      - Achievements 2022.md
       - Achievements 2021.md
       - Alumni Achievements.md
       - Featured News Articles/Learning and Growing through the Arts.md
