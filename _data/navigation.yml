@@ -18,7 +18,10 @@ links:
       - title: Budding Reading Programme
         url: /programme/budding-reading-programme/
   - title: Our Merahan Co-curriculum
-    collection: cca
+    url: /permalink
+    sublinks:
+      - title: CCA
+        url: /permalink
   - title: Links
     collection: useful-links
   - title: Partnership
