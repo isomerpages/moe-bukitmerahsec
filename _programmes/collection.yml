@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Events/.keep
-      - Events/2021 Events.md
       - Events/2020 Events.md
       - National Digital Literacy/About NDLP.md
       - National Digital Literacy/Acer Helpdesk Service Centre.md
