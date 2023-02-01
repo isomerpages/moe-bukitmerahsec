@@ -1,5 +1,4 @@
 collections:
   our-achievements:
     output: true
-    order:
-      - Featured News Articles/.keep
+    order: []
