@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Our School Code of Conduct.md
       - Our Achievements.md
       - Principal's Message.md
       - Our School Crest and Song/.keep
       - Our School Crest and Song/School Emblem Motto.md
       - Our School Crest and Song/School Song.md
       - Our School Heritage.md
+      - Our School Code of Conduct.md
       - Our People/.keep
       - Our People/Key Personnel.md
       - Our People/Our Teachers.md
