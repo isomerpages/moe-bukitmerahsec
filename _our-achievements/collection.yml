@@ -2,5 +2,4 @@ collections:
   our-achievements:
     output: true
     order:
-      - Featured News Articles/The Straits Times — 25 February 2021.md
       - Featured News Articles/.keep
