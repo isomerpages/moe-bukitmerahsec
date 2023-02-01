@@ -2,7 +2,6 @@ collections:
   our-merahan-curriculum:
     output: true
     order:
-      - English Language & Literature.md
       - Home Based Learning.md
       - National Digital Literacy/About NDLP.md
       - National Digital Literacy/Acer Helpdesk Service Centre.md
