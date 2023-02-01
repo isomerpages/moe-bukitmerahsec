@@ -1,5 +1,4 @@
 collections:
   our-merahan-co-curriculum:
     output: true
-    order:
-      - Test/.keep
+    order: []
