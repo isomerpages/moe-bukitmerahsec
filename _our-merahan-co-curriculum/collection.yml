@@ -2,9 +2,9 @@ collections:
   our-merahan-co-curriculum:
     output: true
     order:
-      - Resilient Merahan Programme.md
       - CCE Programme.md
       - Global Merahan Programme.md
       - Learning for Life (Sports) Programme (LLP).md
       - Applied Learning (STEM) Programme (ALP).md
       - Budding Reading Programme.md
+      - Resilient Merahan Programme.md
