@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Exam Timetable.md
       - Featured News and Articles/.keep
       - Featured News and Articles/The Straits Times — 11 April 2018.md
       - Featured News and Articles/The Straits Times — Young Athlete of the Year
