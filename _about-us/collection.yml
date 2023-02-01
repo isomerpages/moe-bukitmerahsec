@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Code of Conduct.md
       - Our School Heritage.md
       - Our Publications.md
       - Principal's Message.md
