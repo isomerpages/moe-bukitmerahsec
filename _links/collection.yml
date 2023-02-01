@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - School Timetable.md
       - Scheme of Assessment.md
       - Exam Timetable.md
       - Featured News and Articles/.keep
