@@ -2,14 +2,14 @@ collections:
   our-merahan-curriculum:
     output: true
     order:
-      - Science.md
       - National Digital Literacy/.keep
       - National Digital Literacy/About NDLP.md
       - National Digital Literacy/Acer Helpdesk Service Centre.md
       - Home Based Learning.md
       - English Language & Literature.md
-      - Mother Tongue Languages & Aesthetics.md
       - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages & Aesthetics.md
       - Humanities.md
       - Craft & Technology.md
       - Physical Eduction.md
