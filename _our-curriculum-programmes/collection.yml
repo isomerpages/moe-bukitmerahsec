@@ -1,5 +1,5 @@
 collections:
-  programmes:
+  our-curriculum-programmes:
     output: true
     order:
       - National Digital Literacy/About NDLP.md
