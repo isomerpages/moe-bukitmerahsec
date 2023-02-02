@@ -18,24 +18,20 @@ TBA
 
 *   Suzanne Eng (OIC)
 *   Belwit Kaur
-*   Yit Ming En, Luke
+*   Johnson Chua
 *   Zack Tan Zheng Chao (Coach)
 
 **Trainings**
 
-**Odd Week**
 
-*   Tuesday: 3:30pm – 6:00pm
-*   Friday: 1:30pm – 4:30pm
+*   Wednesdays: 2:30pm – 5:30pm
+*   Fridays: 1:30pm – 4:30pm
 
-**Even Week**
-
-*   Tuesday: 3:30pm – 6:00pm
-*   Friday: 1:30pm – 4:30pm
 
 **Venues**
 
-*   School Hall
+*   Gan Eng Seng Pri (Wednesday Sessions)
+*   School Hall (Friday Sessions)
 
 **Activities**
 
