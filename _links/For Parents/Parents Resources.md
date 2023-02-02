@@ -4,12 +4,13 @@ permalink: /parents/Parents-Links/resources/
 description: ""
 third_nav_title: For Parents
 ---
-
-
-
-
-
 ###  Parents Resources 
+**NDLP Briefing (23 Jan 2021)**
+
+*   [NDLP-Briefing for Parents\_BMSS](/files/pr9.pdf)
+*   Visit our NDLP webpage for more info: [/national-digital-literacy-programme-ndlp/](https://bukitmerahsec.moe.edu.sg/national-digital-literacy-programme-ndlp/)
+
+* * *
 
 **2022 Subject Relevance**
 
@@ -42,10 +43,6 @@ third_nav_title: For Parents
 *   [Upper Sec Subject Combination Briefing\_Sec 2E](/files/pr7.pdf)
 *   [2022 Subject Combination Briefing 2EXP (parents)](/files/pr8.pdf)
 
-**NDLP Briefing (23 Jan 2021)**
-
-*   [NDLP-Briefing for Parents\_BMSS](/files/pr9.pdf)
-*   Visit our NDLP webpage for more info: [/national-digital-literacy-programme-ndlp/](https://bukitmerahsec.moe.edu.sg/national-digital-literacy-programme-ndlp/)
 
 **2022 Merahan Pulse E-Newsletter Edition Series:**
 
