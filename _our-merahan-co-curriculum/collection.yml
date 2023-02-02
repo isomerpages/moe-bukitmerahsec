@@ -2,6 +2,7 @@ collections:
   our-merahan-co-curriculum:
     output: true
     order:
+      - CCA/.keep
       - Test/.keep
       - CCE Programme.md
       - LEAPS.md
