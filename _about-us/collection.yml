@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Vision Mission Values.md
-      - Our Achievements.md
       - Principal's Message.md
       - Our School Crest and Song/.keep
       - Our School Crest and Song/School Emblem Motto.md
@@ -13,5 +12,6 @@ collections:
       - Our People/.keep
       - Our People/Key Personnel.md
       - Our People/Our Teachers.md
+      - Our Achievements.md
       - Our Publications.md
       - Contact Us.md
