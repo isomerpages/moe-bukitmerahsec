@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Engineering and Innovation Club.md
       - AVA Club.md
       - Club and Societies/Info Media Club.md
       - Club and Societies/.keep
