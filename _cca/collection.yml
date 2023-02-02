@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - AVA Club.md
+      - Club and Societies/Engineering and Innovation Club.md
       - Club and Societies/Info Media Club.md
       - Club and Societies/.keep
       - Club and Societies/Prefectorial Board.md
