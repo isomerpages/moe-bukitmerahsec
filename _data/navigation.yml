@@ -20,10 +20,10 @@ links:
   - title: Our Merahan Co-curriculum
     url: /permalink
     sublinks:
+      - title: CCE
+        url: /permalink
       - title: CCA
         url: /cca/permalink/
-      - title: Submenu Title
-        url: /permalink
   - title: Links
     collection: links
   - title: Partnership
