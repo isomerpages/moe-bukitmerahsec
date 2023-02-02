@@ -2,9 +2,9 @@ collections:
   our-merahan-co-curriculum:
     output: true
     order:
-      - LEAPS.md
       - test link.md
       - CCE Programme.md
+      - LEAPS.md
       - Global Merahan Programme.md
       - Learning for Life (Sports) Programme (LLP).md
       - Applied Learning (STEM) Programme (ALP).md
