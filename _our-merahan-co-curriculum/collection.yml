@@ -2,6 +2,7 @@ collections:
   our-merahan-co-curriculum:
     output: true
     order:
+      - LEAPS.md
       - test link.md
       - CCE Programme.md
       - Global Merahan Programme.md
