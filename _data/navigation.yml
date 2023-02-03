@@ -3,20 +3,7 @@ links:
   - title: About Us
     collection: about-us
   - title: Our Merahan Curriculum
-    url: /programme/Events/2022/
-    sublinks:
-      - title: National Digital Literacy
-        url: /programme/National-Digital-Literacy/about-ndlp/
-      - title: Full Subject-Based Banding
-        url: /programme/full-subject-based-banding/
-      - title: "Learning for Life Programme "
-        url: /programme/learning-for-life/
-      - title: Applied Learning Programme
-        url: /programme/applied-learning-stem-programme/
-      - title: Global Merahan Programme (GMP)
-        url: /global-merahan-programme/overview/
-      - title: Budding Reading Programme
-        url: /programme/budding-reading-programme/
+    collection: our-merahan-curriculum
   - title: Our Merahan Co-curriculum
     url: /permalink
     sublinks:
