@@ -2,7 +2,6 @@ collections:
   global-merahan-programme:
     output: true
     order:
-      - Overview.md
       - GMP 2019/GMP 2019 – Hosting of Samakkhiwitthayakhom School (SWK),
         Thailand.md
       - GMP 2019/GMP 2019 – SWPY, Phayao Thailand.md

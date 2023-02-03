@@ -18,8 +18,25 @@ links:
       - title: Budding Reading Programme
         url: /programme/budding-reading-programme/
   - title: Our Merahan Co-curriculum
-    collection: cca
+    url: /permalink
+    sublinks:
+      - title: CCE
+        url: /our-merahan-co-curriculum/permalink/
+      - title: CCA
+        url: /cca/permalink/
+      - title: Global Merahan Programme
+        url: /global-merahan-programme/
+      - title: Learning for Life Programme
+        url: /programme/learning-for-life/
+      - title: Applied Learning Programme
+        url: /programme/applied-learning-stem-programme/
+      - title: Aesthetic Education Programme
+        url: /our-merahan-co-curriculum/aep
+      - title: Buddy Reading Programme
+        url: /programme/budding-reading-programme/
+      - title: Resilient Merahan Programme
+        url: /our-merahan-co-curriculum/rmp
   - title: Links
-    collection: useful-links
+    collection: links
   - title: Partnership
     collection: partnership
