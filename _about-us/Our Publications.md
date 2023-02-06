@@ -1,6 +1,6 @@
 ---
 title: Our Publications
-permalink: /permalink/
+permalink: /about-us/permalink/
 description: ""
 ---
 Web page under construction and coming soon.
