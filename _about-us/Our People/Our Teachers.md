@@ -4,8 +4,6 @@ permalink: /our-people/permalink/
 description: ""
 third_nav_title: Our People
 ---
-
-
 #### Secondary 1 Form Teachers
 
 | Class | Form Teachers | Email |
@@ -13,7 +11,7 @@ third_nav_title: Our People
 | 1R1 | Nurhayati Bte Mohamad | nurhayati_mohamad@schools.gov.sg |
 | 1R2 | Lawrence Tan Eng Chuan<br><br>Chen Ying | tan_eng_chuan@schools.gov.sg<br><br>chen_ying_d@schools.gov.sg|
 | 1R3 | Loke Jia Yi<br><br>Rosli Bin Hamim |loke_jia_yi@schools.gov.sg<br><br>rosli_hamim@schools.gov.sg  |
-| 1R4 | Quek Jia Liang<br><br>Ong Min Li | TBA<br><br>ong_min_li@schools.gov.sg |
+| 1R4 | Quek Jia Liang<br><br>Ong Min Li | quek_jia_liang@schools.gov.sg<br><br>ong_min_li@schools.gov.sg |
 | 1R5 | Darshan Kaur<br><br>Tay Wee Leong | darshan_kaur_a@schools.gov.sg<br><br>tay_wee_leong@schools.gov.sg |
 | 1R6 | Chloe Fong<br><br>Neo Hock Kheng | fong_min_shi@schools.gov.sg<br><br>neo_hock_kheng@schools.gov.sg |
 |  |  |  |
@@ -42,7 +40,7 @@ third_nav_title: Our People
 | 3N2 | Low Young Fei<br><br>Low Sook Han (Eunice) | low_young_fei@schools.gov.sg<br><br>low_sook_han@schools.gov.sg |
 | 3E1 | Ng Wai Ping | ng_wai_ping@schools.gov.sg |
 | 3E2 | Ng Hsueh Mei | ng_hsueh_mei@schools.gov.sg |
-| 3E3 | Tan Phuay Heng <br><br>Lee Sheau Yin| tan_phuay_heng@schools.gov.sg <br><br>TBA |
+| 3E3 | Tan Phuay Heng <br><br>Lee Sheau Yin| tan_phuay_heng@schools.gov.sg <br><br>lee_sheau_yin@schools.gov.sg |
 |  |  |  |
 
 #### Secondary 4 and 5 Form Teachers

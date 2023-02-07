@@ -2,8 +2,8 @@
 title: STEM Programme
 permalink: /cca/Direct-School-Admission/stem-programme/
 description: ""
-third_nav_title: Direct School Admission
 ---
+
 ### STEM Programme
 
 <figure><b>Direct School Admission (DSA) 2022<br>

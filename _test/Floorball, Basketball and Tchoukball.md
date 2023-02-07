@@ -2,8 +2,8 @@
 title: Floorball, Basketball and Tchoukball
 permalink: /cca/Direct-School-Admission/floorball-basketball-tchoukball/
 description: ""
-third_nav_title: Direct School Admission
 ---
+
 <figure><b>Direct School Admission (DSA) 2022<br>
 Learning for Life (Sports) Programme<br>
 Character Development Through Sports  
