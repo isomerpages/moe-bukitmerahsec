@@ -13,8 +13,8 @@ third_nav_title: Our People
 |  Rungaron Lupsa | Administration Executive | rungaroon_lupsa@schools.gov.sg |
 | Peh Kian Chai | Administration Executiver | peh_kian_chai@schools.gov.sg |
 | Nur Syafi Safirah Binte Razali | Customer Service Officer | nur_syafi_safirah_razali@schools.gov.sg |
-| K S Rahela Beeviv | Operation Administration  | rahela_beevi@schools.gov.sg |
-| Rafiah Bte Mohd Jali | Operation Administration  | rafiah_mohd_jali@schools.gov.sg |
+| K S Rahela Beeviv | Office Attendant  | rahela_beevi@schools.gov.sg |
+| Rafiah Bte Mohd Jali | Office Attendant  | rafiah_mohd_jali@schools.gov.sg |
 | Muhamad Haikal Bin Razali | ICT Associate | muhammad_haikal_razali@schools.gov.sg |
 | Chua Eng Chiongi | TSO | chua_eng_chiong@schools.gov.sg |
 | Zhang Lihui | TSO | zhang_lihui@schools.gov.sg |
