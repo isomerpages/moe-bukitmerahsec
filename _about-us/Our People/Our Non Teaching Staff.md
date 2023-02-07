@@ -16,10 +16,10 @@ third_nav_title: Our People
 | K S Rahela Beeviv | Office Attendant  | rahela_beevi@schools.gov.sg |
 | Rafiah Bte Mohd Jali | Office Attendant  | rafiah_mohd_jali@schools.gov.sg |
 | Muhamad Haikal Bin Razali | ICT Associate | muhammad_haikal_razali@schools.gov.sg |
-| Chua Eng Chiongi | TSO | chua_eng_chiong@schools.gov.sg |
-| Zhang Lihui | TSO | zhang_lihui@schools.gov.sg |
-| Subramanian Udayakumari | TSO | subramanian_udayakumari@schools.gov.sg |
-| Nor Idayu Binte Ayob | TSO| nor_idayu_ayob@schools.gov.sg|
+| Chua Eng Chiongi | Technical Support Officer | chua_eng_chiong@schools.gov.sg |
+| Zhang Lihui | Technical Support Officer | zhang_lihui@schools.gov.sg |
+| Subramanian Udayakumari | Technical Support Officer | subramanian_udayakumari@schools.gov.sg |
+| Nor Idayu Binte Ayob | Technical Support Officer | nor_idayu_ayob@schools.gov.sg|
 <br><br>**Name** |  <br><br>**Designation**  | <br><br>**Email Address**  |
 | Pushpavati Devi d/o Madhav Rai| Librarian | pushpavati_devi@schools.gov.sg|
 | Tan Nancy | School GO Receptionist | tan_nancy@schools.gov.sg |
