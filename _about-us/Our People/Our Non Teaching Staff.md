@@ -20,7 +20,7 @@ third_nav_title: Our People
 | Zhang Lihui | TSO | zhang_lihui@schools.gov.sg |
 | Subramanian Udayakumari | TSO | subramanian_udayakumari@schools.gov.sg |
 | Nor Idayu Binte Ayob | TSO| nor_idayu_ayob@schools.gov.sg|
-<br><br>**Key Personnel** |  <br><br>**Designation**  | <br><br>**Email Address**  |
+<br><br>**Name** |  <br><br>**Designation**  | <br><br>**Email Address**  |
 | Pushpavati Devi d/o Madhav Rai| Librarian | pushpavati_devi@schools.gov.sg|
 | Tan Nancy | School GO Receptionist | tan_nancy@schools.gov.sg |
 | Low Pow Huat | Desktop Engineer | powhuatl@ncs.com.sg |
