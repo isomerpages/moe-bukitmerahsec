@@ -4,11 +4,7 @@ permalink: /useful-links/BMSS-Students/exam-timetable/
 description: ""
 third_nav_title: For Students
 ---
-
-
-
-
-### End-Of-Year Examination Timetable (2022)
+### End-Of-Year Examination Timetable (2023)
 
 (Click on the hyperlink to download the exam timetable of the level/stream)
 
@@ -16,26 +12,27 @@ third_nav_title: For Students
 
 |  |  |  |
 |---|---|---|
-| [1NT](/files/et1.pdf) | [1NA](/files/et2.pdf) | [1EXP](/files/et3.pdf) |
+|  | | |
 |  |  |  |
 
 #### Secondary 2
 
 |  |  |  |
 |---|---|---|
-| [2NT](/files/et4.pdf) | [2NA](/files/et5.pdf) | [2EXP](/files/et6.pdf) |
+| 2NT | 2NA | 2EXP |
 |  |  |  |
 
 #### Secondary 3
 
 |  |  |  |
 |---|---|---|
-| [3NT](/files/et7.pdf) | [3NA](/files/et8.pdf) | [3EXP](/files/et9.pdf) |
+| 3NT | 3NA | 3EXP |
 |  |  |  |
 
+### Prelims (2023)
 #### Secondary 4/5
 
 |  |  |  |
 |---|---|---|
-| [4NT](/files/et10.pdf) | [4NA](/files/et11.pdf) | [4E5NA](/files/et12.pdf) |
+| 4NT | 4NA | 4E5NA |
 |  |  |  |
