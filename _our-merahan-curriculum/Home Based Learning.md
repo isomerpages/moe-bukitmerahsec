@@ -3,9 +3,6 @@ title: Home Based Learning
 permalink: /useful-links/BMSS-Students/hbl/
 description: ""
 ---
-
-
-
 ### Home-based Learning (HBL)
 
 **Announcement**
@@ -17,10 +14,11 @@ description: ""
 
 Students are to log on the Singapore Student Learning Space ([http://learning.moe.edu.sg](http://learning.moe.edu.sg/)) to access instructions to lessons packages prepared by the teachers.
 
-**Timetable for Home-Based Learning (HBL)**<br>
-(Please click the link below to access the scheduled work for your class)
+**Home-Based Learning Schedule for Semester 1 
+**
+[HBL Schedule for Semester 1 (2023)](/files/HBL%20Schedule_Sem%201%202023_For%20Students.pdf)
 
-NIL
+<br>
 
 <img src="/images/hbl.png" style="width:60%">
 
