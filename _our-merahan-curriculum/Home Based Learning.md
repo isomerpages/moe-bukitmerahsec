@@ -5,8 +5,6 @@ description: ""
 ---
 ### Home-based Learning (HBL)
 
-**Announcement**
-<br>NIL
 
 **Links to Student Learning Space & Troubleshooting Guide:**<br>
 [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)<br>
@@ -14,8 +12,8 @@ description: ""
 
 Students are to log on the Singapore Student Learning Space ([http://learning.moe.edu.sg](http://learning.moe.edu.sg/)) to access instructions to lessons packages prepared by the teachers.
 
-**Home-Based Learning Schedule for Semester 1 
-**
+**Home Based Learning Schedule For Semester 1 (2023)**
+
 [HBL Schedule for Semester 1 (2023)](/files/HBL%20Schedule_Sem%201%202023_For%20Students.pdf)
 
 <br>
