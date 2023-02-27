@@ -27,7 +27,7 @@ third_nav_title: Our People
 | 2E1 | Fang Swee Foong (Anthony) | fang_swee_foong@schools.gov.sg |
 | 2E2 | Tan Wai Hong<br><br>Leow Li Quin | tan_wai_hong@schools.gov.sg<br><br>leow_li_quin@schools.gov.sg |
 | 2E3 | Ho Shumin | ho_shumin@schools.gov.sg  |
-| 2E4| Ng Shuping (Faith)<br><br>Tan Sheng Xian | ng_shuping@schools.gov.sg<br><br>tan_shen_xian@schools.gov.sg |
+| 2E4| Ng Shuping (Faith)<br><br>Tan Sheng Xian | ng_shuping@schools.gov.sg<br><br>tan_sheng_xian@schools.gov.sg |
 |  |  |  |
 
 #### Secondary 3 Form Teachers
