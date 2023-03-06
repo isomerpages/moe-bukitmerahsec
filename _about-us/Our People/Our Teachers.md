@@ -4,7 +4,7 @@ permalink: /our-people/permalink/
 description: ""
 third_nav_title: Our People
 ---
-#### Secondary 1 Form Teachers
+#### Secondary 1 Level Teachers
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
@@ -16,7 +16,7 @@ third_nav_title: Our People
 | 1R6 | Chloe Fong<br><br>Neo Hock Kheng | fong_min_shi@schools.gov.sg<br><br>neo_hock_kheng@schools.gov.sg |
 |  |  |  |
 
-#### Secondary 2 Form Teachers 
+#### Secondary 2 Level Teachers 
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
@@ -30,7 +30,7 @@ third_nav_title: Our People
 | 2E4| Ng Shuping (Faith)<br><br>Tan Sheng Xian | ng_shuping@schools.gov.sg<br><br>tan_sheng_xian@schools.gov.sg |
 |  |  |  |
 
-#### Secondary 3 Form Teachers
+#### Secondary 3 Level Teachers
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
@@ -43,7 +43,7 @@ third_nav_title: Our People
 | 3E3 | Tan Phuay Heng <br><br>Lee Sheau Yin| tan_phuay_heng@schools.gov.sg <br><br>lee_sheau_yin@schools.gov.sg |
 |  |  |  |
 
-#### Secondary 4 and 5 Form Teachers
+#### Secondary 4 and 5 Level Teachers
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
