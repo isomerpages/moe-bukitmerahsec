@@ -9,7 +9,7 @@ third_nav_title: For Parents
 **Subject Combination Briefing (3 Mar 2023)**
 * [Principal's Address](/files/Upper%20Sec%20Subject%20Combination%202023.pdf)
 * [Sec 2 NT](/files/2023%20Subject%20Combination%20Briefing%202NT%20v2.pdf)
-* [Sec 2 NA](/files/2023%20Subject%20Combination%20Briefing%202NA%20v2.pdf)
+* [Sec 2NA](/files/2023%20Subject%20Combination%20Briefing%202NA%20v2%20(Corrected).pdf)
 * [Sec 2 Express](/files/2023%20Subject%20Combination%20Briefing%202EXP%20v2.pdf)
 
 **NDLP Briefing (23 Jan 2021)**
