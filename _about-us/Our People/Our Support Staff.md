@@ -26,3 +26,14 @@ third_nav_title: Our People
 | Low Pow Huat | Desktop Engineer | powhuatl@ncs.com.sg |
 | Mohammed Nazarudin bin Abdul Malek | Desktop Engineer | mn.ba@ncs.com.sg |
 | Janet Phan | School Health Advisor | janetsf_phan@certisgroup.com |
+
+
+#### Student Well-Being Unit
+
+| Key Personnel | Designation | Email Address |
+|:---:|:---:|:---:|
+| Goh Kiat Foong | Counsellor | goh_kiat_foong@schools.gov.sg |
+| Ke Chyan Wen | School Counsellor | ke_chyan_wen@schools.gov.sg |
+| Yeo Wei Sze, Rachael| School Counsellor | yeo_wei_sze_rachael@schools.gov.sg |
+| Michelle Lim Peck Hong | Senior AED (LBS) | michelle_lim_peck_hong@schools.gov.sg |
+| Joanne Yau Oi Lai | Student Welfare Officer| yau_oi_lai_joanne@schools.gov.sg |
