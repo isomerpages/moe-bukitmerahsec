@@ -12,7 +12,7 @@ third_nav_title: Our People
 | Mr Clifton Koh | Vice-Principal | KOH_Siew_Boon@schools.gov.sg|
 | Ms Sharon Yap | Vice-Principal | yap_sharon@schools.gov.sg |
 | Dr Leong Swee Ling | Master Teacher | leong_swee_ling@schools.gov.sg |
-<br>**Key Personnel** |  <br>**Designation**  | <br>**Email Address**  |
+<br><br>**Key Personnel** |  <br><br>**Designation**  | <br><br>**Email Address**  |
 | Leow Ser Leng | HOD English Language | leow_ser_leng@schools.gov.sg |
 | Huang Wen Qing | HOD ICT | huang_wen_qing@schools.gov.sg |
 | Wun Boon Leng | HOD Mathematics | wun_boon_leng@schools.gov.sg |
