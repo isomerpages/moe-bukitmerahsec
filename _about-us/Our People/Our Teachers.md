@@ -56,7 +56,7 @@ third_nav_title: Our People
 | 5N1 | Ho Wing Leong (David) | ho_wing_leong@schools.gov.sg |
 |  |  |  |
 
-#### Allied Educators
+#### Student Well-Being Unit
 
 | Key Personnel | Designation | Email Address |
 |:---:|:---:|:---:|
