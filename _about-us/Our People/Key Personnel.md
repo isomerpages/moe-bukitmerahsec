@@ -44,13 +44,3 @@ third_nav_title: Our People
 | Leow Li Quin | Senior Teacher (English Language) | leow_li_quin@schools.gov.sg |
 | Phang Kay Yen | Senior Teacher (Mathematics) | phang_kay_yen@schools.gov.sg |
 | Lee Tzi Wei, Gaius | Senior Teacher (Physics) | lee_tzi_wei@schools.gov.sg |
-
-#### Allied Educators
-
-| Key Personnel | Designation | Email Address |
-|:---:|:---:|:---:|
-| Goh Kiat Foong | Counsellor | goh_kiat_foong@schools.gov.sg |
-| Ke Chyan Wen | School Counsellor | ke_chyan_wen@schools.gov.sg |
-| Yeo Wei Sze, Rachael| School Counsellor | yeo_wei_sze_rachael@schools.gov.sg |
-| Michelle Lim Peck Hong | Senior AED (LBS) | michelle_lim_peck_hong@schools.gov.sg |
-| Joanne Yau Oi Lai | Student Welfare Officer| yau_oi_lai_joanne@schools.gov.sg |
