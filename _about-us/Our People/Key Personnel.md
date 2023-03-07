@@ -12,7 +12,7 @@ third_nav_title: Our People
 | Mr Clifton Koh | Vice-Principal | KOH_Siew_Boon@schools.gov.sg|
 | Ms Sharon Yap | Vice-Principal | yap_sharon@schools.gov.sg |
 | Dr Leong Swee Ling | Master Teacher | leong_swee_ling@schools.gov.sg |
-<br>**Key Personnel** |  <br>**Designation**  | <br>**Email Address**  |
+<br><br>**Key Personnel** |  <br><br>**Designation**  | <br><br>**Email Address**  |
 | Leow Ser Leng | HOD English Language | leow_ser_leng@schools.gov.sg |
 | Huang Wen Qing | HOD ICT | huang_wen_qing@schools.gov.sg |
 | Wun Boon Leng | HOD Mathematics | wun_boon_leng@schools.gov.sg |
@@ -44,13 +44,3 @@ third_nav_title: Our People
 | Leow Li Quin | Senior Teacher (English Language) | leow_li_quin@schools.gov.sg |
 | Phang Kay Yen | Senior Teacher (Mathematics) | phang_kay_yen@schools.gov.sg |
 | Lee Tzi Wei, Gaius | Senior Teacher (Physics) | lee_tzi_wei@schools.gov.sg |
-
-#### Allied Educators
-
-| Key Personnel | Designation | Email Address |
-|:---:|:---:|:---:|
-| Goh Kiat Foong | Counsellor | goh_kiat_foong@schools.gov.sg |
-| Ke Chyan Wen | School Counsellor | ke_chyan_wen@schools.gov.sg |
-| Yeo Wei Sze, Rachael| School Counsellor | yeo_wei_sze_rachael@schools.gov.sg |
-| Michelle Lim Peck Hong | Senior AED (LBS) | michelle_lim_peck_hong@schools.gov.sg |
-| Joanne Yau Oi Lai | Student Welfare Officer| yau_oi_lai_joanne@schools.gov.sg |
