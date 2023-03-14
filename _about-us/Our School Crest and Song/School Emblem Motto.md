@@ -4,12 +4,7 @@ permalink: /about-us/School-Information/school-emblem-motto/
 description: ""
 third_nav_title: Our School Crest and Song
 ---
-
-
-
-
-
-### School Emblem Motto
+### School Emblem & Motto
 
  <img src="/images/bmsslogo.jpeg" style="width:20%">  
  
