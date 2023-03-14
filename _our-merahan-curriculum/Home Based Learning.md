@@ -27,7 +27,7 @@ During school operating hours, students should contact the **School-based Helpl
 
 *   School-based helpline: **6474 8934**  
     Email: **muhammad_haikal_razali@moe.edu.sg**
-*   Mondays – Fridays: 8.00am – 4.00pm
+*   Mondays – Fridays: 9.00am – 4.00pm
 
 **Non-School Operating Hours**
 
