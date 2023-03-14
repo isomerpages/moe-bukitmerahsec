@@ -36,3 +36,4 @@ third_nav_title: Our People
 | Yeo Wei Sze, Rachael| School Counsellor | yeo_wei_sze_rachael@schools.gov.sg |
 | Michelle Lim Peck Hong | Senior Special Educational Needs Officer | michelle_lim_peck_hong@schools.gov.sg |
 | Joanne Yau Oi Lai | Student Welfare Officer| yau_oi_lai_joanne@schools.gov.sg |
+| Damon Choo | Education & Career Guidance Counsellor | choo_soon_heng@schools.gov.sg |
