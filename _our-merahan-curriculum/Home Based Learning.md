@@ -14,7 +14,8 @@ Students are to log on the Singapore Student Learning Space ([http://learning.mo
 
 **Home-Based Learning Schedule For Semester 1 (2023)**
 
-[HBL Schedule for Semester 1 (2023)](/files/HBL%20Schedule_Sem%201%202023_For%20Students.pdf)
+*Click on the link below to access the HBL timetable:*
+[HBL Timetable for Semester 1 2023](/files/BMSS%202023%20Sem%201%20HBL%20Schedule_ForStudents_UPDATED.pdf)
 
 <br>
 
@@ -25,8 +26,8 @@ Students are to log on the Singapore Student Learning Space ([http://learning.mo
 During school operating hours, students should contact the **School-based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
 *   School-based helpline: **6474 8934**  
-    Email: **muhammad\_haikal\_razali@moe.edu.sg**
-*   Mondays – Fridays: 8.00am – 4.00pm
+    Email: **muhammad_haikal_razali@moe.edu.sg**
+*   Mondays – Fridays: 9.00am – 4.00pm
 
 **Non-School Operating Hours**
 
@@ -36,7 +37,7 @@ Outside the school operating hours, students should contact the **SLS Helpdesk*
 
 Mondays – Fridays: 4.00pm – 9.00pm  
 Saturdays: 9.00am – 3.00pm  
-\*Closed on Sundays & Public Holidays
+*Closed on Sundays & Public Holidays
 
 *   Email SLS Helpdesk at **helpdesk@sls.ufinity.com**
 
