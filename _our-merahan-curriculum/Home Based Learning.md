@@ -26,7 +26,7 @@ Students are to log on the Singapore Student Learning Space ([http://learning.mo
 During school operating hours, students should contact the **School-based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
 *   School-based helpline: **6474 8934**  
-    Email: **muhammad\_haikal\_razali@moe.edu.sg**
+    Email: **muhammad_haikal_razali@moe.edu.sg**
 *   Mondays – Fridays: 8.00am – 4.00pm
 
 **Non-School Operating Hours**
