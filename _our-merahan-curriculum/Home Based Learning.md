@@ -14,7 +14,8 @@ Students are to log on the Singapore Student Learning Space ([http://learning.mo
 
 **Home-Based Learning Schedule For Semester 1 (2023)**
 
-[HBL Schedule for Semester 1 (2023)](/files/HBL%20Schedule_Sem%201%202023_For%20Students.pdf)
+*Click on the link below to access the HBL timetable*
+[HBL Timetable for Semester 1 2023](/files/BMSS%202023%20Sem%201%20HBL%20Schedule_ForStudents_UPDATED.pdf)
 
 <br>
 
