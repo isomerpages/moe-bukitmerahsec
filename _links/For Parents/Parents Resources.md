@@ -6,13 +6,16 @@ third_nav_title: For Parents
 ---
 ###  Parents Resources 
 
+**Term 2 Principal's Message**
+* [Term 2 Principal's Message](/files/Principals-Letter-to-Parents_2022-Term-3.pdf)
+
 **Subject Combination Briefing (3 Mar 2023)**
 * [Principal's Address](/files/Upper%20Sec%20Subject%20Combination%202023.pdf)
 * [Sec 2NT](/files/2023%20Subject%20Combination%20Briefing%202NT%20v2.pdf)
 * [Sec 2NA](/files/2023%20Subject%20Combination%20Briefing%202NA%20v2%20(Corrected).pdf)
 * [Sec 2 Express](/files/2023%20Subject%20Combination%20Briefing%202EXP%20v2.pdf)
 
-**NDLP Briefing (23 Jan 2021)**
+**NDLP Briefing**
 
 *   [NDLP-Briefing for Parents\_BMSS](/files/pr9.pdf)
 *   Visit our NDLP webpage for more info: [/national-digital-literacy-programme-ndlp/](https://bukitmerahsec.moe.edu.sg/national-digital-literacy-programme-ndlp/)
