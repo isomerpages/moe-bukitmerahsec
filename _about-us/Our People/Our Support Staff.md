@@ -12,7 +12,6 @@ third_nav_title: Our People
 |  Lim Chun Leong | Operation Manager | lim_chun_leong@schools.gov.sg|
 |  Rungaroon Lupsa | Administrative Executive | rungaroon_lupsa@schools.gov.sg |
 | Peh Kian Chai | Administrative Executive | peh_kian_chai@schools.gov.sg |
-| Nur Syafi Safirah Binte Razali | Corporate Support Officer | nur_syafi_safirah_razali@schools.gov.sg |
 | K S Rahela Beevi | Office Attendant  | rahela_beevi@schools.gov.sg |
 | Rafiah Bte Mohd Jali | Office Attendant  | rafiah_mohd_jali@schools.gov.sg |
 | Muhamad Haikal Bin Razali | ICT Associate | muhammad_haikal_razali@schools.gov.sg |
