@@ -7,7 +7,7 @@ third_nav_title: For Parents
 ###  Parents Resources 
 
 **Term 2 Principal's Message**
-* [Term 2 Principal's Message](/files/Principals-Letter-to-Parents_2022-Term-3.pdf)
+* [Term 2 Principal's Message](/files/BMSS_2023-Term-2-Principals-Message.pdf)
 
 **Subject Combination Briefing (3 Mar 2023)**
 * [Principal's Address](/files/Upper%20Sec%20Subject%20Combination%202023.pdf)
