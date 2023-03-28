@@ -14,5 +14,3 @@ Back in class, students got to discuss, learn more about one another’s culture
 |---|---|---|
 | <img src="/images/rhd1.png" style="width:80%"> | <img src="/images/rhd2.png" style="width:80%"> | <img src="/images/rhd3.png" style="width:80%"> |
 |  |  |  |
-
-Insert video here.
