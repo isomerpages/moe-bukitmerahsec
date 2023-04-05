@@ -17,8 +17,8 @@ third_nav_title: For Parents
 
 **NDLP Briefing**
 
-*   [NDLP-Briefing for Parents\_BMSS](/files/pr9.pdf)
-*   Visit our NDLP webpage for more info: [/national-digital-literacy-programme-ndlp/](https://bukitmerahsec.moe.edu.sg/national-digital-literacy-programme-ndlp/)
+*   [Parent Engagement Deck 2023](/files/IP1%20-%20Parent%20Engagement%20Deck_2023_for%20website.pdf)
+*   Visit our NDLP webpage for more info: [/national-digital-literacy-programme-ndlp/](https://www.bukitmerahsec.moe.edu.sg/programme/National-Digital-Literacy/about-ndlp/)
 
 * * *
 

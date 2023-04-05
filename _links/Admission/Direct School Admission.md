@@ -33,4 +33,4 @@ Primary 6 students can apply for DSA-Sec based on a wide-range of talents, inclu
 
 #### Click on the link below to access the school DSA website:
 
-Link: **TBA**
+Link: [BMSS DSA Website](https://sites.google.com/moe.edu.sg/bmdsallp/home)
