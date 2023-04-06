@@ -9,7 +9,7 @@ third_nav_title: For Students
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| Secondary 1 | &nbsp;[WA1](/files/2023%20BMSS%20Scheme%20of%20Assessment_WA1_updated%2010%20Feb_Sec%201.pdf) | [WA2](/files/2023%20bmss%20scheme%20of%20assessment_wa2_v2_sec%201.pdf) |
+| Secondary 1 | [WA1](/files/2023%20BMSS%20Scheme%20of%20Assessment_WA1_updated%2010%20Feb_Sec%201.pdf) | [WA2](/files/2023%20bmss%20scheme%20of%20assessment_wa2_v2_sec%201.pdf) |
 
 
 |  |  |  |
