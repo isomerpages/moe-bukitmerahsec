@@ -4,8 +4,6 @@ permalink: /cca/Club-and-Societies/engineering-and-innovation-club/
 description: ""
 third_nav_title: Club and Societies
 ---
-
-
 ### Engineering and Innovation Club
 
 |  |  |
@@ -51,32 +49,44 @@ TBA
 
 **Achievements**
 
-*   2021:
-    *   Toy Design Competition 2021 – 3 commendation awards and 2 merit awards
+**2022:**
+*   Toy Design Competition 2022 - Automata Category (Urban F1 Car Racing)
+    *   2nd Prize
+    *   2x Merit Award
+    *   1x Commendation Award
 
-*   2019:
-    *   IDEERS competition – 1st and 3rd Placing
-    *   National Earthquake Competition 2019 organised by Singapore Polytechnic: Champion
+* Singapore Amazing Flying Machine 
+    *   1x Merit Award
+
+
+**2021:**
+* Toy Design Competition 2021 – 3 commendation awards and 2 merit awards
+
+
+**2019:**
+* IDEERS competition – 1st and 3rd Placing
+* National Earthquake Competition 2019 organised by Singapore Polytechnic: Champion
         
     *   InnoBit Challenge 2019 – 1st Runner-Up
         
     *   Toy Design Competition 2019 – 1 commendation award, 3 merit awards and the 2nd prize (Group Awards)
-        *   Overall best submitted entries (School Award)
+     *   Overall best submitted entries (School Award)
     *   F1 in Schools National Finals 2019 – Overall 3rd in Development Class category
 
-*    2018:
-    *   National Earthquake Competition 2018 organised by Singapore Polytechnic – Champion
-    *   Introducing and Demonstrating Earthquake Engineering Research in Schools (IDEERS) International Competition 2018 held in Taiwan – 4th Placing
-    *   Toy Design Competition 2018 – 2nd Prize + 2 merit prizes
+**2018:**
 
-*    2017:
-    *   National Earthquake Competition 2017 organised by Singapore Polytechnic – Champion
-    *   Toy Design Competition – 2nd Prize + 1 merit prize
-    *   F1 in Schools National Finals 2017 – Overall Champions and Overall 2nd in Development Class category
-    *   Future Transportation Challenge 2017 organised by Singapore Polytechnic – Most Popular Car: 1st Runner-Up
-    *   Underwater Robotics Competition 2017 organised by Republic Polytechnic – 2nd Runner-Up
+ * National Earthquake Competition 2018 organised by Singapore Polytechnic – Champion
+ * Introducing and Demonstrating Earthquake Engineering Research in Schools (IDEERS)&nbsp;International Competition 2018 held in Taiwan – 4th Placing
+* Toy Design Competition 2018 – 2nd Prize + 2 merit prizes
 
-*   2016:
-    *   Clean Water Challenge 2016 – Champion
-    *   Toy Design Competition – 3rd prize + 2 merit prizes for three entries
-    *   Shell-STEM Youth Innovation Challenge 2016: SMART Driverless Car – Champion
+**2017:**
+* National Earthquake Competition 2017 organised by Singapore Polytechnic – Champion
+* Toy Design Competition – 2nd Prize + 1 merit prize
+* F1 in Schools National Finals 2017 – Overall Champions and Overall 2nd in Development Class category
+* Future Transportation Challenge 2017 organised by Singapore Polytechnic – Most Popular Car: 1st Runner-Up
+* Underwater Robotics Competition 2017 organised by Republic Polytechnic – 2nd Runner-Up
+
+**2016:**
+* Clean Water Challenge 2016 – Champion
+* Toy Design Competition – 3rd prize + 2 merit prizes for three entries
+* Shell-STEM Youth Innovation Challenge 2016: SMART Driverless Car – Champion
