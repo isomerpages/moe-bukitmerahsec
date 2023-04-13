@@ -4,8 +4,6 @@ permalink: /cca/Club-and-Societies/ava-club/
 description: ""
 third_nav_title: Club and Societies
 ---
-
-
 ### AVA Club
 
 <img src="/images/cca1.png" style="width:90%">
@@ -16,9 +14,9 @@ TBA
 
 **Teachers-in-charge**
 
-*   Tay Wee Leong (OIC)
-*   Eunice Low Sook Han
-*   Chen Ying
+*   Mr Tay Wee Leong&nbsp;(OIC)
+*   Mdm Lee Sheau Yin
+*   Ms Chen Ying
 
 **Trainings**
 
@@ -45,5 +43,3 @@ The AVA Club provides AV services for the daily morning assembly as well as scho
 *   Teachers’ Day Celebrations
 *   Graduation Day
 *   AVA training camps
-
-[](https://bukitmerahsec.moe.edu.sg/cca/clubs-societies/ava-club/#)
