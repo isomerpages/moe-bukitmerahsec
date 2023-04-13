@@ -62,6 +62,17 @@ Finalist team for PDS competition @ NCC HQ
 Public performance 
 * e-Festivo
 
+**Info Media Club**<br>
+S2 Cluster Photography Showcase 2022
+* Certificate of Achievement
+
+**E&amp;I**<br>
+Toy Design Competition 2022
+* 2nd Prize, 2 merit awards, 1 commendation award
+
+Singapore Amazing Flying Machine Competition 2022
+* 1 Cat B merit award
+
 <hr>
 
 #### 2021
