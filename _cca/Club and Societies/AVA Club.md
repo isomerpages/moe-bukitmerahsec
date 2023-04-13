@@ -6,7 +6,7 @@ third_nav_title: Club and Societies
 ---
 ### AVA Club
 
-<img src="/images/cca1.png" style="width:90%">
+<img src="/images/cca1.png" style="width:90%, align:left">
 
 **CCA Announcement**
 
