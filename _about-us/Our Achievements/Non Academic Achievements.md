@@ -13,6 +13,29 @@ National Inter-Schools Floorball Competitions 2022
 
 *   ‘B’ Division Boys: CHAMPION
 
+Singapore Schools Sports Council Colours Award in recognition of sporting excellence in the ‘B’ Division Floorball Championships 2022
+* Ng Jun Yang
+* Mohamed Zu’fierzan Bin Mohamed Nesani
+* M Raihan Bin Edwan
+* Andry Zukri Bin Suwandi
+* Muhamad Anndeeqa Rasheede Bin Muhamad Rashid
+* Ho En Jay Joel
+* Muhammad Naufal Bin M Bahseer Ahamad
+* Zuhair Bin Samion
+* Juan Fikry Bin Muhammad Jeremy
+* Hiren
+* Oliver Ong Ann Yen
+* Muhammad Fattah Bin Barin
+* Muhammad Ilyasa Hilham Putera Haswandi
+* Danial Amirul Bin Hamdi
+* Muhammad Ashriq Reyshafiq Bin Roslee
+* Lee Taeyang
+* William Zaw Tun
+
+Singapore Schools Sports Council Sportsmanship Award in recognition for demonstrating outstanding sportsmanship in the ‘B’ Division Floorball Championships 2022:
+* Muhammad Fattah Bin Barin
+* Nurul Ramadhani
+
 **Basketball** <br>
 South Zone Inter-School Championships 2022
 
@@ -21,6 +44,23 @@ South Zone Inter-School Championships 2022
 **Whye Nam U14 Girls Basketball Tournament 2022**
 
 *   3rd Position
+
+
+**Tchoukball**<br>
+14th National Inter-School Tchoukball Championships 2022 ‘B’ Division Girls Cup – 7th place
+
+15th National Inter-School Tchoukball Championships 2022 ‘C’ Division Girls – 5th place
+
+**NCC**<br>
+Unit Recognition 2022 - Distinction
+
+BMSS NCC PDS National Day Celebration Performance 2022 @ APSN Tanglin School
+Finalist team for PDS competition @ NCC HQ
+5 certified cadets for PDS Basic Instructor course
+
+**Dance**<br>
+Public performance 
+* e-Festivo
 
 <hr>
 
