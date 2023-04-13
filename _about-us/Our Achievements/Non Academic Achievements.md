@@ -4,6 +4,13 @@ permalink: /about-us/our-achievements/permalink/
 description: ""
 third_nav_title: Our Achievements
 ---
+#### 2023
+
+**NCC**<br>
+Finalist team for PDS competition 2023
+
+<hr>
+
 #### 2022
 
 <img src="/images/achievements1.png" style="width:40%,align: left">  
