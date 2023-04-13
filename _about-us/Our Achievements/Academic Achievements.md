@@ -8,7 +8,8 @@ third_nav_title: Our Achievements
 
 
 **History**<br>
-Gold level certificate Historical Scene 
+Historical Scene
+* Gold level certificate
 
 Investigation Challenge
 NUS Geography Challenge
@@ -37,4 +38,4 @@ ICAS Competition
 
 **Science**<br> 
 ICAS Competition
-* 1 High Distinction, 2 Distinction, 15 Credit and 5 Merit 
+* 1 High Distinction, 2 Distinction, 15 Credit and 5 Merit
