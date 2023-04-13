@@ -38,4 +38,4 @@ Monthly on Friday: 12.30pm - 1.15pm
 | Head Prefect    | Isabelle Thong - 4E1     | 
 | Deputy Head Prefect    | Yau Kai Ting Colleen - 4E3     | 
 | Head of Logistics    | Tan Han Jing - 4E1   | 
-| Head of Publicity   | Nur Atirah Binte Mohammad Effendi - 4T1  | 
+| Head of Publicity   | Nur Atirah Binte Mohammad Effendi - 4T1  |
