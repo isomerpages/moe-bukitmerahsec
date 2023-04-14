@@ -21,7 +21,7 @@ TBA
 
 **Trainings**
 
-Monthly on Friday: 12:30pm - 1:15pm
+* Monthly on Friday: 12:30pm - 1:15pm
 
 
 **Activities**
