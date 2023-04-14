@@ -6,7 +6,7 @@ third_nav_title: Club and Societies
 ---
 ### Young Entrepreneurs' Club
 
-<img src="/images/cca7.png" style="width:90%">
+<img src="/images/cca7.png" style="width:90%,align:left">
 
 **CCA Announcement**
 
@@ -22,13 +22,13 @@ TBA
 
 **Odd Week**
 
-*   Wednesday: 2.30pm – 5.00pm
-*   Friday\*: 1.00pm – 3.00pm (\*On needs basis. Notification forms to be given if required)
+*   Wednesday: 2:30pm – 5:00pm
+*   Friday*: 1:00pm – 3:00pm (On needs basis. Notification forms to be given if required)
 
 **Even Week**
 
-*   Wednesday: 2.30pm – 5.00pm
-*   Friday\*: 1.00pm – 3.00pm (\*On needs basis. Notification forms to be given if required)
+*   Wednesday: 2:30pm – 5:00pm
+*   Friday*: 1:00pm – 3:00pm (On needs basis. Notification forms to be given if required)
 
 **Venues**
 
@@ -37,7 +37,7 @@ TBA
 
 **Achievements**
 
-*   Ultimate Startup Challenge by Ngee Ann Polytechnic – 6th Place
+*   Ultimate Startup Challenge by Ngee Ann Polytechnic – 6th&nbsp;Place
 *   Digital Business Challenge (Youth Entrepreneurs Competition 2017 organised by Republic Polytechnic):
     *   Best Visual Display Team
 *   National Pushcart Challenge (Youth Entrepreneurs Competition 2016 organised by Republic Polytechnic):
