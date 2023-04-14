@@ -21,11 +21,9 @@ TBA
 **Trainings**
 
 **Odd Week**  
-Friday: 
-* 12:45pm – 1:15pm
+Friday:  12.45pm – 1.15pm
 
-Monday – Friday:
-* 7:10am and during Special Functions
+Monday – Friday: 7.10am and during Special Functions
 
 **Activities**
 
