@@ -14,9 +14,9 @@ TBA
 
 **Teachers-in-charge**
 
-*   Ng Wai Ping (OIC)
-*   Teo Wei Ting Eunice
-*   Evelyn Wu
+*   Mrs Tan Wai Ping (OIC)
+*   Ms Adeline Kong
+*   Mdm Chen Jing
 
 **Trainings**
 
