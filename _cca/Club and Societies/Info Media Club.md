@@ -20,11 +20,11 @@ TBA
 
 **Odd Week**
 
-Wednesday: 2:30pm – 5:30pm
+* Wednesday: 2:30pm – 5:30pm
 
 **Even Week**
 
-Wednesday: 2:30pm – 5:30pm
+* Wednesday: 2:30pm – 5:30pm
 
 **Venues**
 
