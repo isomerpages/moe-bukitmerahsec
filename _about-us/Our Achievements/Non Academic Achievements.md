@@ -19,9 +19,9 @@ third_nav_title: Our Achievements
 
 **Uniformed Groups**
 
-| CCA  | Competition | Achievement |
+| Sports | Competition| Achievement |
 | -------- | -------- | -------- |
-| NCC | Unit Recognition 2022 <br><br>PDS competition @ NCC HQ <br><br>PDS Basic Instructor Course   |Distinction<br><br> Finalist<br><br>5 certified cadets  |
+| NCC    | Unit Recognition 2022 <br><br>PDS competition @ NCC HQ <br><br>PDS Basic Instructor Course   | Distinction<br><br> Finalist<br><br>5 certified cadets  |
 
 **Sports**
 
