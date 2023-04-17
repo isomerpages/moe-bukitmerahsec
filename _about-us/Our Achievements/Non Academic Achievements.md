@@ -32,7 +32,7 @@ third_nav_title: Our Achievements
 ##### **Clubs and Societies**
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
-| E&amp;I   | Toy Design Competition 2022 <br><br><br>Singapore Amazing Flying Machine Competition 2022    | 2nd place, 2 merits, 1 commendation<br><br> Merit  |
+| E&amp;I   | Toy Design Competition 2022 <br><br><br>Singapore Amazing Flying Machine Competition 2022    | 2nd prize, 2 merits, 1 commendation<br><br> Merit  |
 |Info Media Club|S2 Cluster Photography Showcase 2022| Certificate of Achievement|
 |
 
