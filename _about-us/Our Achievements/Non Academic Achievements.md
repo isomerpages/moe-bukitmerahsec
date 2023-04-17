@@ -37,3 +37,14 @@ third_nav_title: Our Achievements
 |
 
 #### 2021 Achievements
+##### **Uniformed Groups**
+| Sports | Competition| Achievement |
+| -------- | -------- | -------- |
+| NCC    | Unit Recognition 2021<br><br>NCC West Outstanding Cadet Award 2021    | Distinction <br><br>1 awardee  |
+|||
+##### **Performing Arts**
+| Sports | Competition| Achievement |
+| -------- | -------- | -------- |
+| Band    | Singapore Youth Festival Arts Presentation 2021 (Percussion Ensemble)<br><br>Singapore Youth Festival Arts Presentation 2021 (Flexible Band)	 | Certificate of Distinction <br><br><br><br><br>Certificate of Accomplishment  |
+|Dance|Singapore Youth Festival Arts Presentation 2021|Certificate of Distinction |
+|Drama|Singapore Youth Festival Arts Presentation 2021|Certificate of Accomplishment|
