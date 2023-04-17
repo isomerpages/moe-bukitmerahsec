@@ -7,8 +7,8 @@ third_nav_title: Our Achievements
 ##### 2023 Achievements
 
 
-**Uniformed Groups**
-| CCA  | Competition| Achievement |
+##### **Uniformed Groups**
+| Sports | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | PDS Competition 2023    | Finalist   |
 |||
@@ -28,8 +28,8 @@ third_nav_title: Our Achievements
 |Floorball|National Inter-Schools Floorball Competitions 2022 – B Division<br><br>Singapore Schools Sports Council Colours Award<br><br>Singapore Schools Sports Council Sportsmanship Award| Champion<br><br><br><br><br>  17 awardees <br><br> <br><br> 2 awardees|
 |Tchoukball| 14th National Inter-School Tchoukball Championships 2022 ‘B’ Division Girls Cup <br><br>15th National Inter-School Tchoukball Championships 2022 ‘C’ Division Girls| 7th place <br><br> <br><br><br><br> <br>5th place|
 
-##### **Uniformed Groups**
+##### **Clubs and Societies**
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
-| NCC    | PDS Competition 2023    | Finalist   |
-|||
+| E&amp;I    | Toy Design Competition 2022 <br><br><br>Singapore Amazing Flying Machine Competition 2022    | 2nd place, 2 merits, 1 commendation<br><br> Merit  |
+|Info Media Club|S2 Cluster Photography Showcase 2022| Certificate of Achievement|
