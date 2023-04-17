@@ -56,3 +56,12 @@ third_nav_title: Our Achievements
 | E&amp;I    | Toy Design Competition 2021    | 3 commendation and 2 merit |
 |Info Media Club|S2 Cluster Photography Showcase 2021|Certificate of Achievement|
 |
+
+#### 2020 Achievements
+
+
+##### **Uniformed Groups**
+| Sports | Competition| Achievement |
+| -------- | -------- | -------- |
+| NCC    | NCC West Outstanding Cadet Award    | 1 awardee   |
+|SJB|Corps Achievement Award 2020<br><br>Chief Commissioner’s Award| Gold <br><br><br>7 awardees|
