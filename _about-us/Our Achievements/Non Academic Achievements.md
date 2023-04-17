@@ -11,7 +11,7 @@ third_nav_title: Our Achievements
 | Sports | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | PDS Competition 2023    | Finalist   |
-|||
+
 
 
 
@@ -20,7 +20,7 @@ third_nav_title: Our Achievements
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | Unit Recognition 2022 <br><br>PDS competition @ NCC HQ <br><br>PDS Basic Instructor Course   |Distinction<br><br> Finalist<br><br><br>5 certified cadets  |
-|||
+
 
 ##### **Sports**
 | CCA  | Competition| Achievement |
