@@ -61,16 +61,9 @@ Fridays:
 
 **External Activities:**
 
-*   Singapore Floorball League 2018/2019 (Ladies)
-    *   Division II – Merahan Sparrows
-*   Singapore Floorball League 2018/2019 (Men)
-    *   Division III – Merahan Gunners
-*   Singapore Floorball League 2017/2018 (Ladies)
-    *   Division II – Merahan Sparrows
-*   Singapore Floorball League 2017/2018 (Men)
-    *   Division IV – Merahan Ravens
-*   Singapore Floorball League 2016/2017 (Men)
-    *   Division II – Merahan Gunners
-*   Floorball Clinics with Primary Schools
-    *   Stamford Primary School 2018 – 2019
+* Singapore Floorball League 2022/2023 
+   * Men’s Division III – Merahan Ravens
+   * Women’s Division III – Merahan Sparrows
+
+*	Pesta Sukan 2022
 
