@@ -26,7 +26,7 @@ third_nav_title: Our Achievements
 | NCC    | Unit Recognition 2022 <br><br>PDS competition @ NCC HQ <br><br>PDS Basic Instructor Course   |Distinction<br><br> Finalist<br><br><br>5 certified cadets  |
 
 
-##### **Sports**
+**Sports**
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
 | Basketball    | South Zone B Division Boys Inter-School Championships 2022 <br><br>Whye Nam U14 Girls Basketball Tournament 2022   | Fair Play Award <br><br><br><br><br>3rd place|
