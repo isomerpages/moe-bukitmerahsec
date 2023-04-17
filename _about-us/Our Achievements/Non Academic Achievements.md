@@ -34,7 +34,7 @@ third_nav_title: Our Achievements
 |Tchoukball| 14th National Inter-School Tchoukball Championships 2022 ‘B’ Division Girls Cup <br><br>15th National Inter-School Tchoukball Championships 2022 ‘C’ Division Girls| 7th place <br><br> <br><br><br><br> <br>5th place|
 |
 
-##### **Clubs and Societies**
+ **Clubs and Societies**
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
 | E&amp;I   | Toy Design Competition 2022 <br><br><br>Singapore Amazing Flying Machine Competition 2022    | 2nd prize, 2 merits, 1 commendation<br><br> Merit  |
@@ -42,19 +42,19 @@ third_nav_title: Our Achievements
 |
 
 #### 2021 Achievements
-##### **Uniformed Groups**
+**Uniformed Groups**
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | Unit Recognition 2021<br><br>NCC West Outstanding Cadet Award 2021    | Distinction <br><br>1 awardee  |
 |||
-##### **Performing Arts**
+**Performing Arts**
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | Band    | Singapore Youth Festival Arts Presentation 2021 (Percussion Ensemble)<br><br>Singapore Youth Festival Arts Presentation 2021 (Flexible Band)	 | Certificate of Distinction <br><br><br><br><br>Certificate of Accomplishment  |
 |Dance|Singapore Youth Festival Arts Presentation 2021|Certificate of Distinction |
 |Drama|Singapore Youth Festival Arts Presentation 2021|Certificate of Accomplishment|
 |
-##### **Clubs and Societies**
+**Clubs and Societies**
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | E&amp;I    | Toy Design Competition 2021    | 3 commendation and 2 merit |
@@ -64,7 +64,7 @@ third_nav_title: Our Achievements
 #### 2020 Achievements
 
 
-##### **Uniformed Groups**
+**Uniformed Groups**
 | Sports | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | NCC West Outstanding Cadet Award    | 1 awardee   |
