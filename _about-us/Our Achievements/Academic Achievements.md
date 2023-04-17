@@ -4,38 +4,18 @@ permalink: /about-us/our-achievements/academic-achievements/
 description: ""
 third_nav_title: Our Achievements
 ---
-#### 2022
+##### 2022 Achievements
 
 
-**History**<br>
-Historical Scene
-* Gold level certificate
+| Department | Competition | Achievement |
+| -------- | -------- | -------- |
+| Science     | ICAS Science Assessment    | 1 High Distinction, 2 Distinctions, 15 Credit and 5 Merits    |
+| | |
 
-Investigation Challenge
-NUS Geography Challenge
-* Bronze Medal
+##### 2021 Achievements
 
-**Maths**<br>
-Singapore Maths Kangaroo Contest Achievements
-* 3 Gold, 2 Silver, 5 Bronze and 4 Honorable Mention
-
-Singapore and ASEAN Schools Mathematics Olympiad
-* 4 Silver, 4 Bronze and 6 Honorable Mention
-
-All Singapore Secondary Mathematics Competition for Normal Academics
-Lower Secondary Normal Academics Individual Category
-* 8th Position
-
-**Science**<br> 
-ICAS Competition
-* 2 Distinction and 11 credit 
-
-
-
-<hr>
-
-#### 2021
-
-**Science**<br> 
-ICAS Competition
-* 1 High Distinction, 2 Distinction, 15 Credit and 5 Merit
+| Department | Competition | Achievement |
+| -------- | -------- | -------- |
+| Science     | ICAS Science Assessment    | 2 Distinctions and 11 Credit  |
+|Humanities |Historical Scene Investigation Challenge <br><br> NUS Geography Challenge | Gold <br><br><br><br><br> Bronze|
+| Mathematics| Singapore Maths Kangaroo Contest<br><br><br>Singapore and ASEAN Schools Mathematics Olympiad<br><br><br>All Singapore Secondary Mathematics Competition for Normal Academics|3 Gold, 2 Silver, 5 Bronze and 4 Honorable Mention<br><br>4 Silver, 4 Bronze and 6 Honorable Mention<br><br><br>8th position|
