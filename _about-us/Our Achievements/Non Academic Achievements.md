@@ -31,8 +31,7 @@ third_nav_title: Our Achievements
 | Floorball |National Inter-Schools Floorball Competitions 2022 – B Division<br><br>Singapore Schools Sports Council Colours Award<br><br>Singapore Schools Sports Council Sportsmanship Award| Champion<br><br><br><br><br>  17 awardees <br><br> <br><br> 2 awardees|
 |Tchoukball | 14th National Inter-School Tchoukball Championships 2022 ‘B’ Division Girls Cup <br><br>15th National Inter-School Tchoukball Championships 2022 ‘C’ Division Girls| 7th place <br><br> 5th place|
 
-
- **Clubs and Societies**
+**Clubs and Societies**
  
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
@@ -41,7 +40,9 @@ third_nav_title: Our Achievements
 |
 
 #### 2021 Achievements
+
 **Uniformed Groups**
+
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | Unit Recognition 2021<br><br>NCC West Outstanding Cadet Award 2021    | Distinction <br><br>1 awardee  |
