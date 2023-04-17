@@ -28,7 +28,7 @@ third_nav_title: Our Achievements
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
 | Basketball | South Zone B Division Boys Inter-School Championships 2022 <br><br>Whye Nam U14 Girls Basketball Tournament 2022   | Fair Play Award <br><br>3rd place|
-| Floorball |National Inter-Schools Floorball Competitions 2022 – B Division<br><br>Singapore Schools Sports Council Colours Award<br><br>Singapore Schools Sports Council Sportsmanship Award| Champion<br><br><br><br><br>  17 awardees <br><br> <br><br> 2 awardees|
+| Floorball |National Inter-Schools Floorball Competitions 2022 – B Division<br><br>Singapore Schools Sports Council Colours Award<br><br>Singapore Schools Sports Council Sportsmanship Award| Champion<br><br>  17 awardees <br><br> 2 awardees|
 |Tchoukball | 14th National Inter-School Tchoukball Championships 2022 ‘B’ Division Girls Cup <br><br>15th National Inter-School Tchoukball Championships 2022 ‘C’ Division Girls| 7th place <br><br> 5th place|
 
 **Clubs and Societies**
@@ -51,7 +51,7 @@ third_nav_title: Our Achievements
 
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
-| Band    | Singapore Youth Festival Arts Presentation 2021 (Percussion Ensemble)<br><br>Singapore Youth Festival Arts Presentation 2021 (Flexible Band)	 | Certificate of Distinction <br><br><br><br><br>Certificate of Accomplishment  |
+| Band    | Singapore Youth Festival Arts Presentation 2021 (Percussion Ensemble)<br><br>Singapore Youth Festival Arts Presentation 2021 (Flexible Band)	 | Certificate of Distinction <br><br>Certificate of Accomplishment  |
 |Dance|Singapore Youth Festival Arts Presentation 2021|Certificate of Distinction |
 |Drama|Singapore Youth Festival Arts Presentation 2021|Certificate of Accomplishment|
 
@@ -71,5 +71,4 @@ third_nav_title: Our Achievements
 | Sports | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | NCC West Outstanding Cadet Award    | 1 awardee   |
-|SJB|Corps Achievement Award 2020<br><br>Chief Commissioner’s Award| Gold <br><br><br>7 awardees|
-|
+|SJB|Corps Achievement Award 2020<br><br>Chief Commissioner’s Award| Gold <br><br>7 awardees|
