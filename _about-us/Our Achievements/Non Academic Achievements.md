@@ -24,6 +24,7 @@ third_nav_title: Our Achievements
 | NCC    | Unit Recognition 2022 <br><br>PDS competition @ NCC HQ <br><br>PDS Basic Instructor Course   |Distinction<br><br> Finalist<br><br>5 certified cadets  |
 
 **Sports**
+
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
 | Basketball | South Zone B Division Boys Inter-School Championships 2022 <br><br>Whye Nam U14 Girls Basketball Tournament 2022   | Fair Play Award <br><br>3rd place|
@@ -32,6 +33,7 @@ third_nav_title: Our Achievements
 
 
  **Clubs and Societies**
+ 
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
 | E&amp;I   | Toy Design Competition 2022 <br><br><br>Singapore Amazing Flying Machine Competition 2022    | 2nd prize, 2 merits, 1 commendation<br><br> Merit  |
@@ -45,6 +47,7 @@ third_nav_title: Our Achievements
 | NCC    | Unit Recognition 2021<br><br>NCC West Outstanding Cadet Award 2021    | Distinction <br><br>1 awardee  |
 
 **Performing Arts**
+
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | Band    | Singapore Youth Festival Arts Presentation 2021 (Percussion Ensemble)<br><br>Singapore Youth Festival Arts Presentation 2021 (Flexible Band)	 | Certificate of Distinction <br><br><br><br><br>Certificate of Accomplishment  |
@@ -62,6 +65,7 @@ third_nav_title: Our Achievements
 
 
 **Uniformed Groups**
+
 | Sports | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | NCC West Outstanding Cadet Award    | 1 awardee   |
