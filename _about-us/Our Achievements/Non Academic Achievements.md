@@ -9,7 +9,7 @@ third_nav_title: Our Achievements
 
 **Uniformed Groups**
 
-| Sports | Competition| Achievement |
+| CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | PDS Competition 2023    | Finalist   |
 
@@ -19,7 +19,7 @@ third_nav_title: Our Achievements
 
 **Uniformed Groups**
 
-| Sports | Competition| Achievement |
+| CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | Unit Recognition 2022 <br><br>PDS competition @ NCC HQ <br><br>PDS Basic Instructor Course   | Distinction<br><br> Finalist<br><br>5 certified cadets  |
 
@@ -68,7 +68,7 @@ third_nav_title: Our Achievements
 
 **Uniformed Groups**
 
-| Sports | Competition| Achievement |
+| CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | NCC West Outstanding Cadet Award    | 1 awardee   |
 |SJB|Corps Achievement Award 2020<br><br>Chief Commissioner’s Award| Gold <br><br>7 awardees|
