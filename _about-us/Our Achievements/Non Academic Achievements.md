@@ -32,19 +32,26 @@ third_nav_title: Our Achievements
 ##### **Clubs and Societies**
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
-| E&amp;I    | Toy Design Competition 2022 <br><br><br>Singapore Amazing Flying Machine Competition 2022    | 2nd place, 2 merits, 1 commendation<br><br> Merit  |
+| E&amp;I   | Toy Design Competition 2022 <br><br><br>Singapore Amazing Flying Machine Competition 2022    | 2nd place, 2 merits, 1 commendation<br><br> Merit  |
 |Info Media Club|S2 Cluster Photography Showcase 2022| Certificate of Achievement|
 |
 
 #### 2021 Achievements
 ##### **Uniformed Groups**
-| Sports | Competition| Achievement |
+| CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | Unit Recognition 2021<br><br>NCC West Outstanding Cadet Award 2021    | Distinction <br><br>1 awardee  |
 |||
 ##### **Performing Arts**
-| Sports | Competition| Achievement |
+| CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | Band    | Singapore Youth Festival Arts Presentation 2021 (Percussion Ensemble)<br><br>Singapore Youth Festival Arts Presentation 2021 (Flexible Band)	 | Certificate of Distinction <br><br><br><br><br>Certificate of Accomplishment  |
 |Dance|Singapore Youth Festival Arts Presentation 2021|Certificate of Distinction |
 |Drama|Singapore Youth Festival Arts Presentation 2021|Certificate of Accomplishment|
+|
+##### **Clubs and Societies**
+| CCA | Competition| Achievement |
+| -------- | -------- | -------- |
+| E&amp;I    | Toy Design Competition 2021    | 3 commendation and 2 merit |
+|Info Media Club|S2 Cluster Photography Showcase 2021|Certificate of Achievement|
+|
