@@ -55,6 +55,7 @@ third_nav_title: Our Achievements
 |Drama|Singapore Youth Festival Arts Presentation 2021|Certificate of Accomplishment|
 
 **Clubs and Societies**
+
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | E&amp;I    | Toy Design Competition 2021    | 3 commendation and 2 merit |
