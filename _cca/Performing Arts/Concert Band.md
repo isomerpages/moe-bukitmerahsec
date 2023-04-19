@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 ### Concert Band
 
-<img src="/images/cca22.png" style="width:80%">
+<img src="/images/cca22.png" style="width:80%, align:left">
 
 **CCA Announcement**
 
@@ -44,6 +44,4 @@ Sec 2-5:
 * Singapore Youth Festival (SYF)
 * Chinese New Year Celebration
 * Band Camp
-* Band Exchange 
-
-
+* Band Exchange
