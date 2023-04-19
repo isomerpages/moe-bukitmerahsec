@@ -17,11 +17,9 @@ TBA
 
 *   Ms Loke Jia Yi (Boys’ IC)
 *   Mr Yit Ming En Luke (Girls’ IC)
-*   Stephanie Goh
-
-**Floorball Coaches**
-*   Mohamad Rashid Bin Jalaluddin (Boys’ Coach)
-*    Muhammad Shamir Alfee Bin Aminudin (Girls’ Coach)
+*   Ms Stephanie Goh
+*   Mr Mohamad Rashid Bin Jalaluddin (Boys’ Coach)
+*    Mr Muhammad Shamir Alfee Bin Aminudin (Girls’ Coach)
 
 **Trainings**
 
@@ -66,4 +64,3 @@ Fridays:
    * Women’s Division III – Merahan Sparrows
 
 *	Pesta Sukan 2022
-
