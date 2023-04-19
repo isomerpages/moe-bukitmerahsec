@@ -22,7 +22,7 @@ TBA
 
 **Trainings**
 
-**Odd week**&nbsp;
+**Odd week**
 
 *   Wednesday: 2:30pm – 4:30pm
 *   Friday*: 1:30pm – 3:30pm (\*Only on needs basis for extra rehearsals)
@@ -52,8 +52,3 @@ TBA
 *   Drama Games
 *   Drama Exercises
 *   Physical Training
-
-
-
-
-
