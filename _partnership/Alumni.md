@@ -28,7 +28,7 @@ Bukit Merah Secondary School Alumni Committee (Pro-tem)
 
 <input id="accordion1" type="checkbox">
 
-<label for="accordion1">2020 Executive Committee Formation (Pro-tem)</label>
+<label for="accordion1">2023 Executive Committee Formation</label>
 
 <div>
 
