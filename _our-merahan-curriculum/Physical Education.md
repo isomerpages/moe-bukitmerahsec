@@ -1,5 +1,5 @@
 ---
-title: Physical Eduction
+title: Physical Education
 permalink: /our-merahan-curriculum/permalink/
 description: ""
 ---

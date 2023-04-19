@@ -4,7 +4,7 @@ permalink: /about-us/Our-People/permalink/
 description: ""
 third_nav_title: Our People
 ---
-#### Executive & Administrative Staff
+#### Executive &amp; Administrative Staff
 
 | Name | Designation | Email Address |
 |:---:|:---:|:---:|
@@ -12,6 +12,7 @@ third_nav_title: Our People
 |  Lim Chun Leong | Operation Manager | lim_chun_leong@schools.gov.sg|
 |  Rungaroon Lupsa | Administrative Executive | rungaroon_lupsa@schools.gov.sg |
 | Peh Kian Chai | Administrative Executive | peh_kian_chai@schools.gov.sg |
+| Yip Zi Min Vanessa | Corporate Support Officer | yip_zi_min_vanessa@schools.gov.sg |
 | K S Rahela Beevi | Office Attendant  | rahela_beevi@schools.gov.sg |
 | Rafiah Bte Mohd Jali | Office Attendant  | rafiah_mohd_jali@schools.gov.sg |
 | Muhamad Haikal Bin Razali | ICT Associate | muhammad_haikal_razali@schools.gov.sg |
@@ -35,4 +36,4 @@ third_nav_title: Our People
 | Yeo Wei Sze, Rachael| School Counsellor | yeo_wei_sze_rachael@schools.gov.sg |
 | Michelle Lim Peck Hong | Senior Special Educational Needs Officer | michelle_lim_peck_hong@schools.gov.sg |
 | Joanne Yau Oi Lai | Student Welfare Officer| yau_oi_lai_joanne@schools.gov.sg |
-| Damon Choo | Education & Career Guidance Counsellor | choo_soon_heng@schools.gov.sg |
+| Damon Choo | Education &amp; Career Guidance Counsellor | choo_soon_heng@schools.gov.sg |

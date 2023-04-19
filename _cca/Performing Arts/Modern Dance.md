@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 ### Modern Dance
 
-<img src="/images/cca23.png" style="width:80%">
+<img src="/images/cca23.png" style="width:80%,align:left">
 
 **CCA Announcement**
 
@@ -14,29 +14,24 @@ TBA
 
 **Teachers-in-charge**
 
-*   Tay Fang Lin Catherine (OIC)
-*   Yeo Xing Wen
-*   Ng Hui Ling
-*   Dan Kwoh (Instructor)
-*   Mr. Emmet Ng (Assistant Instructor)
+*   Ms Tay Fang Lin Catherine (OIC)
+*   Ms Yeo Xing Wen
+*   Ms Ng Hui Ling
+*   Mr Dan Kwoh (Instructor)
+*   Mr Emmet Ng (Assistant Instructor)
 
 **Trainings**
 
 *   Wednesday: 2:30pm – 5:30pm
-*   Friday: 1pm – 3pm
+*   Friday: 1pm – 4pm (until SYF period), 1pm - 3pm
 
-**Venue:** 
+**Venue:**
 
 *   CD Shelter
 
 **Activities**
 
-*   Singapore Youth Festival (April)
+* Journey (19 March 2023)
+* Singapore Youth Festival (April)
 
 
-**Achievements**
-
-*   Singapore Youth Festival Arts Presentation 2021: Certificate of Distinction
-*   Singapore Youth Festival Arts Presentation 2019: Certificate of Accomplishment
-*   Singapore Youth Festival Arts Presentation 2017: Certificate of Accomplishment
-*   Singapore Youth Festival Arts Presentation 2015:  Certificate of Distinction

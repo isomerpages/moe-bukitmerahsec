@@ -16,23 +16,20 @@ TBA
 
 **Teachers-in-charge**
 
-*   Suzanne Eng (OIC)
-*   Belwit Kaur
-*   Johnson Chua
-*   Zack Tan Zheng Chao (Coach)
+*   Ms Suzanne Eng (OIC)
+*   Mdm Belwit Kaur
+*   Mr Johnson Chua
+*   Mr Zack Tan Zheng Chao (Coach)
 
 **Trainings**
 
 
-*   Wednesdays: 2:30pm – 5:30pm
-*   Fridays: 1:30pm – 4:30pm
-
-
-**Venues**
-
-*   Gan Eng Seng Pri (Wednesday Sessions)
-*   School Hall (Friday Sessions)
+*   Wednesdays: 2:30pm – 5:30pm (Gan Eng Seng Pri ISH)
+*   Fridays: 1:30pm – 4:30pm (School Hall)
 
 **Activities**
+* Participation in the Annual ‘B’ and ‘C’ Division TBAS Inter-School Tchoukball Championships
+* Annual team-building and training camp
+* Tchoukball station during SPLT sessions
+* Friendly games 
 
-NIL
