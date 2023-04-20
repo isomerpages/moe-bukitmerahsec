@@ -28,7 +28,17 @@ links:
     sublinks:
       - title: Direct School Admission
         url: https://go.gov.sg/bmssdsa
+      - title: For Parents
+        url: /permalink
       - title: For Students
         url: /for-students/school-timetable/
+      - title: For Staff
+        url: /permalink
+      - title: Admission
+        url: /permalink
+      - title: Financial Assistance Scheme
+        url: /permalink
+      - title: Featured News and Articles
+        url: /permalink
   - title: Partnership
     collection: partnership
