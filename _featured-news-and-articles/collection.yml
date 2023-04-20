@@ -1,0 +1,4 @@
+collections:
+  featured-news-and-articles:
+    output: true
+    order: []
