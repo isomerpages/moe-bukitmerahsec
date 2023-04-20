@@ -23,8 +23,8 @@ links:
         url: /programme/budding-reading-programme/
       - title: Resilient Merahan Programme
         url: /our-merahan-co-curriculum/rmp
-  - title: For Students
-    collection: for-students
+  - title: Links
+    collection: links
   - title: Partnership
     collection: partnership
   - title: Links
@@ -32,3 +32,5 @@ links:
     sublinks:
       - title: Direct School Admission
         url: https://go.gov.sg/bmssdsa
+      - title: For Students
+        url: /permalink
