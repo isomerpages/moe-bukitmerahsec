@@ -2,6 +2,7 @@ collections:
   for-parent:
     output: true
     order:
+      - Parents Resources.md
       - Parents Gateway (PG).md
       - MOE Sexuality Education 3.md
       - MOE Sexuality Education.md
