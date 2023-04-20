@@ -8,4 +8,4 @@ third_nav_title: Our Achievements
 
 |  |  | 
 | -------- | -------- | 
-|  <img src="/images/nsf-of-the-year-2022.jpg" style="width:50%">  | Khairul Nizam Bin Abdul Rashid (2016, Class 4G) <br> Awarded National Serviceman of the Year 2022 <br>Unit: Medical Response Force    |
+|  <img src="/images/nsf-of-the-year-2022.jpg" style="width:40%">  | Khairul Nizam Bin Abdul Rashid (2016, Class 4G) <br> Awarded National Serviceman of the Year 2022 <br>Unit: Medical Response Force    |
