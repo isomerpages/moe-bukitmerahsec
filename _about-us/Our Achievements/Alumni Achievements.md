@@ -4,7 +4,7 @@ permalink: /about-us/our-achievements/alumni-achievements/
 description: ""
 third_nav_title: Our Achievements
 ---
-### 2022
+### 2022 Alumni Awards
 
 |  |  | 
 | -------- | -------- | 
