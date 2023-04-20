@@ -33,12 +33,10 @@ links:
       - title: For Students
         url: /for-students/school-timetable/
       - title: For Staff
-        url: /permalink
+        url: /for-staff/useful-links/
       - title: Admission
-        url: /permalink
+        url: " /admission/application/"
       - title: Financial Assistance Scheme
-        url: /permalink
-      - title: Featured News and Articles
         url: /permalink
   - title: Partnership
     collection: partnership
