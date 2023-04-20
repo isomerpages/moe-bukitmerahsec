@@ -24,6 +24,19 @@ links:
       - title: Resilient Merahan Programme
         url: /our-merahan-co-curriculum/rmp
   - title: Links
-    collection: links
+    url: /permalink
+    sublinks:
+      - title: Direct School Admission
+        url: https://go.gov.sg/bmssdsa
+      - title: For Parents
+        url: /for-parents/travel-plan-form/
+      - title: For Students
+        url: /for-students/school-timetable/
+      - title: For Staff
+        url: /for-staff/useful-links/
+      - title: Admission
+        url: /admission/application/
+      - title: Financial Assistance Scheme
+        url: /for-parents/financial-assistance/
   - title: Partnership
     collection: partnership

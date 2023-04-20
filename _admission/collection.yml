@@ -1,0 +1,6 @@
+collections:
+  admission:
+    output: true
+    order:
+      - Application for Transfer to BMSS.md
+      - Open House Event.md
