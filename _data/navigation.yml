@@ -24,13 +24,11 @@ links:
       - title: Resilient Merahan Programme
         url: /our-merahan-co-curriculum/rmp
   - title: Links
-    collection: links
-  - title: Partnership
-    collection: partnership
-  - title: Links
     url: /permalink
     sublinks:
       - title: Direct School Admission
         url: https://go.gov.sg/bmssdsa
       - title: For Students
         url: /For Students/permalink
+  - title: Partnership
+    collection: partnership
