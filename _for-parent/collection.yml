@@ -2,6 +2,7 @@ collections:
   for-parent:
     output: true
     order:
+      - Full Subject Based Banding.md
       - Parents Resources.md
       - Parents Gateway (PG).md
       - MOE Sexuality Education 3.md
