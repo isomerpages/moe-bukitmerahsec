@@ -1,5 +1,5 @@
 collections:
-  for-parent:
+  for-parents:
     output: true
     order:
       - Informing School of Child's Travel Plan Form.md
