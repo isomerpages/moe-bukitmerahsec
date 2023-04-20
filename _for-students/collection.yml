@@ -2,5 +2,6 @@ collections:
   for-students:
     output: true
     order:
+      - Scheme of Assessment.md
       - School Booklist.md
       - Exam Timetable.md
