@@ -2,5 +2,5 @@ collections:
   admission:
     output: true
     order:
-      - Open House Event.md
       - Application for Transfer to BMSS.md
+      - Open House Event.md
