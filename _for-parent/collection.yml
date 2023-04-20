@@ -2,6 +2,7 @@ collections:
   for-parent:
     output: true
     order:
+      - Parents Gateway (PG).md
       - MOE Sexuality Education 3.md
       - MOE Sexuality Education.md
       - Informing School of Child's Travel Plan Form.md
