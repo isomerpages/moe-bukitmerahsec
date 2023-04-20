@@ -1,4 +1,5 @@
 collections:
   featured-news-and-articles:
     output: true
-    order: []
+    order:
+      - The Straits Times — 25 February 2021.md
