@@ -27,3 +27,8 @@ links:
     collection: links
   - title: Partnership
     collection: partnership
+  - title: Links
+    url: /permalink
+    sublinks:
+      - title: Direct School Admission
+        url: /permalink
