@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Useful Links for Student.md
       - School Timetable.md
       - Scheme of Assessment.md
       - School Booklist.md
