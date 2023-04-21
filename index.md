@@ -14,5 +14,5 @@ sections:
           url: resources/announcements/
         - title: Parents
           description: Information for Parents
-          url: /parents/financial-assistance/
+          url: /for-parents/travel-plan-form/
 ---
