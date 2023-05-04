@@ -15,6 +15,7 @@ description: ""
 *   Ms Neo Siew Eng (HOD Normal Stream)
 *   Ms Toh Yongmei Stella (Year Head Lower Sec)
 *   Mr Seow Xian Yi Winston (SH ICT)
+*   Mr Jereme Chee (LH Discipline)
 *   Ms Liao Xinwei (SH Math)
 *   Ms Phang Kay Yen (ST Math)
 *   Mr Lee Tzi Wei Gaius (ST Physics)
@@ -24,6 +25,10 @@ description: ""
 *   Mr Yong Junxiong Eric
 *   Ms Loke Jiayi
 *   Ms Lee Hwee Choo Yvonne
+*   Mr Shahrizal Bin Salim
+*  Ms Lee Sheau Yin
+*  Mr Steven Tan
+*  Mr Muhammad Shamir Alfee Bin Aminuddin
 
 **Department Vision**
 
@@ -40,8 +45,18 @@ Harnessing ICT to enhance the learning process.
 
 *   National Mathematics Competition for NA / NT
 *   Singapore Mathematics Olympiad (SMO)
-*   NSW International Competitions &amp; Assessments for Schools in Mathematics
 *   Singapore and ASEAN Schools Mathematics Olympiad
 *   Singapore Maths Kangaroo Contest
-*   Statistical Poster Competition
 *   SAMFEST
+
+
+**Achievements**
+
+2022:
+
+* Singapore Maths Kangaroo Contest Achievements - 3 Gold, 2 Silver, 5 Bronze and 4 Honorable Mention
+
+* Singapore and ASEAN Schools Mathematics Olympiad - 4 Silver, 4 Bronze and 6 Honorable Mention
+
+* All Singapore Secondary Mathematics Competition for Normal Academics
+Lower Secondary Normal Academics Individual Category - 8th Position
