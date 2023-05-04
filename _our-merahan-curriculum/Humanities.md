@@ -17,11 +17,11 @@ description: ""
 *   Ms Ng Shi Ming
 *   Mr Law Ngiap Hui
 *   Mr Ho Wing Leong David
+*   Ms Darshan Kaur A
 *   Mr Lim Rong Hua Eric
-*   Mdm Belwit Kaur
 *   Ms Giselle Maria Rai
-*   Mr Muhammad Hisham Bin Anwar
 *   Ms Goh Ee Xin Stephanie
+*   Ms Eunice Low Sook Han
 
 **Department Vision**
 
@@ -29,28 +29,29 @@ A Community of Engaged Learners
 
 **Department Details**
 
-The Humanities department is committed to developing a community of engaged learners and seeks to develop students into lifelong learners through a variety of exciting approaches. The Humanities classroom is a vibrant venue where Humanities comes alive through the skilful approaches adopted by the Humanities teacher.
+The Humanities department is committed to developing a community of engaged learners and seeks to develop students into lifelong learners through a variety exciting approaches The Humanities classroom brings about vibrancy in the classroom where Humanities comes alive through the skillful approaches adopted by the Humanities teacher.
 
-The department adopts the inquiry-based method as its core approach in exposing students to Humanities disciplines. Through this approach, students are trained to work independently, collaborate with peers and think critically.
+The department adopts the inquiry-based learning as its core approach in exposing students to Humanities disciplines. Through this approach, students are given opportunities to work independently, collaborate with peers and think critically.
 
-The department plans for programmes that give students authentic experiences and allow for collaborative work in order for students to gain confidence and develop their social skills. To enhance their experiences, students will have the opportunity to be engaged in a variety of lessons that occur outside of the classroom such as fieldwork , competitions and local/overseas learning journeys.
-
-In addition, Humanities lessons are a hub for National Education (NE). Topics covered &nbsp;are aligned to NE messages enabling pupils to connect the present to the past, thus infusing a sense of appreciation to the country in them.
+The department plans for programmes that give students authentic experiences and allow for collaborative work
 
 **Programmes**
 
 <img src="/images/de22.png" style="width:80%">
 
-*   EBS Work Experience Programme
-*   Humanities Trail @ Redhill
-*   War &amp; Diplomacy History Competition
-*   Humanities Trail&nbsp;@ Singapore&nbsp;Zoo
-*   Humanities Week
-*   Vivo City Learning Journey
-*   NUS Geography Challenge
-*   Historical Inquiry at Ford Factory
-*   Bukit Chandu
-*   Fort Canning
-*   Geographical Inquiry at Botanical Gardens
-*   Kampong Glam
-*   HDB Estates
+* Sec 1 GI &amp; HI (Singapore River Trail)
+* Sec 2 GI &amp; HI (Singapore National Museum)  
+* Sec 3 Issue Investigation Social Studies Migrant X ME Program 
+* Sec 3 EBS Work Experience Programme
+* SBQ Workshops
+* NUS Geography Challenge
+* MOE History Challenge
+* Historical Scene Investigation (H.S.I.) Challenge
+* POA Competitions
+* Lower Secondary Post Exam Activities  
+
+**Achievements**
+
+* Gold level certificate  Historical Scene Investigation Challenge
+
+* NUS Geography Challenge - Bronze Medal for ASHTON LIM TZE CHAO
