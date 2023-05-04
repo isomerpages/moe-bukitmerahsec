@@ -17,8 +17,8 @@ description: ""
 *   Mr Muhammad Hisham Bin Anwar (NFS)
 *   Ms Tan Wai Hong (NFS)
 *   Ms Flora Cheong (NFS)
-*   Mr Chua Eng Chiong (D&amp;T TSO)
-*   Ms Zhang Lihui (D&amp;T TSO)
+*   Mr Chua Eng Chiong (D&amp;T Education Workshop Instructor)
+*   Ms Zhang Lihui (D&amp;T Education Workshop Instructor)
 *   Ms Rita Wong (NFS Teacher Aide)
 
 **Department Vision**
