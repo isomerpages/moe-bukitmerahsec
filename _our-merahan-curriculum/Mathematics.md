@@ -15,7 +15,7 @@ description: ""
 *   Ms Neo Siew Eng (HOD Normal Stream)
 *   Ms Toh Yongmei Stella (Year Head Lower Sec)
 *   Mr Seow Xian Yi Winston (SH ICT)
-*   Mr Jereme Chee (LH Discipline)
+*   Mr Jereme Chee (LH Student Management)
 *   Ms Liao Xinwei (SH Math)
 *   Ms Phang Kay Yen (ST Math)
 *   Mr Lee Tzi Wei Gaius (ST Physics)
