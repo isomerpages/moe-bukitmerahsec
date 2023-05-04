@@ -10,7 +10,8 @@ third_nav_title: Our Achievements
 | Department | Competition | Achievement |
 | -------- | -------- | -------- |
 | Science     | ICAS Science Assessment    | 1 High Distinction, 2 Distinctions, 15 Credit and 5 Merits    |
-| | |
+| Mother Tongue |NAtional Chinese Language Championship华文大比拼 |Li Yuquan (4E1) awarded top 30 out of 1050 contestants |
+
 
 ##### 2021 Achievements
 
