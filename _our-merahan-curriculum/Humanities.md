@@ -55,3 +55,9 @@ The department plans for programmes that give students authentic experiences and
 * Gold level certificate  Historical Scene Investigation Challenge
 
 * NUS Geography Challenge - Bronze Medal for ASHTON LIM TZE CHAO
+
+![](/images/human%201-1.jpg)
+
+![](/images/human%201-2.jpg)
+
+![](/images/human%203.JPG)
