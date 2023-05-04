@@ -35,6 +35,8 @@ To build a culture of innovation through the effective use of technologies for d
 
 *   E-Learning
 *   Media Design Competition
+*   Animation and Game-Making (AGM) Competition
+*   Blended Learning
 
 **Achievements**
 
