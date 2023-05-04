@@ -60,3 +60,9 @@ Harnessing ICT to enhance the learning process.
 
 * All Singapore Secondary Mathematics Competition for Normal Academics
 Lower Secondary Normal Academics Individual Category - 8th Position
+
+![](/images/maths%201.JPG)
+
+![](/images/maths%202.JPG)
+
+![](/images/maths%203.JPG)
