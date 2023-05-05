@@ -5,7 +5,6 @@ description: ""
 ---
 ###  Parents Gateway (PG)  
 
-Insert video here.
 
 Dear Parents,
 
