@@ -103,11 +103,4 @@ Graduating Cohort MTL Oral Practice
 *    Aesthetics Assembly Programme
 *    Learning Journeys
 
-**Achievements**
-
-Chinese Language:
-
-* 2023 全国华文大比拼 National Chinese Language Challenge (个人表现优异奖 Top Scorers)
-* 2023 全国中学生华文创作比赛-《新蕾奖》 Creative Essay Writing Competition
-* 2022 第二十届新加坡福建会馆 文学奖 Literary Award
 * 2018 乐学华文： “文字飞扬 触动心灵” 写作大赛 Essay Writing Competition: Distinction Award
