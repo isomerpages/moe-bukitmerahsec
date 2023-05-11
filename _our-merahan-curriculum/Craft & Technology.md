@@ -50,13 +50,3 @@ Food and Nutrition
 
 *   Professional Chef Experience (Enrichment)
 *   Learning Journey to F&amp;B Outlet
-
-
-**Achievements**
-
-BMSS Sec3 Design and Technology students took part in the South Zone Millennium Challenge 2017 organised by St. Andrew’s Secondary School and the teams walked away with 4 awards:
- * 5th position in the Design Category,
- * 1st and 2nd  positions in the Speed Category (Motorised Car)
- * 2nd position in the Bridge Strength Category
-
-Our Sec 3 Express Art students submitted an artwork as a class to SYF Art 2022. Their submission was one of the 121 artworks out of 500 total submissions that has been selected to be displayed in the SYF Art exhibition 2022 at the National Museum of Singapore and be accorded the Certificate of Recognition.
