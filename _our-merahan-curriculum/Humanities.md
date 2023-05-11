@@ -50,11 +50,6 @@ The department plans for programmes that give students authentic experiences and
 * POA Competitions
 * Lower Secondary Post Exam Activities  
 
-**Achievements**
-
-* Gold level certificate  Historical Scene Investigation Challenge
-
-* NUS Geography Challenge - Bronze Medal for ASHTON LIM TZE CHAO
 
 ![](/images/human%201-1.jpg)
 
