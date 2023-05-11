@@ -38,14 +38,3 @@ To build a culture of innovation through the effective use of technologies for d
 *   Animation and Game-Making (AGM) Competition
 *   Blended Learning
 
-**Achievements**
-
-<img src="/images/de27.png" style="width:70%">
-
-*   Bronze award for MEC Competition 2019 (Cat B – Game)
-*   Bronze award for MEC Competition 2018 (Cat A – Animation)
-*   Platinum award for MEC Competition 2017 (Cat A – Animation)
-*   Bronze award for MEC Competition 2016 (Cat A – Animation)
-*   Bronze award for the MEC Competition 2015 (Cat A – Animation)
-*   Silver award for the MEC Competition 2015 (Cat B – Game)
-*   Gold award for the MEC Competition 2014 (Cat B – Game)
