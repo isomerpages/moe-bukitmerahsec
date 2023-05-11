@@ -94,13 +94,8 @@ Graduating Cohort MTL Oral Practice
     *   Indian Musical Instruments and Music
     *   Short film and language Games
     *   Essay Writing competition
+
+
+
+
   
-**Aesthetics Programme**
-
-*    Sec 2 Aesthetic Education Programme(AEP)
-*    Talent Corner
-*    Festivo 
-*    Aesthetics Assembly Programme
-*    Learning Journeys
-
-* 2018 乐学华文： “文字飞扬 触动心灵” 写作大赛 Essay Writing Competition: Distinction Award
