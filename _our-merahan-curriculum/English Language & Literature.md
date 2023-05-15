@@ -46,7 +46,7 @@ To further this aim, the Bukit Merah English Literature programme strives to ins
 &nbsp;<img src="/images/de2.png" style="width:80%">
  
  *  EL Week
- *  1NT to 3NT Learning Journeys
+ *  G1 and NT Learning Journeys
  *  Reading Programme
  *  National Schools Literature Festival 
 
