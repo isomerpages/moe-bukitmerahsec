@@ -15,7 +15,7 @@ description: ""
 
 #### General Office Opening Hours
 
-Mondays to Fridays: 0700 – 1800 hrs 
+Mondays to Fridays: 0700 hrs – 1800 hrs 
 
 School is closed on Saturdays, Sundays and Public Holidays. 
 
