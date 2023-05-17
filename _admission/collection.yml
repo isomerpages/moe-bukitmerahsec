@@ -2,5 +2,5 @@ collections:
   admission:
     output: true
     order:
-      - Application for Transfer to BMSS.md
+      - New Sec 1 parents & Transfer in students.md
       - Open House Event.md

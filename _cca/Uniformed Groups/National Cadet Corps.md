@@ -107,30 +107,3 @@ _Please note that should additional training sessions on Tuesdays or Fridays be 
 *   3D2N Mt. Ophir Adventure Camp (Selected Cadet Leaders)
 *   3D2N Senior Specialist Leaders Camp (Selected Cadet Leaders)
 *   ICEP – International Cadet Exchange Programme (Cadet Leaders)
-
-**Appointment Holders**
-
-Cadet Officers:
-
-*   CADET LTA(NCC) KEOWN TAN
-
-| No. | Appointment | Rank | Names |  |  |
-|---|---|---|---|---|---|
-| 1 | Unit Sergeant Major | 1SG | MUHAMMAD JAZIL KHALISH BIN KHUZALI |  |  |
-| 2 | Assistant Unit Sergeant Major and Head of Precision Drill Squad | 1SG | TAN JIN YOUNG |  |  |
-| 3 | Regimental Sergeant Major | 1SG | CHOW HONG WEI |  |  |
-| 4 | Platoon Sergeant (Junior Cadets) | 3SG | MOHAMED KASSALI MUHAMMADHU YAHYA |  |  |
-| 5 | Assistant Platoon Sergeant (Junior Cadets) | 3SG | NG GUAN SUT LOUIE | LEE ZHI CAI |  |
-| 6 | Platoon Sergeant (Senior Cadets) | 3SG | HANS THANT KO |  |  |
-| 7 | Assistant Platoon Sergeant (Senior Cadets) | 3SG | PRATIK PURUSHOTHAM PAI |  |  |
-| 8 | Platoon Sergeant (Cadet Leaders) | 3SG | MAR’IE RIZKI BIN MOHAMAD RIDZUAN |  |  |
-| 9 | Platoon Sergeant (Future Junior Cadets) | 3SG | PUTRA IMAN BIN ASMAN |  |  |
-| 10 | Assistant Platoon Sergeant (Future Junior Cadets) | 3SG | CHAN WEE HAO |  |  |
-| 11 | Unit Administrative Team | 3SG | MUHAMMAD RIZI SHAHRIZ BIN MUHAMMAD RIZKI | P SIVASHREE PALANIAPPAN |  |
-| 12 | Unit Logistic Team | 3SG | KERNCE LIM MENDEZ | KOE JUN WEN | ARUN KARRTIK BALA KRISHNAN |
-
-NCC Alumnis:
-* MSG(NCC) Calix
-* MSG(NCC) Owen Tan
-* MSG(NCC) Jing Shen
-* 1SG (NCC) Wei Xiang

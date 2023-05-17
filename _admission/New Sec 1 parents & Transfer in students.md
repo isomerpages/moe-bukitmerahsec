@@ -1,5 +1,5 @@
 ---
-title: Application for Transfer to BMSS
+title: New Sec 1 parents & Transfer in students
 permalink: /admission/application/
 description: ""
 ---

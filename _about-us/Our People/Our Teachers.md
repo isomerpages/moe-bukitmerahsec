@@ -8,7 +8,7 @@ third_nav_title: Our People
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-| 1R1 | Nurhayati Bte Mohamad | nurhayati_mohamad@schools.gov.sg |
+| 1R1 | Nurhayati Bte Mohamad<br><br>Chew Min En Lydia | nurhayati_mohamad@schools.gov.sg<br><br>chew_min_en_lydia@schools.gov.sg |
 | 1R2 | Lawrence Tan Eng Chuan<br><br>Chen Ying | tan_eng_chuan@schools.gov.sg<br><br>chen_ying_d@schools.gov.sg|
 | 1R3 | Loke Jia Yi<br><br>Rosli Bin Hamim |loke_jia_yi@schools.gov.sg<br><br>rosli_hamim@schools.gov.sg  |
 | 1R4 | Quek Jia Liang<br><br>Ong Min Li | quek_jia_liang@schools.gov.sg<br><br>ong_min_li@schools.gov.sg |
@@ -27,7 +27,7 @@ third_nav_title: Our People
 | 2N2 | Phang Kay Yen<br><br>Chen Jing | phang_kay_yen@schools.gov.sg <br><br> chen_jing@schools.gov.sg|
 | 2E1 | Fang Swee Foong (Anthony) | fang_swee_foong@schools.gov.sg |
 | 2E2 | Tan Wai Hong<br><br>Leow Li Quin | tan_wai_hong@schools.gov.sg<br><br>leow_li_quin@schools.gov.sg |
-| 2E3 | Ho Shumin | ho_shumin@schools.gov.sg  |
+| 2E3 | Ho Shumin<br><br>Nurul Syazwany | ho_shumin@schools.gov.sg<br><br>nurul_syazwany_mohd_saleh@sschools.gov.sg|
 | 2E4| Ng Shuping (Faith)<br><br>Tan Sheng Xian | ng_shuping@schools.gov.sg<br><br>tan_sheng_xian@schools.gov.sg |
 | Non-Form Teachers| Goh Kiat Foong (Bernard)<br><br>Kong Yin Ling Adeline | goh_kiat_foong@schools.gov.sg<br><br>kong_yin_ling_adeline@schools.gov.sg |
 |  |  |  |
@@ -40,8 +40,8 @@ third_nav_title: Our People
 | 3T2 | Eric Lim | lim_rong_hua_eric@schools.gov.sg |
 | 3N1 | Shahirah Banu Binte Leyakat Ali<br><br>Yong Junxiong Eric | shahirah_banu_leyakat_ali@schools.gov.sg<br><br>yong_junxiong_eric@schools.gov.sg |
 | 3N2 | Low Young Fei<br><br>Low Sook Han (Eunice) | low_young_fei@schools.gov.sg<br><br>low_sook_han@schools.gov.sg |
-| 3E1 | Ng Wai Ping | ng_wai_ping@schools.gov.sg |
-| 3E2 | Ng Hsueh Mei | ng_hsueh_mei@schools.gov.sg |
+| 3E1 | Ng Wai Ping<br><br>Cheng Xin Ze | ng_wai_ping@schools.gov.sg<br><br>cheng_xin_ze@schools.gov.sg |
+| 3E2 | Ng Hsueh Mei<br><br>Lee Wen Hui Priscilla | ng_hsueh_mei@schools.gov.sg<br><br>lee_wen_hui_priscilla_A@schools.gov.sg |
 | 3E3 | Tan Phuay Heng <br><br>Lee Sheau Yin| tan_phuay_heng@schools.gov.sg <br><br>lee_sheau_yin@schools.gov.sg |
 | Non-Form Teachers| Lim Lay Eng<br><br>Chong Oi Lin | lim_lay_eng_a@schools.gov.sg<br><br>chong_oi_lin@schools.gov.sg |
 |  |  |  |

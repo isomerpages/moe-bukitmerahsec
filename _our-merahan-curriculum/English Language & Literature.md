@@ -46,14 +46,9 @@ To further this aim, the Bukit Merah English Literature programme strives to ins
 &nbsp;<img src="/images/de2.png" style="width:80%">
  
  *  EL Week
- *  1NT to 3NT Learning Journeys
+ *  G1 and NT Learning Journeys
  *  Reading Programme
  *  National Schools Literature Festival 
-
-**Achievements**
-* National Schools Literature Festival 2016: Bronze award for Choral Speaking
-* National Schools Literature Festival 2019: 3rd &amp; 6th positions for Flash Fiction
-* Tales of ‘S’ eBook Competition 2018: Winning entry
 
 ![](/images/el%20week%201.jpeg)
 

@@ -50,17 +50,6 @@ Harnessing ICT to enhance the learning process.
 *   SAMFEST
 
 
-**Achievements**
-
-2022:
-
-* Singapore Maths Kangaroo Contest Achievements - 3 Gold, 2 Silver, 5 Bronze and 4 Honorable Mention
-
-* Singapore and ASEAN Schools Mathematics Olympiad - 4 Silver, 4 Bronze and 6 Honorable Mention
-
-* All Singapore Secondary Mathematics Competition for Normal Academics
-Lower Secondary Normal Academics Individual Category - 8th Position
-
 ![](/images/maths%201.JPG)
 
 ![](/images/maths%202.JPG)

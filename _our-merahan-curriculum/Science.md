@@ -53,62 +53,18 @@ Year Head Lower Sec)
 * Big Science Competition organised by Australian Science Innovations
 * International Competitions and Assessments for Schools (ICAS) - Science assessment
 
-**Achievements**
-
-ICAS Achievements:
-
-2022:
-* Wu Jingzhi - Distinction
-* Abby Tham - Distinction
-* Michael Angelo Oon Bautista - Credit
-* Kenji Lim De En - Credit
-* Rachel Koh Li Ting - Credit
-* Ashlyn Lim Tze Yee - Credit
-* Wei Mohan - Credit
-* Jarren Ng Pei Jun - Credit
-* Oiu Side - Credit
-* Hu Xinyue - Credit
-* Jasmina Begum D/O Abdul Kader  - Credit
-* Tan Jin Young - Credit
-* Zhou Zhixu, Sara  - Credit
-
-2021:
-
-* Jung Doyoon: High Distinction
-* Lee Jia Jun: Distinction
-* Cheng Xin Jun: Distinction
-* Chen Xinhan Reubern: Credit
-* Joel Yeo: Credit
-* Chan Yi Jun: Credit
-* Caleb Chin Kai: Credit
-* Kelly Lai Rui Qi: Credit
-* Muhammad Farhan Bin Abdul Rashid: Credit
-* Nai Hao Jie: Credit
-* Corrine Heng Jia Qi: Credit
-* Jefte Ladera Arquillano: Credit
-* Yumi Yoshikuni: Credit
-* David Ng Jing Tian: Credit
-* Nur Fitri Bin Mohd Bahtiaramon: Credit
-* Ian Pang Jit Zin: Credit
-* Jack Robin Marrrett: Credit
-* Vinod Jaiswal Sumit: Credit
-* Edric Tan Wu Yi: Merit
-* Alden Tan Suan An: Merit
-* Jowil Tan Yin Kai: Merit
-* Joel Ho En Jay: Merit
-* Celeste Lim Yee Li: Merit
 
 ![](/images/science%201.jpg)
-2022 NUS Demo Lab (NUS; Sec 3 Physics students)
+2023 GP Energy Story (Science Centre; Sec 3 Physics students
 
 ![](/images/science%202.jpg)
 2022 Science Mixology Show (School; Sec 3 Cohort)
 
 ![](/images/science%203.jpg)
-2022 Singapore Sustainable Gallery (Marina Barrage; Sec 1 N(A) students)
+2022 NUS Demo Lab (NUS; Sec 3 Physics students)
 
 ![](/images/science%204.jpg)
-2023 GP Energy Story (Science Centre; Sec 3 Physics students)
+2022 Singapore Sustainable Gallery (Marina Barrage; Sec 1 N(A) students)
 
 ![](/images/science%205.jpg)
 2023 Pizza Pizzazz (Science Centre; Sec 2N(T) students)
