@@ -14,8 +14,6 @@ description: ""
 
 
 #### General Office Opening Hours
-|  |  |
-|---|---|
 
 Mondays to Fridays: 0700 – 1800 hrs 
 
