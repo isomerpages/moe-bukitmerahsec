@@ -7,14 +7,14 @@ third_nav_title: Our Achievements
 ##### 2023 Achievements
 | Department | Competition | Achievement |
 | -------- | -------- | -------- |
-| Mother Tongue    | National Chinese Language Championship 全国华文大比拼    |  Awarded top 30 out of 1050 contestants    |
+| Mother Tongue | National Chinese Language Championship 全国华文大比拼 |  Awarded top 30 out of 1050 contestants |
 
 
 ##### 2022 Achievements
 | Department | Competition | Achievement |
 | -------- | -------- | -------- |
-| Science     | ICAS Science Assessment    | 1 High Distinction, 2 Distinctions, 15 Credit and 5 Merits    |
-|Physical Education | National Inter-Schools Gymnastics Championship 2022 | 'C' Division Girls Artistic Gymnastics - Overall 5th<br><br> 'C' Division Boys Artistic Gymnastics - Overall 2nd |
+| Science     | ICAS Science Assessment    | 1 High Distinction, 2 Distinctions, 15 Credit and 5 Merits |
+|Physical Education | National Inter-Schools Gymnastics Championship 2022 | 'C' Division Girls Artistic Gymnastics - Overall 5th<br><br> 'C' Division Boys Artistic Gymnastics - Overall 2nd|
 | Maths |Singapore Math Kangaroo Contest (SMKC)<br><br>Singapore and Asian Schools Math Olympiad (SASMO)<br><br>All Singapore Secondary Mathematics Competition for Normal Course Students (ASMC)|5 Bronze, 2 Silver, 3 Gold<br><br>4 Bronze, 4 Silver<br><br>8th position|
 
 
