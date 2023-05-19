@@ -27,7 +27,8 @@ description: ""
 
 **Department Vision**
 
-The English language programme aims to enable students to become
+The English language programme aims to enable students to become:
+
 * Empathize and confident communicators
 * Discerning readers
 * Creative inquirers
