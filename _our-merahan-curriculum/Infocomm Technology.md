@@ -19,7 +19,7 @@ description: ""
 
 **Department Vision**
 
-To build a culture of innovation through the effective use of technologies for deeper learning and student engagement.
+The Infocomm Technology programme aims to build a culture of innovation through the effective use of technologies for deeper learning and student engagement.
 
 **Department Details**
 
@@ -37,4 +37,3 @@ To build a culture of innovation through the effective use of technologies for d
 *   Media Design Competition
 *   Animation and Game-Making (AGM) Competition
 *   Blended Learning
-
