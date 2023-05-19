@@ -30,7 +30,7 @@ description: ""
 
 **Department Vision**
 
-A vibrant department that inspires students to appreciate Mother Tongue Languages and culture
+The Mother Tongue &amp; Aesthetics programme aims to inspire students to appreciate Mother Tongue Languages and culture
 
 **Department Details**
 
@@ -94,8 +94,3 @@ Graduating Cohort MTL Oral Practice
     *   Indian Musical Instruments and Music
     *   Short film and language Games
     *   Essay Writing competition
-
-
-
-
-  
