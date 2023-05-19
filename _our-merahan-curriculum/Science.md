@@ -30,14 +30,19 @@ Year Head Lower Sec)
 
 **Department Vision**
 
-*   BMSS Science Students:
-    *   Enjoy Science and see Science as relevant, meaningful and useful
-    *   Have a strong foundation in fundamental concepts, skills and values in Science for future learning and work
-    *   Resilient and self-directed in the learning of Science
-*   BMSS Science Teachers:
-    *   Competent, confident and passionate in the teaching of Science to inspire joy of learning in students
-    *   Develop fundamental concepts, skills and values in Science students for future learning and work
-    *   Believe in and nurture self-directed and resilient Science students
+The Science programme aims to enable students to:
+
+* Enjoy Science and see Science as relevant, meaningful and useful
+		
+* Have a strong foundation in fundamental concepts, skills and values in Science for future learning and work
+		
+* Resilient and self-directed in the learning of Science
+		
+The Science programme aims to enable teachers to:
+
+* Competent, confident and passionate in the teaching of Science to inspire joy of learning in students
+* Develop fundamental concepts, skills and values in Science students for future learning and work
+* Believe in and nurture self-directed and resilient Science students
 
 **Department Details**
 
