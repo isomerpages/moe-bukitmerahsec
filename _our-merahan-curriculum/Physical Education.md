@@ -20,7 +20,7 @@ description: ""
 
 **Department Vision**
 
-Every Merahan a physically educated individual who pursues an active and healthy lifestyle
+The Physical Education programme aims to enable students to be a physically educated individual who pursues an active and healthy lifestyle
 
 **Department Details**
 

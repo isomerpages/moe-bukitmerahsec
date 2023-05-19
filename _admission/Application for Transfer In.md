@@ -1,5 +1,5 @@
 ---
-title: New Sec 1 parents & Transfer in students
+title: Application for Transfer In
 permalink: /admission/application/
 description: ""
 ---

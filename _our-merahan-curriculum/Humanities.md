@@ -25,7 +25,7 @@ description: ""
 
 **Department Vision**
 
-A Community of Engaged Learners
+The Humanities programme aims to enable students to be a community of engaged learners
 
 **Department Details**
 

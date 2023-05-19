@@ -32,7 +32,7 @@ description: ""
 
 **Department Vision**
 
-To nurture pupils to become independent and self-directed learners who have a passion for Mathematics.
+The Maths programme aims to enable students to become independent and self-directed learners who have a passion for Mathematics.
 
 **Department Details**
 
