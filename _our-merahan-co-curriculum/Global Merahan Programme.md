@@ -20,5 +20,4 @@ Every student in BMSS will go through the Global Merahan Programme where they wi
 | Country | Programme | 
 |---|---|
 |  Thailand Chiang Rai – Samakkhiwitthayakhom School SWK| - Learning &amp; cultural exchange programme with SWK<br>– Science &amp; Technology activities<br>– Values in Action programme<br>– Visit to historical &amp; cultural sites | 
-|  Vietnam Ho Chi Minh | – Learning &amp; cultural exchange programme with a high school in HCM<br>– Visit to historical &amp; cultural sites | TBA |
-| Thailand Phayao – Srinagarindra the Princess Mother School SWPY | – Learning &amp; cultural exchange programme with SWPY<br>– Student Leadership programme<br>– Hostel Stay experience<br>– Values in Action programme<br>– Visit to historical &amp; cultural sites | 
+| Thailand Phayao – Srinagarindra the Princess Mother School SWPY | – Learning &amp; cultural exchange programme with SWPY<br>– Student Leadership programme<br>– Hostel Stay experience<br>– Values in Action programme<br>– Visit to historical &amp; cultural sites |
