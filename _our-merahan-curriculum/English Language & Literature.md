@@ -27,9 +27,10 @@ description: ""
 
 **Department Vision**
 
-EMPATHETIC AND CONFIDENT COMMUNICATORS<br>
-DISCERNING READERS<br>
-CREATIVE INQUIRERS
+The English language programme aims to enable students to become
+* Empathize and confident communicators
+* Discerning readers
+* Creative inquirers
 
 **Department Details**
 
