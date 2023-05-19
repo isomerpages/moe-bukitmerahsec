@@ -2,5 +2,5 @@ collections:
   admission:
     output: true
     order:
-      - New Sec 1 parents & Transfer in students.md
+      - Admission & Transfer In.md
       - Open House Event.md
