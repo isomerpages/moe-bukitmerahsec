@@ -24,7 +24,7 @@ description: ""
 
 **Department Vision**
 
-Every Merahan to discover a passion for learning through a skills-based curriculum
+The Craft &amp; Technology programme aims to enable students to discover a passion for learning through a skills-based curriculum
 
 **Department Details**
 
