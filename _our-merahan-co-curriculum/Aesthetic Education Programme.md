@@ -14,3 +14,6 @@ Activities
   * Tunes of Singapore Chinese Orchestra (SCO)
   * House of Music
 * Learning journeys
+
+![](/images/aep%20prog.png)
+
