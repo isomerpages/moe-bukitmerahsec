@@ -8,9 +8,6 @@ third_nav_title: Club and Societies
 
  <img src="/images/cca2.png" style="width:80%,align:left"> 
 
-**CCA Announcement**
-
-TBA
 
 **Teachers-in-charge**
 
@@ -21,14 +18,9 @@ TBA
 
 **Trainings**
 
-**Odd Week:**
-
 *   Wednesday: 2:30pm – 5:00pm
 *   Friday*: 1:00pm – 3:30pm (*On a need-to basis for competition training)
 
-**Even Week:**
-
-*   Wednesday: 2:30pm – 5:00pm
 
 **Venues:**
 
@@ -41,5 +33,7 @@ TBA
 *   Training for upcoming competitions:
     *   Toy Design Competition
     *   IDEERS
+    *   Drones Odyssey
+    *   Singapore Amazing Flying Machine Competition
 *   Values-in-Action project
 *   School Improvement Projects
