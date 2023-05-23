@@ -6,9 +6,6 @@ third_nav_title: Club and Societies
 ---
 ### Info Media Club
 
-**CCA Announcement**
-
-TBA
 
 **Teachers-in-charge**
 
@@ -17,12 +14,6 @@ TBA
 *   Mr Neo Hock Kheng
 
 **Trainings**
-
-**Odd Week**
-
-* Wednesday: 2:30pm – 5:30pm
-
-**Even Week**
 
 * Wednesday: 2:30pm – 5:30pm
 
