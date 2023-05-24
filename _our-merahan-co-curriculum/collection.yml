@@ -2,6 +2,7 @@ collections:
   our-merahan-co-curriculum:
     output: true
     order:
+      - Global Merahan Programme.md
       - Aesthetic Education Programme.md
       - Global Merahan Programme test.md
       - Learning for Life (Sports) Programme (LLP).md
