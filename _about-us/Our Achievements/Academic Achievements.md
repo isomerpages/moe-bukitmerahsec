@@ -1,6 +1,6 @@
 ---
 title: Academic Achievements
-permalink: /about-us/our-achievements/academic-achievements/
+permalink: /about-us/our-achievements/permalink/
 description: ""
 third_nav_title: Our Achievements
 ---
