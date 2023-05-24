@@ -8,9 +8,6 @@ third_nav_title: Uniformed Groups
 
 <img src="/images/cca15.png" style="width:60%, align:left">
 
-**CCA Announcement**
-
-TBA
 
 **Teachers-in-charge**
 
@@ -21,13 +18,6 @@ TBA
 *   Mr Ken Hu
 
 **Trainings**
-
-**Odd Week**
-
-*   Wednesday: 2:30pm – 4:45pm / Exco training 4:45pm - 5:30pm
-*   Friday: 2:30pm – 4:30pm (for Competition Team)
-
-**Even Week**
 
 *   Wednesday: 2:30pm – 4:45pm / Exco training 4:45pm - 5:30pm
 *   Friday: 2:30pm – 4:30pm (for Competition Team)
@@ -67,4 +57,3 @@ To fulfil the Motto of the Order of St John (For the Faith and the Service of Hu
 *   Basic Cardiac Life Support Course
 *   Civil Defence Course – Community Emergency Preparedness Programme (CEPP)
 *   Total Defence Course (Bronze/Silver/Gold)
-
