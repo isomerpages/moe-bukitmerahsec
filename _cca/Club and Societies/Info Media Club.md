@@ -6,6 +6,8 @@ third_nav_title: Club and Societies
 ---
 ### Info Media Club
 
+<img src="/images/imc%20team.jpg" style="width:90%, align:left">
+
 
 **Teachers-in-charge**
 
