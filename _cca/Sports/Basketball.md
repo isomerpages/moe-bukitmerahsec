@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 ### Basketball
 
-<img src="/images/cca16.png" style="width:60%,align:left">
+<img src="/images/basketball%20team.jpg" style="width:60%,align:left">
 
 **CCA Announcement**
 
