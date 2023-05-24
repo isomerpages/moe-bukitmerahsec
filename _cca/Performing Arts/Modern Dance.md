@@ -8,9 +8,6 @@ third_nav_title: Performing Arts
 
 <img src="/images/cca23.png" style="width:80%,align:left">
 
-**CCA Announcement**
-
-TBA
 
 **Teachers-in-charge**
 
@@ -33,5 +30,3 @@ TBA
 
 * Journey (19 March 2023)
 * Singapore Youth Festival (April)
-
-
