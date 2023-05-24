@@ -10,9 +10,6 @@ third_nav_title: Sports
 
 <img src="/images/cca21.png" style="width:60%">
 
-**CCA Announcement**
-
-TBA
 
 **Teachers-in-charge**
 
@@ -23,7 +20,6 @@ TBA
 
 **Trainings**
 
-
 *   Wednesdays: 2:30pm – 5:30pm (Gan Eng Seng Pri ISH)
 *   Fridays: 1:30pm – 4:30pm (School Hall)
 
@@ -31,5 +27,4 @@ TBA
 * Participation in the Annual ‘B’ and ‘C’ Division TBAS Inter-School Tchoukball Championships
 * Annual team-building and training camp
 * Tchoukball station during SPLT sessions
-* Friendly games 
-
+* Friendly games
