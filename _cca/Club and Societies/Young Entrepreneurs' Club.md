@@ -8,9 +8,6 @@ third_nav_title: Club and Societies
 
 <img src="/images/cca7.png" style="width:90%,align:left">
 
-**CCA Announcement**
-
-TBA
 
 **Teachers-in-charge**
 
@@ -20,15 +17,10 @@ TBA
 
 **Trainings**
 
-**Odd Week**
 
 *   Wednesday: 2:30pm – 5:00pm
 *   Friday*: 1:00pm – 3:00pm (On needs basis. Notification forms to be given if required)
 
-**Even Week**
-
-*   Wednesday: 2:30pm – 5:00pm
-*   Friday*: 1:00pm – 3:00pm (On needs basis. Notification forms to be given if required)
 
 **Venues**
 
