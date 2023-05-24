@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - LEAPS.md
-      - Student Leadership.md
       - Club and Societies/.keep
       - Club and Societies/AVA Club.md
       - Club and Societies/Engineering and Innovation Club.md
