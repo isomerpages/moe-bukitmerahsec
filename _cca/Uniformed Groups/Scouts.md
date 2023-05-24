@@ -10,9 +10,6 @@ third_nav_title: Uniformed Groups
 
 <img src="/images/cca13.png" style="width:60%">
 
-**CCA Announcement**
-
-TBA
 
 **Teachers-in-charge**
 
@@ -23,14 +20,7 @@ TBA
 
 **Trainings**
 
-**Odd Week**
-
 *   Wednesday: 2:45pm – 5:15pm
-
-**Even Week**
-
-*   Wednesday: 2:45pm – 5:15pm
-
 
 
 **Venues**

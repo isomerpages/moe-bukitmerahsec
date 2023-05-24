@@ -12,9 +12,6 @@ third_nav_title: Uniformed Groups
 
 <img src="/images/cca11.png" style="width:60%">
 
-**CCA Announcement**
-
-TBA
 
 **BMSS NCC Teachers-in-charge**
 
@@ -27,17 +24,11 @@ TBA
 
 **BMSS NCC Training Schedule**
 
-**Odd Week**
 
 *   Tuesday: 3:00pm – 4:30pm (Only for selected NCC PDS cadets)
 *   Wednesday: 2:30pm – 5:30pm
 *   Friday*: 1:00pm – 3:00pm (Only for selected NCC PDS cadets)
 
-**Even Week**
-
-*   Tuesday: 3:00pm – 4:30pm (Only for selected NCC PDS cadets)
-*   Wednesday: 2:30pm – 5:30pm
-*   Friday*: 1:00pm – 3:00pm (Only for selected NCC PDS cadets)
 
 _Please note that should additional training sessions on Tuesdays or Fridays be required due to competitions or HQ events, you will be informed by additional school letters/ notification via Parents Gateway. Rest assured that the additional training sessions will only be organized on a needs basis. Attendance is compulsory unless supported by valid reasons._
 

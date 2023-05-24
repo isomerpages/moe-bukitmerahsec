@@ -8,9 +8,6 @@ third_nav_title: Performing Arts
 
 <img src="/images/cca24.png" style="width:80%,align:left">
 
-**CCA Announcement**
-
-TBA
 
 **Teachers-in-charge**
 
@@ -22,15 +19,9 @@ TBA
 
 **Trainings**
 
-**Odd week**
-
 *   Wednesday: 2:30pm – 4:30pm
 *   Friday*: 1:30pm – 3:30pm (\*Only on needs basis for extra rehearsals)
 
-**Even week**
-
-*   Wednesday: 2:30 – 4:30pm
-*   Friday*: 1:30pm – 3:30pm (\*Only on needs basis for extra rehearsals)
 
 **Venues**
 

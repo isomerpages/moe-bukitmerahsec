@@ -8,12 +8,8 @@ third_nav_title: Sports
 
 <img src="/images/floorball page.jpg" style="width:60%">
 
-**CCA Announcement**
-
-TBA
 
 **Teachers-in-charge**
-
 
 *   Ms Loke Jia Yi (Boys’ IC)
 *   Mr Yit Ming En Luke (Girls’ IC)
@@ -22,7 +18,6 @@ TBA
 *    Mr Muhammad Shamir Alfee Bin Aminudin (Girls’ Coach)
 
 **Trainings**
-
 
 Mondays:
 

@@ -5,7 +5,7 @@ description: ""
 ---
 ###  Introduction to Buddy Reading Programme 
 
-As part of the Reading Programme, the Secondary 3 Reading Ambassadors and their buddies participated in the Buddy Reading Programme. The Reading Ambassadors guided their buddies by coaching them with customised materials like comic strips, visual texts and songs. The Reading Ambassadors worked with their buddies to create comic strips or posters which centred around one of the school values. They all loved that they could be creative in applying what they had learnt from the Buddy Reading Programme.
+As part of the Reading Programme, the Secondary 3 Reading Ambassadors and their buddies participate in the Buddy Reading Programme. The Reading Ambassadors guide their buddies by coaching them with customised materials like comic strips, visual texts and songs. The Reading Ambassadors will also work with their buddies to create comic strips or posters which centred around one of the school values. They all love that they could be creative in applying what they have learnt from the Buddy Reading Programme.
 
 ####  Reflection from Winners of the Buddy Reading Project 
 

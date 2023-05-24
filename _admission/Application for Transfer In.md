@@ -3,7 +3,7 @@ title: Application for Transfer In
 permalink: /admission/application/
 description: ""
 ---
-### Application for Transfer
+### Application for Transfer In
 
 To apply for transfer, please fill up the online form:
 

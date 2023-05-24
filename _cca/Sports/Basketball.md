@@ -6,11 +6,8 @@ third_nav_title: Sports
 ---
 ### Basketball
 
-<img src="/images/cca16.png" style="width:60%,align:left">
+<img src="/images/basketball%20team.jpg" style="width:60%,align:left">
 
-**CCA Announcement**
-
-TBA
 
 **Teachers-in-charge**
 
@@ -21,8 +18,6 @@ TBA
 *   Ms Jeslyn Ho Jia Ling (Assistant Coach)
 
 **Trainings**
-
-**Odd Week:**
 
 Monday:
 
@@ -37,16 +32,6 @@ Friday:
 
 *   1.30pm – 5.00pm (School Team Players)
 
-**Even Week:**
-
-Monday:
-
-*   2.30pm – 5.30pm (School Team Players)
-
-Wednesday:
-
-*   2.30pm – 5.30pm (School Team Players)
-*   2.30pm – 4.30pm (Recreational Players)
 
 **Venues:**
 

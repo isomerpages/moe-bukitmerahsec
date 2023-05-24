@@ -8,9 +8,6 @@ third_nav_title: Performing Arts
 
 <img src="/images/cca22.png" style="width:80%, align:left">
 
-**CCA Announcement**
-
-TBA
 
 **Teachers-in-charge**
 
@@ -34,6 +31,7 @@ Sec 2-5:
 * Monday: 3pm - 5:30pm
 * Wednesday: 2:30pm - 5:30pm
 * Friday: 1:30pm - 5pm
+
 
 **Venue**
 

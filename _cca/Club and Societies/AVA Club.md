@@ -8,9 +8,6 @@ third_nav_title: Club and Societies
 
 <img src="/images/cca1.png" style="width:90%, align:left">
 
-**CCA Announcement**
-
-TBA
 
 **Teachers-in-charge**
 
@@ -20,7 +17,6 @@ TBA
 
 **Trainings**
 
-**Odd Week**  
 * Friday:  12:45pm – 1:15pm
 
 * Monday – Friday: 7:10am and during Special Functions
