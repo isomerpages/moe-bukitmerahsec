@@ -1,6 +1,6 @@
 ---
-title: CCA Holiday Training Schedule
-permalink: /cca-holiday-train/
+title: CCA Holiday Trainings
+permalink: /cca-holiday-trainings/
 description: ""
 ---
 ### CCA Holiday Training Schedule

@@ -12,6 +12,7 @@ third_nav_title: Our People
 |  Lim Chun Leong | Operation Manager | lim_chun_leong@schools.gov.sg|
 |  Rungaroon Lupsa | Administrative Executive | rungaroon_lupsa@schools.gov.sg |
 | Peh Kian Chai | Administrative Executive | peh_kian_chai@schools.gov.sg |
+| Chua Peck Hoon| Administrative Executive | chua_peck_hoon_a@schools.gov.sg |
 | Yip Zi Min Vanessa | Corporate Support Officer | yip_zi_min_vanessa@schools.gov.sg |
 | K S Rahela Beevi | Office Attendant  | rahela_beevi@schools.gov.sg |
 | Rafiah Bte Mohd Jali | Office Attendant  | rafiah_mohd_jali@schools.gov.sg |
