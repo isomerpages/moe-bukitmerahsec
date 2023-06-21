@@ -21,7 +21,7 @@ description: ""
 *   Mr Lim Rong Hua Eric
 *   Ms Giselle Maria Rai
 *   Ms Goh Ee Xin Stephanie
-*   Ms Eunice Low Sook Han
+
 
 **Department Vision**
 

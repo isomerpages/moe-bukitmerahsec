@@ -22,7 +22,6 @@ description: ""
 *   Ms Lim Lay Eng
 *   Ms Tan Sheng Xian
 *   Ms Jayne Ng Shi Ming
-*   Mr Yong Junxiong Eric
 *   Ms Loke Jiayi
 *   Ms Lee Hwee Choo Yvonne
 *   Mr Shahrizal Bin Salim
@@ -40,8 +39,6 @@ Providing opportunities for pupils to be active and engaged learners through mea
 Harnessing ICT to enhance the learning process.
 
 **Programmes**
-
-<img src="/images/de6.png" style="width:60%"> 
 
 *   National Mathematics Competition for NA / NT
 *   Singapore Mathematics Olympiad (SMO)
