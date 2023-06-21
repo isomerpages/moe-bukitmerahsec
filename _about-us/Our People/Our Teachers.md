@@ -38,8 +38,8 @@ third_nav_title: Our People
 |:---:|:---:|:---:|
 | 3T1 |  Liao Xinwei | liao_xinwei@schools.gov.sg |
 | 3T2 | Eric Lim | lim_rong_hua_eric@schools.gov.sg |
-| 3N1 | Shahirah Banu Binte Leyakat Ali<br><br>Yong Junxiong Eric | shahirah_banu_leyakat_ali@schools.gov.sg<br><br>yong_junxiong_eric@schools.gov.sg |
-| 3N2 | Low Young Fei<br><br>Low Sook Han (Eunice) | low_young_fei@schools.gov.sg<br><br>low_sook_han@schools.gov.sg |
+| 3N1 | Shahirah Banu Binte Leyakat Ali<br><br>Lim Kailin | shahirah_banu_leyakat_ali@schools.gov.sg<br><br>lim_kailin@schools.gov.sg |
+| 3N2 | Low Young Fei<br><br>Chian Yuan Lin | low_young_fei@schools.gov.sg<br><br>chian_yuan_lin@schools.gov.sg |
 | 3E1 | Ng Wai Ping<br><br>Cheng Xin Ze | ng_wai_ping@schools.gov.sg<br><br>cheng_xin_ze@schools.gov.sg |
 | 3E2 | Ng Hsueh Mei<br><br>Lee Wen Hui Priscilla | ng_hsueh_mei@schools.gov.sg<br><br>lee_wen_hui_priscilla_A@schools.gov.sg |
 | 3E3 | Tan Phuay Heng <br><br>Lee Sheau Yin| tan_phuay_heng@schools.gov.sg <br><br>lee_sheau_yin@schools.gov.sg |
