@@ -13,7 +13,7 @@ The programme structure is as follows
 
 <img src="/images/lfl1.png" style="width:80%">
 
-Aligning our programmes based on the school values of Respect, Integrity, Self-Discipline &amp; Empathy (RISE), the TLLP will be implemented through three main platforms as a broad-based approach for Merahans:
+Aligning our programmes based on the school values of Respect, Integrity, Self-Discipline &amp; Empathy (RISE), the LLP will be implemented through three main platforms as a broad-based approach for Merahans:
 
 *   Character and Citizenship Education (CCE) Lessons
     *   Teaching of our school values in line with the CCE curriculum
