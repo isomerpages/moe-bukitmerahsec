@@ -4,18 +4,15 @@ permalink: /about-us/School-Information/school-vision-mission-values/
 description: ""
 third_nav_title: Our School Heritage
 ---
-
-
-
-### School Vision Mission Values
+### School, Vision, Mission and Values
 
 #### Our Vision
 
-Every Merahan a resilient, caring and self-directed learner
+Every Merahan a Resilient,&nbsp;Caring and Self-directed learner
 
 #### Our Mission
 
 
 To Nurture Resilient Merahans with Character and Heart
- 
- <img src="/images/vmv.png" style="width:70%">  
+&nbsp;
+ <img src="/images/vmv.png" style="width:70%">
