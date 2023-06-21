@@ -41,8 +41,6 @@ Harnessing ICT to enhance the learning process.
 
 **Programmes**
 
-<img src="/images/de6.png" style="width:60%"> 
-
 *   National Mathematics Competition for NA / NT
 *   Singapore Mathematics Olympiad (SMO)
 *   Singapore and ASEAN Schools Mathematics Olympiad
