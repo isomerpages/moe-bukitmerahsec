@@ -22,7 +22,6 @@ description: ""
 *   Ms Lim Lay Eng
 *   Ms Tan Sheng Xian
 *   Ms Jayne Ng Shi Ming
-*   Mr Yong Junxiong Eric
 *   Ms Loke Jiayi
 *   Ms Lee Hwee Choo Yvonne
 *   Mr Shahrizal Bin Salim
