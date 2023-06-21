@@ -7,6 +7,7 @@ third_nav_title: Our Achievements
 ##### 2023 Achievements
 | Department | Competition | Achievement |
 | -------- | -------- | -------- |
+| Mathematics | Singapore and Asian Schools Math Olympiad (SASMO) | 1 Gold, 3 Silver, 7 Bronze and 7 Honorable Mention |
 | Mother Tongue | National Chinese Language Championship 全国华文大比拼 |  Awarded top 30 out of 1050 contestants |
 
 
