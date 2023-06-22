@@ -33,5 +33,5 @@ description: ""
 
 |  |  |  |
 |---|---|---|
-| 4NT | 4NA | 4E5NA |
+| [4NT](/files/4nt%202023%20prelims.pdf) | [4NA](/files/4na%202023%20prelims.pdf) | [4E5N](/files/4e5n%202023%20prelims.pdf) |
 |  |  |  |
