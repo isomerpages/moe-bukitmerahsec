@@ -4,7 +4,7 @@ permalink: /about-us/school-information/school-vision-mission-values/
 description: ""
 third_nav_title: Our School Heritage
 ---
-### School, Vision, Mission and Values
+### School Vision, Mission and Values
 
 #### Our Vision
 
