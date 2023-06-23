@@ -94,3 +94,5 @@ Graduating Cohort MTL Oral Practice
     *   Indian Musical Instruments and Music
     *   Short film and language Games
     *   Essay Writing competition
+
+![](/images/mtt%202023.jpg)
