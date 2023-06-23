@@ -8,9 +8,8 @@ third_nav_title: Uniformed Groups
 
 <img src="/images/cca8.png" style="width:25%" align="left"> <img src="/images/cca9.png" style="width:35%" align="left">
 
-<img src="/images/cca10.png" style="width:60%">
+<img src="/images/ncc group.jpg" style="width:60%" align="left">
 
-<img src="/images/cca11.png" style="width:60%">
 
 
 **BMSS NCC Teachers-in-charge**
