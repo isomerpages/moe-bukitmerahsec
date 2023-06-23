@@ -2,7 +2,6 @@ collections:
   our-merahan-curriculum:
     output: true
     order:
-      - National Digital Literacy/.keep
       - English Language & Literature.md
       - Mathematics.md
       - Science.md
