@@ -6,7 +6,7 @@ third_nav_title: Club and Societies
 ---
 ### Young Entrepreneurs' Club
 
-<img src="/images/cca7.png" style="width:90%,align:left">
+<img src="/images/yec ymca.jpg" style="width:90%,align:left">
 
 
 **Teachers-in-charge**
