@@ -51,10 +51,10 @@ description: ""
 
 |  |  |  |
 |---|---|---|
-| 4T1 |  |  |
-| 4N1 |  | |
-| 4N2 | |  |
-| 4E1 |  |  |
-| 4E2 |  |  |
-| 4E3 |  |  |
-| 5N1 |  |  |
+| 4T1 | [4T1 ODD WEEK](/files/2306%204t1%20odd%20week.pdf) | [4T1 EVEN WEEK](/files/2306%204t1%20even%20week.pdf) |
+| 4N1 | [4N1 ODD WEEK](/files/2306%204n1%20odd%20week.pdf) | [4N1 EVEN WEEK](/files/2306%204n1%20even%20week.pdf) |
+| 4N2 | [4N2 ODD WEEK](/files/2306%204n2%20odd%20week.pdf) | [4N2 EVEN WEEK](/files/2306%204n2%20even%20week.pdf) |
+| 4E1 | [4E1 ODD WEEK](/files/2306%204e1%20odd%20week.pdf) | [4E1 EVEN WEEK](/files/2306%204e1%20even%20week.pdf) |
+| 4E2 | [4E2 ODD WEEK](/files/2306%204e2%20odd%20week.pdf) | [4E2 EVEN WEEK](/files/2306%204e2%20even%20week.pdf) |
+| 4E3 | [4E3 ODD WEEK](/files/2306%204e3%20odd%20week.pdf) | [4E3 EVEN WEEK](/files/2306%204e3%20even%20week.pdf) |
+| 5N1 | [5N1 ODD WEEK](/files/2306%205n1%20odd%20week.pdf) | [5N1 EVEN WEEK](/files/2306%205n1%20even%20week.pdf) |
