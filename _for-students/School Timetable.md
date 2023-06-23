@@ -26,14 +26,14 @@ description: ""
 
 |  |  |  |
 |---|---|---|
-| 2T1 | [2T1 ODD WEEK](/files/2306%202t1%20odd%20week.pdf) | [2T1 EVEN WEEK](/files/2306%202t1%20even%20week.pdf) |
-| 2T2 | [2T2 ODD WEEK](/files/2306%202t2%20odd%20week.pdf) | [2T2 EVEN WEEK](/files/2306%202t2%20even%20week.pdf) |
-| 2N1 | [2N1 ODD WEEK](/files/2306%202n1%20odd%20week.pdf) | [2N1 EVEN WEEK](/files/2306%202n1%20even%20week.pdf) |
-| 2N2 | [2N2 ODD WEEK](/files/2306%202n2%20odd%20week.pdf) | [2N2 EVEN WEEK](/files/2306%202n2%20even%20week.pdf) |
-| 2E1 | [2E1 ODD WEEK](/files/2306%202e1%20odd%20week.pdf) | [2E1 EVEN WEEK](/files/2306%202e1%20even%20week.pdf) |
-| 2E2 | [2E2 ODD WEEK](/files/2306%202e2%20odd%20week.pdf) | [2E2 EVEN WEEK](/files/2306%202e2%20even%20week.pdf) |
-| 2E3 | [2E3 ODD WEEK](/files/2306%202e3%20odd%20week.pdf) | [2E3 EVEN WEEK](/files/2306%202e3%20even%20week.pdf) |
-| 2E4 | [2E4 ODD WEEK](/files/2306%202e4%20odd%20week.pdf) | [2E4 EVEN WEEK](/files/2306%202e4%20even%20week.pdf) |
+| 2T1 | [2T1 ODD WEEK](/files/2306%202t1%20odd%20week.pdf) | [2T1 EVEN WEEK](/files/2306%202t1%20even%20week%20v2.pdf) |
+| 2T2 | [2T2 ODD WEEK](/files/2306%202t2%20odd%20week.pdf) | [2T2 EVEN WEEK](/files/2306%202t2%20even%20week%20v2.pdf) |
+| 2N1 | [2N1 ODD WEEK](/files/2306%202n1%20odd%20week.pdf) | [2N1 EVEN WEEK](/files/2306%202n1%20even%20week%20v2.pdf) |
+| 2N2 | [2N2 ODD WEEK](/files/2306%202n2%20odd%20week.pdf) | [2N2 EVEN WEEK](/files/2306%202n2%20even%20week%20v2.pdf) |
+| 2E1 | [2E1 ODD WEEK](/files/2306%202e1%20odd%20week.pdf) | [2E1 EVEN WEEK](/files/2306%202e1%20even%20week%20v2.pdf) |
+| 2E2 | [2E2 ODD WEEK](/files/2306%202e2%20odd%20week.pdf) | [2E2 EVEN WEEK](/files/2306%202e2%20even%20week%20v2.pdf) |
+| 2E3 | [2E3 ODD WEEK](/files/2306%202e3%20odd%20week.pdf) | [2E3 EVEN WEEK](/files/2306%202e3%20even%20week%20v2.pdf) |
+| 2E4 | [2E4 ODD WEEK](/files/2306%202e4%20odd%20week.pdf) | [2E4 EVEN WEEK](/files/2306%202e4%20even%20week%20v2.pdf) |
 
 **SECONDARY 3 TIMETABLE**
 
