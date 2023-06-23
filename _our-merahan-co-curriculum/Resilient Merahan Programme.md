@@ -20,3 +20,7 @@ Homework and study sessions are part of RMP to provide students with the structu
 The Galaxy provides the RMP students with a haven to relax and bond with each other. The students in the RMP were involved in setting up the place, working with the teachers to paint the space, planning its furnishing and naming it ‘The Galaxy’. The Galaxy was officially opened by Mdm President Halimah Yaccob in February 2021.
  
 Together with dedicated staff, the RMP students are trained to operate The Galaxy, which is open to the general school population on Thursdays. Students are welcome to The Galaxy to use the facilities. Activities available include the PS4 game console as well as board and table games such as pool and table soccer.
+
+![](/images/rmp%20the%20duo.jpg)
+![](/images/dominoes.jpeg)
+
