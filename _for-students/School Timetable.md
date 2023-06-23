@@ -18,8 +18,8 @@ description: ""
 | 1R2 | [1R2 ODD WEEK](/files/2306%201r2%20odd%20week.pdf) | [1R2 EVEN WEEK](/files/2306%201r2%20even%20week.pdf) |
 | 1R3 | [1R3 ODD WEEK](/files/2306%201r3%20odd%20week.pdf) | [1R3 EVEN WEEK](/files/2306%201r3%20even%20week.pdf) |
 | 1R4 | [1R4 ODD WEEK](/files/2306%201r4%20odd%20week.pdf) | [1R4 EVEN WEEK](/files/2306%201r4%20even%20week.pdf) |
-| 1R5 |  |  |
-| 1R6 |  |  |
+| 1R5 | [1R5 ODD WEEK](/files/2306%201r5%20odd%20week.pdf) | [1R5 EVEN WEEK](/files/2306%201r5%20even%20week.pdf) |
+| 1R6 | [1R6 ODD WEEK](/files/2306%201r6%20odd%20week.pdf) | [1R6 EVEN WEEK](/files/2306%201r6%20even%20week.pdf) |
 
 
 **SECONDARY 2 TIMETABLE**
