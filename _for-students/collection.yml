@@ -2,9 +2,9 @@ collections:
   for-students:
     output: true
     order:
-      - Home Based Learning.md
       - School Timetable.md
       - Exam Timetable.md
+      - Home Based Learning.md
       - Scheme of Assessment.md
       - School Booklist.md
       - Student iCON.md
