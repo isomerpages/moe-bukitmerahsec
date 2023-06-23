@@ -43,9 +43,9 @@ description: ""
 | 3T2 | [3T2 ODD WEEK](/files/2306%203t2%20odd%20week.pdf) | [3T2 EVEN WEEK](/files/2306%203t2%20even%20week.pdf) |
 | 3N1 | [3N1 ODD WEEK](/files/2306%203n1%20odd%20week.pdf) | [3N1 EVEN WEEK](/files/2306%203n1%20even%20week.pdf) |
 | 3N2 | [3N2 ODD WEEK](/files/2306%203n2%20odd%20week.pdf) | [3N2 EVEN WEEK](/files/2306%203n2%20even%20week.pdf) |
-| 3E1 |  |  |
-| 3E2 |  |  |
-| 3E3 | |  |
+| 3E1 | [3E1 ODD WEEK](/files/2306%203e1%20odd%20week.pdf) | [3E1 EVEN WEEK](/files/2306%203e1%20even%20week.pdf) |
+| 3E2 | [3E2 ODD WEEK](/files/2306%203e2%20odd%20week.pdf) | [3E2 EVEN WEEK](/files/2306%203e2%20even%20week.pdf) |
+| 3E3 | [3E3 ODD WEEK](/files/2306%203e3%20odd%20week.pdf) | [3E3 EVEN WEEK](/files/2306%203e3%20even%20week.pdf) |
 
 **SECONDARY 4 &amp; 5 TIMETABLE**
 
