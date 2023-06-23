@@ -6,9 +6,9 @@ third_nav_title: Uniformed Groups
 ---
 ### Scouts
 
-<img src="/images/cca12.png" style="width:60%,align:left">
+<img src="/images/scout group2.jpg" style="width:60%,align:left">
 
-<img src="/images/cca13.png" style="width:60%">
+<img src="/images/scout group.jpg" style="width:100%">
 
 
 **Teachers-in-charge**
