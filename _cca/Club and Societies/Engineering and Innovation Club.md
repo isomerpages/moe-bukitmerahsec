@@ -6,7 +6,7 @@ third_nav_title: Club and Societies
 ---
 ### Engineering and Innovation Club
 
- <img src="/images/cca2.png" style="width:80%,align:left"> 
+ <img src="/images/e&amp;i innovation.jpg" style="width:80%,align:left"> 
 
 
 **Teachers-in-charge**
