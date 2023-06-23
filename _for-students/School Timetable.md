@@ -3,7 +3,7 @@ title: School Timetable
 permalink: /for-students/school-timetable/
 description: ""
 ---
-### 2023 Semester 1 Curriculum Timetable  
+### 2023 Semester 2 Curriculum Timetable  
 
 (Click on the respective links to download the timetable of&nbsp;the class)<br><br>
 
@@ -14,12 +14,12 @@ description: ""
 
 |  |  |  |
 |---|---|---|
-| 1R1 | [1R1 ODD WEEK](/files/1R1%20ODD%20WEEK.pdf) | [1R1 EVEN WEEK](/files/1R1%20EVEN%20WEEK.pdf)|
-| 1R2 | [1R2 ODD WEEK](/files/1R2%20ODD%20WEEK.pdf) | [1R2 EVEN WEEK](/files/1R2%20EVEN%20WEEK.pdf) |
-| 1R3 | [1R3 ODD WEEK](/files/1R3%20ODD%20WEEK.pdf) | [1R3 EVEN WEEK](/files/1R3%20EVEN%20WEEK.pdf) |
-| 1R4 | [1R4 ODD WEEK](/files/1R4%20ODD%20WEEK.pdf) | [1R4 EVEN WEEK](/files/1R4%20EVEN%20WEEK.pdf) |
-| 1R5 | [1R5 ODD WEEK](/files/1R5%20ODD%20WEEK.pdf) | [1R5 EVEN WEEK](/files/1R5%20EVEN%20WEEK.pdf) |
-| 1R6 | [1R6 ODD WEEK](/files/1R6%20ODD%20WEEK.pdf)| [1R6 EVEN WEEK](/files/1R6%20EVEN%20WEEK.pdf) |
+| 1R1 | [1R1 ODD WEEK](/files/2306%201r1%20odd%20week.pdf) | [1R1 EVEN WEEK](/files/2306%201r1%20even%20week.pdf) |
+| 1R2 | [1R2 ODD WEEK](/files/2306%201r2%20odd%20week.pdf) | [1R2 EVEN WEEK](/files/2306%201r2%20even%20week.pdf) |
+| 1R3 | [1R3 ODD WEEK](/files/2306%201r3%20odd%20week.pdf) | [1R3 EVEN WEEK](/files/2306%201r3%20even%20week.pdf) |
+| 1R4 | [1R4 ODD WEEK](/files/2306%201r4%20odd%20week.pdf) | [1R4 EVEN WEEK](/files/2306%201r4%20even%20week.pdf) |
+| 1R5 |  |  |
+| 1R6 |  |  |
 
 
 **SECONDARY 2 TIMETABLE**
