@@ -14,7 +14,7 @@ MOE launched the National Digital Literacy Programme (NDLP) for our schools and 
 
 Students from PDLP Pilot schools sharing their experiences learning with a personal learning device.
 
-<iframe width="776" height="510" src="https://www.youtube.com/embed/atVkNBXMVnY" title="Digital Literacy – Students’ Voxpop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="776" height="510" src="https://www.youtube.com/embed/atVkNBXMVnY" title="Digital Literacy – Students’ Voxpop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### Personalised Digital Learning Programme (PDLP) in BMSS
 
@@ -29,11 +29,11 @@ Students from PDLP Pilot schools sharing their experiences learning with a perso
 
 <p> 
 
-With 1 to 1 tech-enabled learning, to create a <b><u>student-centric</u></b>, <b><u>engaging</u></b> and <b><u>stimulating</u></b> teaching and learning environment which encourages Merahans to:<br><br>
+With 1 to 1 tech-enabled learning, to create a&nbsp;<b><u>student-centric</u></b>,&nbsp;<b><u>engaging</u></b>&nbsp;and&nbsp;<b><u>stimulating</u></b>&nbsp;teaching and learning environment which encourages Merahans to:<br><br>
 
-• take <b><u>ownership</u></b> of their learning,<Br>
-• participate in <b><u>collaborative</u></b> learning and<br>
-• extend their learning <b><u>beyond the classroom.</u></b>
+• take&nbsp;<b><u>ownership</u></b>&nbsp;of their learning,<br>
+• participate in&nbsp;<b><u>collaborative</u></b>&nbsp;learning and<br>
+• extend their learning&nbsp;<b><u>beyond the classroom.</u></b>
 
 </p>
 
@@ -49,7 +49,7 @@ With 1 to 1 tech-enabled learning, to create a <b><u>student-centric</u></b>, 
 
 <p>
 	
-Every Merahan will be using the Acer TravelMate Spin B3 as their personal learning device. <Br><br>
+Every Merahan will be using the Acer TravelMate Spin B3 as their personal learning device. <br><br>
 
 Acer TravelMate is a portable device that offers students convenient learning on-the-move, it also allows for a seamless learning experience alongside existing learning technologies such as the Student Learning Space (SLS), Google Suite and Microsoft Office. The touch screen and inking function makes it the device of choice in developing students’ application and creative skills. <br><br>
 
@@ -105,7 +105,7 @@ Application is open to all students whose Gross Household Income (GHI) ≤ $4,40
 <div>
 
 <p>
-As part of the NDLP, schools will progressively roll out ICT applications that will be vital to students’ learning experience and educational journey. <Br><br>
+As part of the NDLP, schools will progressively roll out ICT applications that will be vital to students’ learning experience and educational journey. <br><br>
 
 The school will need to use your child/ward’s personal data such as his/her name and class to set up user accounts.<br><br>
 
@@ -131,7 +131,7 @@ In the following months, MOE will roll out some or all of the following applicat
 
 MOE will give every secondary school student an email address. This is a service provided by Google as part of Google Suite.<br><br>
 
-•  <b>Microsoft 365</b><Br>
+•  <b>Microsoft 365</b><br>
 
 Every Secondary School will be granted a license to use Microsoft Office tools that include Word, PowerPoint and Excel.<br><br>
 
@@ -225,7 +225,7 @@ This addresses stress to the student’s eyes from prolonged use and cyber welln
 <p>
 Choice of after-school DMA settings can be changed at any time using the following link.<br><br>
 
-Do note that changes to the after-school DMA option will only take effect at <b>the end of every month upon receipt of request before the 15th of each month.</b> An email confirmation will be sent to confirm the updated after-school DMA option once it has been activated.<br><br>
+Do note that changes to the after-school DMA option will only take effect at&nbsp;<b>the end of every month upon receipt of request before the 15th of each month.</b>&nbsp;An email confirmation will be sent to confirm the updated after-school DMA option once it has been activated.<br><br>
 
 Request made after the 15th of each month will only take effect the following month.<br><br>
 
@@ -268,7 +268,7 @@ The Device Management Application (DMA) which will be installed in your child/wa
 
 <p>
 	
-All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: <Br><br>
+All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: <br><br>
 
 <a href="https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection">https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection</a>
 
@@ -287,11 +287,11 @@ All user data which is collected by MOE will be stored in secure servers managed
 <div>
 <p>
 
-For the ICT Applications (student iCON, Microsoft ProPlus and Zoom), the school will use your child/ward’s personal data such as his/her name, birth certificate number and class to set up user accounts. This data will also be used for the purposes of authenticating and verifying user identity, troubleshooting and facilitating system improvements. In addition, the commercial providers of these platforms (e.g. Google, Microsoft) will collect and deal with user data generated by your child/ward’s use of these applications. The collection use and disclosure of such data are governed by the commercial provider’s terms of use, which can be found here: <Br><br>
+For the ICT Applications (student iCON, Microsoft ProPlus and Zoom), the school will use your child/ward’s personal data such as his/her name, birth certificate number and class to set up user accounts. This data will also be used for the purposes of authenticating and verifying user identity, troubleshooting and facilitating system improvements. In addition, the commercial providers of these platforms (e.g. Google, Microsoft) will collect and deal with user data generated by your child/ward’s use of these applications. The collection use and disclosure of such data are governed by the commercial provider’s terms of use, which can be found here: <br><br>
 
-• Student iCON: <a href="https://workspace.google.com/terms/education\_terms\_japan.html">https://workspace.google.com/terms/education\_terms\_japan.html</a><br>
-• Microsoft Pro Plus: <a href="https://portal.office.com/commerce/mosa.aspx">https://portal.office.com/commerce/mosa.aspx</a><br>
-• Zoom: <a href="https://zoom.us/docs/en-us/schools-privacy-statement.html">https://zoom.us/docs/en-us/schools-privacy-statement.html</a>
+• Student iCON:&nbsp;<a href="https://workspace.google.com/terms/education\_terms\_japan.html">https://workspace.google.com/terms/education\_terms\_japan.html</a><br>
+• Microsoft Pro Plus:&nbsp;<a href="https://portal.office.com/commerce/mosa.aspx">https://portal.office.com/commerce/mosa.aspx</a><br>
+• Zoom:&nbsp;<a href="https://zoom.us/docs/en-us/schools-privacy-statement.html">https://zoom.us/docs/en-us/schools-privacy-statement.html</a>
 </p>
 
 </div>
@@ -305,7 +305,7 @@ For the ICT Applications (student iCON, Microsoft ProPlus and Zoom), the school 
 <div>
 
 <p>
-Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. This is pursuant to a bulk tender agreement between MOE and the vendor. The tender documents set out the full terms and conditions of such a purchase, and can be found at this website: <a href="https://go.gov.sg/pldtermsandconditions">https://go.gov.sg/pldtermsandconditions</a>
+Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. This is pursuant to a bulk tender agreement between MOE and the vendor. The tender documents set out the full terms and conditions of such a purchase, and can be found at this website:&nbsp;<a href="https://go.gov.sg/pldtermsandconditions">https://go.gov.sg/pldtermsandconditions</a>
 </p>
 
 	
@@ -326,7 +326,7 @@ Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. 
 
 Refer to Acceptable Use Policy [here](/files/BMSS%20AUP%20(20210401).pdf)
 
-### Parent Briefing Slides / Q&A Response
+### Parent Briefing Slides / Q&amp;A Response
 
 [Parent Engagement Deck_2023](/files/IP1%20-%20Parent%20Engagement%20Deck_2023_for%20website.pdf)<br>
 [PDLP-Student-Device-Information-Kit](/files/PDLP-Student-Device-Information-Kit_16-Mar-22.pdf)

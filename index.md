@@ -9,10 +9,10 @@ sections:
   - hero:
       background: /images/New Website Banner copy.jpg
       key_highlights:
-        - title: Announcements
-          description: View latest announcements
-          url: resources/announcements/
         - title: Parents
           description: Information for Parents
           url: /for-parents/travel-plan-form/
+        - title: Students
+          description: Information for Students
+          url: /for-students/school-timetable/
 ---

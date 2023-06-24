@@ -20,7 +20,7 @@ third_nav_title: Sports
 
 **Trainings**
 
-*   Wednesdays: 2:30pm – 5:30pm (Gan Eng Seng Pri ISH)
+*   Tuesdays: 3:00pm – 5:30pm (School Hall/ISH Level 2)
 *   Fridays: 1:30pm – 4:30pm (School Hall)
 
 **Activities**

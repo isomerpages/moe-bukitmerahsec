@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 ###  St John Brigade 
 
-<img src="/images/cca15.png" style="width:60%, align:left">
+<img src="/images/sjb group.jpg" style="width:60%, align:left">
 
 
 **Teachers-in-charge**

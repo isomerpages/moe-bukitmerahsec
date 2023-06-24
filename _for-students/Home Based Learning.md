@@ -6,7 +6,7 @@ description: ""
 ### Home-based Learning (HBL)
 
 
-**Links to Student Learning Space & Troubleshooting Guide:**<br>
+**Links to Student Learning Space &amp; Troubleshooting Guide:**<br>
 [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)<br>
 [SLS Login Troubleshooting Guide](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html)  
 
@@ -23,22 +23,22 @@ Students are to log on the Singapore Student Learning Space ([http://learning.mo
 
 **School Operating Hours**
 
-During school operating hours, students should contact the **School-based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
+During school operating hours, students should contact the&nbsp;**School-based Helpline**&nbsp;for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
-*   School-based helpline: **6474 8934**  
-    Email: **muhammad_haikal_razali@moe.edu.sg**
+*   School-based helpline:&nbsp;**6474 8934**  
+    Email:&nbsp;**muhammad_haikal_razali@moe.edu.sg**
 *   Mondays – Fridays: 9.00am – 4.00pm
 
 **Non-School Operating Hours**
 
-Outside the school operating hours, students should contact the **SLS Helpdesk** for support.
+Outside the school operating hours, students should contact the&nbsp;**SLS Helpdesk**&nbsp;for support.
 
-*   Call SLS Helpdesk at **67026513**
+*   Call SLS Helpdesk at&nbsp;**67026513**
 
 Mondays – Fridays: 4.00pm – 9.00pm  
 Saturdays: 9.00am – 3.00pm  
-*Closed on Sundays & Public Holidays
+*Closed on Sundays &amp; Public Holidays
 
-*   Email SLS Helpdesk at **helpdesk@sls.ufinity.com**
+*   Email SLS Helpdesk at&nbsp;**helpdesk@sls.ufinity.com**
 
 When emailing the SLS Helpdesk, students should include their full name, name of school and form class.
