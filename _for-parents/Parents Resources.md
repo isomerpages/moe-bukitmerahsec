@@ -5,6 +5,9 @@ description: ""
 ---
 ###  Parents Resources 
 
+**Term 3 Principal's Message**
+* [Term 3 Principal's Message](/files/bmss_2023%20semester%202%20principals%20message.pdf)
+
 **Term 2 Principal's Message**
 * [Term 2 Principal's Message](/files/BMSS_2023-Term-2-Principals-Message.pdf)
 
