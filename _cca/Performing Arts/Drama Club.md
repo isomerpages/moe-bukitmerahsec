@@ -15,7 +15,7 @@ third_nav_title: Performing Arts
 *   Ms Giselle Maria Ria
 *   Ms Shahirah Banu
 *   Mr Chg Xin Xuan (Instructor)
-*   Ms Sim Jia Yin Stephanie (Assistant Instructor) 
+*   Ms Farahliza Jasmine Ong (Assistant Instructor) 
 
 **Trainings**
 
