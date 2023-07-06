@@ -14,9 +14,9 @@ third_nav_title: Uniformed Groups
 **Teachers-in-charge**
 
 *   Ms Faith Ng Shu Ping (OIC)
-*   Ms Lee Wen Hui, Priscilla (TIC)
 *   Mr Lim Rong Hua Eric
 *   Ms Chew Min En, Lydia
+*   Ms Lee Wen Hui, Priscilla
 
 **Trainings**
 
