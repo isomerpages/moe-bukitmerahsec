@@ -16,6 +16,7 @@ third_nav_title: Uniformed Groups
 *   Ms Faith Ng Shu Ping (OIC)
 *   Mr Lim Rong Hua Eric
 *   Ms Chew Min En, Lydia
+*   Ms Lee Wen Hui, Priscilla
 
 **Trainings**
 

@@ -14,6 +14,7 @@ third_nav_title: Sports
 *   Ms Loke Jia Yi (Boys’ IC)
 *   Mr Yit Ming En Luke (Girls’ IC)
 *   Ms Stephanie Goh
+*   Ms Nurul Syazwany 
 *   Mr Mohamad Rashid Bin Jalaluddin (Boys’ Coach)
 *    Mr Muhammad Shamir Alfee Bin Aminudin (Girls’ Coach)
 
