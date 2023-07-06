@@ -14,7 +14,6 @@ third_nav_title: Uniformed Groups
 *   Ms Chian Yuan Lin (OIC)
 *   Mr Gaius Lee (2IC)
 *   Ms Tan Wai Hong
-*   Ms Eunice Low
 *   Mr Ken Hu
 
 **Trainings**
