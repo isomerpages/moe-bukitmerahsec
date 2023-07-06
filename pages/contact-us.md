@@ -2,10 +2,10 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ""
+agency_name: BMSS
 locations:
   - address:
-      - "Bukit Merah Secondary "
+      - Bukit Merah Secondary
       - Lengkok Bahru 10
       - Singapore 159050
     operating_hours:
@@ -19,7 +19,7 @@ locations:
     title: Bukit Merah Secondary School
 contacts:
   - content:
-      - phone: +65 6478 8934
+      - phone: +65 6474 8934
       - email: bmss@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
