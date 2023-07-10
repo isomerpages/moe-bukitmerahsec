@@ -36,4 +36,4 @@ b) FormSG (e-FAS) ([https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas));
 
 Applications may be made throughout the year as exigencies of each family’s financial situation demand. Fresh applications will have to be submitted for each school year.
 
-*   [2023 MOE FAS pamphlet EL for schools](/files/2023-MOE-FAS-pamphlet-EL-for-schools.pdf)
+*   [2023 MOE FAS Pamphlet](/files/moe%20fas%20pamphlet%202023.pdf)
