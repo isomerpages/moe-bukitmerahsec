@@ -12,8 +12,8 @@ Please visit the [MOE Financial Assistance Scheme](https://www.moe.gov.sg/finan
 **Eligibility Criteria**
 
 *   Student must be a Singapore citizen.
-*   The family’s gross total household income (GHI) does not exceed $2,750 per month; or
-*   The family’s per capita income (PCI) does not exceed $690 per month, where the PCI is computed based on the GHI divided by the number of household members.
+*  The family’s gross total household income (GHI) does not exceed $3,000 per month; or
+*  The family’s per capita income (PCI) does not exceed $750 per month, where the PCI is computed based on the GHI divided by the number of household members.
 
 **Application Procedure**
 
