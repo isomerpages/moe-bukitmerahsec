@@ -12,8 +12,8 @@ Please visit the [MOE Financial Assistance Scheme](https://www.moe.gov.sg/finan
 **Eligibility Criteria**
 
 *   Student must be a Singapore citizen.
-*   The family’s gross total household income (GHI) does not exceed $2,750 per month; or
-*   The family’s per capita income (PCI) does not exceed $690 per month, where the PCI is computed based on the GHI divided by the number of household members.
+*  The family’s gross total household income (GHI) does not exceed $3,000 per month; or
+*  The family’s per capita income (PCI) does not exceed $750 per month, where the PCI is computed based on the GHI divided by the number of household members.
 
 **Application Procedure**
 
@@ -36,4 +36,4 @@ b) FormSG (e-FAS) ([https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas));
 
 Applications may be made throughout the year as exigencies of each family’s financial situation demand. Fresh applications will have to be submitted for each school year.
 
-*   [2023 MOE FAS pamphlet EL for schools](/files/2023-MOE-FAS-pamphlet-EL-for-schools.pdf)
+*   [2023 MOE FAS Pamphlet](/files/moe%20fas%20pamphlet%202023.pdf)
