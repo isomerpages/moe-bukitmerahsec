@@ -3,6 +3,7 @@ title: School Advisory Committee
 permalink: /partnership/sac/
 description: ""
 ---
+##### School Advisory Committee (SAC)
 
 
 Our School Advisory Committee (SAC) is made up of members from the education, business, social and community sectors. Currently, 3 of our members – Mr Goh Kia Hong, Mr Andy Chew and Mrs Gina Tan – are alumni who have returned to contribute to the school that has played a part in nurturing them to be who they are today.
