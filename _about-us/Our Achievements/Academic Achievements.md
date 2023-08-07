@@ -8,7 +8,7 @@ third_nav_title: Our Achievements
 
 | Department | Competition | Achievement |
 | -------- | -------- | -------- |
-| Mathematics | Singapore and Asian Schools Math Olympiad (SASMO)  | 1 Gold, 3 Silver, 7 Bronze and 7 Honorable Mention  |
+| Mathematics | Singapore and Asian Schools Math Olympiad (SASMO) <br><br>Singapore Mathematical Olympiad (SMO)<br><br>Singapore Math Kangaroo Contest (SMKC) | 1 Gold, 3 Silver, 7 Bronze and 7 Honorable Mention <br><br>4 Honorable Mention<br><br> 2 Gold, 2 Silver, 4 Bronze |
 | Mother Tongue|National Chinese Language Championship 全国华文大比拼  |Awarded top 30 out of 1050 contestants|
 | Science | Australia Big Science Competition | 1 Distinction and 7 Credits |
 |Humanities |Inter-school Principle Of Accounts Quest (organised by Deyi Sec) <br><br> Hwa Chong International Model United Nations (HMUN) 2023 Conference | Champion <br><br> Awarded the Most Honourable Delegate Award
