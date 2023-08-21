@@ -8,8 +8,9 @@ third_nav_title: Our People
 
 | Name | Designation | Email Address |
 |:---:|:---:|:---:|
-|  Sim Beng Chong | Operation Manager | sim_beng_chong@schools.gov.sg |
-|  Lim Chun Leong | Operation Manager | lim_chun_leong@schools.gov.sg|
+| Tan Siew Siew | Administration Manager | tan_siew_siew@schools.gov.sg |
+|  Sim Beng Chong | Operations Manager | sim_beng_chong@schools.gov.sg |
+|  Lim Chun Leong | Operations Manager | lim_chun_leong@schools.gov.sg|
 | Peh Kian Chai | Administrative Executive | peh_kian_chai@schools.gov.sg |
 | Chua Peck Hoon| Administrative Executive | chua_peck_hoon_a@schools.gov.sg |
 | Yip Zi Min Vanessa | Corporate Support Officer | yip_zi_min_vanessa@schools.gov.sg |
