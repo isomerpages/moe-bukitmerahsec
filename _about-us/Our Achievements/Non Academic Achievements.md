@@ -14,13 +14,14 @@ third_nav_title: Our Achievements
 | NCC    | PDS Competition 2023    | Finalist   |
 | NCC | NCC West Outstanding Cadet Award 2022 | 1 awardee  |
 | NCC | NCC Enhanced Precision Drill Squad (PDS) 43rd Auxiliary Instructor Course | 1 certified cadet |
+| Scouts | Chief Commissioner Well Done Award <br><br>25th World Scouts Jamboree | 2 awardees<br><br>2 representatives |
 
 **Clubs and Societies**
  
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
 | E&amp;I | Singapore Amazing Flying Machine Competition | Merit Award |
-
+| Infor Media Club | S2 Cluster Photography Showcase 2023 | 3 Distinctions, 4 Accomplishment |
 
 #### 2022 Achievements
 
@@ -29,7 +30,7 @@ third_nav_title: Our Achievements
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | Unit Recognition 2022 <br><br>PDS competition @ NCC HQ <br><br>PDS Basic Instructor Course   | Distinction<br><br> Finalist<br><br>5 certified cadets  |
-
+| Scouts | Frank Cooper Sands Award<br><br>Guest Ambassadors for Istana Open House | Gold<br><br>4 representatives |
 
 **Sports**
 
