@@ -11,21 +11,21 @@ description: ""
 
 |  |  |  |
 |---|---|---|
-|  | | |
+| [Sec 1](/files/sec%201%20eoy%202023.pdf) | | |
 |  |  |  |
 
 #### Secondary 2
 
 |  |  |  |
 |---|---|---|
-| 2NT | 2NA | 2EXP |
+| [Sec 2](/files/sec%202%20eoy%202023.pdf) |  |  |
 |  |  |  |
 
 #### Secondary 3
 
 |  |  |  |
 |---|---|---|
-| 3NT | 3NA | 3EXP |
+| [3NT](/files/3nt%20eoy%202023.pdf) | [3NA](/files/3na%20eoy%202023.pdf) | [3EXP](/files/3exp%20eoy%202023.pdf) |
 |  |  |  |
 
 ### Prelims (2023)
