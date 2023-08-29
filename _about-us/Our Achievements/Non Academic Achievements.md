@@ -12,7 +12,7 @@ third_nav_title: Our Achievements
 | -------- | -------- | -------- |
 | NCC    | PDS Competition 2023 <br><br>NCC Enhanced Precision Drill Squad (PDS) 43rd Auxiliary Instructor Course   | 1 awardee<br><br>1 certified cadet |
 | Scouts | Chief Commissioner Well Done Award<br><br>25th World Scouts Jamboree | 2 awardees<br><br>2 representatives |
-
+||||
 
 **Sports**
 
@@ -20,6 +20,7 @@ third_nav_title: Our Achievements
 | -------- | -------- | -------- |
 | Floorball | National B Division Boys Championship 2023<br><br>National B Division Girls Championship 2023<br><br>National C Division Boys Championship 2023<br><br>National C Division Girls Championship 2023 | 3rd Runner Up<br><br>Top 16<br><br>Top 8<br><br>Top 16 |
 | Tchoukball | Inter-School B Division Boys (Plate) Tchoukball Championship 2023<br><br>Inter-School B Division Girls (Cup) Tchoukball Championship 2023<br><br>Inter-School C Division Boys (Cup) Tchoukball Championship 2023<br><br>Inter-School C Division Girls (Cup) Tchoukball Championship 2023 | 1st<br><br>5th<br><br>6th<br><br>6th|
+||||
 
 **Clubs and Societies**
  
@@ -27,7 +28,7 @@ third_nav_title: Our Achievements
 | -------- | -------- | -------- |
 | E&amp;I | Singapore Amazing Flying Machine Competition | Merit Award |
 | Infor Media Club | S2 Cluster Photography Showcase 2023 | 3 Distinctions, 4 Accomplishment |
-
+||||
 
 **Performing Arts**
  
@@ -36,7 +37,7 @@ third_nav_title: Our Achievements
 | Drama | Singapore Youth Festival Presentation 2023 | Certificate of Accomplishment |
 | Concert Band | Singapore Youth Festival Presentation 2023 | Certificate of Accomplishment |
 | Modern Dance | Singapore Youth Festival Presentation 2023 | Certificate of Accomplishment |
-
+||||
 
 #### 2022 Achievements
 
@@ -46,6 +47,7 @@ third_nav_title: Our Achievements
 | -------- | -------- | -------- |
 | NCC    | Unit Recognition 2022 <br><br>PDS competition @ NCC HQ <br><br>PDS Basic Instructor Course<br><br>NCC West Outstanding Cadet Award 2022   | Distinction<br><br> Finalist<br><br>5 certified cadets<br><br>1 awardee  |
 | Scouts | Frank Cooper Sands Award<br><br>Guest Ambassadors for Istana Open House | Gold<br><br>4 representatives |
+||||
 
 **Sports**
 
@@ -54,6 +56,7 @@ third_nav_title: Our Achievements
 | Basketball | South Zone B Division Boys Inter-School Championships 2022 <br><br><br>Whye Nam U14 Girls Basketball Tournament 2022   | Fair Play Award <br><br>3rd place|
 | Floorball | National Inter-Schools Floorball Competitions 2022 – B Division<br><br>Singapore Schools Sports Council Colours Award<br><br>Singapore Schools Sports Council Sportsmanship Award | Champion<br><br>17 awardees <br><br> 2 awardees |
 | Tchoukball | 14th National Inter-School Tchoukball Championships 2022 ‘B’ Division Girls Cup <br><br>15th National Inter-School Tchoukball Championships 2022 ‘C’ Division Girls| 7th place <br><br><br> 5th place |
+||||
 
 **Clubs and Societies**
  
@@ -61,7 +64,7 @@ third_nav_title: Our Achievements
 | -------- | -------- | -------- |
 | E&amp;I   | Toy Design Competition 2022 <br><br><br>Singapore Amazing Flying Machine Competition 2022    | 2nd prize, 2 merits, 1 commendation<br><br> Merit  |
 |Info Media Club| S2 Cluster Photography Showcase 2022 | Certificate of Achievement|
-|
+||||
 
 #### 2021 Achievements
 
@@ -70,6 +73,7 @@ third_nav_title: Our Achievements
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | Unit Recognition 2021<br><br>NCC West Outstanding Cadet Award 2021    | Distinction <br><br>1 awardee  |
+||||
 
 **Performing Arts**
 
@@ -78,6 +82,7 @@ third_nav_title: Our Achievements
 | Band    | Singapore Youth Festival Arts Presentation 2021 (Percussion Ensemble)<br><br>Singapore Youth Festival Arts Presentation 2021 (Flexible Band)	 | Certificate of Distinction <br><br>Certificate of Accomplishment  |
 |Dance|Singapore Youth Festival Arts Presentation 2021|Certificate of Distinction |
 |Drama|Singapore Youth Festival Arts Presentation 2021|Certificate of Accomplishment|
+||||
 
 **Clubs and Societies**
 
@@ -85,7 +90,7 @@ third_nav_title: Our Achievements
 | -------- | -------- | -------- |
 | E&amp;I    | Toy Design Competition 2021    | 3 commendation and 2 merit |
 |Info Media Club|S2 Cluster Photography Showcase 2021 |Certificate of Achievement|
-
+||||
 
 #### 2020 Achievements
 
@@ -96,3 +101,4 @@ third_nav_title: Our Achievements
 | -------- | -------- | -------- |
 | NCC    | NCC West Outstanding Cadet Award    | 1 awardee   |
 |SJB|Corps Achievement Award 2020<br><br>Chief Commissioner’s Award| Gold <br><br>7 awardees|
+||||
