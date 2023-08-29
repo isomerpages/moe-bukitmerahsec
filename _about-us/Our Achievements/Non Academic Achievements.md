@@ -6,15 +6,20 @@ third_nav_title: Our Achievements
 ---
 #### 2023 Achievements
 
-
 **Uniformed Groups**
 
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
-| NCC    | PDS Competition 2023    | Finalist   |
-| NCC | NCC West Outstanding Cadet Award 2022 | 1 awardee  |
-| NCC | NCC Enhanced Precision Drill Squad (PDS) 43rd Auxiliary Instructor Course | 1 certified cadet |
-| Scouts | Chief Commissioner Well Done Award <br><br>25th World Scouts Jamboree | 2 awardees<br><br>2 representatives |
+| NCC    | PDS Competition 2023 <br><br>NCC Enhanced Precision Drill Squad (PDS) 43rd Auxiliary Instructor Course   | 1 awardee<br><br>1 certified cadet |
+| Scouts | Chief Commissioner Well Done Award<br><br>25th World Scouts Jamboree | 2 awardees<br><br>2 representatives |
+
+
+**Sports**
+
+| CCA | Competition| Achievement |
+| -------- | -------- | -------- |
+| Floorball | National B Division Boys Championship 2023<br><br>National B Division Girls Championship 2023<br><br>National C Division Boys Championship 2023<br><br>National C Division Girls Championship 2023 | 3rd Runner Up<br><br>Top 16<br><br>Top 8<br><br>Top 16 |
+| Tchoukball | Inter-School B Division Boys (Plate) Tchoukball Championship 2023<br><br>Inter-School B Division Girls (Cup) Tchoukball Championship 2023<br><br>Inter-School C Division Boys (Cup) Tchoukball Championship 2023<br><br>Inter-School C Division Girls (Cup) Tchoukball Championship 2023 | 1st<br><br>5th<br><br>6th<br><br>6th|
 
 **Clubs and Societies**
  
@@ -23,13 +28,23 @@ third_nav_title: Our Achievements
 | E&amp;I | Singapore Amazing Flying Machine Competition | Merit Award |
 | Infor Media Club | S2 Cluster Photography Showcase 2023 | 3 Distinctions, 4 Accomplishment |
 
+
+**Performing Arts**
+ 
+| CCA  | Competition| Achievement |
+| -------- | -------- | -------- |
+| Drama | Singapore Youth Festival Presentation 2023 | Certificate of Accomplishment |
+| Concert Band | Singapore Youth Festival Presentation 2023 | Certificate of Accomplishment |
+| Modern Dance | Singapore Youth Festival Presentation 2023 | Certificate of Accomplishment |
+
+
 #### 2022 Achievements
 
 **Uniformed Groups**
 
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
-| NCC    | Unit Recognition 2022 <br><br>PDS competition @ NCC HQ <br><br>PDS Basic Instructor Course   | Distinction<br><br> Finalist<br><br>5 certified cadets  |
+| NCC    | Unit Recognition 2022 <br><br>PDS competition @ NCC HQ <br><br>PDS Basic Instructor Course<br><br>NCC West Outstanding Cadet Award 2022   | Distinction<br><br> Finalist<br><br>5 certified cadets<br><br>1 awardee  |
 | Scouts | Frank Cooper Sands Award<br><br>Guest Ambassadors for Istana Open House | Gold<br><br>4 representatives |
 
 **Sports**
