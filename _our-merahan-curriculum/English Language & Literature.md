@@ -22,7 +22,6 @@ description: ""
 *   Ms Ng Shuping Faith
 *   Mr Lawrence Tan Eng Chuan
 *   Mdm Shahirah Banu bte Leyakat Ali
-*   Mr Yeo Jun Zhong
 *   Ms Chen Ying
 
 **Department Vision**
