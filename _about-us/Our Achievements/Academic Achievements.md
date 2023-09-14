@@ -11,7 +11,7 @@ third_nav_title: Our Achievements
 | Mathematics | Singapore and Asian Schools Math Olympiad (SASMO) <br><br>Singapore Mathematical Olympiad (SMO)<br><br>Singapore Math Kangaroo Contest (SMKC) | 1 Gold, 3 Silver, 7 Bronze and 7 Honorable Mention <br><br>4 Honorable Mention<br><br> 2 Gold, 2 Silver, 4 Bronze |
 | Mother Tongue|National Chinese Language Championship 全国华文大比拼  |Awarded top 30 out of 1050 contestants|
 | Science | Australia Big Science Competition <br><br><br>  Singapore Junior Chemistry Olympiad| 2 High Distinctions, 1 Distinction and 7 Credits<br><br> Bronze |
-|Humanities |Inter-school Principle Of Accounts Quest (organised by Deyi Sec) <br><br> Hwa Chong International Model United Nations (HMUN) 2023 Conference<br><br>  Hwa Chong International Model United Nations 2023| Champion <br><br> Awarded the Most Honourable Delegate Award<br><br><br>Honourable Delegate Award 
+|Humanities |Inter-school Principle Of Accounts Quest (organised by Deyi Sec) <br><br> Hwa Chong International Model United Nations (HMUN) 2023 Conference| Champion <br><br> Awarded the Most Honourable Delegate Award
 ||||
 
 ##### 2022 Achievements
