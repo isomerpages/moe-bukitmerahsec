@@ -13,7 +13,6 @@ third_nav_title: Performing Arts
 
 *   Mdm Ng Shi Ming Jayne (OIC)
 *   Mdm Qin Zhen Zhen
-*   Mr Yeo Jun Zhong
 *   Mrs Chang Lai Yee
 *   Ms Lim Sze Ai \[(Main Band) Instructor\]
 *   Mr Tan Loke Chuah \[Instructor (Recruit and Percussion)\]

@@ -22,7 +22,7 @@ third_nav_title: Our People
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
 | 2T1 | Chua Chwee Guan Johnson | chua_chwee_guan_johnson@schools.gov.sg |
-| 2T2 | Yeo Jun Zhong | yeo_jun_zhong@schools.gov.sg |
+| 2T2 | Suzanne Eng Siew San | suzanne_eng@schools.gov.sg |
 | 2N1 | Tay Fang Lin (Catherine)<br><br>Ng Hui Ling | tay_fang_lin@schools.gov.sg <br><br>ng_hui_ling@schools.gov.sg|
 | 2N2 | Phang Kay Yen<br><br>Chen Jing | phang_kay_yen@schools.gov.sg <br><br> chen_jing@schools.gov.sg|
 | 2E1 | Fang Swee Foong (Anthony) | fang_swee_foong@schools.gov.sg |
