@@ -5,7 +5,7 @@ description: ""
 ---
 ### Physical Education
 
-<img src="/images/de24.png" style="width:80%">
+<img src="/images/pe-2023.jpg" style="width:80%">
 
 **Department Teachers**
 
