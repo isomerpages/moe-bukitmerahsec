@@ -21,7 +21,7 @@ Singapore Citizen students who wish to apply for financial assistance are requir
 
 Please ensure that the FAS application is accompanied by all relevant documents required by MOE.
 
-a) Hardcopy [MOE FAS Application Form](/files/2023%20MOE%20FAS%20Application%20Form%20(BMSS).pdf)
+a) Hardcopy - TBA
 
     Hardcopy form is required for:
 
