@@ -5,7 +5,7 @@ description: ""
 ---
 ### Infocomm Technology
 
-<img src="/images/de25.png" style="width:80%">
+<img src="/images/ict-2023.jpg" style="width:80%">
 
 **Department Teachers**
 
