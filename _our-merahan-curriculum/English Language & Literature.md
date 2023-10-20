@@ -5,7 +5,7 @@ description: ""
 ---
 ### English Language and Literature
 
-&nbsp;<img src="/images/de1.png" style="width:80%">  
+&nbsp;<img src="/images/el-2023.jpg" style="width:80%">  
  
  **Department Teachers**
 

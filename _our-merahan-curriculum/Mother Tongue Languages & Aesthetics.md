@@ -5,7 +5,7 @@ description: ""
 ---
 ### Mother Tongue Languages and Aesthetics
 
-<img src="/images/de14.png" style="width:80%">  
+<img src="/images/mtl-2023.jpg" style="width:80%">  
 
 **Department Teachers**
 

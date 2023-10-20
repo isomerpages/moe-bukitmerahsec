@@ -5,7 +5,7 @@ description: ""
 ---
 ### Science
 
-<img src="/images/de12.png" style="width:80%">  
+<img src="/images/science-2023.jpg" style="width:80%">  
 
 **Department Teachers**
 

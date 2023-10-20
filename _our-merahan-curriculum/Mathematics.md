@@ -5,7 +5,7 @@ description: ""
 ---
 ### Mathematics
 
-<img src="/images/de4.png" style="width:80%">  
+<img src="/images/math-2023.jpg" style="width:80%">  
 
 **Department Teachers**
 

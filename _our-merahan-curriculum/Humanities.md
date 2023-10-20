@@ -5,7 +5,7 @@ description: ""
 ---
 ### Humanities
 
-<img src="/images/de21.png" style="width:80%">
+<img src="/images/human-2023.jpg" style="width:80%">
 
 **Department Teachers**
 
