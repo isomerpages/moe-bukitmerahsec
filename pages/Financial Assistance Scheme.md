@@ -25,10 +25,11 @@ a) Hardcopy - TBA
 
     Hardcopy form is required for:
 
-1.  families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
-2.  family with more than 5 children in Government & Govt-Aided Schools (GGAS)
-3.  family with more than 4 unmarried children not in GGAS
-4.  family with more than 3 grandparents in the household
+1. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
+2. family with more than 6 children in Government & Govt-Aided Schools (GGAS)
+3. family with more than 5 unmarried children not in GGAS
+4. family with more than 3 grandparents in the household
+
 
 b) FormSG (e-FAS) ([https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas));
 
