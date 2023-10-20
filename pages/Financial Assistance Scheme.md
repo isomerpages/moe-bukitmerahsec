@@ -21,12 +21,14 @@ Singapore Citizen students who wish to apply for financial assistance are requir
 
 Please ensure that the FAS application is accompanied by all relevant documents required by MOE.
 
-a) Hardcopy - TBA
+a) Hardcopy - [MOE FAS Hardcopy Form](/files/2024%20moe%20fas%20application%20form%20(bmss).pdf)
 
     Hardcopy form is required for:
 
+
+
 1. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
-2. family with more than 6 children in Government & Govt-Aided Schools (GGAS)
+2. family with more than 6 children in GGAS
 3. family with more than 5 unmarried children not in GGAS
 4. family with more than 3 grandparents in the household
 
@@ -37,4 +39,4 @@ b) FormSG (e-FAS) ([https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas));
 
 Applications may be made throughout the year as exigencies of each family’s financial situation demand. Fresh applications will have to be submitted for each school year.
 
-*   [2023 MOE FAS Pamphlet](/files/moe%20fas%20pamphlet%202023.pdf)
+* [MOE FAS pamphet ](/files/2024%20moe%20fas%20pamphet%20el_cl_ml_tl.pdf)
