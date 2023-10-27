@@ -26,6 +26,8 @@ links:
   - title: Links
     url: /for-parents/travel-plan-form/
     sublinks:
+      - title: Open House
+        url: /permalink
       - title: Direct School Admission
         url: https://go.gov.sg/bmssdsa
       - title: For Parents
@@ -40,7 +42,5 @@ links:
         url: /for-parents/financial-assistance/
       - title: CCA Holiday Training Schedule
         url: /cca-holiday-train/
-      - title: Open House
-        url: /permalink
   - title: Partnership
     collection: partnership
