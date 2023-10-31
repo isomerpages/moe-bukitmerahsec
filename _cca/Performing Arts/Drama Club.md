@@ -14,7 +14,7 @@ third_nav_title: Performing Arts
 *   Ms Fong Min Shi Chloe (OIC)
 *   Ms Giselle Maria Ria
 *   Ms Shahirah Banu
-*   Mr Lala Gwen Thomas (Instructor)
+*   Ms Lala Gwen Thomas (Instructor)
 *   Ms Farahliza Jasmine Ong (Assistant Instructor) 
 
 **Trainings**
