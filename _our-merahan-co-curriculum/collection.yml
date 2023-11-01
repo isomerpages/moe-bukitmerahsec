@@ -2,6 +2,7 @@ collections:
   our-merahan-co-curriculum:
     output: true
     order:
+      - Peer Support Lifter (PSL) Programme.md
       - Aesthetic Education Programme.md
       - Global Merahan Programme.md
       - Learning for Life (Sports) Programme (LLP).md
