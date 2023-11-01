@@ -3,12 +3,12 @@ title: Student Leadership
 permalink: /student-leadership/
 description: ""
 ---
+## Merahan Leadership Programme
+## 
 <img src="/images/prefect002.jpg" style="width:60%,align:left">
 
 <img src="/images/prefect001.png" style="width:60%,align:left">
 
-The Merahan Leadership Programme aims to provide student leaders with the skills and opportunities to lead and inspire fellow Merahans. Anchored on the Prefectorial Board, it also caters to Leaders of the respective CCAs, and Chairpersons of Class Committees.
+The Merahan Leadership Programme aims to provide student leaders with the skills and opportunities to lead and inspire fellow Merahans. It caters to members of the [1] Prefectorial Board, [2] CCA leaders, and [3] Class Committee Chairpersons.
 
-The Prefectorial Board, comprising students who have displayed leadership dispositions and exemplary behaviour, is a key avenue through which student leaders learn to represent and lead their peers. The Secondary One Orientation Programme and Teachers’ Day Celebrations are two major events in which Prefects are heavily involved in planning and implementation, and provide Prefects with the opportunity to apply the skills and knowledge they have acquired in authentic, large-scale projects.
-
-CCA Leaders go through a diverse range of developmental experiences as they lead their peers in their respective CCAs, while Chairpersons of Class Committees undergo a series of customised learning experiences as they work with their classmates and teachers to create an inviting and positive classroom environment and culture.
+The Prefectorial Board, comprising students who have displayed leadership dispositions and exemplary behaviour, is a key avenue through which student leaders are given further opportunities to represent their peers and lead in school programmes such as Speech Day and Open House. CCA Leaders go through a diverse range of developmental experiences as they lead their peers in their respective CCAs, while Chairpersons of Class Committees undergo a series of customised learning experiences as they work with their classmates and teachers to create an inviting and positive classroom environment and culture. Major school events such as the Secondary One Orientation Programme and Teachers’ Day Celebrations also provide opportunities for the different groups of Merahan leaders to work together and play their part in the planning and implementation of authentic and meaningful projects.
