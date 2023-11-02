@@ -2,10 +2,10 @@ collections:
   our-merahan-co-curriculum:
     output: true
     order:
-      - Learning for Life (Sports) Programme (LLP).md
-      - Applied Learning (STEM) Programme (ALP).md
       - Aesthetic Education Programme.md
       - Global Merahan Programme.md
+      - Learning for Life (Sports) Programme (LLP).md
+      - Applied Learning (STEM) Programme (ALP).md
       - Budding Reading Programme.md
       - Resilient Merahan Programme.md
       - Merahan Leadership Programme.md
