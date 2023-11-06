@@ -1,6 +1,6 @@
 ---
 title: Peer Support Lifter (PSL) Programme
-permalink: /our-merahan-co-curriculum/permalink/
+permalink: /peer-support-lifter/
 description: ""
 ---
 ## Peer Support Lifter (PSL) Programme
