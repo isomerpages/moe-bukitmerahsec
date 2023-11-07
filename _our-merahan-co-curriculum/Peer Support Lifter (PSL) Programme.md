@@ -2,6 +2,7 @@
 title: Peer Support Lifter (PSL) Programme
 permalink: /peer-support-lifter/
 description: ""
+variant: markdown
 ---
 ## Peer Support Lifter (PSL) Programme
 
@@ -16,5 +17,5 @@ The PSL programme in BMSS develops PSLs through the stages of [1] Novice, [2] Ju
 | -------- | -------- |
 | Novice PSL     | - Becoming a PSL<br>- Befriending<br>- Noticing and reaching out to peers in distress |
 | Junior PSL     | - Responding with empathy<br>- Encouraging help-seeking<br>- Emotional regulation   |
-| Senior PS    | - Peer pressure<br>- Understanding conflicts<br>- Self-care
+| Senior PSL    | - Peer pressure<br>- Understanding conflicts<br>- Self-care
    |
