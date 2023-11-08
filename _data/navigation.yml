@@ -30,8 +30,6 @@ links:
     sublinks:
       - title: Open House
         url: /bmss-open-house23/
-      - title: Canteen Stall Advertisement
-        url: /canteen-stall/
       - title: Direct School Admission
         url: https://go.gov.sg/bmssdsa
       - title: For Parents
@@ -46,5 +44,7 @@ links:
         url: /for-parents/financial-assistance/
       - title: CCA Holiday Training Schedule
         url: /cca-holiday-train/
+      - title: Canteen Stall Advertisement
+        url: /canteen-stall/
   - title: Partnership
     collection: partnership
