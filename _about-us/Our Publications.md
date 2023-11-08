@@ -2,6 +2,7 @@
 title: Our Publications
 permalink: /about-us/our-publications/
 description: ""
+variant: markdown
 ---
 Browse through our school publications.
 
