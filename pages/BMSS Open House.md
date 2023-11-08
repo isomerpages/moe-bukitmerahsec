@@ -2,7 +2,11 @@
 title: BMSS Open House
 permalink: /bmss-open-house23/
 description: ""
+variant: markdown
 ---
+
+![](/images/flyer-design-2023.jpg)
+
 Dear all,
 
 Our Open House will be held on the following day:
