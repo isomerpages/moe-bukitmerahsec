@@ -4,15 +4,14 @@ permalink: /canteen-stall/
 description: ""
 variant: markdown
 ---
-#### Application Procedure
-
-
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Western Food     | 24 Nov 2023   |   Western Cuisine   |
 | Halal Muslim Noodles    | 24 Nov 2023   |   Noodles   |
 | Halal Muslim Rice     | 24 Nov 2023   |  Nasi Padang    |
+
+#### Application Procedure
 
 Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
