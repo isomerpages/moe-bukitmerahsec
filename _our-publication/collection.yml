@@ -1,4 +1,5 @@
 collections:
   our-publication:
     output: true
-    order: []
+    order:
+      - Our Publications.md
