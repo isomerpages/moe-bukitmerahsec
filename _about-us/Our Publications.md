@@ -6,13 +6,12 @@ variant: markdown
 ---
 Browse through our school publications.
 
-
-
-| 2023 | 
+| 2023 |
 | -------- |
-| [Merahan Pulse - April Issue](/files/merahan%20pulse%202023%20-%20issue%201.pdf) | 
-| [Merahan Pulse - September Issue](/files/merahan%20pulse%20-%20september.pdf) |
+|  [Merahan Pulse - September Issue](/files/merahan%20pulse%20-%20september.pdf)  |
+| [Merahan Pulse - April Issue](/files/merahan%20pulse%202023%20-%20issue%201.pdf) |
 <br>
+
 
 | 2022  |  
 | -------- | 
