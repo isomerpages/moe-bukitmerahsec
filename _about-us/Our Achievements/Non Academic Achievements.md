@@ -3,6 +3,7 @@ title: Non Academic Achievements
 permalink: /about-us/our-achievements/non-academic-achievements/
 description: ""
 third_nav_title: Our Achievements
+variant: markdown
 ---
 #### 2023 Achievements
 
@@ -20,6 +21,7 @@ third_nav_title: Our Achievements
 | -------- | -------- | -------- |
 | Floorball | National B Division Boys Championship 2023<br><br>National B Division Girls Championship 2023<br><br>National C Division Boys Championship 2023<br><br>National C Division Girls Championship 2023 | 3rd Runner Up<br><br>Top 16<br><br>Top 8<br><br>Top 16 |
 | Tchoukball | Inter-School B Division Boys (Plate) Tchoukball Championship 2023<br><br>Inter-School B Division Girls (Cup) Tchoukball Championship 2023<br><br>Inter-School C Division Boys (Cup) Tchoukball Championship 2023<br><br>Inter-School C Division Girls (Cup) Tchoukball Championship 2023 | 1st<br><br>5th<br><br>6th<br><br>6th|
+| Basketball | National School Games (NSG), South Zone "C" Division Tournament| Boys Team Quarter Final Sportsmanship Award - 2 Awardee|
 ||||
 
 **Clubs and Societies**
