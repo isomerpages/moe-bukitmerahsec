@@ -4,7 +4,6 @@ permalink: /bmss-open-house23/
 description: ""
 variant: markdown
 ---
-
 ![](/images/flyer-design-2023.jpg)
 
 Dear all,
