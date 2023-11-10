@@ -11,7 +11,7 @@ variant: markdown
 
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
-| NCC    | PDS Competition 2023 <br><br>NCC Enhanced Precision Drill Squad (PDS) 43rd Auxiliary Instructor Course   | 1 awardee<br><br>1 certified cadet |
+| NCC    | PDS Competition 2023 <br><br>NCC Enhanced Precision Drill Squad (PDS) 43rd Auxiliary Instructor Course<br><br>NCC Sports Championship   | 1 awardee<br><br>1 certified cadet<br><br>West District Champion (Frisbee category) |
 | Scouts | Chief Commissioner Well Done Award<br><br>25th World Scouts Jamboree | 2 awardees<br><br>2 representatives |
 ||||
 
