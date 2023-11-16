@@ -21,7 +21,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | Floorball | National B Division Boys Championship 2023<br><br>National B Division Girls Championship 2023<br><br>National C Division Boys Championship 2023<br><br>National C Division Girls Championship 2023 | 3rd Runner Up<br><br>Top 16<br><br>Top 8<br><br>Top 16 |
 | Tchoukball | Inter-School B Division Boys (Plate) Tchoukball Championship 2023<br><br>Inter-School B Division Girls (Cup) Tchoukball Championship 2023<br><br>Inter-School C Division Boys (Cup) Tchoukball Championship 2023<br><br>Inter-School C Division Girls (Cup) Tchoukball Championship 2023 | 1st<br><br>5th<br><br>6th<br><br>6th|
-| Basketball | National School Games (NSG), South Zone "C" Division Tournament| Boys Team Quarter Final Sportsmanship Award - 2 Awardee|
+| Basketball | National School Games (NSG), South Zone "C" Division Tournament<br><br>Bukit Merah U16 Boys' and Girls' Basketball Invitational Tournament 2023| Boys Team Quarter Final Sportsmanship Award - 2 Awardee<br><br>B Division Boys - 1st Runner-up<br>B Division Girls - Champion|
 ||||
 
 **Clubs and Societies**
