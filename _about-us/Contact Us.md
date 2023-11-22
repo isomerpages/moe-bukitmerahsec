@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /about-us/contact-us/
 description: ""
+variant: markdown
 ---
 ### School Location
 
@@ -15,7 +16,9 @@ description: ""
 
 #### General Office Opening Hours
 
-Mondays to Fridays: 0700 hrs – 1800 hrs 
+Mondays to Fridays: 0700 hrs – 1800 hrs
+
+Mondays to Fridays (during school vacation): 0700 hrs – 1700 hrs 
 
 School is closed on Saturdays, Sundays and Public Holidays. 
 
