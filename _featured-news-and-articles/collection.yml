@@ -1,0 +1,10 @@
+collections:
+  featured-news-and-articles:
+    output: true
+    order:
+      - The Straits Times — BMSS Visits The Istana.md
+      - The Straits Times — 25 February 2021.md
+      - The Straits Times — Young Athlete of the Year Nominee.md
+      - Channel NewsAsia — BUS Programme.md
+      - The New Paper — 15 January 2018.md
+      - The Straits Times — 11 April 2018.md

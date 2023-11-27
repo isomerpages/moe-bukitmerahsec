@@ -1,0 +1,16 @@
+collections:
+  parents:
+    output: true
+    order:
+      - National Digital Literacy/About NDLP.md
+      - National Digital Literacy/Acer Helpdesk Service Centre.md
+      - National Digital Literacy/.keep
+      - Parents Links/Parents Support Group.md
+      - Parents Links/.keep
+      - Letters to Parents/2022 Letters to Parents.md
+      - Letters to Parents/2021 Letters to Parents.md
+      - Letters to Parents/.keep
+      - School Publicity/The Merahan Pulse.md
+      - School Publicity/The School Newsletter.md
+      - School Publicity/The BMSS Telegram.md
+      - School Publicity/.keep

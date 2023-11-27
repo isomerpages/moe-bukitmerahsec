@@ -1,0 +1,7 @@
+collections:
+  merahan-pulse-yearly-series:
+    output: true
+    order:
+      - 2021 Merahan Pulse Series.md
+      - 2020 Merahan Pulse Series.md
+      - 2019 Merahan Pulse Series.md

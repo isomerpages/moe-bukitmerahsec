@@ -1,0 +1,52 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our Merahan Curriculum
+    collection: our-merahan-curriculum
+  - title: Our Merahan Co-curriculum
+    url: /cca/permalink/
+    sublinks:
+      - title: CCA
+        url: /cca/permalink/
+      - title: Aesthetic Education Programme
+        url: /our-merahan-co-curriculum/aep/
+      - title: Global Merahan Programme
+        url: /our-merahan-co-curriculum/gmp/
+      - title: Learning for Life Programme
+        url: /programme/learning-for-life/
+      - title: Applied Learning Programme
+        url: /programme/applied-learning-stem-programme/
+      - title: Buddy Reading Programme
+        url: /programme/budding-reading-programme/
+      - title: Resilient Merahan Programme
+        url: /our-merahan-co-curriculum/rmp/
+      - title: Merahan Leadership Programme
+        url: /student-leadership/
+      - title: Peer Support Lifter Programme
+        url: /peer-support-lifter/
+  - title: Links
+    url: /for-parents/travel-plan-form/
+    sublinks:
+      - title: Open House 2023
+        url: /bmss-open-house23/
+      - title: Direct School Admission
+        url: https://go.gov.sg/bmssdsa
+      - title: For Parents
+        url: /for-parents/travel-plan-form/
+      - title: For Students
+        url: /for-students/school-timetable/
+      - title: For Staff
+        url: /for-staff/useful-links/
+      - title: Admission / Transfer In
+        url: /admission/application/
+      - title: Financial Assistance Scheme
+        url: /for-parents/financial-assistance/
+      - title: Featured News and Articles
+        url: /featured-news-and-articles/bmss-visits-istana/
+      - title: CCA Holiday Training Schedule
+        url: /cca-holiday-train/
+      - title: Canteen Stall Advertisement
+        url: /canteen-stall/
+  - title: Partnership
+    collection: partnership

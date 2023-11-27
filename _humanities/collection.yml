@@ -1,0 +1,7 @@
+collections:
+  humanities:
+    output: true
+    order:
+      - Humanities Trail @ Redhill.md
+      - Humanities Trail @ Singapore Zoo.md
+      - Humanities Week 2019.md
