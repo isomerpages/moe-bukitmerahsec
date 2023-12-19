@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Our Achievements
 variant: markdown
 ---
+##### Staff Achievement 2023
 
-
-| Column 1 | Column 2 | 
+| Name of Awards | Awardess | 
 | -------- | -------- | 
 | MOE Service Excellence Award (Platinum)| Ms Michelle Lim Peck Hong|
 |MOE Service Excellence Award (Gold) | Mr Tan Tua Choon<br>Mr Tan Eng Chuan<br>Ms Suzanne Eng Siew San<br>Mdm Sharulhana Bte Mohamed Kamal<br>Mr Shahrizal Bin Salim<br>Mr Satwant Singh S/O Sajjan Singh<br>Ms Phang Kay Yen<br>Ms Ong Min Li<br>Mrs Ng Wai Ping<br>Ms Ng Shuping Faith<br>Ms Low Sook Han<br>Ms Loke Jia Yi<br>Mdm Leow Ser Leng<br>Mr Gaius Lee Tzi Wei<br>Ms Lee Siew Yong Loretta<br>Mr Law Ngiap Hui<br>Mr Hu Jinyuan<br>Mr Anthony Fang Swee Foong<br>Mr Chua Eng Chiong | 
