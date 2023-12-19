@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /our-people/key-personnel/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 #### School Management 
 
@@ -11,6 +12,7 @@ third_nav_title: Our People
 | Mr Darren Chong | Principal | darren_chong@schools.gov.sg |
 | Mr Clifton Koh | Vice-Principal | koh_siew_boon@schools.gov.sg|
 | Ms Sharon Yap | Vice-Principal | yap_sharon@schools.gov.sg |
+| Ms Chan Lai Ying| Vice-Principal (Administration)| CHAN_lai_ying@schools.gov.sg |
 | Dr Leong Swee Ling | Master Teacher | leong_swee_ling@schools.gov.sg |
 <br><br>**Key Personnel** |  <br><br>**Designation**  | <br><br>**Email Address**  |
 | Leow Ser Leng | HOD English Language | leow_ser_leng@schools.gov.sg |
