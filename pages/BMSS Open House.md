@@ -4,15 +4,9 @@ permalink: /bmss-open-house23/
 description: ""
 variant: markdown
 ---
+##### **Principal Engagement Talk with Parents Video**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/CIrTsU5YXAY?si=nF8oFTdkNlPOK8hx" height="315" width="560"></iframe>
+
+<br>
+
 ![](/images/flyer-design-2023.jpg)
-
-Dear all,
-
-Our Open House will be held on the following day:
-
-**Date: 18 November 2023, Saturday<br>
-Time: 9am to 1pm**
-
-* Interaction with our School Leaders and Key Personnel 9.30am &amp; 11.30am
-* Showcases by departments &amp; CCAs
-* School tour with our Student Leaders
