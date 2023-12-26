@@ -7,7 +7,7 @@ variant: markdown
 ---
 ##### Staff Achievement 2023
 
-| Name of Awards | Awardess | 
+| Name of Awards | Awardees | 
 | -------- | -------- | 
 |AST Academy Awards for Professional Development| Ms Lui Yan Ling Esther |
 |President’s Award for Teachers (Nominee)| Ms Ng Shi Ming<br>Mr Tan Eng Chuan<br>Mr Sharizal Bin Salim<br>Ms Neo Siew Eng<br>Mr Lim Sing Gee Joe<br>Mr Chee Kwok Seng|
