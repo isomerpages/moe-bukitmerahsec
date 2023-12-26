@@ -10,7 +10,7 @@ variant: markdown
 | Name of Awards | Awardess | 
 | -------- | -------- | 
 |AST Academy Awards for Professional Development| Ms Lui Yan Ling Esther |
-|Outstanding Youth in Education Award (Nominee)| Ms Ng Shi Ming<br>Mr Tan Eng Chuan<br>Mr Sharizal Bin Salim<br>Ms Neo Siew Eng<br>Mr Lim Sing Gee Joe<br>Mr Chee Kwok Seng|
+|President’s Award for Teachers (Nominee)| Ms Ng Shi Ming<br>Mr Tan Eng Chuan<br>Mr Sharizal Bin Salim<br>Ms Neo Siew Eng<br>Mr Lim Sing Gee Joe<br>Mr Chee Kwok Seng|
 |Outstanding Youth in Education Award (Nominee)| Ms Ng Shi Ming |
 | MOE Service Excellence Award (Platinum)| Ms Michelle Lim Peck Hong|
 |MOE Service Excellence Award (Gold) | Mr Tan Tua Choon<br>Mr Tan Eng Chuan<br>Ms Suzanne Eng Siew San<br>Mdm Sharulhana Bte Mohamed Kamal<br>Mr Shahrizal Bin Salim<br>Mr Satwant Singh S/O Sajjan Singh<br>Ms Phang Kay Yen<br>Ms Ong Min Li<br>Mrs Ng Wai Ping<br>Ms Ng Shuping Faith<br>Ms Low Sook Han<br>Ms Loke Jia Yi<br>Mdm Leow Ser Leng<br>Mr Gaius Lee Tzi Wei<br>Ms Lee Siew Yong Loretta<br>Mr Law Ngiap Hui<br>Mr Hu Jinyuan<br>Mr Anthony Fang Swee Foong<br>Mr Chua Eng Chiong | 
