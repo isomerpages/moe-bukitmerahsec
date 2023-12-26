@@ -29,7 +29,7 @@ variant: markdown
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
 | E&amp;I | Singapore Amazing Flying Machine Competition <br><br>Introducing and Demonstrating Earthquake Engineering Research in Schools (IDEERS 2023) held in Taiwan <br><br>SP Engineering Challenge 2023 – Automata Category| Merit Award <br><br> 1st Prize and Best Architectural Design <br><br>2nd|
-| Infor Media Club | S2 Cluster Photography Showcase 2023 | 3 Distinctions, 4 Accomplishment |
+| Info Media Club | S2 Cluster Photography Showcase 2023 | 3 Distinctions, 4 Accomplishment |
 ||||
 
 **Performing Arts**
