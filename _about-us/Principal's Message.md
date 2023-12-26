@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
-### Principal's Message 2023
+### Principal's Message 2024
 
 <img src="/images/Darren Chong P.jpg" style="width:50,align:left"> 
 
