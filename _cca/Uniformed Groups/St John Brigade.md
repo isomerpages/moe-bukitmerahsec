@@ -3,6 +3,7 @@ title: St John Brigade
 permalink: /cca/Uniformed-Groups/st-john-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ###  St John Brigade 
 
@@ -11,10 +12,11 @@ third_nav_title: Uniformed Groups
 
 **Teachers-in-charge**
 
-*   Ms Chian Yuan Lin (OIC)
-*   Mr Gaius Lee (2IC)
+*   Mr Gaius Lee (OIC)
+*   Ms Chian Yuan Lin (2IC)
 *   Ms Tan Wai Hong
 *   Mr Ken Hu
+*   Mr Zubi Kek (KP Advisor)
 
 **Trainings**
 
