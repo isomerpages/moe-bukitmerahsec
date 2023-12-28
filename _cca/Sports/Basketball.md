@@ -13,7 +13,7 @@ variant: markdown
 **Teachers-in-charge**
 
 *   Mr Ho Wing Leong David (OIC)
-*   Mdm Ng Hsueh Mei
+*   Mdm Ng Hsueh Mei (2IC)
 *   Mr Rosli Bin Hamim
 *   Mr Lim Chun Leong (OM/ Coach)
 *   Ms Jeslyn Ho Jia Ling (Assistant Coach)
