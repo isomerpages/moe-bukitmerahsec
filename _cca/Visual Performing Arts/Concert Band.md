@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /cca/Performing-Arts/concert-band/
 description: ""
 third_nav_title: Visual Performing Arts
+variant: markdown
 ---
 ### Concert Band
 
@@ -11,9 +12,10 @@ third_nav_title: Visual Performing Arts
 
 **Teachers-in-charge**
 
-*   Mdm Ng Shi Ming Jayne (OIC)
-*   Mdm Qin Zhen Zhen
+*   Mdm Qin Zhen Zhen (OIC)
+*   Mdm Ng Shi Ming Jayne (2IC)
 *   Mrs Chang Lai Yee
+*   Mdm Rosnani
 *   Ms Lim Sze Ai \[(Main Band) Instructor\]
 *   Mr Tan Loke Chuah \[Instructor (Recruit and Percussion)\]
 *   Ms Tan Yue Yuan \[Instructor (Clarinet)\]
