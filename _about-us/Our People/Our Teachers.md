@@ -39,10 +39,11 @@ variant: markdown
 | 3T1 |  Law Ngiap Hui<br><br>Ng Hui Ling| law_ngiap_hui@schools.gov.sg<br><br>ng_hui_ling@schools.gov.sg |
 | 3N1 |Phang Kay Yen<br><br>Nurul Syazwany | phang_kay_yen@schools.gov.sg<br><br>nurul_syazwany_mohd_saleh@sschools.gov.sg |
 | 3N2 | Au Yong Kok Soon<br><br>Muhammad Hisham | au_yong_kok_soon@schools.gov.sg<br><br>muhammad_hisham_anwar@schools.gov.sg |
-| 3E1 | Ng Wai Ping<br><br>Cheng Xin Ze | ng_wai_ping@schools.gov.sg<br><br>cheng_xin_ze@schools.gov.sg |
-| 3E2 | Ng Hsueh Mei<br><br>Lee Wen Hui Priscilla | ng_hsueh_mei@schools.gov.sg<br><br>lee_wen_hui_priscilla_A@schools.gov.sg |
-| 3E3 | Tan Phuay Heng <br><br>Lee Sheau Yin| tan_phuay_heng@schools.gov.sg <br><br>lee_sheau_yin@schools.gov.sg |
-| Non-Form Teachers| Lim Lay Eng<br><br>Chong Oi Lin | lim_lay_eng_a@schools.gov.sg<br><br>chong_oi_lin@schools.gov.sg |
+| 3E1 | Fang Swee Foong (Anthony) | fang_swee_foong@schools.gov.sg|
+| 3E2 | Leow Li Quin<br><br>Lui Meng Whye | leow_li_quin@schools.gov.sg<br><br>lui_meng_whye@schools.gov.sg |
+| 3E3 | Goh Ee Xin <br><br>Ho Wing Leong (David)| goh_ee_xin@schools.gov.sg <br><br>ho_wing_leong@schools.gov.sg |
+| 3E4 | Qin Zhenzhen| qin_zhenzhen@schools.gov.sg |
+| Non-Form Teachers| Chang Lai Yee<br><br>Neo Hock Kheng | loke_lai_yee@schools.gov.sg<br><br>neo_hock_kheng@schools.gov.sg |
 |  |  |  |
 
 
