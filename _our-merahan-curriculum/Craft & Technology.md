@@ -2,6 +2,7 @@
 title: Craft & Technology
 permalink: /our-merahan-curriculum/craft-tech-dept/
 description: ""
+variant: markdown
 ---
 ### Craft and Technology
 
@@ -10,12 +11,11 @@ description: ""
 **Department Teachers**
 
 *   Mr Lim Chee Khern Dennis (HOD Craft &amp; Technology)
+*   Mr Muhammad Hisham Bin Anwar (SH/NFS (Covering))
+*   Mr Quek Jia Liang (Art Coordinator)
 *   Mrs Tay Fang Lin Catherine (D&amp;T)
 *   Mr Low Young Fei (D&amp;T)
 *   Mr Shahrizal Bin Salim (D&amp;T)
-*   Mr Quek Jia Liang (Art)
-*   Ms Jenny Lim (Art)
-*   Mr Muhammad Hisham Bin Anwar (NFS)
 *   Ms Tan Wai Hong (NFS)
 *   Ms Flora Cheong (NFS)
 *   Mr Chua Eng Chiong (D&amp;T Education Workshop Instructor)
