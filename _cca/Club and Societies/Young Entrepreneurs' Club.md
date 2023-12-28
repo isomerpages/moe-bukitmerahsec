@@ -3,6 +3,7 @@ title: Young Entrepreneurs' Club
 permalink: /cca/Club-and-Societies/young-entrepreneurs-club/
 description: ""
 third_nav_title: Club and Societies
+variant: markdown
 ---
 ### Young Entrepreneurs' Club
 
@@ -12,8 +13,9 @@ third_nav_title: Club and Societies
 **Teachers-in-charge**
 
 *   Mrs Tan Wai Ping (OIC)
-*   Ms Adeline Kong
+*   Mr Anthony Fang
 *   Mdm Chen Jing
+*   
 
 **Trainings**
 
