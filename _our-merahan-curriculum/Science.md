@@ -21,10 +21,10 @@ Year Head Upper Sec)
 *   Ms Tay Siew Hoon Janelle
 *   Mr Tan Phuay Heng
 *   Mrs Chian Yuan Lin
-*   Mr Tay Wee Leong
 *   Mrs Tan Wai Ping
 *   Mrs Chang Lai Yee
 *   Mrs Goh Shumin
+*   Ms Belicia Choy Siqi
 *   Mdm Subramanian Udayakumari (School Laboratory Technician)
 *   Mdm Nor Idayu Binte Ayob (School Laboratory Technician)
 
