@@ -2,32 +2,25 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
-### Principal's Message 2023
+### Principal's Message 2024
 
 <img src="/images/Darren Chong P.jpg" style="width:50,align:left"> 
 
 <br>
-I am thankful to be given the opportunity to lead Bukit Merah Secondary School (BMSS). While I am new to the school, the school is not entirely new to me. In fact, the posting feels like homecoming to me. After all, I have not only grown up and attended schools in the vicinity but also started my formative teaching expedition more than 15 years ago in the neighbouring Henderson Secondary School (HSS), which merged with BMSS in 2017.
- 
-A school is more than its name, geographical location and range of programmes offered to me. Its foundation is anchored not merely in the vision, mission and values but the people — Students, Staff and Partners — members of the Merahan family who live and work towards these aspirations every day. BMSS is not Hogwarts. Yet, as a new addition to the Merahan family, I am heartened and very proud to attest to ‘magic’, marked by a strong sense of care, warmth and camaraderie, that permeates the grounds of our school. Such wizardry is made possible by human alchemy comprising a mix of:
+Recently, the Singapore education system made headlines when our 15-year-old students outperformed their counterparts in 80 other participating system in Reading, Mathematics and Science to emerge top for the 2022 Programme for International Student Assessment (PISA).  While such achievements affirm the efforts of our system, they do not detract each school from the continuous efforts to develop our students holistically, beyond academic outcomes. In BM, our vision is to nurture our Merahans to be Resilient, Caring and Self-directed Learners, anchored in our school values -- Respect, Integrity, Self-discipline and Empathy (RISE), so they can contribute and make a difference in the community we are in.
 
+Having led the school for a year, an invariable question that I was asked was what BM was like. If I were to sum up BM in three phrases, it will be as follows:
 
-1.**Unique Merahans** with their own stories, quirks and aspirations but humbly anchored in respect, integrity, self-discipline and empathy for others;
+1)**School of Character.**
+Academic progression is important for Merahans but it alone does not define their past, present and future. What is equally important is the anchor our Merahans in good values and dispositions to inform their decision-making. In BM, we endeavour to develop Merahans, beyond our vision and RISE, to be consistent in word and deed. In the past year, we received a fair share of accolades from parents, partners and members of the public who affirmed Merahans for their public spiritedness and conduct within and outside of the school. We certainly hope our Merahans can continue to rise up to the occasion to do what is right in years to come.
 
-2.&nbsp;**Dedicated Staff** whose deep commitment and drive to enable each Merahan to reach his/ her potential is ‘fierce’; and
+2)**School of Hearts.** A trademark of our school is our strong and positive culture among students, staff and between students and staff. Regular opportunities are established to grow and deepen the relationships that perpetuate the culture. A sizeable proportion of our teachers has been with the school for decades, forming a strong anchor to grow and sustain the culture to create a supportive environment for learning. This enables Merahans, both present and past, to thrive and form lifelong friendships and contribute to the community.
 
-3.&nbsp;**Generous Partners** from parents, School Advisory Committee, alumni, to others in the community, who complement the strengths of the school by offering support, expertise and opportunities to develop the potential of every Merahan.
+3)**School of Opportunities.** The school has a range of level and customised programmes (see [corporate video](https://www.youtube.com/watch?v=UUypp35Jv44&amp;t=9s) and [Open House video](https://www.youtube.com/watch?v=CIrTsU5YXAY)) to develop and nurture Merahans to be Resilient, Caring and Self-directed. For example, the school plans to continue with the level camps and overseas cultural exchange programmes that have resumed. These curated opportunities culminated in a special invitation for Merahans to [the opening of the swan pond at the Istana](https://www.bukitmerahsec.moe.edu.sg/featured-news-and-articles/bmss-visits-istana/) last April. 
 
-Under the leadership of Mr Timothy Cheng, my predecessor, BMSS has thrived to be a choice school for 70% of our Merahans and a good school that strives to nurture Merahans to be resilient, caring and self-directed learners. I am committed to work with my colleagues to realise that aspiration. It is my belief that we can do so not necessarily by doing or having more. Resources are finite after all. Instead, I would like to invite the Merahan family — Students, Staff and Partners — who have a stake in the aspiration to reframe and consider how to build on our following key strengths to deepen and enhance our existing provisions:
+As we embark on new adventures in 2024, I would like to encourage all Merahans, colleagues, parents and partners to stay committed not just to our vision and values but to demonstrate and role model these consistently through what we say and what we do. Small is beautiful. Each of us can make a difference in making BM a school for the community.
 
-
-1.**Culture of care** is a force that is strong within the Merahan family. As we continue to develop Merahans to be resilient, how can we calibrate the commitment to care so it does not become mollycoddling? How can we learn to let go of additional inhibitions to provide more safe spaces for Merahans to explore, trial and learn from their mistakes?
-
-2.**Diversity** is another of our hallmark, honed over the years by aggrandising the strengths of former St. Thomas Secondary School, Delta Secondary School and HSS. How can we nurture Merahans to embrace the diversity of voices? How can we enable Merahans to navigate diverse voices and rally them to care beyond themselves, their loved ones and the immediate community?
-
-3.**Commitment to prepare Merahans to be future-ready**. In line with our motto ’Sedia’, to always be prepared, it is an imperative to empower Merahans to be self-directed, to stay motivated and to take initiatives, to give them a head start in life. How empowered are Merahans to speak up, take a stance and make their voices count? How prepared are we to trust that Merahans can learn to exercise greater agency and responsible decision-making? To embrace who they are and yet not forget the needs and interests of the community they are very much a part of?
-
-At this point, we do not have a magic formula or foolproof plan that can realise our aspiration for Merahans overnight. What we can count on, surely, is the collective wisdom, effort and determination of every Merahan — Students, Staff and Partners — to work together every day to make the aspiration a reality.
 
 Mr Darren Chong<br>School Principal

@@ -1,7 +1,8 @@
 ---
-title: Budding Reading Programme
+title: Buddy Reading Programme
 permalink: /programme/budding-reading-programme/
 description: ""
+variant: tiptap
 ---
 ###  Introduction to Buddy Reading Programme 
 
