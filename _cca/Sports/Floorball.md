@@ -3,6 +3,7 @@ title: Floorball
 permalink: /cca/Sports/floorball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Floorball
 
@@ -17,6 +18,7 @@ third_nav_title: Sports
 *   Ms Nurul Syazwany 
 *   Mr Mohamad Rashid Bin Jalaluddin (Boys’ Coach)
 *    Mr Muhammad Shamir Alfee Bin Aminudin (Girls’ Coach)
+*    Mr Zubi Kek (KP Advisor)
 
 **Trainings**
 
