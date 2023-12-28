@@ -16,7 +16,7 @@ variant: markdown
 *   Ms Ng Hui Ling (2IC)
 *   Ms Yeo Xing Wen
 *   Ms Belicia Chou Siqi
-*   Mrs Tan Guek Lee (KP Advisor)
+*   Mrs Lim Guek Lee (KP Advisor)
 *   Mr Dan Kwoh (Instructor)
 *   Mr Emmet Ng (Assistant Instructor)
 
