@@ -3,6 +3,7 @@ title: AVA Club
 permalink: /cca/Club-and-Societies/ava-club/
 description: ""
 third_nav_title: Service
+variant: markdown
 ---
 ### AVA Club
 
@@ -11,9 +12,10 @@ third_nav_title: Service
 
 **Teachers-in-charge**
 
-*   Mr Tay Wee Leong&nbsp;(OIC)
-*   Mdm Lee Sheau Yin
-*   Ms Chen Ying
+*   Ms Chen Ying (OIC)
+*   Mdm Lee Sheau Yin (2IC)
+*   Mr Zubi Kek (KP Advisor)
+
 
 **Trainings**
 
