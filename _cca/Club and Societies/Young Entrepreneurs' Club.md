@@ -15,7 +15,8 @@ variant: markdown
 *   Mrs Tan Wai Ping (OIC)
 *   Mr Anthony Fang
 *   Mdm Chen Jing
-*   
+*   Mr Dennis Lim (KP Advisor)
+*   Ms Suzanne Eng (KP Advisor)
 
 **Trainings**
 
