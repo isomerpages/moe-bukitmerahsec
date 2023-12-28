@@ -26,7 +26,7 @@ variant: markdown
 | 2I2 | Lawrence Tan Eng Chuan | tan_eng_chuan@schools.gov.sg|
 | 2I3 | Loke Jia Yi | loke_jia_yi@schools.gov.sg |
 | 2I4 | Ong Min Li<br><br>Quek Jia Liang | ong_min_li@schools.gov.sg <br><br> quek_jia_liang@schools.gov.sg|
-| 2I5 | Fang Swee Foong (Anthony) | fang_swee_foong@schools.gov.sg |
+| 2I5 |Darshan Kaur<br><br>Belicia Choy  | darshan_kaur_a@schools.gov.sg<br><br>belicia_choy_siqi@schools.gov.sg  |
 | 2I6 | Tan Wai Hong<br><br>Leow Li Quin | tan_wai_hong@schools.gov.sg<br><br>leow_li_quin@schools.gov.sg |
 | 2E3 | Ho Shumin<br><br>Nurul Syazwany | ho_shumin@schools.gov.sg<br><br>nurul_syazwany_mohd_saleh@sschools.gov.sg|
 | 2E4| Ng Shuping (Faith)<br><br>Tan Sheng Xian | ng_shuping@schools.gov.sg<br><br>tan_sheng_xian@schools.gov.sg |
