@@ -22,12 +22,12 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-| 2T1 | Chua Chwee Guan Johnson | chua_chwee_guan_johnson@schools.gov.sg |
-| 2T2 | Suzanne Eng Siew San | suzanne_eng@schools.gov.sg |
-| 2N1 | Tay Fang Lin (Catherine)<br><br>Ng Hui Ling | tay_fang_lin@schools.gov.sg <br><br>ng_hui_ling@schools.gov.sg|
-| 2N2 | Phang Kay Yen<br><br>Chen Jing | phang_kay_yen@schools.gov.sg <br><br> chen_jing@schools.gov.sg|
-| 2E1 | Fang Swee Foong (Anthony) | fang_swee_foong@schools.gov.sg |
-| 2E2 | Tan Wai Hong<br><br>Leow Li Quin | tan_wai_hong@schools.gov.sg<br><br>leow_li_quin@schools.gov.sg |
+| 2I1 | Chua Chwee Guan Johnson<br><br>Nurhayati Bte Mohamad | chua_chwee_guan_johnson@schools.gov.sg<br><br>nurhayati_mohamad@schools.gov.sg |
+| 2I2 | Lawrence Tan Eng Chuan | tan_eng_chuan@schools.gov.sg|
+| 2I3 | Loke Jia Yi | loke_jia_yi@schools.gov.sg |
+| 2I4 | Ong Min Li<br><br>Quek Jia Liang | ong_min_li@schools.gov.sg <br><br> quek_jia_liang@schools.gov.sg|
+| 2I5 | Fang Swee Foong (Anthony) | fang_swee_foong@schools.gov.sg |
+| 2I6 | Tan Wai Hong<br><br>Leow Li Quin | tan_wai_hong@schools.gov.sg<br><br>leow_li_quin@schools.gov.sg |
 | 2E3 | Ho Shumin<br><br>Nurul Syazwany | ho_shumin@schools.gov.sg<br><br>nurul_syazwany_mohd_saleh@sschools.gov.sg|
 | 2E4| Ng Shuping (Faith)<br><br>Tan Sheng Xian | ng_shuping@schools.gov.sg<br><br>tan_sheng_xian@schools.gov.sg |
 | Non-Form Teachers| Goh Kiat Foong (Bernard)<br><br>Kong Yin Ling Adeline | goh_kiat_foong@schools.gov.sg<br><br>kong_yin_ling_adeline@schools.gov.sg |
