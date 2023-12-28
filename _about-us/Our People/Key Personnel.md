@@ -27,7 +27,7 @@ variant: markdown
 | Toh Yongmei Stella | Year Head Lower Sec | toh_yongmei_stella@schools.gov.sg |
 | Yap Chin Hua | Year Head Upper Sec |  yap_chin_hua@schools.gov.sg|
 | Hu Jinyuan (Ken) | Assistant Year Head Lower Sec |   hu_jinyuan@schools.gov.sg |
-| Tan Tua Choon | Assistant Year Head Lower Sec | tan_tua_choon@schools.gov.sg |
+| Tan Tua Choon | Assistant Year Head Upper Sec | tan_tua_choon@schools.gov.sg |
 | Chee Kwok Seng (Jereme) | Level Head Student Management | chee_kwok_seng@schools.gov.sg |
 | Liao Xinwei | Level Head (Mathematics) | liao_xinwei@schools.gov.sg
 | How Si Si, Jacqueline | HOD Science (Covering) | how_si_si_jacqueline@schools.gov.sg |
