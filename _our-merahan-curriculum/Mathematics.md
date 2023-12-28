@@ -25,6 +25,7 @@ variant: markdown
 *   Ms Lee Hwee Choo Yvonne
 *   Mr Shahrizal Bin Salim
 *  Ms Lee Sheau Yin
+*  Lui Meng Whye
 *  Mr Steven Tan
 
 **Department Vision**
