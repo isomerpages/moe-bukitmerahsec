@@ -3,14 +3,15 @@ title: Our Teachers
 permalink: /our-people/permalink/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 #### Secondary 1 Level Teachers
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-| 1R1 | Nurhayati Bte Mohamad<br><br>Chew Min En Lydia | nurhayati_mohamad@schools.gov.sg<br><br>chew_min_en_lydia@schools.gov.sg |
-| 1R2 | Lawrence Tan Eng Chuan<br><br>Chen Ying | tan_eng_chuan@schools.gov.sg<br><br>chen_ying_d@schools.gov.sg|
-| 1R3 | Loke Jia Yi<br><br>Rosli Bin Hamim |loke_jia_yi@schools.gov.sg<br><br>rosli_hamim@schools.gov.sg  |
+| 1R1 | Yit Ming En, Luke<br><br>Tan Sheng Xian | yit_ming_en_luke@schools.gov.sg<br><br>tan_sheng_xian@schools.gov.sg |
+| 1R2 | Chew Min En Lydia<br><br>Shahrizal Salim | chew_min_en_lydia@schools.gov.sg<br><br>shahrizal_salim@schools.gov.sg|
+| 1R3 | Ho Shumin<br><br>Rosli Bin Hamim |ho_shumin@schools.gov.sg<br><br>rosli_hamim@schools.gov.sg  |
 | 1R4 | Quek Jia Liang<br><br>Ong Min Li | quek_jia_liang@schools.gov.sg<br><br>ong_min_li@schools.gov.sg |
 | 1R5 | Darshan Kaur<br><br>Tay Wee Leong | darshan_kaur_a@schools.gov.sg<br><br>tay_wee_leong@schools.gov.sg |
 | 1R6 | Chloe Fong<br><br>Neo Hock Kheng | fong_min_shi@schools.gov.sg<br><br>neo_hock_kheng@schools.gov.sg |
