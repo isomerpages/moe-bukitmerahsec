@@ -3,6 +3,7 @@ title: National Cadet Corps
 permalink: /cca/Uniformed-Groups/national-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### National Cadet Corps
 
@@ -16,12 +17,11 @@ third_nav_title: Uniformed Groups
 
 **BMSS NCC Teachers-in-charge**
 
-*   Commanding Officer (C.O): Mr Hisham
-*   2IC: Mr Anthony Fang
-*   Junior Cadets: Mr Quek Jia Liang
-*   Senior Cadets: Mr Anthony Fang
-*   Cadet Leaders: Mr Hisham
-*   Senior Cadet Leaders: Mr Hisham
+*   Mr Hisham (OIC)
+*   Mr Cheng Xin Ze (2IC)
+*   Mr Liu Meng Whye
+*   Mr Zubi Kek (KP Advisor)  
+  
 
 **BMSS NCC Training Schedule**
 
