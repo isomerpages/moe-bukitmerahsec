@@ -2,6 +2,7 @@
 title: Infocomm Technology
 permalink: /our-merahan-curriculum/ict-dept/
 description: ""
+variant: markdown
 ---
 ### Infocomm Technology
 
@@ -9,8 +10,7 @@ description: ""
 
 **Department Teachers**
 
-*   Ms Huang Wen Qing (HOD ICT)
-*   Mr Seow Xian Yi Winston (SH ICT)
+*   Mr Seow Xian Yi Winston (HOD ICT (Covering))
 *   Mr Chee Kwok Seng Jereme (LH Student Management)
 *   Mr Jason Tan Soon Peng
 *   Mr Muhammad Haikal Bin Razali (ICT Associate)
