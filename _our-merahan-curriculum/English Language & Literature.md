@@ -2,6 +2,7 @@
 title: English Language & Literature
 permalink: /our-merahan-curriculum/english-dept/
 description: ""
+variant: markdown
 ---
 ### English Language and Literature
 
@@ -18,7 +19,6 @@ description: ""
 *   Mr Lim Rong Hua Eric
 *   Ms Darshan Kaur
 *   Ms Giselle Maria Rai
-*   Mdm Belwit Kaur
 *   Ms Ng Shuping Faith
 *   Mr Lawrence Tan Eng Chuan
 *   Mdm Shahirah Banu bte Leyakat Ali
