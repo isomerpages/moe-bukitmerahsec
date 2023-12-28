@@ -14,8 +14,8 @@ variant: markdown
 *   Ms Kong Yin Ling Adeline (ST/ EL)
 *   Mdm Leow Li Quin (ST/EL)
 *   Ms Lee Siew Yong Loretta (SSD)
+*   Ms Fong Min Shi Chloe (SH/EL (Covering))
 *   Ms Chong Oi Lin
-*   Ms Fong Min Shi Chloe
 *   Mr Lim Rong Hua Eric
 *   Ms Darshan Kaur
 *   Ms Giselle Maria Rai
