@@ -31,7 +31,25 @@ variant: markdown
 | Non-Form Teachers| Jayakumar s/o K S Subramaniyam | jayakumar_subramaniyam@schools.gov.sg |
 |  |  |  |
 
+
 #### Secondary 3 Level Teachers
+
+| Class | Form Teachers | Email |
+|:---:|:---:|:---:|
+| 3T1 |  Law Ngiap Hui<br><br>Ng Hui Ling| law_ngiap_hui@schools.gov.sg<br><br>ng_hui_ling@schools.gov.sg |
+| 3N1 |Phang Kay Yen<br><br>Nurul Syazwany | phang_kay_yen@schools.gov.sg<br><br>nurul_syazwany_mohd_saleh@sschools.gov.sg |
+| 3N2 | Au Yong Kok Soon<br><br>Muhammad Hisham | au_yong_kok_soon@schools.gov.sg<br><br>muhammad_hisham_anwar@schools.gov.sg |
+| 3E1 | Ng Wai Ping<br><br>Cheng Xin Ze | ng_wai_ping@schools.gov.sg<br><br>cheng_xin_ze@schools.gov.sg |
+| 3E2 | Ng Hsueh Mei<br><br>Lee Wen Hui Priscilla | ng_hsueh_mei@schools.gov.sg<br><br>lee_wen_hui_priscilla_A@schools.gov.sg |
+| 3E3 | Tan Phuay Heng <br><br>Lee Sheau Yin| tan_phuay_heng@schools.gov.sg <br><br>lee_sheau_yin@schools.gov.sg |
+| Non-Form Teachers| Lim Lay Eng<br><br>Chong Oi Lin | lim_lay_eng_a@schools.gov.sg<br><br>chong_oi_lin@schools.gov.sg |
+|  |  |  |
+
+
+
+
+
+#### Secondary 4 and 5 Level Teachers
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
@@ -45,16 +63,3 @@ variant: markdown
 | Non-Form Teachers| Lim Lay Eng<br><br>Chong Oi Lin | lim_lay_eng_a@schools.gov.sg<br><br>chong_oi_lin@schools.gov.sg |
 |  |  |  |
 
-#### Secondary 4 and 5 Level Teachers
-
-| Class | Form Teachers | Email |
-|:---:|:---:|:---:|
-| 4T1 | Shahrizal Salim<br><br>Jayne Ng Shi Ming | shahrizal_salim@schools.gov.sg<br><br>ng_shi_ming@schools.gov.sg |
-| 4N1| Muhammad Hisham <br><br>Belwit Kaur| muhammad_hisham_anwar@schools.gov.sg<br><br>belwit_kaur@schools.gov.sg |
-| 4N2 | Sriwanty Bte Ramli<br><br>Law Ngiap Hui | sriwanty_ramli@schools.gov.sg <br><br>law_ngiap_hui@schools.gov.sg|
-| 4E1 | Lui Yan Ling, Esther <br><br>Yit Ming En, Luke| lui_yan_ling_esther@schools.gov.sg <br><br>yit_ming_en_luke@schools.gov.sg|
-| 4E2| Qin Zhenzhen <br><br>Goh Ee Xin| qin_zhenzhen@schools.gov.sg <br><br>goh_ee_xin@schools.gov.sg|
-| 4E3 | Seow Xian Yi Winston | seow_xian_yi@schools.gov.sg |
-| 5N1 | Ho Wing Leong (David) | ho_wing_leong@schools.gov.sg |
-| Non-Form Teachers| Chang Lai Yee<br><br>Thanmoshi d/o Kalandavelu | loke_lai_yee@schools.gov.sg<br><br>thanmoshi_kalandavelu@schools.gov.sg |
-|  |  |  |
