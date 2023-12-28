@@ -18,6 +18,8 @@ variant: markdown
 *   Mr Shahrizal Bin Salim (D&amp;T)
 *   Ms Tan Wai Hong (NFS)
 *   Ms Flora Cheong (NFS)
+*   Mdm Rosnani Bte Said
+*   Ms Bernice Lau Li Yuan
 *   Mr Chua Eng Chiong (D&amp;T Education Workshop Instructor)
 *   Ms Zhang Lihui (D&amp;T Education Workshop Instructor)
 *   Ms Rita Wong (NFS Teacher Aide)
