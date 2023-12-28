@@ -2,7 +2,14 @@
 title: Resilient Merahan Programme
 permalink: /our-merahan-co-curriculum/rmp/
 description: ""
+variant: markdown
 ---
+**Teachers-in-charge**
+
+*   Mr Sharizal Bin Salim (OIC)
+*   Mr Law Ngiap Hui (2IC)
+*   Ms Neo Siew Eng (KP Advisor)
+
 The Resilient Merahan Programme (RMP) is an after-school engagement programme that caters to students to allow for relationship building among these students with their peers and school staff. 
  
 Through the RMP, we hope to provide students with the opportunities to learn social and life skills, build on their strengths and help them to develop and to become useful individuals.  
@@ -23,4 +30,3 @@ Together with dedicated staff, the RMP students are trained to operate The Galax
 
 ![](/images/rmp%20the%20duo.jpg)
 ![](/images/dominoes.jpeg)
-
