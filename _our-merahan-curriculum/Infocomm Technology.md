@@ -12,7 +12,7 @@ variant: markdown
 
 *   Mr Seow Xian Yi Winston (HOD ICT (Covering))
 *   Mr Chee Kwok Seng Jereme (LH Student Management)
-*   Lui Meng Whye
+*   Mr Lui Meng Whye
 *   Mr Jason Tan Soon Peng
 *   Mr Muhammad Haikal Bin Razali (ICT Associate)
 *   Mr Low Pow Huat (Desktop Engineer)
