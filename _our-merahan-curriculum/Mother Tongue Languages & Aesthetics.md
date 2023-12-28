@@ -2,6 +2,7 @@
 title: Mother Tongue Languages & Aesthetics
 permalink: /our-merahan-curriculum/mother-tongue-dept/
 description: ""
+variant: markdown
 ---
 ### Mother Tongue Languages and Aesthetics
 
@@ -9,11 +10,11 @@ description: ""
 
 **Department Teachers**
 
-*   Mrs Lim Guek Lee (HOD/MTL &amp; Aesthetics)
-*   Mdm Sharulhana Bte Mohd Kamal (HOD/CCE)
-*   Ms Lim Kailin (SH/Chinese)
-*   Mdm Nurhayati Bte Mohamed (ST/Educational Support)
-*   Ms Yeo Xing Wen (SH/CCE)
+*   Mrs Lim Guek Lee (HOD MTL &amp; Aesthetics)
+*   Mdm Sharulhana Bte Mohd Kamal (HOD CCE)
+*   Ms Lim Kailin (SH Chinese)
+*   Mdm Nurhayati Bte Mohamed (ST Educational Support)
+*   Ms Yeo Xing Wen (SH CCE)
 *   Mdm Qin Zhenzhen
 *   Ms Ong Min Li
 *   Ms Ng Hui Ling
