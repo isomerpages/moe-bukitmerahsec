@@ -27,10 +27,8 @@ variant: markdown
 | 2I3 | Loke Jia Yi | loke_jia_yi@schools.gov.sg |
 | 2I4 | Ong Min Li<br><br>Quek Jia Liang | ong_min_li@schools.gov.sg <br><br> quek_jia_liang@schools.gov.sg|
 | 2I5 |Darshan Kaur<br><br>Belicia Choy  | darshan_kaur_a@schools.gov.sg<br><br>belicia_choy_siqi@schools.gov.sg  |
-| 2I6 | Tan Wai Hong<br><br>Leow Li Quin | tan_wai_hong@schools.gov.sg<br><br>leow_li_quin@schools.gov.sg |
-| 2E3 | Ho Shumin<br><br>Nurul Syazwany | ho_shumin@schools.gov.sg<br><br>nurul_syazwany_mohd_saleh@sschools.gov.sg|
-| 2E4| Ng Shuping (Faith)<br><br>Tan Sheng Xian | ng_shuping@schools.gov.sg<br><br>tan_sheng_xian@schools.gov.sg |
-| Non-Form Teachers| Goh Kiat Foong (Bernard)<br><br>Kong Yin Ling Adeline | goh_kiat_foong@schools.gov.sg<br><br>kong_yin_ling_adeline@schools.gov.sg |
+| 2I6 | Chloe Fong<br><br>Jayne Ng Shi Ming | fong_min_shi@schools.gov.sg<br><br>ng_shi_ming@schools.gov.sg 
+| Non-Form Teachers| Jayakumar s/o K S Subramaniyam | jayakumar_subramaniyam@schools.gov.sg |
 |  |  |  |
 
 #### Secondary 3 Level Teachers
