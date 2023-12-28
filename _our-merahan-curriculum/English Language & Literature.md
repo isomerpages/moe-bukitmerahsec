@@ -10,8 +10,8 @@ variant: markdown
  
  **Department Teachers**
 
-*   Mdm Leow Ser Leng (HOD/ EL)
-*   Ms Kong Yin Ling Adeline (ST/ EL)
+*   Mdm Leow Ser Leng (HOD EL)
+*   Ms Kong Yin Ling Adeline (ST/EL)
 *   Mdm Leow Li Quin (ST/EL)
 *   Ms Lee Siew Yong Loretta (SSD)
 *   Ms Fong Min Shi Chloe (SH/EL (Covering))
