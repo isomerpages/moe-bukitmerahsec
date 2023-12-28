@@ -12,7 +12,7 @@ variant: markdown
 
 *   Mdm Leow Ser Leng (HOD EL)
 *   Ms Kong Yin Ling Adeline (ST EL)
-*   Mdm Leow Li Quin (ST EL)
+*   Mdm Leow Li Quin (ST EL &amp; Literature)
 *   Ms Lee Siew Yong Loretta (SSD)
 *   Ms Fong Min Shi Chloe (SH EL (Covering))
 *   Ms Chong Oi Lin
