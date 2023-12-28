@@ -16,6 +16,7 @@ variant: markdown
 *   Mdm Ng Shi Ming Jayne (2IC)
 *   Mrs Chang Lai Yee
 *   Mdm Rosnani
+*   Mrs Lim Guek Lee (KP Advisor)
 *   Ms Lim Sze Ai \[(Main Band) Instructor\]
 *   Mr Tan Loke Chuah \[Instructor (Recruit and Percussion)\]
 *   Ms Tan Yue Yuan \[Instructor (Clarinet)\]
