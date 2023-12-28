@@ -2,6 +2,7 @@
 title: Science
 permalink: /our-merahan-curriculum/science-dept/
 description: ""
+variant: markdown
 ---
 ### Science
 
@@ -9,15 +10,14 @@ description: ""
 
 **Department Teachers**
 
-*   Mr Teo Weihong (HOD Science)
+*   Ms How Si Si Jacqueline (HOD Science (Covering))
 *   Mr Yap Chin Hua (Year Head Upper Sec)
-*   Ms How Si Si Jacqueline (SH Chemistry)
 *   Mr Lee Tzi Wei Gaius (ST Physics)
-*   Mr Seow Xian Yi Winston (SH ICT)
+*   Mr Seow Xian Yi Winston (HOD ICT (Covering))
 *   Mr Tan Tua Choon (Assistant
-Year Head Lower Sec)
+Year Head Upper Sec)
 *   Mr Au Yong Kok Soon (SH Student Well-Being)
-*   Ms Lui Yan Ling Esther (ST Biology)
+*   Ms Lui Yan Ling Esther (Lead Teacher Biology)
 *   Ms Tay Siew Hoon Janelle
 *   Mr Tan Phuay Heng
 *   Mrs Chian Yuan Lin
