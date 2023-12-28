@@ -12,9 +12,9 @@ variant: markdown
 | 1R1 | Yit Ming En, Luke<br><br>Tan Sheng Xian | yit_ming_en_luke@schools.gov.sg<br><br>tan_sheng_xian@schools.gov.sg |
 | 1R2 | Chew Min En Lydia<br><br>Shahrizal Salim | chew_min_en_lydia@schools.gov.sg<br><br>shahrizal_salim@schools.gov.sg|
 | 1R3 | Ho Shumin<br><br>Rosli Bin Hamim |ho_shumin@schools.gov.sg<br><br>rosli_hamim@schools.gov.sg  |
-| 1R4 | Chen Jing<br><br>Ong Min Li | chen_jing@schools.gov.sg<br><br>ng_shuping@schools.gov.sg |
+| 1R4 | Chen Jing<br><br>Ng Shuping (Faith) | chen_jing@schools.gov.sg<br><br>ng_shuping@schools.gov.sg |
 | 1R5 | Chen Ying<br><br>Tan Wai Hong | chen_ying_d@schools.gov.sg<br><br>tan_wai_hong@schools.gov.sg |
-| 1R6 | Tay Fang Lin (Catherine)<br><br>Neo Hock Kheng | tay_fang_lin@schools.gov.sg<br><br>neo_hock_kheng@schools.gov.sg |
+| 1R6 | Tay Fang Lin (Catherine)<br><br>Rosnani | tay_fang_lin@schools.gov.sg<br><br>rosnani_said@schools.gov.sg |
 | Non-Form Teachers |Thanmoshi d/o Kalandavelu<br> | thanmoshi_kalandavelu@schools.gov.sg |
 |  |  |  |
 
