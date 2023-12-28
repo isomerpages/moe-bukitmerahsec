@@ -14,7 +14,7 @@ variant: markdown
 
 *   Mr Tan Phuay Heng (OIC)
 *   Mr Neo Hock Kheng (2IC)
-*   Mrs Lim Lay Eng
+*   Mr Quek Jia Liang
 *   Mr Dennis Lim (KP Advisor)
 *   Ms Suzanne Eng (KP Advisor)
 
