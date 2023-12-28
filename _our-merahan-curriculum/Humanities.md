@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /our-merahan-curriculum/humanities-dept/
 description: ""
+variant: markdown
 ---
 ### Humanities
 
@@ -11,8 +12,8 @@ description: ""
 
 *   Mdm Kua See Hong (HOD Humanities)
 *   Ms Sriwanty Bte Ramli (ST History)
+*   Mr Ken Hu Jinyuan (Assist Year Head Lower Sec)
 *   Mr Fang Swee Foong Anthony
-*   Mr Ken Hu Jinyuan (Assist Year Head Upper Sec)
 *   Ms Ng Hsueh Mei
 *   Ms Ng Shi Ming
 *   Mr Law Ngiap Hui

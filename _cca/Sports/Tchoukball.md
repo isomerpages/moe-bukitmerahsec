@@ -3,6 +3,7 @@ title: Tchoukball
 permalink: /cca/Sports/tchoukball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Tchoukball
 
@@ -13,10 +14,10 @@ third_nav_title: Sports
 
 **Teachers-in-charge**
 
-*   Ms Suzanne Eng (OIC)
-*   Mdm Belwit Kaur
-*   Mr Johnson Chua
+*   Mr Johnson Chua (OIC)
+*   Ms Suzanne Eng (2IC)
 *   Mr Zack Tan Zheng Chao (Coach)
+*   Mr Zubi Kek (KP Advisor)
 
 **Trainings**
 

@@ -3,6 +3,7 @@ title: Scouts
 permalink: /cca/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### Scouts
 
@@ -14,9 +15,10 @@ third_nav_title: Uniformed Groups
 **Teachers-in-charge**
 
 *   Ms Faith Ng Shu Ping (OIC)
-*   Mr Lim Rong Hua Eric
+*   Mr Lim Rong Hua Eric (2IC)
 *   Ms Chew Min En, Lydia
 *   Ms Lee Wen Hui, Priscilla
+*   Mr Zubi Kek (KP Advisor)
 
 **Trainings**
 

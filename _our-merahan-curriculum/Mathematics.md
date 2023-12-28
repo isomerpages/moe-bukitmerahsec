@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /our-merahan-curriculum/maths-dept/
 description: ""
+variant: markdown
 ---
 ### Mathematics
 
@@ -10,8 +11,6 @@ description: ""
 **Department Teachers**
 
 *   Mr Wun Boon Leng (HOD Math)
-*   Dr Leong Swee Ling (MTT)
-*   Ms Huang Wen Qing (HOD ICT)
 *   Ms Neo Siew Eng (HOD Normal Stream)
 *   Ms Toh Yongmei Stella (Year Head Lower Sec)
 *   Mr Seow Xian Yi Winston (SH ICT)
@@ -26,8 +25,8 @@ description: ""
 *   Ms Lee Hwee Choo Yvonne
 *   Mr Shahrizal Bin Salim
 *  Ms Lee Sheau Yin
+*  Lui Meng Whye
 *  Mr Steven Tan
-*  Mr Muhammad Shamir Alfee Bin Aminuddin
 
 **Department Vision**
 

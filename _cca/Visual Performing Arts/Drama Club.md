@@ -2,7 +2,8 @@
 title: Drama Club
 permalink: /cca/Performing-Arts/drama-club/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual Performing Arts
+variant: markdown
 ---
 ### Drama Club
 
@@ -12,8 +13,10 @@ third_nav_title: Performing Arts
 **Teachers-in-charge**
 
 *   Ms Fong Min Shi Chloe (OIC)
-*   Ms Giselle Maria Ria
+*   Ms Giselle Maria Ria (2IC)
 *   Ms Shahirah Banu
+*   Ms Adeline Kong
+*   Mrs Lim Guek Lee (KP Advisor)
 *   Ms Lala Gwen Thomas (Instructor)
 *   Ms Farahliza Jasmine Ong (Assistant Instructor) 
 

@@ -3,6 +3,7 @@ title: Engineering and Innovation Club
 permalink: /cca/Club-and-Societies/engineering-and-innovation-club/
 description: ""
 third_nav_title: Club and Societies
+variant: markdown
 ---
 ### Engineering and Innovation Club
 
@@ -11,10 +12,12 @@ third_nav_title: Club and Societies
 
 **Teachers-in-charge**
 
-*   Mr Low Young Fei (OIC)
+*   Mrs Goh Shumin (OIC)
+*   Mr Low Young Fei (2IC)
 *   Ms Tan Sheng Xian
 *   Mr Tan Tua Choon
-*   Mrs Goh Shumin
+*   Mr Dennis Lim (KP Advisor)
+*   Ms Suzanne Eng (KP Advisor)
 
 **Trainings**
 

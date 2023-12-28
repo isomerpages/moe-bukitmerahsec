@@ -4,11 +4,17 @@ permalink: /student-leadership/
 description: ""
 variant: markdown
 ---
-## Merahan Leadership Programme
-## 
+## Merahan Leadership Programme ## 
 <img src="/images/prefect-2023.jpg" style="width:60%,align:left">
 
 <img src="/images/prefect001.png" style="width:60%,align:left">
+
+**Teachers-in-charge**
+
+*   Ms Ong Min Li (OIC)
+*   Ms Darshan Kaur (2IC)
+*   Mr Jereme Chee
+*   Mr Zubi Kek (KP Advisor)
 
 The Merahan Leadership Programme aims to provide student leaders with the skills and opportunities to lead and inspire fellow Merahans. It caters to members of the [1] Prefectorial Board, [2] CCA leaders, and [3] Class Committee Chairpersons.
 

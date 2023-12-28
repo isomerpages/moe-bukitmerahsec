@@ -2,7 +2,8 @@
 title: Modern Dance
 permalink: /cca/Performing-Arts/modern-dance/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual Performing Arts
+variant: markdown
 ---
 ### Modern Dance
 
@@ -12,8 +13,10 @@ third_nav_title: Performing Arts
 **Teachers-in-charge**
 
 *   Ms Tay Fang Lin Catherine (OIC)
+*   Ms Ng Hui Ling (2IC)
 *   Ms Yeo Xing Wen
-*   Ms Ng Hui Ling
+*   Ms Belicia Chou Siqi
+*   Mrs Lim Guek Lee (KP Advisor)
 *   Mr Dan Kwoh (Instructor)
 *   Mr Emmet Ng (Assistant Instructor)
 

@@ -3,20 +3,21 @@ collections:
     output: true
     order:
       - LEAPS.md
-      - Club and Societies/.keep
-      - Club and Societies/AVA Club.md
-      - Club and Societies/Engineering and Innovation Club.md
-      - Club and Societies/Info Media Club.md
-      - Club and Societies/Young Entrepreneurs' Club.md
-      - Uniformed Groups/.keep
-      - Uniformed Groups/National Cadet Corps.md
-      - Uniformed Groups/Scouts.md
-      - Uniformed Groups/St John Brigade.md
       - Sports/.keep
       - Sports/Basketball.md
       - Sports/Floorball.md
       - Sports/Tchoukball.md
-      - Performing Arts/.keep
-      - Performing Arts/Concert Band.md
-      - Performing Arts/Modern Dance.md
-      - Performing Arts/Drama Club.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/National Cadet Corps.md
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/St John Brigade.md
+      - Club and Societies/.keep
+      - Club and Societies/Engineering and Innovation Club.md
+      - Club and Societies/Info Media Club.md
+      - Club and Societies/Young Entrepreneurs' Club.md
+      - Visual Performing Arts/.keep
+      - Visual Performing Arts/Concert Band.md
+      - Visual Performing Arts/Modern Dance.md
+      - Visual Performing Arts/Drama Club.md
+      - Service/.keep
+      - Service/AVA Club.md

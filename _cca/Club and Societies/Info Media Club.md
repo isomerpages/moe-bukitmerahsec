@@ -3,6 +3,7 @@ title: Info Media Club
 permalink: /cca/Club-and-Societies/info-media-club/
 description: ""
 third_nav_title: Club and Societies
+variant: markdown
 ---
 ### Info Media Club
 
@@ -12,8 +13,10 @@ third_nav_title: Club and Societies
 **Teachers-in-charge**
 
 *   Mr Tan Phuay Heng (OIC)
-*   Mrs Lim Lay Eng
-*   Mr Neo Hock Kheng
+*   Mr Neo Hock Kheng (2IC)
+*   Mr Quek Jia Liang
+*   Mr Dennis Lim (KP Advisor)
+*   Ms Suzanne Eng (KP Advisor)
 
 **Trainings**
 

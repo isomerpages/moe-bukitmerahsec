@@ -2,6 +2,7 @@
 title: English Language & Literature
 permalink: /our-merahan-curriculum/english-dept/
 description: ""
+variant: markdown
 ---
 ### English Language and Literature
 
@@ -9,16 +10,15 @@ description: ""
  
  **Department Teachers**
 
-*   Mdm Leow Ser Leng (HOD/ EL)
-*   Ms Kong Yin Ling Adeline (ST/ EL)
-*   Mdm Leow Li Quin (ST/ELL)
+*   Mdm Leow Ser Leng (HOD EL)
+*   Ms Kong Yin Ling Adeline (ST EL)
+*   Mdm Leow Li Quin (ST EL &amp; Literature)
 *   Ms Lee Siew Yong Loretta (SSD)
+*   Ms Fong Min Shi Chloe (SH EL (Covering))
 *   Ms Chong Oi Lin
-*   Ms Fong Min Shi Chloe
 *   Mr Lim Rong Hua Eric
 *   Ms Darshan Kaur
 *   Ms Giselle Maria Rai
-*   Mdm Belwit Kaur
 *   Ms Ng Shuping Faith
 *   Mr Lawrence Tan Eng Chuan
 *   Mdm Shahirah Banu bte Leyakat Ali
