@@ -13,11 +13,11 @@ variant: markdown
 *   Mr Lim Chee Khern Dennis (HOD Craft &amp; Technology)
 *   Mr Muhammad Hisham Bin Anwar (SH NFS (Covering))
 *   Mr Quek Jia Liang (Art Coordinator)
-*   Mrs Tay Fang Lin Catherine (D&amp;T)
-*   Mr Low Young Fei (D&amp;T)
-*   Mr Shahrizal Bin Salim (D&amp;T)
-*   Ms Tan Wai Hong (NFS)
-*   Ms Flora Cheong (NFS)
+*   Mrs Tay Fang Lin Catherine 
+*   Mr Low Young Fei 
+*   Mr Shahrizal Bin Salim 
+*   Ms Tan Wai Hong 
+*   Ms Flora Cheong 
 *   Mdm Rosnani Bte Said
 *   Ms Bernice Lau Li Yuan
 *   Mr Chua Eng Chiong (D&amp;T Education Workshop Instructor)
