@@ -27,7 +27,7 @@ variant: markdown
 *   Mr Jayakumar Subramaniyam
 *   Mrs Mathi
 *   Ms Chen Ying
-*   Mr Yeo Jun Zhong
+
 
 **Department Vision**
 
