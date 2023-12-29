@@ -13,7 +13,6 @@ variant: markdown
 *   Mr Wun Boon Leng (HOD Math)
 *   Ms Neo Siew Eng (HOD Normal Stream)
 *   Ms Toh Yongmei Stella (Year Head Lower Sec)
-*   Mr Seow Xian Yi Winston (SH ICT)
 *   Mr Jereme Chee (LH Student Management)
 *   Ms Liao Xinwei (SH Math)
 *   Ms Phang Kay Yen (ST Math)
@@ -22,11 +21,12 @@ variant: markdown
 *   Ms Tan Sheng Xian
 *   Ms Jayne Ng Shi Ming
 *   Ms Loke Jiayi
-*   Ms Lee Hwee Choo Yvonne
 *   Mr Shahrizal Bin Salim
 *  Ms Lee Sheau Yin
-*  Lui Meng Whye
+*  Mr Lui Meng Whye
+*  Ms Lee Hwee Choo Yvonne
 *  Mr Steven Tan
+
 
 **Department Vision**
 
