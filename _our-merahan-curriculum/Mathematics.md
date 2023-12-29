@@ -43,7 +43,9 @@ Harnessing ICT to enhance the learning process.
 *   Singapore Mathematics Olympiad (SMO)
 *   Singapore and ASEAN Schools Mathematics Olympiad
 *   Singapore Maths Kangaroo Contest
-*   SAMFEST
+*   BM Fest
+*   Math Algebra Clinic (for lower secondary students)
+
 
 
 ![](/images/maths%201.JPG)
