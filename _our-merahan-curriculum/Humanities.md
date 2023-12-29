@@ -13,7 +13,7 @@ variant: markdown
 *   Mdm Kua See Hong (HOD Humanities)
 *   Ms Sriwanty Bte Ramli (ST History)
 *   Mr Ken Hu Jinyuan (Assistant Year Head Lower Sec)
-*   Ms Ng Shi Ming (SH EL (Covering))
+*   Ms Ng Shi Ming
 *   Mr Fang Swee Foong Anthony
 *   Ms Ng Hsueh Mei
 *   Mr Law Ngiap Hui
