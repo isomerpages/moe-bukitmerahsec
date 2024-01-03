@@ -2,6 +2,7 @@
 title: School Timetable
 permalink: /for-students/school-timetable/
 description: ""
+variant: markdown
 ---
 ### 2023 Semester 2 Curriculum Timetable  
 
@@ -14,47 +15,47 @@ description: ""
 
 |  |  |  |
 |---|---|---|
-| 1R1 | [1R1 ODD WEEK](/files/2306%201r1%20odd%20week.pdf) | [1R1 EVEN WEEK](/files/2306%201r1%20even%20week.pdf) |
-| 1R2 | [1R2 ODD WEEK](/files/2306%201r2%20odd%20week.pdf) | [1R2 EVEN WEEK](/files/2306%201r2%20even%20week.pdf) |
-| 1R3 | [1R3 ODD WEEK](/files/2306%201r3%20odd%20week.pdf) | [1R3 EVEN WEEK](/files/2306%201r3%20even%20week.pdf) |
-| 1R4 | [1R4 ODD WEEK](/files/2306%201r4%20odd%20week.pdf) | [1R4 EVEN WEEK](/files/2306%201r4%20even%20week.pdf) |
-| 1R5 | [1R5 ODD WEEK](/files/2306%201r5%20odd%20week.pdf) | [1R5 EVEN WEEK](/files/2306%201r5%20even%20week.pdf) |
-| 1R6 | [1R6 ODD WEEK](/files/2306%201r6%20odd%20week.pdf) | [1R6 EVEN WEEK](/files/2306%201r6%20even%20week.pdf) |
+| 1R1 | | |
+| 1R2 | | |
+| 1R3 |  |  |
+| 1R4 | | |
+| 1R5 |  |  |
+| 1R6 | | |
 
 
 **SECONDARY 2 TIMETABLE**
 
 |  |  |  |
 |---|---|---|
-| 2T1 | [2T1 ODD WEEK](/files/2306%202t1%20odd%20week.pdf) | [2T1 EVEN WEEK](/files/2306%202t1%20even%20week%20v2.pdf) |
-| 2T2 | [2T2 ODD WEEK](/files/2306%202t2%20odd%20week.pdf) | [2T2 EVEN WEEK](/files/2306%202t2%20even%20week%20v2.pdf) |
-| 2N1 | [2N1 ODD WEEK](/files/2306%202n1%20odd%20week.pdf) | [2N1 EVEN WEEK](/files/2306%202n1%20even%20week%20v2.pdf) |
-| 2N2 | [2N2 ODD WEEK](/files/2306%202n2%20odd%20week.pdf) | [2N2 EVEN WEEK](/files/2306%202n2%20even%20week%20v2.pdf) |
-| 2E1 | [2E1 ODD WEEK](/files/2306%202e1%20odd%20week.pdf) | [2E1 EVEN WEEK](/files/2306%202e1%20even%20week%20v2.pdf) |
-| 2E2 | [2E2 ODD WEEK](/files/2306%202e2%20odd%20week.pdf) | [2E2 EVEN WEEK](/files/2306%202e2%20even%20week%20v2.pdf) |
-| 2E3 | [2E3 ODD WEEK](/files/2306%202e3%20odd%20week.pdf) | [2E3 EVEN WEEK](/files/2306%202e3%20even%20week%20v2.pdf) |
-| 2E4 | [2E4 ODD WEEK](/files/2306%202e4%20odd%20week.pdf) | [2E4 EVEN WEEK](/files/2306%202e4%20even%20week%20v2.pdf) |
+| 2I1 |  | |
+| 2I2 | | |
+| 2I3 |  |  |
+| 2I4 |  | |
+| 2I5 |  |  |
+| 2I6 |  |  |
+
 
 **SECONDARY 3 TIMETABLE**
 
 |  |  |  |
 |---|---|---|
-| 3T1 | [3T1 ODD WEEK](/files/2306%203t1%20odd%20week.pdf) | [3T1 EVEN WEEK](/files/2306%203t1%20even%20week.pdf) |
-| 3T2 | [3T2 ODD WEEK](/files/2306%203t2%20odd%20week.pdf) | [3T2 EVEN WEEK](/files/2306%203t2%20even%20week.pdf) |
-| 3N1 | [3N1 ODD WEEK](/files/2306%203n1%20odd%20week.pdf) | [3N1 EVEN WEEK](/files/2306%203n1%20even%20week.pdf) |
-| 3N2 | [3N2 ODD WEEK](/files/2306%203n2%20odd%20week.pdf) | [3N2 EVEN WEEK](/files/2306%203n2%20even%20week.pdf) |
-| 3E1 | [3E1 ODD WEEK](/files/2306%203e1%20odd%20week.pdf) | [3E1 EVEN WEEK](/files/2306%203e1%20even%20week.pdf) |
-| 3E2 | [3E2 ODD WEEK](/files/2306%203e2%20odd%20week.pdf) | [3E2 EVEN WEEK](/files/2306%203e2%20even%20week.pdf) |
-| 3E3 | [3E3 ODD WEEK](/files/2306%203e3%20odd%20week.pdf) | [3E3 EVEN WEEK](/files/2306%203e3%20even%20week.pdf) |
+| 3T1 | | |
+| 3N1 | |  |
+| 3N2 | |  |
+| 3E1 | | |
+| 3E2 | |  |
+| 3E3 |  |  |
+| 3E4 |  |  |
 
 **SECONDARY 4 &amp; 5 TIMETABLE**
 
 |  |  |  |
 |---|---|---|
-| 4T1 | [4T1 ODD WEEK](/files/2306%204t1%20odd%20week.pdf) | [4T1 EVEN WEEK](/files/2306%204t1%20even%20week.pdf) |
-| 4N1 | [4N1 ODD WEEK](/files/2306%204n1%20odd%20week.pdf) | [4N1 EVEN WEEK](/files/2306%204n1%20even%20week.pdf) |
-| 4N2 | [4N2 ODD WEEK](/files/2306%204n2%20odd%20week.pdf) | [4N2 EVEN WEEK](/files/2306%204n2%20even%20week.pdf) |
-| 4E1 | [4E1 ODD WEEK](/files/2306%204e1%20odd%20week.pdf) | [4E1 EVEN WEEK](/files/2306%204e1%20even%20week.pdf) |
-| 4E2 | [4E2 ODD WEEK](/files/2306%204e2%20odd%20week.pdf) | [4E2 EVEN WEEK](/files/2306%204e2%20even%20week.pdf) |
-| 4E3 | [4E3 ODD WEEK](/files/2306%204e3%20odd%20week.pdf) | [4E3 EVEN WEEK](/files/2306%204e3%20even%20week.pdf) |
-| 5N1 | [5N1 ODD WEEK](/files/2306%205n1%20odd%20week.pdf) | [5N1 EVEN WEEK](/files/2306%205n1%20even%20week.pdf) |
+| 4T1 | |  |
+| 4T2 | |  |
+| 4N1 | |  |
+| 4N2 | |  |
+| 4E1 |  |  |
+| 4E2 | |  |
+| 4E3 |  |  |
+| 5N1 |  | |
