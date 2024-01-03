@@ -21,7 +21,7 @@ variant: markdown
 
 **Trainings**
 
-*   Wednesday: 2:30pm – 5:00pm
+*   Wednesday: 2:40pm – 5:00pm
 *   Friday*: 1:00pm – 3:30pm (*On a need-to basis for competition training)
 
 
