@@ -32,8 +32,8 @@ Mondays:
 
 Wednesdays:
 
-*   2:30pm – 5:00pm (All Girls) (School Hall)
-*   2:30pm – 4:00pm (All Boys) (School ISH)
+*   2:40pm – 5:10pm (All Girls) (School Hall)
+*   2:40pm – 4:10pm (All Boys) (School ISH)
 
 Fridays:
 
