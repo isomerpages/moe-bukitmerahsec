@@ -39,13 +39,13 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-| 3T1 | | |
-| 3N1 | |  |
-| 3N2 | |  |
-| 3E1 | | |
-| 3E2 | |  |
-| 3E3 |  |  |
-| 3E4 |  |  |
+| 3T1 |[3T1 ODD WEEK](/files/3T1_ODD_WEEK___S12024.pdf)  | [3T1 EVEN WEEK](/files/3T2_EVEN_WEEK___S12024.pdf)|
+| 3N1 |[3N1 ODD WEEK](/files/3N1_ODD_WEEK___S12024.pdf) |[3N1 EVEN WEEK](/files/3N1_EVEN_WEEK___S12024.pdf)  |
+| 3N2 |[3N2 ODD WEEK](/files/3N2_ODD_WEEK___S12024.pdf) | [3N2 EVEN WEEK](/files/3N2_EVEN_WEEK___S12024.pdf) |
+| 3E1 | [3E1 ODD WEEK](/files/3E1_ODD_WEEK___S12024.pdf)| [3E1 EVEN WEEK](/files/3E1_EVEN_WEEK___S12024.pdf)|
+| 3E2 |[3E2 ODD WEEK](/files/3E2_ODD_WEEK___S12024.pdf) | [3E2 EVEN WEEK](/files/3E2_EVEN_WEEK___S12024.pdf) |
+| 3E3 | [3E3 ODD WEEK](/files/3E3_ODD_WEEK___S12024.pdf) | [3E3 EVEN WEEK](/files/3E3_EVEN_WEEK___S12024.pdf) |
+| 3E4 | [3E4 ODD WEEK](/files/3E4_ODD_WEEK___S12024.pdf) | [3E4 EVEN WEEK](/files/3E4_EVEN_WEEK___S12024.pdf) |
 
 **SECONDARY 4 &amp; 5 TIMETABLE**
 
