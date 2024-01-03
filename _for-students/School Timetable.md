@@ -15,11 +15,11 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-| 1R1 | | |
-| 1R2 | | |
-| 1R3 |  |  |
-| 1R4 | | |
-| 1R5 |  |  |
+| 1R1 |[1R1 ODD WEEK](/files/1R1_ODD_WEEK_S1_2024.pdf) |[1R1 EVEN WEEK](/files/1R1_EVEN_WEEK_S1_2024.pdf) |
+| 1R2 |[1R2 ODD WEEK](/files/1R2_ODD_WEEK_S1_2024.pdf) |[1R2 EVEN WEEK](/files/1R2_EVEN_WEEK_S1_2024.pdf) |
+| 1R3 | [1R3 ODD WEEK](/files/1R3_ODD_WEEK_S1_2024.pdf) |[1R3 EVEN WEEK](/files/1R3_EVEN_WEEK_S1_2024.pdf)  |
+| 1R4 |[1R4 ODD WEEK](/files/1R4_ODD_WEEK_S1_2024.pdf) | [1R4 EVEN WEEK](/files/1R4_EVEN_WEEK_S1_2024.pdf)|
+| 1R5 | [1R5 ODD WEEK](/files/1R5_ODD_WEEK_S1_2024.pdf) | [1R5 EVEN WEEK](/files/1R5_EVEN_WEEK_S1_2024.pdf) |
 | 1R6 | | |
 
 
