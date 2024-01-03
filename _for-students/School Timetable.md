@@ -20,19 +20,19 @@ variant: markdown
 | 1R3 | [1R3 ODD WEEK](/files/1R3_ODD_WEEK_S1_2024.pdf) |[1R3 EVEN WEEK](/files/1R3_EVEN_WEEK_S1_2024.pdf)  |
 | 1R4 |[1R4 ODD WEEK](/files/1R4_ODD_WEEK_S1_2024.pdf) | [1R4 EVEN WEEK](/files/1R4_EVEN_WEEK_S1_2024.pdf)|
 | 1R5 | [1R5 ODD WEEK](/files/1R5_ODD_WEEK_S1_2024.pdf) | [1R5 EVEN WEEK](/files/1R5_EVEN_WEEK_S1_2024.pdf) |
-| 1R6 | | |
+| 1R6 |[1R6 ODD WEEK](/files/1R6_ODD_WEEK_S1_2024.pdf) |[1R6 EVEN WEEK](/files/1R6_EVEN_WEEK_S1_2024.pdf) |
 
 
 **SECONDARY 2 TIMETABLE**
 
 |  |  |  |
 |---|---|---|
-| 2I1 |  | |
-| 2I2 | | |
-| 2I3 |  |  |
-| 2I4 |  | |
-| 2I5 |  |  |
-| 2I6 |  |  |
+| 2I1 | [2I1 ODD WEEK](/files/2I1_ODD_WEEK___S12024.pdf) |[2I1 EVEN WEEK](/files/2I1_EVEN_WEEK___S12024.pdf) |
+| 2I2 | [2I2 ODD WEEK](/files/2I2_ODD_WEEK___S12024.pdf)|[2I2 EVEN WEEK](/files/2I2_EVEN_WEEK___S12024.pdf) |
+| 2I3 | [2I3 ODD WEEK](/files/2I3_ODD_WEEK___S12024.pdf) | [2I3 EVEN WEEK](/files/2I3_EVEN_WEEK___S12024.pdf) |
+| 2I4 | [2I4 ODD WEEK](/files/2I4_ODD_WEEK___S12024.pdf) | [2I4 EVEN WEEK](/files/2I4_EVEN_WEEK___S12024.pdf)|
+| 2I5 | [2I5 ODD WEEK](/files/2I5_ODD_WEEK___S12024.pdf) | [2I5 EVEN WEEK](/files/2I5_EVEN_WEEK___S12024.pdf) |
+| 2I6 | [2I6 ODD WEEK](/files/2I6_ODD_WEEK___S12024.pdf) | [2I6 EVEN WEEK](/files/2I6_EVEN_WEEK___S12024.pdf) |
 
 
 **SECONDARY 3 TIMETABLE**
