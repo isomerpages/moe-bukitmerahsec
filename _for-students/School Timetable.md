@@ -4,7 +4,7 @@ permalink: /for-students/school-timetable/
 description: ""
 variant: markdown
 ---
-### 2023 Semester 2 Curriculum Timetable  
+### 2024 Semester 2 Curriculum Timetable  
 
 (Click on the respective links to download the timetable of&nbsp;the class)<br><br>
 
