@@ -8,6 +8,7 @@ variant: markdown
 
 |  |  |
 |---|---|
+| MIMS Portal | [https://portal.mims.moe.gov.sg/idmdash](https://portal.mims.moe.gov.sg/idmdash) |
 | ICON Email | [https://icon.moe.edu.sg](https://icon.moe.edu.sg)|
 | iSchools | [https://bmss.ischools.sg](https://bmss.ischools.sg) |
 | HR and Payroll (HRP) Portal | [https://www.hrp.gov.sg](https://www.hrp.gov.sg) |
@@ -16,7 +17,7 @@ variant: markdown
 | Student Learning Space | [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login) |
 | NDLP@BMSS Portal | [https://go.gov.sg/bmstudents](https://go.gov.sg/bmstudents) |
 | Resource Booking Service (RBS) | [https://rbs.avero-tech.com](https://rbs.avero-tech.com) |
-| MIMS Portal | [https://portal.mims.moe.gov.sg/idmdash](https://portal.mims.moe.gov.sg/idmdash) |
+
 
 
 #### Intranet-accessible links
