@@ -8,7 +8,7 @@ variant: markdown
 
 |  |  |
 |---|---|
-| MIMS Portal | [https://idp.mims.moe.gov.sg/nidp/app/login](https://idp.mims.moe.gov.sg/nidp/app/login) |
+| MIMS Portal | [https://portal.mims.moe.gov.sg/idmdash](https://portal.mims.moe.gov.sg/idmdash) |
 | Student iCON | [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) |
 | Student Learning Space | [https://learning.moe.edu.sg](https://learning.moe.edu.sg/) |
 | Profiling Form | [https://go.gov.sg/spf2024](https://go.gov.sg/spf2024) |
