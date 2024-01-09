@@ -20,8 +20,10 @@ variant: markdown
 
 **Trainings**
 
-*   Wednesday: 2:30pm – 4:45pm / Exco training 4:45pm - 5:30pm
-*   Friday: 2:30pm – 4:30pm (for Competition Team)
+*   Wednesday: <br>
+2:40 pm – 5:00 pm (for cadets)<br>
+2:40 pm - 5:40 pm (for leaders)
+*   Friday: 1:40pm – 4:30pm (for competition team members)
 
 
 **Venues**
