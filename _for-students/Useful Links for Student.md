@@ -17,3 +17,4 @@ variant: markdown
 | NDLP@BMSS Portal | [https://go.gov.sg/bmstudents](https://go.gov.sg/bmstudents) |
 | Google Mail | [https://gmail.google.com](https://gmail.google.com/) |
 | Google Classroom | [https://classroom.google.com](https://classroom.google.com/) |
+| Appointment with Mr Damon (Senior ECGC) | [www.go.gov.sg/bmssecg](www.go.gov.sg/bmssecg) |
