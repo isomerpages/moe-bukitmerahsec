@@ -22,8 +22,10 @@ variant: markdown
 
 **Trainings**
 
-*   Wednesday: 2:30pm – 4:30pm
-*   Friday*: 1:30pm – 3:30pm (\*Only on needs basis for extra rehearsals)
+*   Wednesday: <br>
+ 2:40pm – 5:40pm (\*Festivo Group) <br>
+ 2:40pm - 4.40pm (\*Non Festivo Group)
+*   Friday*: 1:30pm – 3:30pm (\*Selected Groups of students)
 
 
 **Venues**
