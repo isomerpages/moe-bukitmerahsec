@@ -28,7 +28,7 @@ Please note that General Office opening hours may be subjected to changes on day
 
 
 
-&nbsp;<img src="/images/back_gate_2.jpg" style="width:90%">
+&nbsp;<img src="/images/back_gate_3.jpg" style="width:90%">
  
  _Updated as of 3 January 2024_
 
