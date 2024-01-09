@@ -23,9 +23,9 @@ variant: markdown
 **Trainings**
 
 *   Wednesday: <br>
- 2:40pm – 5:40pm (\*Festivo Group) <br>
- 2:40pm - 4.40pm (\*Non Festivo Group)
-*   Friday*: 1:30pm – 3:30pm (\*Selected Groups of students)
+ 2:40pm – 5:40pm (Festivo Group) <br>
+ 2:40pm - 4.40pm (Non Festivo Group)
+*   Friday*: 1:30pm – 3:30pm (Selected Groups of students)
 
 
 **Venues**
