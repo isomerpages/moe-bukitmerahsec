@@ -9,10 +9,11 @@ Browse through our school publications.
 
 | 2023  |  
 | -------- | 
+|[Merahan Yearbook - Diversity](https://online.fliphtml5.com/cjnla/cdob/) |
 |[Merahan Pulse - April Issue](/files/merahan%20pulse%202023%20-%20issue%201%20april.pdf) |
 | [Merahan Pulse - September Issue](/files/merahan%20pulse%20-%20september%20issue.pdf)|
 |
 
 | 2022  |  
 | -------- | 
-| [BMSS Yearbook - Stronger Together](https://online.fliphtml5.com/cjnla/gwbu/)|
+| [Merahan Yearbook - Stronger Together](https://online.fliphtml5.com/cjnla/gwbu/)|

@@ -24,7 +24,13 @@ School is closed on Saturdays, Sundays and Public Holidays.
 
 Please note that General Office opening hours may be subjected to changes on days with major school events.
 
+#### Turnstile Back Gate Opening / Closing Times
 
+
+
+&nbsp;<img src="/images/back_gate_2.jpg" style="width:90%">
+ 
+ _Updated as of 3 January 2024_
 
 #### How to get there
 

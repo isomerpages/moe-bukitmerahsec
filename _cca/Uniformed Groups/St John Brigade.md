@@ -20,13 +20,16 @@ variant: markdown
 
 **Trainings**
 
-*   Wednesday: 2:30pm – 4:45pm / Exco training 4:45pm - 5:30pm
-*   Friday: 2:30pm – 4:30pm (for Competition Team)
+*   Wednesday: <br>
+2:40 pm – 5:00 pm (for cadets)<br>
+2:40 pm - 5:40 pm (for leaders)
+*   Friday: 1:40pm – 4:30pm (for competition team members)
 
 
 **Venues**
 
-*   Classrooms H2-4 &amp; H2-5
+*   Classrooms H2-3, H2-4 &amp; H2-5
+*   St John Brigade Rooms at CCA Hub
 
 Cadets may be required to attend compulsory courses, Values-In- Action projects, public duties and HQ events on some weekends. These events will count towards their CCA performance and are required for the cadets’ promotion and development. In such cases, notification letters will be issued to the parents/guardian.
 

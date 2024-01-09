@@ -8,6 +8,6 @@ variant: markdown
 
 
 
-&nbsp;<img src="/images/back_gate.jpg" style="width:90%">
+&nbsp;<img src="/images/back_gate_2.jpg" style="width:90%">
  
  _Updated as of 3 January 2024_

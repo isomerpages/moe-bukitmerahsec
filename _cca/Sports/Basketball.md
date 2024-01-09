@@ -15,24 +15,24 @@ variant: markdown
 *   Mr Ho Wing Leong David (OIC)
 *   Mdm Ng Hsueh Mei (2IC)
 *   Mr Rosli Bin Hamim
-*   Mr Lim Chun Leong (OM/ Coach)
-*   Ms Jeslyn Ho Jia Ling (Assistant Coach)
+*   Mr Lim Chun Leong (OM/ Coach for Girls Team)
+*   Mr Ong Chee Kien(Coach, Coach for the Boys Team)
 *   Mr Zubi Kek (KP Advisor)
 
 **Trainings**
 
 Monday:
 
-*   2.30pm – 5.30pm (School Team Players)
+*   2.40pm – 5.40pm (School Team Players)
 
 Wednesday:
 
-*   2.30pm – 5.30pm (School Team Players)
-*   2.30pm – 4.30pm (Recreational Players)
+*   2.40pm – 5.40pm (School Team Players)
+*   2.40pm – 4.40pm (Recreational Players)
 
 Friday:
 
-*   1.30pm – 5.00pm (School Team Players)
+*   1.40pm – 5.00pm (School Team Players)
 
 
 **Venues:**
