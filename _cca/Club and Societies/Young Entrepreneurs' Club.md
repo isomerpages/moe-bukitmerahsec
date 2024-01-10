@@ -28,7 +28,7 @@ variant: markdown
 **Venues**
 
 *   Computer Lab 2
-*   Math Room
+*   ITR 3
 
 
 **Activities**
