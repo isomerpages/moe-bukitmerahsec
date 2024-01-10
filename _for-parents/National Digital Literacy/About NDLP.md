@@ -3,12 +3,13 @@ title: About NDLP
 permalink: /programme/National-Digital-Literacy/about-ndlp/
 description: ""
 third_nav_title: National Digital Literacy
+variant: markdown
 ---
 ### National Digital Literacy Programme (NDLP)
 
-[ PLD Infographic](/files/Infographic-on-the-PLD-Initiative.pdf) <br>
-[DMA After-School Parent Options (For parents who have not exercised their DMA)](/files/IP8%20-%20Infographic%20on%20the%20PLD%20Initiative_2023(1).pdf) <br>
-[DMA After-School Parent Options (For parents who have exercised their DMA](/files/IP8%20-%20Infographic%20on%20the%20PLD%20Initiative_2023(2).pdf)
+[PLD Infographic](/files/PLD_Infographic.pdf)<br>
+[DMA After-School Parent Options (For parents who have not exercised their DMA)](/files/DMA_After_School_Parent_Options__For_parents_who_have_not_exercised_their_DMA__2024.pdf)<br>
+[DMA After-School Parent Options (For parents who have exercised their DMA](/files/DMA_After_School_Parent_Options__For_parents_who_have_exercised_their_DMA_2024.pdf)
 
 MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021.
 
@@ -318,9 +319,9 @@ Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. 
 
 #### Parent Handbook
 
-[Parent Handbook (II) on Learning with a PLD_2023](/files/Parent%20Handbook%20PLD_1.pdf)
-
-[Parent Handbook (II) on Learning with a PLD_2023](/files/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_2023.pdf)
+[Parent Hanbook I](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
+<br>
+[Parent Handbook II](/files/IP3___Parent_Handbook__II__2024_FINAL.pdf)
 
 #### Acceptable Use Policy
 
@@ -328,5 +329,6 @@ Refer to Acceptable Use Policy [here](/files/BMSS%20AUP%20(20210401).pdf)
 
 #### Parent Briefing Slides / Q&amp;A Response
 
-[Parent Engagement Deck_2023](/files/IP1%20-%20Parent%20Engagement%20Deck_2023_for%20website.pdf)<br>
-[PDLP-Student-Device-Information-Kit](/files/PDLP-Student-Device-Information-Kit_16-Mar-22.pdf)
+[Parent Engagement Deck 2024](/files/Parent_Engagement_Deck_2024_FINAL.pdf)
+<br>
+[PDLP Student Device Information Kit](/files/PDLP-Student-Device-Information-Kit_16-Mar-22.pdf)
