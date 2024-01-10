@@ -3,6 +3,7 @@ title: About NDLP
 permalink: /programme/National-Digital-Literacy/about-ndlp/
 description: ""
 third_nav_title: National Digital Literacy
+variant: markdown
 ---
 ### National Digital Literacy Programme (NDLP)
 
@@ -328,5 +329,4 @@ Refer to Acceptable Use Policy [here](/files/BMSS%20AUP%20(20210401).pdf)
 
 #### Parent Briefing Slides / Q&amp;A Response
 
-[Parent Engagement Deck_2023](/files/IP1%20-%20Parent%20Engagement%20Deck_2023_for%20website.pdf)<br>
-[PDLP-Student-Device-Information-Kit](/files/PDLP-Student-Device-Information-Kit_16-Mar-22.pdf)
+[Parent Engagement Deck 2024](/files/Parent_Engagement_Deck_2024_FINAL.pdf)
