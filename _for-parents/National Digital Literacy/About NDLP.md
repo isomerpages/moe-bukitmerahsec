@@ -330,3 +330,5 @@ Refer to Acceptable Use Policy [here](/files/BMSS%20AUP%20(20210401).pdf)
 #### Parent Briefing Slides / Q&amp;A Response
 
 [Parent Engagement Deck 2024](/files/Parent_Engagement_Deck_2024_FINAL.pdf)
+<br>
+[PDLP Student Device Information Kit](/files/PDLP-Student-Device-Information-Kit_16-Mar-22.pdf)
