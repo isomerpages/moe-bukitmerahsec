@@ -320,7 +320,7 @@ Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. 
 #### Parent Handbook
 
 [Parent Handbook (II) on Learning with a PLD_2023](/files/Parent%20Handbook%20PLD_1.pdf)
-
+<br>
 [Parent Handbook (II) on Learning with a PLD_2023](/files/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_2023.pdf)
 
 #### Acceptable Use Policy
