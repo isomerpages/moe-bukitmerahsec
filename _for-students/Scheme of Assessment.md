@@ -4,7 +4,7 @@ permalink: /useful-links/BMSS-Students/scheme-of-assessment/
 description: ""
 variant: markdown
 ---
-###  Scheme of Assessment 2023 
+###  Scheme of Assessment 2024 
 
 |  |  |  |  |
 |---|---|---|---|
