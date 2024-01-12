@@ -22,7 +22,7 @@ variant: markdown
 
 |  |  |  |  |
 |---|---|---|---|
-| Sec 3 | [4NT](/files/2024_BMSS_Scheme_of_Assessment___4NT.pdf) | [4NA](/files/2024_BMSS_Scheme_of_Assessment___4NA.pdf) | [4E5N](/files/2024_BMSS_Scheme_of_Assessment___4E5N.pdf) |
+| Sec 4/5 | [4NT](/files/2024_BMSS_Scheme_of_Assessment___4NT.pdf) | [4NA](/files/2024_BMSS_Scheme_of_Assessment___4NA.pdf) | [4E5N](/files/2024_BMSS_Scheme_of_Assessment___4E5N.pdf) |
 
 
 
