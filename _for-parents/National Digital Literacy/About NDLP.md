@@ -319,7 +319,7 @@ Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. 
 
 #### Parent Handbook
 
-[Parent Hanbook I](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
+[Parent Handbook I](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
 <br>
 [Parent Handbook II](/files/IP3___Parent_Handbook__II__2024_FINAL.pdf)
 
