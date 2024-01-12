@@ -2,6 +2,7 @@
 title: Home Based Learning
 permalink: /useful-links/BMSS-Students/hbl/
 description: ""
+variant: markdown
 ---
 ### Home-based Learning (HBL)
 
@@ -15,7 +16,8 @@ Students are to log on the Singapore Student Learning Space ([http://learning.mo
 **Home-Based Learning Schedule For Semester 1 (2023)**
 
 *Click on the link below to access the HBL timetable:*
-[HBL Timetable for Semester 1 2023](/files/BMSS%202023%20Sem%201%20HBL%20Schedule_ForStudents_UPDATED.pdf)
+<br>
+[HBL Timetable for Semester 1 2024](/files/Sch_Website_HBL_Day_Schedule_2024_Sem_1.pdf)
 
 <br>
 
