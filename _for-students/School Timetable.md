@@ -51,12 +51,12 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-| 4T1 |  |  |
-| 4T2 |  |  |
-| 4N1 |  |  |
-| 4N2 |  |  |
-| 4E1 |  |  |
-| 4E2 |  |  |
-| 4E3 |  |  |
-| 5N1 |  |  |
+| 4T1 | [4T1 ODD WEEK](/files/ODD_WEEK_4T1_2024_UPDATED.pdf) | [4T1 EVEN WEEK](/files/EVEN_WEEK_4T1_2024_UPDATED.pdf) |
+| 4T2 | [4T2 ODD WEEK](/files/ODD_WEEK_4T2_2024_UPDATED.pdf) | [4T2 EVEN WEEK](/files/EVEN_WEEK_4T2_2024_UPDATED.pdf) |
+| 4N1 | [4N1 ODD WEEK](/files/ODD_WEEK_4N1_2024_UPDATED.pdf) | [4N1 EVEN WEEK](/files/EVEN_WEEK_4N1_2024_UPDATED.pdf) |
+| 4N2 | [4N2 ODD WEEK](/files/ODD_WEEK_4N2_2024_UPDATED.pdf) | [4N2 EVEN WEEK](/files/EVEN_WEEK_4N2_2024_UPDATED.pdf) |
+| 4E1 | [4E1 ODD WEEK](/files/ODD_WEEK_4E1_2024_UPDATED.pdf) | [4E1 EVEN WEEK](/files/EVEN_WEEK_4E1_2024_UPDATED.pdf) |
+| 4E2 | [4E2 ODD WEEK](/files/ODD_WEEK_4E2_2024_UPDATED.pdf) | [4E2 EVEN WEEK](/files/EVEN_WEEK_4E2_2024_UPDATED.pdf) |
+| 4E3 | [4E3 ODD WEEK](/files/ODD_WEEK_4E3_2024_UPDATED.pdf) | [4E3 EVEN WEEK](/files/EVEN_WEEK_4E3_2024_UPDATED.pdf) |
+| 5N1 | [5N1 ODD WEEK](/files/ODD_WEEK_5N1_2024_UPDATED.pdf) | [5N1 EVEN WEEK](/files/EVEN_WEEK_5N1_2024_UPDATED.pdf) |
 
