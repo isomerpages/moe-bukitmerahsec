@@ -74,11 +74,12 @@ Acer TravelMate is a portable device that offers students convenient learning on
 <p>
 
 
-To ensure affordability of PLD, MOE has provided Edusave top-ups of $200 in 2020, 2021 and 2022 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual $290 credited into the Edusave account for Secondary School students.<br><br>
+To ensure the affordability of devices, MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023, to all eligible Singaporean students in primary and secondary schools. 
+
+This is on top of the annual $290 credited into the Edusave account for Secondary School students and $230 for Primary School students.<br><br>
 
 
-
-For students who need additional support, complete and submit the attached form and supporting income documents to the General Office latest by 20 Jan 2023 (Friday).<br><br>
+For students who need additional support, complete and submit the attached form and supporting income documents to the General Office latest by 19 Jan 2024 (Friday).<br><br>
 
 <a href="/files/Application-form-for-PDLP-Subsidy-BMSS%20-%202023.pdf">Please click here to download the form.</a>  <br><br>
 	
