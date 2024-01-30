@@ -2,6 +2,7 @@
 title: MOE Sexuality Education
 permalink: /for-parents/moe-sexuality-education/
 description: ""
+variant: markdown
 ---
 #### Moe Sexuality Education in Schools
 
@@ -28,7 +29,7 @@ description: ""
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-**Overview of Bukit Merah Secondary** **School’s** **Sexuality Education Programme for 2023**
+**Overview of Bukit Merah Secondary** **School’s** **Sexuality Education Programme for 2024**
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -47,20 +48,20 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 <br><br>
 
-**At Bukit Merah Secondary School, the following Sexuality Education lessons will be taught in 2023:**
+**At Bukit Merah Secondary School, the following Sexuality Education lessons will be taught in 2024:**
 
-
-![](/images/Sex%20Ed%201.jpg)
-![](/images/Sex%20Ed%202.jpg)
-![](/images/Sex%20Ed%203.jpg)
-![](/images/Sex%20Ed%204.jpg)
-![](/images/Sex%20Ed%205(2).jpg)
-![](/images/Sex%20Ed%206.jpg)
-![](/images/Sex%20Ed%207.jpg)
-![](/images/Sex%20Ed%208.jpg)
-![](/images/Sex%20Ed%209.jpg)
-![](/images/Sex%20Ed%2010.jpg)
-![](/images/Sex%20Ed%2011.jpg)
+![](/images/sexed_1.jpg)
+![](/images/sexed_2.jpg)
+![](/images/sexed_3.jpg)
+![](/images/sexed_4.jpg)
+![](/images/sexed_5.jpg)
+![](/images/sexed_6.jpg)
+![](/images/sexed_7.jpg)
+![](/images/sexed_8.jpg)
+![](/images/sexed_9.jpg)
+![](/images/sexed_10.jpg)
+![](/images/sexed_11.jpg)
+![](/images/sexed_12.jpg)
 
 <br><br>
 **_eTeens_** **Programme**:
@@ -69,17 +70,18 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
+**At Bukit Merah Secondary School, the eTeens programme will be implemented as follows in 2024:**
 
-![](/images/Sex%20Ed%2012.jpg)
+![](/images/sexed_13.jpg)
 
-<br><br>
+<br>
 
 **Information for Parents**
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A.pdf). The completed form is to be submitted by 20/03/2023.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex_A___2024.pdf). The completed form is to be submitted by 24/03/2024.
 
-12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B.pdf). The completed form is to be submitted by 20/03/2023.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex_B___2024.pdf). The completed form is to be submitted by 24/03/2024.
 
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
