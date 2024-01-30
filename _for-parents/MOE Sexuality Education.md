@@ -50,18 +50,18 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 **At Bukit Merah Secondary School, the following Sexuality Education lessons will be taught in 2024:**
 
-
-![](/images/Sex%20Ed%201.jpg)
-![](/images/Sex%20Ed%202.jpg)
-![](/images/Sex%20Ed%203.jpg)
-![](/images/Sex%20Ed%204.jpg)
-![](/images/Sex%20Ed%205(2).jpg)
-![](/images/Sex%20Ed%206.jpg)
-![](/images/Sex%20Ed%207.jpg)
-![](/images/Sex%20Ed%208.jpg)
-![](/images/Sex%20Ed%209.jpg)
-![](/images/Sex%20Ed%2010.jpg)
-![](/images/Sex%20Ed%2011.jpg)
+![](/images/sexed_1.jpg)
+![](/images/sexed_2.jpg)
+![](/images/sexed_3.jpg)
+![](/images/sexed_4.jpg)
+![](/images/sexed_5.jpg)
+![](/images/sexed_6.jpg)
+![](/images/sexed_7.jpg)
+![](/images/sexed_8.jpg)
+![](/images/sexed_9.jpg)
+![](/images/sexed_10.jpg)
+![](/images/sexed_11.jpg)
+![](/images/sexed_12.jpg)
 
 <br><br>
 **_eTeens_** **Programme**:
@@ -70,10 +70,11 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
+**At Bukit Merah Secondary School, the eTeens programme will be implemented as follows in 2024:**
 
-![](/images/Sex%20Ed%2012.jpg)
+![](/images/sexed_13.jpg)
 
-<br><br>
+<br>
 
 **Information for Parents**
 
