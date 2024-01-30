@@ -2,8 +2,8 @@
 title: Parents Support Group
 permalink: /about-us/Partnership/parents-support-group/
 description: ""
+variant: markdown
 ---
-
 ### Parents Support Group
 
 <img src="/images/psg4.png" style="width:60">  
@@ -33,11 +33,11 @@ To enhance and encourage parents’ participation in the Parents’ Support Grou
 
 #### Membership
 
-Sign up as a member of BMSS Parents’ Support Group [**here.**](https://go.gov.sg/bmpsgregistration)  
+Sign up as a member of BMSS Parents’ Support Group&nbsp;[**here.**](https://go.gov.sg/bmpsgregistration)  
 Or scan the QR code below!
 
 <img src="/images/psg3.png" style="width:60%">
 
 #### Contact Us
 
-If you have any enquiries, please send an email to: [bmsspsg@gmail.com](mailto:bmsspsg@gmail.com), alternatively, you can visit us via our Facebook page [PSGbukitmerahsecsch](https://www.facebook.com/PSGbukitmerahsecsch/).
+If you have any enquiries, please send an email to:&nbsp;[bmsspsg@gmail.com](mailto:bmsspsg@gmail.com)
