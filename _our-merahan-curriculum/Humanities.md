@@ -51,7 +51,7 @@ The department plans for programmes that give students authentic experiences and
 * POA Competitions
 * Lower Secondary Post Exam Activities  
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sg1MWBTm3Xo?si=IxuLcU6JhPZXSTgX" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/heVCIRlc2qQ?si=s0xgcbwmsr3FSoft" height="315" width="560"></iframe>
 
 ![](/images/human%201-1.jpg)
 
