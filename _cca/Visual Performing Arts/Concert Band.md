@@ -27,11 +27,11 @@ variant: markdown
 
 Sec 1: 
 * Monday: 3pm - 5:30pm
-* Friday: 1:30pm - 4:30pm
+* Friday: 1:30pm - 4:00pm
 
 Sec 2-5:
-* Monday: 3pm - 5:30pm
-* Wednesday: 2:30pm - 5:30pm
+* Monday: 3:30pm - 5:30pm
+* Wednesday: 2:40pm - 5:40pm
 * Friday: 1:30pm - 5pm
 
 
