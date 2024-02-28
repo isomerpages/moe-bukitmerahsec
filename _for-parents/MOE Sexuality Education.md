@@ -80,8 +80,8 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex_A___2024.pdf). The completed form is to be submitted by 24/03/2024.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex_A___2024.pdf). The completed form is to be submitted by 25/03/2024.
 
-12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex_B___2024.pdf). The completed form is to be submitted by 24/03/2024.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex_B___2024.pdf). The completed form is to be submitted by 25/03/2024.
 
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at [bmss@moe.edu.sg](mailto:bmss@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
