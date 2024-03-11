@@ -42,7 +42,7 @@ variant: markdown
 | 3E1 | Fang Swee Foong (Anthony) | fang_swee_foong@schools.gov.sg|
 | 3E2 | Leow Li Quin<br><br>Lui Meng Whye | leow_li_quin@schools.gov.sg<br><br>lui_meng_whye@schools.gov.sg |
 | 3E3 | Goh Ee Xin <br><br>Ho Wing Leong (David)| goh_ee_xin@schools.gov.sg <br><br>ho_wing_leong@schools.gov.sg |
-| 3E4 | Qin Zhenzhen| qin_zhenzhen@schools.gov.sg |
+| 3E4 | Qin Zhenzhen <br><br> Jasmine Ng Hui San| qin_zhenzhen@schools.gov.sg <br><br> jasmine_ng_hui_shan@schools.gov.sg |
 | Non-Form Teachers| Chang Lai Yee<br><br>Neo Hock Kheng | loke_lai_yee@schools.gov.sg<br><br>neo_hock_kheng@schools.gov.sg |
 |  |  |  |
 
@@ -64,4 +64,3 @@ variant: markdown
 | 5N1 | Sriwanty Bte Ramli | sriwanty_ramli@schools.gov.sg |
 | Non-Form Teachers| Lim Lay Eng<br><br>Chong Oi Lin | lim_lay_eng_a@schools.gov.sg<br><br>chong_oi_lin@schools.gov.sg |
 |  |  |  |
-
