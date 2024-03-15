@@ -22,10 +22,11 @@ variant: markdown
 *   Ms Jayne Ng Shi Ming
 *   Ms Loke Jiayi
 *   Mr Shahrizal Bin Salim
-*  Ms Lee Sheau Yin
-*  Mr Lui Meng Whye
-*  Ms Lee Hwee Choo Yvonne
-*  Mr Steven Tan
+*   Ms Lee Sheau Yin
+*   Mr Lui Meng 
+*   Ms Jasmine Ng Hui Shan
+*   Ms Lee Hwee Choo Yvonne
+*   Mr Steven Tan
 
 
 **Department Vision**
