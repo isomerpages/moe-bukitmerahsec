@@ -9,7 +9,6 @@ variant: markdown
 
 | Name | Designation | Email Address |
 |:---:|:---:|:---:|
-| Tan Siew Siew | Administration Manager | tan_siew_siew@schools.gov.sg |
 |  Sim Beng Chong | Operations Manager | sim_beng_chong@schools.gov.sg |
 |  Lim Chun Leong | Operations Manager | lim_chun_leong@schools.gov.sg|
 | Peh Kian Chai | Administrative Executive | peh_kian_chai@schools.gov.sg |
