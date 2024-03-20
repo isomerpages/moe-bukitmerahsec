@@ -14,6 +14,7 @@ variant: markdown
 
 *   Ms Chen Ying (OIC)
 *   Mdm Lee Sheau Yin (2IC)
+*   Ms Jasmine Ng Hui Shan
 *   Mr Zubi Kek (KP Advisor)
 
 
