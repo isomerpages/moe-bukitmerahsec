@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Our Achievements
 ---
 <h4><strong>Good story for 2023 release of the O-Level results</strong></h4>
+<p>&lt;img style="width:50,align:left" src="/images/Darren Chong P.jpg"&gt;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ZACH_ANG_KIAN_PHONG.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/ZACH_ANG_KIAN_PHONG.jpg">
 </div>
 <p><strong>Name:</strong> ZACH ANG KIAN PHONG, 洪建峰
 <br><strong>Class: 5N1</strong>
@@ -80,7 +81,7 @@ can shape a future.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/kayden_4E_2023.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/kayden_4E_2023.jpg">
 </div>
 <p><strong>Name:</strong> KUAH KAI ERN, KAYDEN, 柯凯恩
 <br><strong>Class: 4E1</strong>
