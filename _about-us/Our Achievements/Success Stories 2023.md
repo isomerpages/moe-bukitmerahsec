@@ -223,5 +223,56 @@ power of care and support from the school through her adversity.</p>
 </div>
 <p><strong>Name:</strong> SUDIP RAHUL GUNASEKAR
 <br><strong>Class: </strong>4T1</p>
+<p>Rahul’s journey embodies resilience, the transformation of challenges
+into triumphs, and the profound spirit of the Merahan community.</p>
+<p>At a tender age of three, Rahul faced daunting trials that could have
+defined him. An accident left his finger wounded and took months to heal,
+which affected his motor skills, agility, and reaction time. Simultaneously,
+his speech development posed another hurdle, raising concerns within his
+family. He was not able to speak at age three, and his family referred
+him to a speech therapist. It took him many sessions of therapy before
+he was able to speak and he continued to struggle with poor reading, writing
+and pronunciation in kindergarten and primary school. Yet, these obstacles
+were not chains but stepping-stones for him to uncover his nascent strengths.</p>
+<p>Despite the hardships, Rahul's resilience bloomed with the support from
+the school's teachers. His once fragile communication skills blossomed
+into confident articulation with conviction. He emerged as an ardent sportsman,
+representing his school in national championships including the National
+School Games Floorball Championships ‘C’ Division Boys in 2021 and the
+National Under 16 Pesta Sukan Championships in 2022. A testament to his
+incredible journey from motor issues to athletic prowess. Rahul continues
+to aspire towards representing the country in floorball.</p>
+<p>Guided by school teachers and equipped with newfound skills through ECG
+support and an interview workshop, Rahul secured a spot in ITE College
+Central 3-year Higher Nitec in Business Administration through the Early
+Admissions Exercise . His tenacity, nurtured by his efforts to overcome
+speech challenges, now fuels his dream to excel in his course and his passion
+to serve others in real estate and help others leverage their strengths.</p>
+<p>More than personal growth, Rahul's story is a testament of how he has
+matured in time to embrace others' successes. As a primary school student,
+he was often jealous when others achieve things that he did not. He even
+cried when he was not presented as the best camper in the primary 5 camp.
+This contrasts greatly with the Rahul that we know in Bukit Merah Secondary
+School, who gladly and energetically celebrates the achievement of everyone
+he knows. Rahul attributes his personal transformation to the supportive
+environment and strong culture of care in the school. He has learned that
+we each run our own race, and that there is no need to despair over the
+achievements of others. Rather, he is now able to celebration for others,
+and often even urging his friends to join in the celebration.</p>
+<p>Rahul's personal narrative extends beyond individual triumph to highlight
+the importance of school/community bonds. Inspired by a family friend (Mr
+Segaran) who is a Bukit Merah alumnus, Rahul chose to enrol in Bukit Merah
+Secondary School and being a member of the floorball team. Further, Rahul
+has chosen to go to ITE College Central as he is still in touch with alumni
+of Bukit Merah Secondary School who are still active in floorball there.
+Bukit Merah Secondary School weaves past, present, and future Merahans
+together.</p>
+<p>In Rahul’s odyssey, obstacles were not roadblocks but catalysts for growth.
+His journey reflects the indomitable human spirit, the power of support,
+and the beauty of celebrating others’ victories.</p>
+<p>Other information:</p>
+<p>He was part of the team of current and past students of Bukit Merah Secondary
+School who were invited by then-President Mdm Halimah to visit the Istana
+(<a href="https://www.bukitmerahsec.moe.edu.sg/featured-news-and-articles/bmss-visits-istana/" rel="noopener noreferrer nofollow" target="_blank">https://www.bukitmerahsec.moe.edu.sg/featured-news-and-articles/bmss-visits-istana/</a>).</p>
 <p></p>
 <p></p>
