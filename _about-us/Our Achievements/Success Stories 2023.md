@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Our Achievements
 ---
 <h4><strong>Good story for 2023 release of the O-Level results</strong></h4>
-<p>&lt;img style="width:50,align:left" src="/images/Darren Chong P.jpg"&gt;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/ZACH_ANG_KIAN_PHONG.jpg">
 </div>
