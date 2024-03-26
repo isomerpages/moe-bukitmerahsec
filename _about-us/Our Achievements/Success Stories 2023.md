@@ -150,6 +150,78 @@ walls. It is not just a commute; it is a journey towards a future brimming
 with confidence and possibilities. Kayden’s story stands as a testament
 that the right environment can transform aspirations into reality, no matter
 where the path begins.</p>
+<hr>
+<h4><strong>Good story for 2023 release of the N-Level results</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/LiJiaying_4T12023.jpg">
+</div>
+<p><strong>Name:</strong> LI JIAYING, 李佳颖&nbsp;
+<br><strong>Class: </strong>4T1</p>
+<p>Amidst trials and challenges, Jiaying's journey stands as a testament
+to resilience and unwavering strength. As a devoted caregiver to her grandmother
+battling end-stage heart failure and stroke, Jiaying shouldered immense
+responsibilities alongside her mother. Days blurred into nights as she
+tended to her grandmother's needs, waking up every few hours, tirelessly
+caring for her grandmother, and monitoring her health, all while juggling
+her own schooling.</p>
+<p>The emotional toll was heavy as Jiaying grappled with the reality of her
+grandmother's palliative care, even contemplating putting her education
+on hold to be by her side during her final moments. During a critical period,
+close to her exams, her grandmother's worsening condition and mother’s
+health crisis tested Jiaying's resolve. Yet, when her grandmother passed
+away, Jiaying faced the daunting prospect of completing her N-Levels while
+managing funeral arrangements and her mother's health struggles. The weight
+of these responsibilities threatened to derail her academic aspirations,
+yet Jiaying summoned the courage to persevere, supported by her teachers
+and her peers.</p>
+<p>Jia Ying’s personal health too faced its own battles, undergoing surgery
+in 2022 and grappling with a slow recovery compounded by her caregiving
+duties. Despite setbacks, the unwavering support of her school community
+became a beacon of hope. Friends extended their helping hands, teachers
+displayed remarkable degree of understanding, accommodating her needs during
+her stricken moments, a testament to the school's compassionate ethos.</p>
+<p>Despite prolonged absences due to personal crises, Jiaying's dedication
+to learning remained unscathed. The nurturing environment of the school,
+particularly her Form Teachers' unwavering guidance and care, became the
+cornerstone of her resilience. Jiaying appreciates the guidance and support
+given by the school, including sending her home from school or hospital
+when necessary, and giving her the space to grieve and to transit back
+to school thereafter.</p>
+<p>Inspired by the culture of care she experienced, Jiaying found solace
+and purpose in giving back to her community. Since 2019, she devoted her
+time to the Henderson-Crescent RC, initiating programmes for young children
+and engaging in various community outreach initiatives. In 2022, she initiated
+a reading programme for children aged four to six. Twice a week, she coordinated
+reading and craft activity for these children. She also helped with house
+visits where she distributed packed food and checked in on residents. With
+the Henderson Community Club, Jiaying helps in the fun dance with seniors
+every Sunday in the first week of the month. She ushers, registers, and
+follows the elderly as they do their exercises. She is also involved in
+the senior engagement programme, where she visits senior activity centres
+to sing songs, play games and exercise to keep the seniors active and engaged.
+She also volunteers with the PPH Community Services Centre @ Block 44 to
+check in on residents through house visits. Jiaying also tapped on her
+ability to converse in Hokkien and Teochew by volunteering at the Meet-the-People
+Session where she assists in addressing residents’ needs. Her empathetic
+nature, honed through caring for her grandmother, became a driving force
+in her efforts to connect with and assist elderly residents through community
+club engagements and volunteering initiatives.</p>
+<p>Her unwavering dedication and compassionate service did not go unnoticed.
+Jiaying's outstanding commitment to the community earned her recognition
+in a People's Association internal video, a testament to her selfless contributions.
+(POC : <a href="mailto:tan_chia_sin@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chia_sin@pa.gov.sg</a>)</p>
+<p>For Jiaying, her struggles and challenges have only fuelled her determination
+to contribute meaningfully to society. Her personal experiences, the nurturing
+environment of her school and the support of her teachers have instilled
+in her a deep-seated desire to serve, a testament to the transformative
+power of care and support from the school through her adversity.</p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/3T1_34_RAHUL_GUNASEKAR.jpg">
+</div>
+<p><strong>Name:</strong> SUDIP RAHUL GUNASEKAR
+<br><strong>Class: </strong>4T1</p>
 <p></p>
 <p></p>
