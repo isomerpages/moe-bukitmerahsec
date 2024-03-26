@@ -10,7 +10,7 @@ third_nav_title: Our Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/ZACH_ANG_KIAN_PHONG.jpg">
 </div>
-<p><strong>Name:</strong> ZACH ANG KIAN PHONG, 洪建峰
+<p><strong>Name:</strong> ZACH ANG KIAN PHONG
 <br><strong>Class: 5N1</strong>
 </p>
 <p>Zach embodies sheer tenacity and unwavering determination. Enrolled as
@@ -83,7 +83,7 @@ can shape a future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/kayden_4E_2023.jpg">
 </div>
-<p><strong>Name:</strong> KUAH KAI ERN, KAYDEN, 柯凯恩
+<p><strong>Name:</strong> KUAH KAI ERN, KAYDEN
 <br><strong>Class: 4E1</strong>
 </p>
 <p>Kayden’s journey stands as a testament to the power of finding the perfect
@@ -156,7 +156,7 @@ where the path begins.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/LiJiaying_4T12023.jpg">
 </div>
-<p><strong>Name:</strong> LI JIAYING, 李佳颖&nbsp;
+<p><strong>Name:</strong> LI JIAYING
 <br><strong>Class: </strong>4T1</p>
 <p>Amidst trials and challenges, Jiaying's journey stands as a testament
 to resilience and unwavering strength. As a devoted caregiver to her grandmother
@@ -270,8 +270,8 @@ together.</p>
 <p>In Rahul’s odyssey, obstacles were not roadblocks but catalysts for growth.
 His journey reflects the indomitable human spirit, the power of support,
 and the beauty of celebrating others’ victories.</p>
-<p>Other information:</p>
-<p>He was part of the team of current and past students of Bukit Merah Secondary
+<p>Other information:
+<br>He was part of the team of current and past students of Bukit Merah Secondary
 School who were invited by then-President Mdm Halimah to visit the Istana
 (<a href="https://www.bukitmerahsec.moe.edu.sg/featured-news-and-articles/bmss-visits-istana/" rel="noopener noreferrer nofollow" target="_blank">https://www.bukitmerahsec.moe.edu.sg/featured-news-and-articles/bmss-visits-istana/</a>).</p>
 <p></p>
