@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Achievements
 ---
-<h4><strong>Good story for 2023 release of the O-Level results</strong></h4>
+<h4><strong>Good story for 2022 release of the O-Level results</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/HUANG_TAO.jpg">
