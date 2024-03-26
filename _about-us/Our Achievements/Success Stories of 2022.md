@@ -69,6 +69,58 @@ circumstances, Huang Tao is able to interact well with everyone he meets.
 While he develops strong bonds with his peers, he also maintains a close
 circle of friends with whom he could connect deeper and confide in.</p>
 <hr>
+<h4><strong>Good story for 2022 release of the N-Level results</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/JAVIER_NG_KUAN_YI.jpg">
+</div>
+<p><strong>Name:</strong> Javier Ng Kuan Yi
+<br><strong>Class:</strong> 4N1</p>
+<p>When Javier was first posted to Bukit Merah Secondary School as a Secondary
+One student in the Normal Academic stream, he always knew he had a love
+for Mathematics. Demonstrating the ability and positive attitude to cope
+with the subject, Javier was offered the opportunity to take SBB and studied
+Mathematics at the Express level by June that year.</p>
+<p>It was not easy taking Mathematics at a more demanding level and Javier
+often had to work harder and put in the extra hours to keep up with the
+demands of the subject. But Javier never gave up. By working with his peers
+who were also taking SBB Mathematics, Javier learnt the value of teamwork
+and resilience. They would discuss questions together and teach one another.
+Through regular consultations with his teachers and good routines at home,
+Javier learnt to manage his time to do well in his studies without sacrificing
+his mental well-being.</p>
+<p>The opportunity to take SBB Mathematics has been a rewarding journey for
+Javier as he continually challenged himself to do his best. “My friends
+called me crazy when they heard that I was going to take Additional Mathematics
+at Sec 3,” Javier recalled this incident as he reflected on his SBB journey.
+Despite doing well in Lower Secondary Mathematics, Javier initially struggled
+to cope with Additional Mathematics in Sec 3. Placed in a classroom with
+new peers he did not know, Javier built a strong network of peer support
+very quickly by being there and rallying for his classmates whenever he
+could. Demonstrating a humble and positive learning attitude whenever he
+asked his classmates for help in Mathematics, Javier soon inspired many
+of his peers to help one another and contributed to a positive learning
+climate in the classroom. His resilience and hard work eventually paid
+off as he finally saw progress in his Additional Mathematics when he began
+passing the tests and exams.</p>
+<p>Javier’s love for Mathematics is infectious and inspiring to his peers,
+including his classmates from the Normal Academic level. Ever so often,
+Javier would spend his free time coaching his peers who were weaker in
+Mathematics and share tips and strategies on how to solve Mathematics problems.</p>
+<p>“Mathematics explains many things around us.” Inspired by his father,
+Javier is very passionate about mechanics and electronics and sees the
+relevance of Mathematics in every-day life. Having taken Mathematics at
+a more challenging level, Javier is confident about his strengths and now
+has more choices for his post-secondary options. He has accepted the offer
+to enrol in the Mechatronics &amp; Robotics course at ITE via the Early
+Admission Exercise. He hopes to inspire his peers and juniors to believe
+in their own strengths and to do their very best to get to where they want
+to be.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
