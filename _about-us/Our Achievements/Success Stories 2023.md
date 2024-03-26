@@ -274,9 +274,6 @@ and the beauty of celebrating others’ victories.</p>
 <br>He was part of the team of current and past students of Bukit Merah Secondary
 School who were invited by then-President Mdm Halimah to visit the Istana
 (<a href="https://www.bukitmerahsec.moe.edu.sg/featured-news-and-articles/bmss-visits-istana/" rel="noopener noreferrer nofollow" target="_blank">https://www.bukitmerahsec.moe.edu.sg/featured-news-and-articles/bmss-visits-istana/</a>).</p>
-<hr>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
