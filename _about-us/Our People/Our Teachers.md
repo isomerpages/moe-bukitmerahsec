@@ -37,7 +37,7 @@ variant: markdown
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
 | 3T1 |  Law Ngiap Hui<br><br>Ng Hui Ling| law_ngiap_hui@schools.gov.sg<br><br>ng_hui_ling@schools.gov.sg |
-| 3N1 |Phang Kay Yen<br><br>Nurul Syazwany | phang_kay_yen@schools.gov.sg<br><br>nurul_syazwany_mohd_saleh@sschools.gov.sg |
+| 3N1 |Phang Kay Yen<br><br>Nurul Syazwany | phang_kay_yen@schools.gov.sg<br><br>nurul_syazwany_mohd_saleh@schools.gov.sg |
 | 3N2 | Au Yong Kok Soon<br><br>Muhammad Hisham | au_yong_kok_soon@schools.gov.sg<br><br>muhammad_hisham_anwar@schools.gov.sg |
 | 3E1 | Fang Swee Foong (Anthony) | fang_swee_foong@schools.gov.sg|
 | 3E2 | Leow Li Quin<br><br>Lui Meng Whye | leow_li_quin@schools.gov.sg<br><br>lui_meng_whye@schools.gov.sg |
