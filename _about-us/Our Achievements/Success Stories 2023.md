@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Achievements
 ---
-<h4><strong>Good story for 2023 release of the O-Level results</strong></h4>
+<h4><strong>2023 O-Level Success Stories</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/ZACH_ANG_KIAN_PHONG.jpg">
@@ -151,7 +151,7 @@ with confidence and possibilities. Kayden’s story stands as a testament
 that the right environment can transform aspirations into reality, no matter
 where the path begins.</p>
 <hr>
-<h4><strong>Good story for 2023 release of the N-Level results</strong></h4>
+<h4><strong>2023 N-Level Success Stories</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/LiJiaying_4T12023.jpg">
