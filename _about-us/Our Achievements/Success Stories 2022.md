@@ -69,7 +69,7 @@ circumstances, Huang Tao is able to interact well with everyone he meets.
 While he develops strong bonds with his peers, he also maintains a close
 circle of friends with whom he could connect deeper and confide in.</p>
 <hr>
-<h4><strong>Good story for 2022 release of the N-Level results</strong></h4>
+<h4><strong>2022 N-Level Success Stories</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/JAVIER_NG_KUAN_YI.jpg">
 </div>
