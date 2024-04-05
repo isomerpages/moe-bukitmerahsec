@@ -209,8 +209,7 @@ in her efforts to connect with and assist elderly residents through community
 club engagements and volunteering initiatives.</p>
 <p>Her unwavering dedication and compassionate service did not go unnoticed.
 Jiaying's outstanding commitment to the community earned her recognition
-in a People's Association internal video, a testament to her selfless contributions.
-(POC : <a href="mailto:tan_chia_sin@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chia_sin@pa.gov.sg</a>)</p>
+in a People's Association internal video, a testament to her selfless contributions.</p>
 <p>For Jiaying, her struggles and challenges have only fuelled her determination
 to contribute meaningfully to society. Her personal experiences, the nurturing
 environment of her school and the support of her teachers have instilled
