@@ -215,8 +215,8 @@ into triumphs, and the profound spirit of the Merahan community.</p>
 <p>At a tender age of three, Rahul faced daunting trials that could have
 defined him. An accident affected his motor skills, agility, and reaction
 time. Simultaneously, his speech development posed another hurdle, and
-he struggled with <s>poor </s>reading, writing and pronunciation in kindergarten
-and primary school. Yet, these obstacles were not chains but stepping-stones
+he struggled with reading, writing and pronunciation in kindergarten and
+primary school. Yet, these obstacles were not chains but stepping-stones
 for him to uncover his nascent strengths.</p>
 <p>Despite the hardships, Rahul's resilience bloomed with the support from
 the school's teachers. His once fragile communication skills blossomed
