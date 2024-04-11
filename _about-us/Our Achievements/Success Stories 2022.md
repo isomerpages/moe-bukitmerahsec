@@ -14,19 +14,12 @@ third_nav_title: Our Achievements
 <br><strong>Class:</strong> 4E2</p>
 <p>The COVID-19 pandemic has impacted many lives in different ways the last
 two years. When Huang Tao was in Secondary Three in 2021, the pandemic
-seriously affected his parents’ business as they struggled to keep their
-company afloat. Even though they closed down a few stores to cut losses,
-his parents still found themselves in a dire financial situation. One Sunday
-when his parents did not give Huang Tao his usual allowance for the week,
-he thought they were busy and had forgotten. The boy did not ask because
-he could tell that his parents seemed distracted, but when it happened
-again and again in the next few weeks, Huang Tao knew that his parents
-had to be facing severe financial difficulties. He decided that he would
-take charge of his own allowance. He sold the one thing which he had painstakingly
-saved his pocket money to buy - his bicycle. He calculated that if he was
-prudent in spending his money, that sum should last him a few months. Such
-resourcefulness and independence are characteristics of Huang Tao in all
-aspects of his life.</p>
+seriously affected the finances in the family. To ease the burden of his
+family, he decided that he would take charge of his own allowance. He sold
+the one thing which he had painstakingly saved his pocket money to buy
+- his bicycle. He calculated that if he was prudent in spending his money,
+that sum should last him a few months. Such resourcefulness and independence
+are characteristics of Huang Tao in all aspects of his life.</p>
 <p>Aware of his family’s high hopes for him to do well academically, Huang
 Tao was determined to make them proud, especially his grandmother, by working
 consistently to improve his studies. In particular, he began to read more
