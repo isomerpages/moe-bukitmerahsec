@@ -111,7 +111,9 @@ NUS Geographical Society and supported by MOE)</p>
 <br>
 <br>
 <br>Singapore Junior Chemistry</p>
-<p>Olympiad
+<p>Olympiad</p>
+<p></p>
+<p>
 <br>Science ICAS 2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -232,11 +234,12 @@ NUS Geographical Society and supported by MOE)</p>
 <br>
 <br>
 </p>
-<p></p>
 <p>4 Bronze, 4 Silver
 <br>
 <br>
-<br>8th position</p>
+<br>
+</p>
+<p>8th position</p>
 </td>
 </tr>
 <tr>
