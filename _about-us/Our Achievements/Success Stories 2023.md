@@ -160,27 +160,15 @@ where the path begins.</p>
 <br><strong>Class: </strong>4T1</p>
 <p>Amidst trials and challenges, Jiaying's journey stands as a testament
 to resilience and unwavering strength. As a devoted caregiver to her grandmother
-battling end-stage heart failure and stroke, Jiaying shouldered immense
-responsibilities alongside her mother. Days blurred into nights as she
-tended to her grandmother's needs, waking up every few hours, tirelessly
-caring for her grandmother, and monitoring her health, all while juggling
-her own schooling.</p>
+battling a terminal disease, Jiaying shouldered immense responsibilities
+alongside her mother. Days blurred into nights as she tended to her grandmother's
+needs, waking up every few hours, tirelessly caring for her grandmother,
+and monitoring her health, all while juggling her own schooling.</p>
 <p>The emotional toll was heavy as Jiaying grappled with the reality of her
-grandmother's palliative care, even contemplating putting her education
-on hold to be by her side during her final moments. During a critical period,
-close to her exams, her grandmother's worsening condition and mother’s
-health crisis tested Jiaying's resolve. Yet, when her grandmother passed
-away, Jiaying faced the daunting prospect of completing her N-Levels while
-managing funeral arrangements and her mother's health struggles. The weight
-of these responsibilities threatened to derail her academic aspirations,
-yet Jiaying summoned the courage to persevere, supported by her teachers
-and her peers.</p>
-<p>Jia Ying’s personal health too faced its own battles, undergoing surgery
-in 2022 and grappling with a slow recovery compounded by her caregiving
-duties. Despite setbacks, the unwavering support of her school community
-became a beacon of hope. Friends extended their helping hands, teachers
-displayed remarkable degree of understanding, accommodating her needs during
-her stricken moments, a testament to the school's compassionate ethos.</p>
+grandmother's condition, her mother’s health scare and her own personal
+health. The weight of these responsibilities threatened to derail her academic
+aspirations, yet Jiaying summoned the courage to persevere, supported by
+her teachers and her peers.</p>
 <p>Despite prolonged absences due to personal crises, Jiaying's dedication
 to learning remained unscathed. The nurturing environment of the school,
 particularly her Form Teachers' unwavering guidance and care, became the
@@ -225,14 +213,11 @@ power of care and support from the school through her adversity.</p>
 <p>Rahul’s journey embodies resilience, the transformation of challenges
 into triumphs, and the profound spirit of the Merahan community.</p>
 <p>At a tender age of three, Rahul faced daunting trials that could have
-defined him. An accident left his finger wounded and took months to heal,
-which affected his motor skills, agility, and reaction time. Simultaneously,
-his speech development posed another hurdle, raising concerns within his
-family. He was not able to speak at age three, and his family referred
-him to a speech therapist. It took him many sessions of therapy before
-he was able to speak and he continued to struggle with poor reading, writing
-and pronunciation in kindergarten and primary school. Yet, these obstacles
-were not chains but stepping-stones for him to uncover his nascent strengths.</p>
+defined him. An accident affected his motor skills, agility, and reaction
+time. Simultaneously, his speech development posed another hurdle, and
+he struggled with reading, writing and pronunciation in kindergarten and
+primary school. Yet, these obstacles were not chains but stepping-stones
+for him to uncover his nascent strengths.</p>
 <p>Despite the hardships, Rahul's resilience bloomed with the support from
 the school's teachers. His once fragile communication skills blossomed
 into confident articulation with conviction. He emerged as an ardent sportsman,
