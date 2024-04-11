@@ -110,8 +110,8 @@ NUS Geographical Society and supported by MOE)</p>
 <p>Australia Big Science Competition
 <br>
 <br>
-<br>Singapore Junior Chemistry Olympiad
-<br>
+<br>Singapore Junior Chemistry</p>
+<p>Olympiad
 <br>Science ICAS 2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -131,7 +131,8 @@ NUS Geographical Society and supported by MOE)</p>
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Inter-school Principle Of Accounts Quest (organised by Deyi Sec)
+<p>Inter-school Principle Of Accounts Quest (organised by Deyi Sec)</p>
+<p>
 <br>
 <br>Hwa Chong International Model United Nations (HMUN) 2023 Conference
 <br>
@@ -149,22 +150,20 @@ NUS Geographical Society and supported by MOE)</p>
 <p>Historical Scene Investigation Challenge 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion
-<br>
-<br>
-<br>
-</p>
+<p>Champion</p>
 <p></p>
 <p></p>
-<p>Awarded the Most Honourable Delegate Award
-<br>
-<br>
-</p>
 <p></p>
-<p>Merit
-<br>
-<br>
-</p>
+<p></p>
+<p></p>
+<p></p>
+<p>Awarded the Most Honourable Delegate Award</p>
+<p></p>
+<p></p>
+<p></p>
+<p>Merit</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
