@@ -5,6 +5,42 @@ description: ""
 third_nav_title: Our Achievements
 variant: tiptap
 ---
+<h5>2024 Achievements</h5>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore and Asian Schools Math Olympiad (SASMO)
+<br>
+<br>Singapore Mathematical Olympiad (SMO)
+<br>
+<br>Singapore Math Kangaroo Contest (SMKC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 3 Silver, 7 Bronze and 7 Honorable Mention
+<br>
+<br>4 Honorable Mention
+<br>
+</p>
+<p>2 Gold, 2 Silver, 4 Bronze</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5>2023 Achievements</h5>
 <table>
 <tbody>
@@ -121,6 +157,7 @@ variant: tiptap
 <br>
 <br>
 </p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
