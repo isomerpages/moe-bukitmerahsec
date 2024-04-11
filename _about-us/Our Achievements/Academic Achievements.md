@@ -21,22 +21,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
+<p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore and Asian Schools Math Olympiad (SASMO)
-<br>
-<br>Singapore Mathematical Olympiad (SMO)
-<br>
-<br>Singapore Math Kangaroo Contest (SMKC)</p>
+<p>NUS Geography Challenge (Jointly organised by NUS Department of Geography,
+NUS Geographical Society and supported by MOE)</p>
+<p></p>
+<p>Sustainability Design Awards Challenge 2024 (Organised by Temasek Polytechnic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Gold, 3 Silver, 7 Bronze and 7 Honorable Mention
-<br>
-<br>4 Honorable Mention
-<br>
-</p>
-<p>2 Gold, 2 Silver, 4 Bronze</p>
+<p>1 Bronze medal</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Shortlisted as Top 15 Finalist</p>
+<p></p>
 </td>
 </tr>
 </tbody>
