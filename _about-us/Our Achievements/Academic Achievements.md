@@ -117,7 +117,6 @@ variant: tiptap
 <br>
 </p>
 <p></p>
-<p></p>
 <p>Merit
 <br>
 <br>
@@ -129,7 +128,6 @@ variant: tiptap
 <br>
 <br>
 </p>
-<p></p>
 <p>Silver Award</p>
 </td>
 </tr>
@@ -188,7 +186,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>5 Bronze, 2 Silver, 3 Gold
 <br>
-<br>4 Bronze, 4 Silver
+<br>
+</p>
+<p></p>
+<p>4 Bronze, 4 Silver
 <br>
 <br>
 <br>8th position</p>
@@ -206,7 +207,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Gold
 <br>
-<br>Bronze</p>
+<br>
+</p>
+<p></p>
+<p>Bronze</p>
 </td>
 </tr>
 <tr>
