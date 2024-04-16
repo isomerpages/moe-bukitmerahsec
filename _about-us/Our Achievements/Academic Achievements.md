@@ -20,16 +20,16 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Humanities</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>NUS Geography Challenge (Jointly organised by NUS Department of Geography,
 NUS Geographical Society and supported by MOE)</p>
 <p></p>
 <p>Sustainability Design Awards Challenge 2024 (Organised by Temasek Polytechnic)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1 Bronze medal</p>
 <p></p>
 <p></p>
@@ -44,11 +44,14 @@ NUS Geographical Society and supported by MOE)</p>
 <p></p>
 <p></p>
 <p>Shortlisted as Top 15 Finalist</p>
-<p></p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
 </tbody>
 </table>
+<hr>
+<p></p>
 <h5>2023 Achievements</h5>
 <table>
 <tbody>
@@ -179,6 +182,8 @@ NUS Geographical Society and supported by MOE)</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
 <h5>2022 Achievements</h5>
 <table>
 <tbody>
@@ -273,6 +278,8 @@ NUS Geographical Society and supported by MOE)</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
 <h5>2021 Achievements</h5>
 <table>
 <tbody>

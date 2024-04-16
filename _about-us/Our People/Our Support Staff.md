@@ -9,14 +9,15 @@ variant: markdown
 
 | Name | Designation | Email Address |
 |:---:|:---:|:---:|
-|  Sim Beng Chong | Operations Manager | sim_beng_chong@schools.gov.sg |
+|  Tan Hong Bwee (Magdeline) | Administration Manager | tan_hong_bwee@schools.gov.sg |
+|  Sim Beng Chong (Bernard) | Operations Manager | sim_beng_chong@schools.gov.sg |
 |  Lim Chun Leong | Operations Manager | lim_chun_leong@schools.gov.sg|
 | Peh Kian Chai | Administrative Executive | peh_kian_chai@schools.gov.sg |
-| Chua Peck Hoon| Administrative Executive | chua_peck_hoon_a@schools.gov.sg |
+| Chua Peck Hoon (Gina)| Administrative Executive | chua_peck_hoon_a@schools.gov.sg |
 | Yip Zi Min Vanessa | Corporate Support Officer | yip_zi_min_vanessa@schools.gov.sg |
 | K S Rahela Beevi | Office Attendant  | rahela_beevi@schools.gov.sg |
 | Rafiah Bte Mohd Jali | Office Attendant  | rafiah_mohd_jali@schools.gov.sg |
-| Muhamad Haikal Bin Razali | ICT Associate | muhammad_haikal_razali@schools.gov.sg |
+| Muhamad Haikal Bin Razali | ICT Manager | muhammad_haikal_razali@schools.gov.sg |
 | Chua Eng Chiong | Education Workshop Instructor | chua_eng_chiong@schools.gov.sg |
 | Zhang Lihui | Education Workshop Instructor | zhang_lihui@schools.gov.sg |
 | Subramanian Udayakumari | School Laboratory Technician | subramanian_udayakumari@schools.gov.sg |
