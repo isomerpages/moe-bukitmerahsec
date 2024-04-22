@@ -4,12 +4,9 @@ permalink: /canteen-stall/
 description: ""
 variant: markdown
 ---
-
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Western Food     | 24 Nov 2023   |   Western Cuisine   |
-| Halal Muslim Noodles    | 24 Nov 2023   |   Noodles   |
-| Halal Muslim Rice     | 24 Nov 2023   |  Nasi Padang    |
+| Halal Muslim Rice     | 30 June 2024   |  Nasi Padang    |
 
 #### Application Procedure
 
@@ -29,7 +26,7 @@ Submit the completed application form and documents by closing date via email OR
 Address: 10 Lengkok Bahru Singapore 159050<br>
 Contact No: 6474 8934<br>
 Email: bmss@moe.edu.sg<br>
-Contact Person: Ms Tan Siew Siew (Admin Manager) or Mr Peh Kian Chai (Admin Executive)
+Contact Person: Ms Tan Hong Bwee (Admin Manager)
 
 **How to get there?**
 
