@@ -6,7 +6,7 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Muslim Rice     | 30 June 2024   |  Nasi Padang    |
+| Halal Muslim Rice     | 15 May 2024   |  Nasi Padang    |
 
 #### Application Procedure
 
