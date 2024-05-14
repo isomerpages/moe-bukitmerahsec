@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Group Personal Accident Insurance Plan for Students.md
       - National Digital Literacy/.keep
       - National Digital Literacy/About NDLP.md
       - National Digital Literacy/Acer Helpdesk Service Centre.md
@@ -11,3 +10,4 @@ collections:
       - MOE Sexuality Education.md
       - Parents Gateway (PG).md
       - Parents Resources.md
+      - Group Personal Accident Insurance Plan for Students.md
