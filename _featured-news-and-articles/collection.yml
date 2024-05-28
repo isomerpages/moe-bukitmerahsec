@@ -2,7 +2,7 @@ collections:
   featured-news-and-articles:
     output: true
     order:
-      - "The Straits Times: Gymnast Nationals.md"
+      - The Straits Times — Gymnast Nationals.md
       - The Straits Times — BMSS Visits The Istana.md
       - The Straits Times — 25 February 2021.md
       - The Straits Times — Young Athlete of the Year Nominee.md
