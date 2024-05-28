@@ -6,7 +6,12 @@ third_nav_title: Our Achievements
 variant: tiptap
 ---
 <h5>2024 Achievements</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -48,12 +53,28 @@ NUS Geographical Society and supported by MOE)</p>
 </tr>
 <tr></tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Math Kangaroo Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Gold, 9 Silver, 8 Bronze, 4 Honorable Mention</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
 <p></p>
 <h5>2023 Achievements</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -185,7 +206,12 @@ NUS Geographical Society and supported by MOE)</p>
 <hr>
 <p></p>
 <h5>2022 Achievements</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -281,7 +307,12 @@ NUS Geographical Society and supported by MOE)</p>
 <hr>
 <p></p>
 <h5>2021 Achievements</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
