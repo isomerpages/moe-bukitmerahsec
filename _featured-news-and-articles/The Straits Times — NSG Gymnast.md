@@ -1,5 +1,5 @@
 ---
-title: The Straits Times — Gymnast Nationals
+title: The Straits Times — NSG Gymnast
 permalink: /the-straits-times-gymnast-nationals/
 variant: tiptap
 description: ""
