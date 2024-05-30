@@ -34,5 +34,5 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-|[Sec 4/5 Prelim Exam Timetable](/files/2024_PRELIM_EXAMINATION_TIMETABLE_Letter_to_Students.pdf) | | |
+|[Sec 4/5 Prelim Exam Timetable](/files/2024_PRELIM_EXAMINATION_TIMETABLE_Letter_to_Students_ver2.pdf) | | |
 |  |  |  |
