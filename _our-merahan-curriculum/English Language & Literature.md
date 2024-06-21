@@ -21,7 +21,6 @@ variant: markdown
 *   Ms Giselle Maria Rai
 *   Ms Ng Shuping Faith
 *   Mr Lawrence Tan Eng Chuan
-*   Mdm Shahirah Banu bte Leyakat Ali
 *   Ms Chen Ying
 
 **Department Vision**
