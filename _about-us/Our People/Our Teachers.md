@@ -24,10 +24,10 @@ variant: markdown
 |:---:|:---:|:---:|
 | 2I1 | Chua Chwee Guan Johnson<br><br>Nurhayati Bte Mohamad | chua_chwee_guan_johnson@schools.gov.sg<br><br>nurhayati_mohamad@schools.gov.sg |
 | 2I2 | Lawrence Tan Eng Chuan | tan_eng_chuan@schools.gov.sg|
-| 2I3 | Loke Jia Yi | loke_jia_yi@schools.gov.sg |
+| 2I3 | Loke Jia Yi<br><br>Amal Luqman | loke_jia_yi@schools.gov.sg <br><br>amal_luqman_ahmad_ehsan@schools.gov.sg|
 | 2I4 | Ong Min Li<br><br>Quek Jia Liang | ong_min_li@schools.gov.sg <br><br> quek_jia_liang@schools.gov.sg|
 | 2I5 |Darshan Kaur<br><br>Belicia Choy  | darshan_kaur_a@schools.gov.sg<br><br>belicia_choy_siqi@schools.gov.sg  |
-| 2I6 | Chloe Fong<br><br>Jayne Ng Shi Ming | fong_min_shi@schools.gov.sg<br><br>ng_shi_ming@schools.gov.sg 
+| 2I6 | Chloe Fong | fong_min_shi@schools.gov.sg
 | Non-Form Teachers| Jayakumar s/o K S Subramaniyam | jayakumar_subramaniyam@schools.gov.sg |
 |  |  |  |
 
@@ -56,7 +56,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | 4T1 |  Liao Xinwei | liao_xinwei@schools.gov.sg |
 | 4T2 | Eric Lim | lim_rong_hua_eric@schools.gov.sg |
-| 4N1 | Shahirah Banu Binte Leyakat Ali<br><br>Lim Kailin | shahirah_banu_leyakat_ali@schools.gov.sg<br><br>lim_kailin@schools.gov.sg |
+| 4N1 | Lim Kailin | lim_kailin@schools.gov.sg |
 | 4N2 | Low Young Fei<br><br>Chian Yuan Lin | low_young_fei@schools.gov.sg<br><br>chian_yuan_lin@schools.gov.sg |
 | 4E1 | Ng Wai Ping<br><br>Cheng Xin Ze | ng_wai_ping@schools.gov.sg<br><br>cheng_xin_ze@schools.gov.sg |
 | 4E2 | Ng Hsueh Mei<br><br>Lee Wen Hui Priscilla | ng_hsueh_mei@schools.gov.sg<br><br>lee_wen_hui_priscilla_A@schools.gov.sg |
