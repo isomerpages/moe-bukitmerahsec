@@ -14,7 +14,6 @@ variant: markdown
 
 *   Ms Fong Min Shi Chloe (OIC)
 *   Ms Giselle Maria Ria (2IC)
-*   Ms Shahirah Banu
 *   Ms Adeline Kong
 *   Mrs Lim Guek Lee (KP Advisor)
 *   Ms Lala Gwen Thomas (Instructor)
