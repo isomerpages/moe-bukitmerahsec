@@ -13,7 +13,6 @@ variant: markdown
 **Teachers-in-charge**
 
 *   Mdm Qin Zhen Zhen (OIC)
-*   Mdm Ng Shi Ming Jayne (2IC)
 *   Mrs Chang Lai Yee
 *   Mdm Rosnani
 *   Mrs Lim Guek Lee (KP Advisor)
