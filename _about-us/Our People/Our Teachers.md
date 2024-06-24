@@ -9,7 +9,7 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
-| 1R1 | Yit Ming En, Luke<br><br>Tan Sheng Xian | yit_ming_en_luke@schools.gov.sg<br><br>tan_sheng_xian@schools.gov.sg |
+| 1R1 | Yit Ming En, Luke<br><br>Tan Sheng Xian<br><br>Looi Tse Theng | yit_ming_en_luke@schools.gov.sg<br><br>tan_sheng_xian@schools.gov.sg<br><br>looi_tse_theng@schools.gov.sg |
 | 1R2 | Chew Min En Lydia<br><br>Shahrizal Salim | chew_min_en_lydia@schools.gov.sg<br><br>shahrizal_salim@schools.gov.sg|
 | 1R3 | Ho Shumin<br><br>Rosli Bin Hamim |ho_shumin@schools.gov.sg<br><br>rosli_hamim@schools.gov.sg  |
 | 1R4 | Chen Jing<br><br>Ng Shuping (Faith) | chen_jing@schools.gov.sg<br><br>ng_shuping@schools.gov.sg |
@@ -23,8 +23,8 @@ variant: markdown
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
 | 2I1 | Chua Chwee Guan Johnson<br><br>Nurhayati Bte Mohamad | chua_chwee_guan_johnson@schools.gov.sg<br><br>nurhayati_mohamad@schools.gov.sg |
-| 2I2 | Lawrence Tan Eng Chuan | tan_eng_chuan@schools.gov.sg|
-| 2I3 | Loke Jia Yi<br><br>Amal Luqman | loke_jia_yi@schools.gov.sg <br><br>amal_luqman_ahmad_ehsan@schools.gov.sg|
+| 2I2 | Lawrence Tan Eng Chuan| tan_eng_chuan@schools.gov.sg|
+| 2I3 | Loke Jia Yi<br><br>Amal Luqman| loke_jia_yi@schools.gov.sg <br><br>amal_luqman_ahmad_ehsan@schools.gov.sg|
 | 2I4 | Ong Min Li<br><br>Quek Jia Liang | ong_min_li@schools.gov.sg <br><br> quek_jia_liang@schools.gov.sg|
 | 2I5 |Darshan Kaur<br><br>Belicia Choy  | darshan_kaur_a@schools.gov.sg<br><br>belicia_choy_siqi@schools.gov.sg  |
 | 2I6 | Chloe Fong | fong_min_shi@schools.gov.sg
