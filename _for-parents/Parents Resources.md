@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 ---
 ###  Parents Resources 
+**Semester 2  Principal's Message**
+* [Principal Message for Semester 2 2024](/files/BMSS_2024_Semester_2_Principals_Message.pdf)
 
 **2024 Subject Combination Briefing**
 * [2 NT](/files/2024_Subject_Combination_Briefing_2NT.pdf)
