@@ -19,12 +19,12 @@ variant: markdown
 *   Mr Lee Tzi Wei Gaius (ST Physics)
 *   Ms Lim Lay Eng
 *   Ms Tan Sheng Xian
-*   Ms Jayne Ng Shi Ming
 *   Ms Loke Jiayi
 *   Mr Shahrizal Bin Salim
 *   Ms Lee Sheau Yin
-*   Mr Lui Meng 
+*   Mr Lui Meng Whye
 *   Ms Jasmine Ng Hui Shan
+*   Ms Looi Tse Theng
 *   Ms Lee Hwee Choo Yvonne
 *   Mr Steven Tan
 
