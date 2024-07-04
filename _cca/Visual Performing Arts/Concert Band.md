@@ -18,9 +18,9 @@ variant: markdown
 *   Mrs Lim Guek Lee (KP Advisor)
 *   Ms Lim Sze Ai \[(Main Band) Instructor\]
 *   Mr Tan Loke Chuah \[Instructor (Recruit and Percussion)\]
-*   Ms Tan Yue Yuan \[Instructor (Clarinet)\]
+*   Mr Tan Yue Yuan \[Instructor (Clarinet)\]
 *   Mr Moo Wei Yang \[Instructor (Trumpet/ Brass)\]
-*   Ms Lim Ngee Cheng, Lewis \[Instructor (French Horn)\]
+*   Mr Lim Ngee Cheng, Lewis \[Instructor (French Horn)\]
 
 **Trainings**
 
