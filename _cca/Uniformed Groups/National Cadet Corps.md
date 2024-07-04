@@ -20,6 +20,7 @@ variant: markdown
 *   Mr Hisham (OIC)
 *   Mr Cheng Xin Ze (2IC)
 *   Mr Liu Meng Whye
+*   Ms Looi Tse Theng
 *   Mr Zubi Kek (KP Advisor)  
   
 
