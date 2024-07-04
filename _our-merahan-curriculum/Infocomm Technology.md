@@ -14,7 +14,7 @@ variant: markdown
 *   Mr Chee Kwok Seng Jereme (LH Student Management)
 *   Mr Lui Meng Whye
 *   Mr Jason Tan Soon Peng
-*   Mr Muhammad Haikal Bin Razali (ICT Associate)
+*   Mr Muhammad Haikal Bin Razali (ICT Manager)
 *   Mr Low Pow Huat (Desktop Engineer)
 *   Mr Mohammed Nazarudin (Desktop Engineer)
 
