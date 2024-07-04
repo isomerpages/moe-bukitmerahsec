@@ -21,6 +21,7 @@ variant: markdown
 *   Mr Lim Rong Hua Eric
 *   Ms Giselle Maria Rai
 *   Ms Goh Ee Xin Stephanie
+*   Mr Amal Luqman
 
 
 **Department Vision**
