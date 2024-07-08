@@ -22,6 +22,7 @@ variant: markdown
 *   Ms Ng Shuping Faith
 *   Mr Lawrence Tan Eng Chuan
 *   Ms Chen Ying
+*   Mr Amal Luqman
 
 **Department Vision**
 
