@@ -9,6 +9,7 @@ variant: markdown
 
 |  |  | 
 | -------- | -------- | 
+|  <img src="/images/Bukit_Merah_Secondary_School_Melody_Mok_DMAD.png" style="width:80%">  | Melody Mok <br><br>Course: Diploma in Media, Arts &amp; Design<br><br>Award: SP 2024 Top Graduate|
 |  <img src="/images/Cheng_Xin_Jun.jpg" style="width:80%">  | Cheng Xin Jun <br><br>Course: Diploma in Computer Engineering <br><br>Award: SP Scholar 2024 |
 |  <img src="/images/lim cai qian.jpg" style="width:40%">  |  Lim Cai Qian <br><br> Course: Diploma in Design <br><br> Awards: Lee Kuan Yew Award, Ngee Ann Polytechnic Outstanding Achievement Award ( Keppel Land Gold Medal, Diploma with Merit,  Fraction Design Prize, Keppel Land Prize and Luma Prize)<br><br> [Click here for full image](/files/lim%20cai%20qian.pdf) |
 |    | Quek Ee Hong <br><br> Course: Diploma in Electrical Engineering<br><br>Awards: Diploma with Merit, Hong Bee Electrical &amp; Engineering Prize<br><br> Diploma Plus: Certificate in Advanced Engineering Mathematics|
