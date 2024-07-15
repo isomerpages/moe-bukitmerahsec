@@ -3,7 +3,7 @@ title: Academic Achievements
 permalink: /about-us/our-achievements/academic-achievements-bmss/
 description: ""
 third_nav_title: Our Achievements
-variant: markdown
+variant: tiptap
 ---
 <h5>2024 Achievements</h5>
 <table style="minWidth: 75px">
@@ -25,14 +25,12 @@ variant: markdown
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Humanities</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>NUS Geography Challenge (Jointly organised by NUS Department of Geography,
 NUS Geographical Society and supported by MOE)</p>
-<p></p>
-<p>Sustainability Design Awards Challenge 2024 (Organised by Temasek Polytechnic)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>1 Bronze medal</p>
@@ -48,24 +46,36 @@ NUS Geographical Society and supported by MOE)</p>
 <p></p>
 <p></p>
 <p></p>
-<p>Shortlisted as Top 15 Finalist</p>
+<p></p>
 </td>
 </tr>
 <tr></tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Sustainability Design Awards Challenge 2024 (Organised by Temasek Polytechnic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted as Top 15 Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Math Kangaroo Contest</p>
 <p></p>
-<p></p>
-<p>Singapore and Asian Schools Math Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Gold, 9 Silver, 8 Bronze, 4 Honorable Mention</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore and Asian Schools Math Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Gold, 7 Silver, 4 Bronze and 4 Honourable Mentions</p>
 </td>
 </tr>
