@@ -59,9 +59,14 @@ NUS Geographical Society and supported by MOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Math Kangaroo Contest</p>
+<p></p>
+<p></p>
+<p>Singapore and Asian Schools Math Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Gold, 9 Silver, 8 Bronze, 4 Honorable Mention</p>
+<p></p>
+<p>1 Gold, 7 Silver, 4 Bronze and 4 Honourable Mentions</p>
 </td>
 </tr>
 </tbody>
