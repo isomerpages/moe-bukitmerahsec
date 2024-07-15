@@ -25,7 +25,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Humanities</p>
 </td>
 <td rowspan="3" colspan="1">
@@ -53,6 +53,9 @@ NUS Geographical Society and supported by MOE)</p>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Sustainability Design Awards Challenge 2024 (Organised by Temasek Polytechnic)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,7 +63,7 @@ NUS Geographical Society and supported by MOE)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,6 +75,9 @@ NUS Geographical Society and supported by MOE)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Singapore and Asian Schools Math Olympiad</p>
 </td>
@@ -149,8 +155,7 @@ NUS Geographical Society and supported by MOE)</p>
 <p>Australia Big Science Competition
 <br>
 <br>
-<br>Singapore Junior Chemistry</p>
-<p>Olympiad</p>
+<br>Singapore Junior Chemistry Olympiad</p>
 <p></p>
 <p>
 <br>Science ICAS 2023</p>
@@ -163,6 +168,7 @@ NUS Geographical Society and supported by MOE)</p>
 <br>
 <br>
 </p>
+<p></p>
 <p></p>
 <p>Distinction, 7 credits and 1 merit</p>
 </td>
