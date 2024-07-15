@@ -31,8 +31,6 @@ variant: tiptap
 <td rowspan="3" colspan="1">
 <p>NUS Geography Challenge (Jointly organised by NUS Department of Geography,
 NUS Geographical Society and supported by MOE)</p>
-<p></p>
-<p>Sustainability Design Awards Challenge 2024 (Organised by Temasek Polytechnic)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>1 Bronze medal</p>
@@ -48,20 +46,43 @@ NUS Geographical Society and supported by MOE)</p>
 <p></p>
 <p></p>
 <p></p>
-<p>Shortlisted as Top 15 Finalist</p>
+<p></p>
 </td>
 </tr>
 <tr></tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sustainability Design Awards Challenge 2024 (Organised by Temasek Polytechnic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted as Top 15 Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Math Kangaroo Contest</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Gold, 9 Silver, 8 Bronze, 4 Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore and Asian Schools Math Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 7 Silver, 4 Bronze and 4 Honourable Mentions</p>
 </td>
 </tr>
 </tbody>
@@ -134,8 +155,7 @@ NUS Geographical Society and supported by MOE)</p>
 <p>Australia Big Science Competition
 <br>
 <br>
-<br>Singapore Junior Chemistry</p>
-<p>Olympiad</p>
+<br>Singapore Junior Chemistry Olympiad</p>
 <p></p>
 <p>
 <br>Science ICAS 2023</p>
@@ -148,6 +168,7 @@ NUS Geographical Society and supported by MOE)</p>
 <br>
 <br>
 </p>
+<p></p>
 <p></p>
 <p>Distinction, 7 credits and 1 merit</p>
 </td>
