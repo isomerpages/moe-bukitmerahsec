@@ -17,7 +17,8 @@ variant: markdown
 *   Ms Adeline Kong
 *   Mrs Lim Guek Lee (KP Advisor)
 *   Ms Lala Gwen Thomas (Instructor)
-*   Ms Farahliza Jasmine Ong (Assistant Instructor) 
+*   Mr Marc Valentine (Assistant Instructor)
+
 
 **Trainings**
 
