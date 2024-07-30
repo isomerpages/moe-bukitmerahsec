@@ -71,7 +71,7 @@ NUS Geographical Society and supported by MOE)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Gold, 9 Silver, 8 Bronze, 4 Honorable Mention</p>
+<p>4 Gold, 9 Silver, 8 Bronze, 4 Honourable Mention</p>
 </td>
 </tr>
 <tr>
@@ -120,9 +120,9 @@ NUS Geographical Society and supported by MOE)</p>
 <br>Singapore Math Kangaroo Contest (SMKC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Gold, 3 Silver, 7 Bronze and 7 Honorable Mention
+<p>1 Gold, 3 Silver, 7 Bronze and 7 Honourable Mention
 <br>
-<br>4 Honorable Mention
+<br>4 Honourable Mention
 <br>
 <br>
 </p>
@@ -371,7 +371,7 @@ NUS Geographical Society and supported by MOE)</p>
 <br>All Singapore Secondary Mathematics Competition for Normal Academics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Gold, 2 Silver, 5 Bronze and 4 Honorable Mention
+<p>3 Gold, 2 Silver, 5 Bronze and 4 Honourable Mention
 <br>
 <br>4 Silver, 4 Bronze and 6 Honorable Mention
 <br>
