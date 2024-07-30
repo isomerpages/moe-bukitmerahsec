@@ -22,7 +22,13 @@ variant: markdown
 *   Ms Ng Shuping Faith
 *   Mr Lawrence Tan Eng Chuan
 *   Ms Chen Ying
+*   Ms Chew Min En, Lydia
+*   Ms Lee Wen hui, Priscilla
 *   Mr Amal Luqman
+*   Ms Chew Min En, Lydia
+*   Ms Yip Xiao Tong, Adonia
+*   Ms Gay Hui Hui
+
 
 **Department Vision**
 
