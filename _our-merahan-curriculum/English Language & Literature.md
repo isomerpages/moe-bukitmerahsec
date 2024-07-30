@@ -25,7 +25,6 @@ variant: markdown
 *   Ms Chew Min En, Lydia
 *   Ms Lee Wen hui, Priscilla
 *   Mr Amal Luqman
-*   Ms Chew Min En, Lydia
 *   Ms Yip Xiao Tong, Adonia
 *   Ms Gay Hui Hui
 
