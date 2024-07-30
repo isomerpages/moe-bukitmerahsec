@@ -71,7 +71,7 @@ NUS Geographical Society and supported by MOE)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Gold, 9 Silver, 8 Bronze, 4 Honorable Mention</p>
+<p>4 Gold, 9 Silver, 8 Bronze, 4 Honourable Mention</p>
 </td>
 </tr>
 <tr>
