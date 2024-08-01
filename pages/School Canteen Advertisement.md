@@ -6,7 +6,8 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Muslim Rice     | 15 May 2024   |  Nasi Padang    |
+| Fusion Food Stall (Halal)   | 19 August 2024   |  Japanese/Korean food are acceptable  |
+| Fusion Food Stall (Non-Halal)   | 19 August 2024   |  Japanese/Korean food are acceptable    |
 
 #### Application Procedure
 
