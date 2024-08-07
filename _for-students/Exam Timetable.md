@@ -12,21 +12,21 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-| | | |
+| [Sec 1 End of Year Timetable](/files/2024_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_S1.pdf) | | |
 |  |  |  |
 
 #### Secondary 2
 
 |  |  |  |
 |---|---|---|
-|  |  |  |
+| [Sec 2 End of Year Exam Timetable](/files/2024_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_S2.pdf) |  |  |
 |  |  |  |
 
 #### Secondary 3
 
 |  |  |  |
 |---|---|---|
-|  |  |  |
+| [3NT](/files/2024_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_S3T.pdf) | [3NA](/files/2024_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_S3N.pdf) | [3E](/files/2024_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_S3E.pdf) |
 |  |  |  |
 
 ### Prelims (2024)
