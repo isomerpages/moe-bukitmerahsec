@@ -25,7 +25,7 @@ remains.</p>
 this sense of belonging.</p>
 <p>The Alumni committee welcomes current final year students and all past
 BMSS students to join the Bukit Merah Secondary School Alumni by signing
-up at <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6614a6cb04c40c0f8d2dbc17</a>
+up at <a href="https://form.gov.sg/6614a6cb04c40c0f8d2dbc17" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6614a6cb04c40c0f8d2dbc17</a>
 </p>
 <p>Membership fee is currently waived and you can look forward to reconnect
 through diverse projects and gatherings as well as get to know fellow Merahans.
@@ -38,7 +38,11 @@ Alumni!</p>
 <li>
 <p>2023 Executive Committee Formation</p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
