@@ -26,7 +26,7 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-| [3NT](/files/2024_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_S3T.pdf) | [3NA](/files/2024_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_S3N.pdf) | [3E](/files/2024_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_S3E.pdf) |
+| [3NT](/files/2024_EOY_EXAMINATION_TIMETABLE_3NT_Updated.pdf) | [3NA](/files/2024_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_S3N.pdf) | [3E](/files/2024_EOY_EXAMINATION_TIMETABLE_3_Express_Updated.pdf) |
 |  |  |  |
 
 ### Prelims (2024)
