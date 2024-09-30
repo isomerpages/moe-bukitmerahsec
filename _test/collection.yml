@@ -1,6 +1,0 @@
-collections:
-  test:
-    output: true
-    order:
-      - STEM Programme.md
-      - Floorball, Basketball and Tchoukball.md

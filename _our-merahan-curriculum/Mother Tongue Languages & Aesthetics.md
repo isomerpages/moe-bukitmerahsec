@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Mother Tongue Languages and Aesthetics
 
-<img src="/images/mtl-2023.jpg" style="width:80%">  
+<img src="/images/mother_tongue_languages_and_aesthetics_department_i.jpg" style="width:80%">  
 
 **Department Teachers**
 
@@ -17,6 +17,7 @@ variant: markdown
 *   Ms Yeo Xing Wen (SH CCE)
 *   Mdm Qin Zhenzhen
 *   Ms Ong Min Li
+*   Mr Yeo Jun Zhong
 *   Ms Ng Hui Ling
 *   Mr Neo Hock Kheng
 *   Mdm Chen Jing
