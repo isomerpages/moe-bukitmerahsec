@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Science
 
-<img src="/images/science-2023.jpg" style="width:80%">  
+<img src="/images/science_department_i.jpg" style="width:80%">  
 
 **Department Teachers**
 
