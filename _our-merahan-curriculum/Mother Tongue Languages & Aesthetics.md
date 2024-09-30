@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Mother Tongue Languages and Aesthetics
 
-<img src="/images/mtl-2023.jpg" style="width:80%">  
+<img src="/images/mother_tongue_languages_and_aesthetics_department_i.jpg" style="width:80%">  
 
 **Department Teachers**
 
