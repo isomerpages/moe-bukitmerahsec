@@ -17,6 +17,7 @@ variant: markdown
 *   Ms Yeo Xing Wen (SH CCE)
 *   Mdm Qin Zhenzhen
 *   Ms Ong Min Li
+*   Mr Yeo Jun Zhong
 *   Ms Ng Hui Ling
 *   Mr Neo Hock Kheng
 *   Mdm Chen Jing
