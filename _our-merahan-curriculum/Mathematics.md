@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Mathematics
 
-<img src="/images/math-2023.jpg" style="width:80%">  
+<img src="/images/mathematics_department_i.jpg" style="width:80%">  
 
 **Department Teachers**
 
