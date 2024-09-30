@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### English Language and Literature
 
-&nbsp;<img src="/images/el-2023.jpg" style="width:80%">  
+&nbsp;<img src="/images/english_language_and_literature_department_I.jpg" style="width:80%">  
  
  **Department Teachers**
 
