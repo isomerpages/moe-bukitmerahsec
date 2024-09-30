@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Infocomm Technology
 
-<img src="/images/ict-2023.jpg" style="width:80%">
+<img src="/images/infocomm_technology_department_2.jpg" style="width:80%">
 
 **Department Teachers**
 
