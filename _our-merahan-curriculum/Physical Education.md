@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Physical Education
 
-<img src="/images/pe-2023.jpg" style="width:80%">
+<img src="/images/physical_education_and_cca_department_i.jpg" style="width:80%">
 
 **Department Teachers**
 
