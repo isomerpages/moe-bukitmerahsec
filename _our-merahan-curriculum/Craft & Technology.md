@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Craft and Technology
 
-<img src="/images/c&amp;t-2023.jpg" style="width:80%">
+<img src="/images/craft_and_technology_department_i.jpg" style="width:80%">
 
 **Department Teachers**
 
