@@ -20,6 +20,7 @@ variant: markdown
 *   Ms Darshan Kaur
 *   Ms Giselle Maria Rai
 *   Ms Ng Shuping Faith
+*   Mr Yeo Jun Zhong
 *   Mr Lawrence Tan Eng Chuan
 *   Ms Chen Ying
 *   Ms Chew Min En, Lydia
