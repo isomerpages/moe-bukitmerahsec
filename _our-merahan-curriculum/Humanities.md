@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Humanities
 
-<img src="/images/human-2023.jpg" style="width:80%">
+<img src="/images/humanities_department_i.jpg" style="width:80%">
 
 **Department Teachers**
 
