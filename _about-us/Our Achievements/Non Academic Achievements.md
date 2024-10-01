@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Our Achievements
 variant: markdown
 ---
+#### 2024 Achievements
+
+**Clubs and Societies**
+ 
+| CCA  | Competition| Achievement |
+| -------- | -------- | -------- |
+| E&amp;I | Introducing and Demonstrating Earthquake Engineering Research in Schools <br><br>SP Engineering Challenge 2024 – Automata Category|  1st Prize <br><br>1 Merit, 1 Best Design &amp; 2 Commendation Awards|
+
 #### 2023 Achievements
 
 **Uniformed Groups**
