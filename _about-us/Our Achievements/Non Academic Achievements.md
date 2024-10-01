@@ -14,6 +14,13 @@ variant: markdown
 | E&amp;I | Introducing and Demonstrating Earthquake Engineering Research in Schools (IDEERS) <br><br>SP Engineering Challenge 2024 – Automata Category|  1st Prize <br><br>1 Merit, 1 Best Design &amp; 2 Commendation Awards |
 ||||
 
+**Uniformed Groups**
+
+| CCA | Competition| Achievement |
+| -------- | -------- | -------- |
+| SJB    | Corps Achievement Award 2024<br><br>District First Aid Competitiion<br><br>HQ First Aid Instructor Course<br><br>HQ Basic Drill Instructor Course   | Gold<br><br>Nursing Cadet Team - 2nd Runner Up<br><br>2 certified cadets <br><br>1 certified cadet |
+||||
+
 #### 2023 Achievements
 
 **Uniformed Groups**
