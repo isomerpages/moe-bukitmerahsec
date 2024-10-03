@@ -5,6 +5,31 @@ description: ""
 third_nav_title: Our Achievements
 variant: markdown
 ---
+#### 2024 Achievements
+
+**Sports**
+ 
+| CCA  | Competition| Achievement |
+| -------- | -------- | -------- |
+| Tchoukball | Inter-School Tchoukball Championship 2024 – B Division Girls <br><br>Inter-School Tchoukball Championship 2024 – B Division Boys<br><br>Inter-School Tchoukball Championship 2024 – C Division Girls<br><br>Inter-School Tchoukball Championship 2024 – C Division Girls|  4th Place <br><br> 6th Place <br><br> 1st Place<br><br>2nd Place|
+||||
+
+
+**Clubs and Societies**
+ 
+| CCA  | Competition| Achievement |
+| -------- | -------- | -------- |
+| E&amp;I | Introducing and Demonstrating Earthquake Engineering Research in Schools (IDEERS) <br><br>SP Engineering Challenge 2024 – Automata Category|  1st Prize <br><br>1 Merit, 1 Best Design &amp; 2 Commendation Awards |
+||||
+
+**Uniformed Groups**
+
+| CCA | Competition| Achievement |
+| -------- | -------- | -------- |
+| SJB    | Corps Achievement Award 2024<br><br>District First Aid Competitiion<br><br>HQ First Aid Instructor Course<br><br>HQ Basic Drill Instructor Course   | Gold<br><br>Nursing Cadet Team - 2nd Runner Up<br><br>2 certified cadets <br><br>1 certified cadet |
+| Scouts    | Japan Kyushu Exchange<br><br>Chief Commissioner Well Done Award<br><br>National Patrol Camp | 4 representatives<br><br>1 awardee <br><br> 1 patrol|
+||||
+
 #### 2023 Achievements
 
 **Uniformed Groups**
@@ -12,7 +37,8 @@ variant: markdown
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
 | NCC    | PDS Competition 2023 <br><br>NCC Enhanced Precision Drill Squad (PDS) 43rd Auxiliary Instructor Course<br><br>NCC Sports Championship   | 1 awardee<br><br>1 certified cadet<br><br>West District Champion (Frisbee category) |
-| Scouts | Chief Commissioner Well Done Award<br><br>25th World Scouts Jamboree | 2 awardees<br><br>2 representatives |
+| Scouts | Chief Commissioner Well Done Award<br><br>25th World Scouts Jamboree<br><br> Frank Cooper Sands Award| 2 awardees<br><br>2 representatives<br><br>Gold |
+| SJB | Corps Achievement Award<br><br>District First Aid and Home Nursing Competition|Gold<br><br>Participation |
 ||||
 
 **Sports**
@@ -49,6 +75,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | NCC    | Unit Recognition 2022 <br><br>PDS competition @ NCC HQ <br><br>PDS Basic Instructor Course<br><br>NCC West Outstanding Cadet Award 2022   | Distinction<br><br> Finalist<br><br>5 certified cadets<br><br>1 awardee  |
 | Scouts | Frank Cooper Sands Award<br><br>Guest Ambassadors for Istana Open House | Gold<br><br>4 representatives |
+| SJB | Corps Achievement Award|Gold |
 ||||
 
 **Sports**
@@ -66,41 +93,4 @@ variant: markdown
 | -------- | -------- | -------- |
 | E&amp;I   | Toy Design Competition 2022 <br><br><br>Singapore Amazing Flying Machine Competition 2022    | 2nd prize, 2 merits, 1 commendation<br><br> Merit  |
 |Info Media Club| S2 Cluster Photography Showcase 2022 | Certificate of Achievement|
-||||
-
-#### 2021 Achievements
-
-**Uniformed Groups**
-
-| CCA | Competition| Achievement |
-| -------- | -------- | -------- |
-| NCC    | Unit Recognition 2021<br><br>NCC West Outstanding Cadet Award 2021    | Distinction <br><br>1 awardee  |
-||||
-
-**Performing Arts**
-
-| CCA | Competition| Achievement |
-| -------- | -------- | -------- |
-| Band    | Singapore Youth Festival Arts Presentation 2021 (Percussion Ensemble)<br><br>Singapore Youth Festival Arts Presentation 2021 (Flexible Band)	 | Certificate of Distinction <br><br>Certificate of Accomplishment  |
-|Dance|Singapore Youth Festival Arts Presentation 2021|Certificate of Distinction |
-|Drama|Singapore Youth Festival Arts Presentation 2021|Certificate of Accomplishment|
-||||
-
-**Clubs and Societies**
-
-| CCA | Competition| Achievement |
-| -------- | -------- | -------- |
-| E&amp;I    | Toy Design Competition 2021    | 3 commendation and 2 merit |
-|Info Media Club|S2 Cluster Photography Showcase 2021 |Certificate of Achievement|
-||||
-
-#### 2020 Achievements
-
-
-**Uniformed Groups**
-
-| CCA | Competition| Achievement |
-| -------- | -------- | -------- |
-| NCC    | NCC West Outstanding Cadet Award    | 1 awardee   |
-|SJB|Corps Achievement Award 2020<br><br>Chief Commissioner’s Award| Gold <br><br>7 awardees|
 ||||
