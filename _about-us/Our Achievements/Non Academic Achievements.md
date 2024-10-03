@@ -66,6 +66,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | NCC    | Unit Recognition 2022 <br><br>PDS competition @ NCC HQ <br><br>PDS Basic Instructor Course<br><br>NCC West Outstanding Cadet Award 2022   | Distinction<br><br> Finalist<br><br>5 certified cadets<br><br>1 awardee  |
 | Scouts | Frank Cooper Sands Award<br><br>Guest Ambassadors for Istana Open House | Gold<br><br>4 representatives |
+| SJB | Corps Achievement Award|Gold |
 ||||
 
 **Sports**
