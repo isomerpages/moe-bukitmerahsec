@@ -7,6 +7,14 @@ variant: markdown
 ---
 #### 2024 Achievements
 
+**Sports**
+ 
+| CCA  | Competition| Achievement |
+| -------- | -------- | -------- |
+| Tchoukball | Inter-School Tchoukball Championship 2024 – B Division Girls <br><br>Inter-School Tchoukball Championship 2024 – B Division Boys<br><br>Inter-School Tchoukball Championship 2024 – C Division Girls<br><br>Inter-School Tchoukball Championship 2024 – C Division Girls|  4th Place <br><br> 6th Place <br><br> 1st Place<br><br>2nd Place|
+||||
+
+
 **Clubs and Societies**
  
 | CCA  | Competition| Achievement |
