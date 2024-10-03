@@ -12,13 +12,13 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Script_Check___AP_Day__by_classes_.pdf" rel="noopener nofollow" target="_blank">Script Checking Day</a>
+<p><a href="/files/Script_Check___AP_Day__by_classes_.pdf" rel="noopener nofollow" target="_blank">Script Checking</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/2024_Post_Exam_Programme__Summary_.pdf" rel="noopener nofollow" target="_blank">Post Exam Programme Summary</a></strong>
+<p><a href="/files/2024_Post_Exam_Programme__Summary_.pdf" rel="noopener nofollow" target="_blank">Post Exam Programme Summary</a>
 </p>
 </td>
 </tr>
