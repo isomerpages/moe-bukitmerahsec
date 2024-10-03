@@ -2,9 +2,9 @@ collections:
   for-students:
     output: true
     order:
-      - Post Exam Programme.md
       - School Timetable.md
       - Exam Timetable.md
+      - Post Exam Programme.md
       - Home Based Learning.md
       - Scheme of Assessment.md
       - School Booklist.md
