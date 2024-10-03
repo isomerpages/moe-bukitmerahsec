@@ -2,6 +2,7 @@
 title: Financial Assistance Scheme
 permalink: /for-parents/financial-assistance/
 description: ""
+variant: markdown
 ---
 ### Ministry of Education Financial Assistance Scheme (MOE FAS)
 
@@ -21,11 +22,9 @@ Singapore Citizen students who wish to apply for financial assistance are requir
 
 Please ensure that the FAS application is accompanied by all relevant documents required by MOE.
 
-a) Hardcopy - [MOE FAS Hardcopy Form](/files/2024%20moe%20fas%20application%20form%20(bmss).pdf)
+a) Hardcopy - [MOE FAS Hardcopy Form](/files/MOE_FAS_Application_Form_2025__BMSS_.pdf)
 
-    Hardcopy form is required for:
-
-
+Hardcopy form is required for:
 
 1. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
 2. family with more than 6 children in GGAS
@@ -35,8 +34,8 @@ a) Hardcopy - [MOE FAS Hardcopy Form](/files/2024%20moe%20fas%20application%20f
 
 b) FormSG (e-FAS) ([https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas));
 
-    Please prepare the required softcopy supporting documents before you begin completing the online application form. 
+Please prepare the required softcopy supporting documents before you begin completing the online application form. 
 
 Applications may be made throughout the year as exigencies of each family’s financial situation demand. Fresh applications will have to be submitted for each school year.
 
-* [MOE FAS pamphet ](/files/2024%20moe%20fas%20pamphet%20el_cl_ml_tl.pdf)
+* [MOE FAS Phamplet](/files/MOE_FAS_pamphlet_EL_CL_ML_TL.pdf)
