@@ -85,6 +85,17 @@ NUS Geographical Society and supported by MOE)</p>
 <p>1 Gold, 7 Silver, 4 Bronze and 4 Honourable Mentions</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infocomm Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Animation and Game Making (AGM) Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
@@ -310,84 +321,6 @@ NUS Geographical Society and supported by MOE)</p>
 </p>
 <p></p>
 <p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<p></p>
-<h5>2021 Achievements</h5>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Department</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICAS Science Assessment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Distinctions and 11 Credit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Maths Kangaroo Contest
-<br>
-<br>
-<br>Singapore and ASEAN Schools Mathematics Olympiad
-<br>
-<br>
-<br>All Singapore Secondary Mathematics Competition for Normal Academics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Gold, 2 Silver, 5 Bronze and 4 Honourable Mention
-<br>
-<br>4 Silver, 4 Bronze and 6 Honorable Mention
-<br>
-<br>
-<br>8th position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
