@@ -9,11 +9,6 @@ variant: markdown
 
 <img src="/images/cca8.png" style="width:25%">
 
-<img src="/images/cca9.png" style="width:35%">
-
-<img src="/images/ncc group.jpg" style="width:100%">
-
-
 
 **BMSS NCC Teachers-in-charge**
 
@@ -28,15 +23,14 @@ variant: markdown
 
 
 *   Tuesday: 3:00pm – 4:30pm (Only for selected NCC PDS cadets)
-*   Wednesday: 2:30pm – 5:30pm
+*   Wednesday: 2:50pm – 5:30pm
 *   Friday*: 1:00pm – 3:00pm (Only for selected NCC PDS cadets)
 
-
-_Please note that should additional training sessions on Tuesdays or Fridays be required due to competitions or HQ events, you will be informed by additional school letters/ notification via Parents Gateway. Rest assured that the additional training sessions will only be organized on a needs basis. Attendance is compulsory unless supported by valid reasons._
+*Please note that should additional training sessions on Tuesdays or Fridays be required due to competitions or HQ events, you will be informed by additional school letters/ notification via Parents Gateway. Rest assured that the additional training sessions will only be organized on a needs basis. Attendance is compulsory unless supported by valid reasons.*
 
 **Venue:**
 
-*   CCA Hub
+*   School Compound/CCA Hub
 
 **NCC Vision and Mission**
 
@@ -48,26 +42,24 @@ _Please note that should additional training sessions on Tuesdays or Fridays be 
 
 **_In School Training_**
 
-*   Foot Drills
-*   Arms Drills
-*   Flag Drills
-*   Pace Stick Drills
-*   Freestyle Drills
-*   Precision Drills
-*   Individual Field Craft and G.I.R.L.O
-*   Outdoor Cooking Experience
-*   Orienteering Skills
-*   Proficiency Tests
-*   NERF War
-*   Interactive Battle Trail
-*   Amazing Race @ Alexandra Canal
-*   Combined UG Games Day @ West Coast Park
-*   BMSS NCC Newspaper Central Collection
-*   Sports Enrichment Programme (Water-based Activity)
-*   CCA Orientation and Parades for school events
-*   Sec 1 CCA Attachment Programme
-*   3D2N Annual BMSS NCC Camp
-*   Overseas Cultural Exchange
+*	Foot Drills
+* Arms Drills
+* Flag Drills
+*	Pace Stick Drills
+*	Precision Drills
+*	Individual Field Craft
+*	Outdoor Cooking Experience
+*	Orienteering Skills
+*	Proficiency Tests
+*	Laser Tag Battle
+*	Sports Enrichment Programme Dragon Boating (Water-based Activity)
+*	CCA Orientation and Parades for school events
+* 2D Annual BMSS NCC Day Camp
+* Cluster Training 
+* Total Defence Modules
+*	Fitness Test
+*	External PDS performance
+
 
 **_NCC HQ Training_**
 
@@ -78,20 +70,16 @@ _Please note that should additional training sessions on Tuesdays or Fridays be 
     *   Senior Cadets: Ultimate Frisbee
     *   Cadet Leaders: Soccer
 *   PDS and FSD Annual Competition @ HQ
-*   Fitness Challenge Competition
-*   Road Relay Competition
-*   Dragonboat Competition
 *   Orienteering Competition (Selected Senior Cadets)
 
 **_Courses_**
 
-*   Unarmed Combat Course
-*   First Aid Course
-*   Junior Cadet Affirmation (Junior Cadets)
-*   Basic and Intermediate Survival Programmes (Junior and Senior Cadets)
-*   Physical Training Instructor Course (Senior Cadets)
-*   SAR 21 IMT and Live Range Shooting (Cadet Leaders)
-*   Specialist Assessment (Cadet Leaders)
+*	CPR-AED First Aid Course
+*	Junior Cadet Affirmation (Junior Cadets)
+*	Air Rifle Shooting (Senior Cadets)
+*	SAR 21 IMT and Live Range Shooting (Cadet Leaders)
+* Specialist Assessment (Cadet Leaders)
+
 
 **_NCC Local and Overseas Camps_**
 
