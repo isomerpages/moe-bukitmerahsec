@@ -37,7 +37,7 @@ variant: markdown
 
 | CCA | Competition| Achievement |
 | -------- | -------- | -------- |
-| NCC    | PDS Competition 2023 <br><br>NCC Enhanced Precision Drill Squad (PDS) 43rd Auxiliary Instructor Course<br><br>NCC Sports Championship   | 1 awardee<br><br>1 certified cadet<br><br>West District Champion (Frisbee category) |
+| NCC    | PDS Competition 2023 <br><br>NCC Enhanced Precision Drill Squad (PDS) 43rd Auxiliary Instructor Course<br><br>NCC Sports Championship <br><br>NCC West Outstanding Cadet Award 2023   | Finalist Team<br><br>1 certified cadet<br><br>West District Champion (Frisbee category)<br><br> 1 Awardee  |
 | Scouts | Chief Commissioner Well Done Award<br><br>25th World Scouts Jamboree<br><br> Frank Cooper Sands Award| 2 awardees<br><br>2 representatives<br><br>Gold |
 | SJB | Corps Achievement Award<br><br>District First Aid and Home Nursing Competition|Gold<br><br>Participation |
 ||||
