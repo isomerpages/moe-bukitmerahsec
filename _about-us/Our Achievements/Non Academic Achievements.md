@@ -28,6 +28,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | SJB    | Corps Achievement Award 2024<br><br>District First Aid Competitiion<br><br>HQ First Aid Instructor Course<br><br>HQ Basic Drill Instructor Course   | Gold<br><br>Nursing Cadet Team - 2nd Runner Up<br><br>2 certified cadets <br><br>1 certified cadet |
 | Scouts    | Japan Kyushu Exchange<br><br>Chief Commissioner Well Done Award<br><br>National Patrol Camp | 4 representatives<br><br>1 awardee <br><br> 1 patrol|
+| NCC   | PDS Competition 2024<br><br>NCC Precision Drill Squad (PDS) Basic Instructor Course <br><br>NCC Sports Championship 2024<br><br>National Camp 2024<br><br>NCC CPR-AED Course | Participation<br><br>3 certified cadets<br><br> National Finalists for Soccer and Frisbee category<br><br>1 representative<br><br>24 certified cadets |
 ||||
 
 #### 2023 Achievements
