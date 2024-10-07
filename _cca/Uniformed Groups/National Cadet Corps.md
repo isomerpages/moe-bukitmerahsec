@@ -9,6 +9,9 @@ variant: markdown
 
 <img src="/images/cca8.png" style="width:25%">
 
+<img src="/images/NCC_2024_01.png" style="width:75%">
+
+<img src="/images/NCC_2024_02.png" style="width:75%">
 
 **BMSS NCC Teachers-in-charge**
 
