@@ -116,8 +116,18 @@ NUS Geographical Society and supported by MOE)</p>
 <p>ICAS 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 High Distinction, 2 Distinctions, 2 Credits, 2 Merits Australian Big
-Science Competition - 1 Distinction, 2 Credits</p>
+<p>1 High Distinction, 2 Distinctions, 2 Credits, 2 Merits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Australian Big Science Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Distinction, 2 Credits</p>
 </td>
 </tr>
 </tbody>
