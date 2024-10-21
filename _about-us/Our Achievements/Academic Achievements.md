@@ -64,6 +64,18 @@ NUS Geographical Society and supported by MOE)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Historical Scene Investigation Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,6 +106,18 @@ NUS Geographical Society and supported by MOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICAS 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 High Distinction, 2 Distinctions, 2 Credits, 2 Merits Australian Big
+Science Competition - 1 Distinction, 2 Credits</p>
 </td>
 </tr>
 </tbody>
@@ -145,16 +169,20 @@ NUS Geographical Society and supported by MOE)</p>
 <p>Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Chinese Language Championship 全国华文大比拼
-<br>
-<br>21st National Secondary School Chinese Creative Writing Competition</p>
+<p>National Chinese Language Championship 全国华文大比拼</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Awarded top 30 out of 1050 contestants
-<br>
-<br>
-<br>
-</p>
+<p>Awarded top 30 out of 1050 contestants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21st National Secondary School Chinese Creative Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2nd prize for Upper Secondary category</p>
 </td>
 </tr>
@@ -190,46 +218,52 @@ NUS Geographical Society and supported by MOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Inter-school Principle Of Accounts Quest (organised by Deyi Sec)</p>
-<p>
-<br>
-<br>Hwa Chong International Model United Nations (HMUN) 2023 Conference
-<br>
-<br>National Accounting Challenge (CPDD Humanities Branch)
-<br>
-<br>MOE History Challenge
-<br>
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>Historical Scene Investigation Challenge 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong International Model United Nations (HMUN) 2023 Conference</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Awarded the Most Honourable Delegate Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Accounting Challenge (CPDD Humanities Branch)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE History Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A student selected for History Talent Development Programme (HTDP) 2023/2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>A student selected for History Talent Development Programme (HTDP) 2023/2024
-<br>
-<br>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Historical Scene Investigation Challenge 2023</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Silver Award</p>
 </td>
 </tr>
