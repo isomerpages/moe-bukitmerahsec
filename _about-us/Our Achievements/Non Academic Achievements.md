@@ -11,6 +11,8 @@ variant: markdown
  
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
+| Floorball  |SSSC Floorball National B Div Boys<br><br>SSSC Floorball National B Div Girls<br><br>SSSC Floorball National B Div Boys (League 2)<br><br>SSSC Floorball National B Div Girls  (League 1)| Top 16<br><br>Top 8<br><br> Champion <br><br> Top 16|
+|   |Pesta Sukan Floorball Under-14 Boys<br><br>Pesta Sukan Floorball Under-14 Girls<br><br>Pesta Sukan Floorball Under-17 Boys| Champion<br><br>Participation<br><br> Participation|
 | Tchoukball | Inter-School Tchoukball Championship 2024 – B Division Girls <br><br>Inter-School Tchoukball Championship 2024 – B Division Boys<br><br>Inter-School Tchoukball Championship 2024 – C Division Girls<br><br>Inter-School Tchoukball Championship 2024 – C Division Boys|  4th Place <br><br> 6th Place <br><br> 1st Place<br><br>2nd Place|
 ||||
 
@@ -20,6 +22,7 @@ variant: markdown
 | CCA  | Competition| Achievement |
 | -------- | -------- | -------- |
 | E&amp;I | Introducing and Demonstrating Earthquake Engineering Research in Schools (IDEERS) <br><br>SP Engineering Challenge 2024 – Automata Category|  1st Prize <br><br>1 Merit, 1 Best Design &amp; 2 Commendation Awards |
+| YEC| Young Trailblazers 2024 Award|  Participation |
 ||||
 
 **Uniformed Groups**
@@ -57,6 +60,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | E&amp;I | Singapore Amazing Flying Machine Competition <br><br>Introducing and Demonstrating Earthquake Engineering Research in Schools (IDEERS 2023) held in Taiwan <br><br>SP Engineering Challenge 2023 – Automata Category| Merit Award <br><br> 1st Prize and Best Architectural Design <br><br>2nd|
 | Info Media Club | S2 Cluster Photography Showcase 2023 | 3 Distinctions, 4 Accomplishment |
+| YEC| Young Trailblazers 2023 Award|  Participation |
 ||||
 
 **Performing Arts**
@@ -94,4 +98,5 @@ variant: markdown
 | -------- | -------- | -------- |
 | E&amp;I   | Toy Design Competition 2022 <br><br><br>Singapore Amazing Flying Machine Competition 2022    | 2nd prize, 2 merits, 1 commendation<br><br> Merit  |
 |Info Media Club| S2 Cluster Photography Showcase 2022 | Certificate of Achievement|
+| YEC| Young Trailblazers 2022 Award|  Participation |
 ||||
