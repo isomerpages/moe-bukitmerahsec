@@ -261,7 +261,7 @@ Science Competition - 1 Distinction, 2 Credits</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Historical Scene Investigation Challenge 2023</p>
+<p>Historical Scene Investigation Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver Award</p>
