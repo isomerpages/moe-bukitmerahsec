@@ -10,4 +10,4 @@ variant: markdown
 |---|---|
 | March Holiday CCA Training Schedule | (Click on the link for the schedule in Pdf format)<br><br>[CCA_Holiday_Schedule_for_March_2024 (Information is correct as of 8th March 2024)](/files/CCA_Holiday_Schedule_for_March_2024.pdf)| 
 | June Holiday CCA Training Schedule | (Click on the link for the schedule in Pdf format)<br><br>[CCA_Holiday_Schedule_for_Mid_Year_2024 (Information is correct as of 23rd May 2024)](/files/CCA_Holiday_Schedule_for_Mid_Year_2024__Information_is_correct_as_of_23rd_May_2024_.pdf)
-| End-of-Year CCA Training Schedule | (Click on the link for the schedule in Pdf format)<br><br>
+| End-of-Year CCA Training Schedule | (Click on the link for the schedule in Pdf format)<br><br>[CCA_Holiday_Schedule_for_End_of_Year_2024 (Infomation is correct as of 28th Oct 2024)](/files/BMSS_CCA_Holiday_Schedule_for_End_of_Year_2024__as_of_28_Oct_2024_.pdf)
