@@ -130,6 +130,31 @@ NUS Geographical Society and supported by MOE)</p>
 <p>1 Distinction, 2 Credits</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11<sup>TH</sup> National Chinese Challenge 2024 (Secondary School Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22<sup>nd</sup> National Secondary Schools Chinese Creative Writing Competition
+2024<strong> </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Prize - (Lower Secondary)</p>
+<p>Second Prize - (Upper Secondary)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
