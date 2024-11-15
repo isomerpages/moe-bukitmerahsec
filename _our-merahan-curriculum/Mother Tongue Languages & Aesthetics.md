@@ -97,4 +97,7 @@ Graduating Cohort MTL Oral Practice
     *   Short film and language Games
     *   Essay Writing competition
 
+From 2025 onwards, Secondary 1 and 2 students taking Tamil (G1, G2, G3) and Higher Tamil will be attending lessons at an external language centre.
+
+
 ![](/images/mtt%202023.jpg)
