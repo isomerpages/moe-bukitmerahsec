@@ -2,13 +2,13 @@ collections:
   for-students:
     output: true
     order:
+      - School Booklist.md
       - School Uniform.md
       - School Timetable.md
       - Exam Timetable.md
       - Post Exam Programme.md
       - Home Based Learning.md
       - Scheme of Assessment.md
-      - School Booklist.md
       - Student iCON.md
       - CCA Holiday Training Schedule.md
       - Useful Links for Student.md
