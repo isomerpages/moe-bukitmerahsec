@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Bukit Merah Secondary School Uniform Purchase 2025</h3>
-<h3> </h3>
+<h3></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
