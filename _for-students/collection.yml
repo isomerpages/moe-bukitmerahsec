@@ -2,7 +2,6 @@ collections:
   for-students:
     output: true
     order:
-      - Sec 1 Registration 2025.md
       - School Timetable.md
       - School Booklist.md
       - School Uniform.md
