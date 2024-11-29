@@ -2,9 +2,9 @@ collections:
   for-students:
     output: true
     order:
+      - School Timetable.md
       - School Booklist.md
       - School Uniform.md
-      - School Timetable.md
       - Exam Timetable.md
       - Post Exam Programme.md
       - Home Based Learning.md
