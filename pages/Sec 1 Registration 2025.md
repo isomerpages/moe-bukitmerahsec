@@ -25,7 +25,7 @@ online.</p>
 </p>
 <p>(2)&nbsp;&nbsp;&nbsp; Access additional details through this link (information
 on reporting time, purchase of books &amp; uniform, orientation programme,
-etc.) –<a href="https://go.gov.sg/bmss2025sec1reg" rel="noopener nofollow" target="_blank"> https://go.gov.sg/bmss2025sec1reg</a>
+etc.) – <a href="https://go.gov.sg/bmss2025sec1reg" rel="noopener nofollow" target="_blank">https://go.gov.sg/bmss2025sec1reg</a>
 </p>
 <p>&nbsp;For further enquiries, please feel free to contact our General Office
 at <strong>6474 8934</strong> during weekdays, between <strong>7:00 am and 5:00 pm</strong>.</p>
