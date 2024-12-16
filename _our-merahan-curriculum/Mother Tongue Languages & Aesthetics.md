@@ -97,7 +97,7 @@ Graduating Cohort MTL Oral Practice
     *   Short film and language Games
     *   Essay Writing competition
 
-From 2025 onwards, Secondary 1 and 2 students taking Tamil (G1, G2, G3) and Higher Tamil will be attending lessons at an external language centre.
+Lower Secondary students taking Tamil Language (G1,G2 and G3) will be taking lessons at Queenstown Secondary School in 2025 Term 1. The offering of Tamil Language lessons for Lower Secondary students in our school will resume in Term 2.
 
 
 ![](/images/mtt%202023.jpg)
