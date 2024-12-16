@@ -17,15 +17,15 @@ online.</p>
 2025 (Thursday).</p>
 <p></p>
 <hr>
-<p><strong><u>Sec 1 E-Registration (from posting day onwards)</u></strong>
+<p><strong><u>Sec 1 E-Registration (from 18 December 2024 onwards)</u></strong>
 </p>
 <p><strong>Here are instructions for parents to complete the registration process.</strong>
 </p>
-<p>(1)&nbsp;&nbsp;&nbsp; Complete the e-registration form – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025regform</a>
+<p>(1)&nbsp;&nbsp;&nbsp; Complete the e-registration form – <a href="https://go.gov.sg/2025regform" rel="noopener nofollow" target="_blank">https://go.gov.sg/2025regform</a>
 </p>
 <p>(2)&nbsp;&nbsp;&nbsp; Access additional details through this link (information
 on reporting time, purchase of books &amp; uniform, orientation programme,
-etc.) – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bmss2025sec1reg</a>
+etc.) –<a href="https://go.gov.sg/bmss2025sec1reg" rel="noopener nofollow" target="_blank"> https://go.gov.sg/bmss2025sec1reg</a>
 </p>
 <p>&nbsp;For further enquiries, please feel free to contact our General Office
 at <strong>6474 8934</strong> during weekdays, between <strong>7:00 am and 5:00 pm</strong>.</p>
