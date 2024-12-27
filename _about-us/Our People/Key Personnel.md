@@ -15,28 +15,29 @@ variant: markdown
 <br><br>**Key Personnel** |  <br><br>**Designation**  | <br><br>**Email Address**  |
 | Leow Ser Leng | HOD English Language | leow_ser_leng@schools.gov.sg |
 | Wun Boon Leng | HOD Mathematics | wun_boon_leng@schools.gov.sg |
-| Lim Guek Lee | HOD Mother Tongue Language &amp; Aesthetics | tan_guek_lee@schools.gov.sg |
 | Kua See Hong | HOD Humanities | kua_see_hong@schools.gov.sg |
 | Lim Chee Khern Dennis | HOD Craft &amp; Technology | lim_chee_khern_dennis@schools.gov.sg |
 | Sharulhana Bte Mohd Kamal | HOD Character &amp; Citizenship Education | sharulhana_mohamed_kamal@schools.gov.sg |
 | Kek Boon Ann Zubi | HOD PE &amp; CCA | kek_boon_ann_zubi@schools.gov.sg |
-| Neo Siew Eng | HOD Educational Support | neo_siew_eng@schools.gov.sg |
 | Satwant Singh | HOD Student Management &amp; Well-Being | satwant_singh_sajjan_singh@schools.gov.sg |
+| Au Yong Kok Soon | HOD ICT (Covering) | au_yong_kok_soon@schools.gov.sg |
+| Yeo Xing Wen | HOD Mother Tongue Language (Covering) | yeo_xing_wen@schools.gov.sg |
 | How Si Si, Jacqueline | HOD Science (Covering) | how_si_si_jacqueline@schools.gov.sg |
-| Seow Xian Yi Winston | HOD ICT (Covering) | seow_xian_yi@schools.gov.sg |
 | Lee Siew Yong Loretta | School Staff Developer | lee_siew_yong_loretta@schools.gov.sg |
 | Toh Yongmei Stella | Year Head Lower Sec | toh_yongmei_stella@schools.gov.sg |
 | Yap Chin Hua | Year Head Upper Sec |  yap_chin_hua@schools.gov.sg|
 | Hu Jinyuan (Ken) | Assistant Year Head Lower Sec |   hu_jinyuan@schools.gov.sg |
 | Tan Tua Choon | Assistant Year Head Upper Sec | tan_tua_choon@schools.gov.sg |
+| Neo Siew Eng | Year Head Lower Sec (Designate) | neo_siew_eng@schools.gov.sg |
 | Chee Kwok Seng (Jereme) | Level Head Student Management | chee_kwok_seng@schools.gov.sg |
-| Liao Xinwei | Level Head (Mathematics) | liao_xinwei@schools.gov.sg
+| Giselle Illesighe | Student Management (Covering) | giselle_maria_illesinghe@schools.gov.sg |
+| Subramanian s/o Anamalai  | Level Head Mathematics | subramanian_annamalai@schools.gov.sg
 | Lim Kailin | Subject Head Chinese Language | lim_kailin@schools.gov.sg |
 | Suzanne Eng Siew San | Subject Head PE &amp; CCA | suzanne_eng@schools.gov.sg |
-| Au Yong Kok Soon | Subject Head Student Well-Being | au_yong_kok_soon@schools.gov.sg |
-| Yeo Xing Wen | Subject Head Character &amp; Citizenship Education | yeo_xing_wen@schools.gov.sg |
-| Muhammad Hisham Bin Anwar | Subject Head NFS (Covering) | muhammad_hisham_anwar@schools.gov.sg |
-| Fong Min Shi Chloe | Subject Head English (Covering) | fong_min_shi@schools.gov.sg |
+| Muhammad Hisham Bin Anwar | Subject Head Nutrition &amp; Food Science | muhammad_hisham_anwar@schools.gov.sg |
+| Fong Min Shi Chloe | Subject Head English Language | fong_min_shi@schools.gov.sg |
+| Ong Min Li | Subject Head 21CC &amp; Student Leadership (Internal)  | ong_min_li@schools.gov.sg |
+| Chian Yuan Lin | Subject Head Lower Secondary Science (Covering)  | chian_yuan_lin@schools.gov.sg |
 | Lui Yan Ling, Esther | Lead Teacher (Biology) | lui_yan_ling_esther@schools.gov.sg |
 | Sriwanty Bte Ramli | Senior Teacher (History) | sriwanty_ramli@schools.gov.sg |
 | Nurhayati Bte Mohamad | Senior Teacher (Educational Support) | nurhayati_mohamad@schools.gov.sg |
@@ -44,3 +45,4 @@ variant: markdown
 | Leow Li Quin | Senior Teacher (English Language) | leow_li_quin@schools.gov.sg |
 | Phang Kay Yen | Senior Teacher (Mathematics) | phang_kay_yen@schools.gov.sg |
 | Lee Tzi Wei, Gaius | Senior Teacher (Physics) | lee_tzi_wei@schools.gov.sg |
+| Janelle Tay | Educational Support | tay_siew_hoon_c@schools.gov.sg |
