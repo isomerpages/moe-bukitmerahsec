@@ -5,6 +5,21 @@ description: ""
 third_nav_title: Our People
 variant: markdown
 ---
+#### Secondary 1 Level Teachers
+
+| Class | Form Teachers | Email | 
+|:---:|:---:|:---:|
+| 1R1 |Looi Tse Theng <br><br>Adeline Kong | looi_tse_theng@schools.gov.sg<br><br>kong_yin_ling_adeline@schools.gov.sg|
+| 1R2 | Chew Min En Lydia<br><br>Low Young Fei | chew_min_en_lydia@schools.gov.sg<br><br> low_young_fei@schools.gov.sg|
+| 1R3 | Ho Shumin<br><br>Rosli Bin Hamim |ho_shumin@schools.gov.sg<br><br>rosli_hamim@schools.gov.sg  |
+| 1R4 | Chen Jing<br><br>Ng Shuping (Faith) | chen_jing@schools.gov.sg<br><br>ng_shuping@schools.gov.sg |
+| 1R5 | Chen Ying<br><br>Tan Wai Hong | chen_ying_d@schools.gov.sg<br><br>tan_wai_hong@schools.gov.sg |
+| 1R6 | Tay Fang Lin (Catherine)<br><br>Rosnani | tay_fang_lin@schools.gov.sg<br><br>rosnani_said@schools.gov.sg |
+| Non-Form Teachers | TBA |
+|  |  |  |
+
+
+
 #### Secondary 2 Level Teachers
 
 | Class | Form Teachers | Email | 
@@ -40,7 +55,7 @@ variant: markdown
 | 4N1 |Phang Kay Yen<br><br>Nurul Syazwany | phang_kay_yen@schools.gov.sg<br><br><br>nurul_syazwany_mohd_saleh@schools.gov.sg |
 | 4N2 | Au Yong Kok Soon<br><br>Muhammad Hisham | au_yong_kok_soon@schools.gov.sg<br><br><br>muhammad_hisham_anwar@schools.gov.sg |
 | 4E1 | Fang Swee Foong (Anthony)<br><br>Tan Wai Hong | fang_swee_foong@schools.gov.sg<br><br><br><br>tan_wai_hong@schools.gov.sg|
-| 4E2 | Leow Li Quin<br><br>Lui Meng Whye | leow_li_quin@schools.gov.sg<br><br>lui_meng_whye@schools.gov.sg |
+| 4E2 | Leow Li Quin<br><br>Lui Meng Whye | leow_li_quin@schools.gov.sg<br><br><br>lui_meng_whye@schools.gov.sg |
 | 4E3 | Goh Ee Xin <br><br>Ho Wing Leong (David)| goh_ee_xin@schools.gov.sg <br><br>ho_wing_leong@schools.gov.sg |
 | 4E4 | Qin Zhenzhen <br><br> Jasmine Ng Hui San| qin_zhenzhen@schools.gov.sg <br><br> jasmine_ng_hui_shan@schools.gov.sg |
 | 5N1 | Neo Hock Kheng | neo_hock_kheng@schools.gov.sg |
