@@ -9,10 +9,10 @@ variant: markdown
 
 | Class | Form Teachers | Email | 
 |:---:|:---:|:---:|
-| 1R1 |Looi Tse Theng <br><br>Adeline Kong | looi_tse_theng@schools.gov.sg<br><br>kong_yin_ling_adeline@schools.gov.sg|
-| 1R2 | Chew Min En Lydia<br><br>Low Young Fei | chew_min_en_lydia@schools.gov.sg<br><br> low_young_fei@schools.gov.sg|
-| 1R3 | Ho Shumin<br><br>Rosli Bin Hamim |ho_shumin@schools.gov.sg<br><br>rosli_hamim@schools.gov.sg  |
-| 1R4 | Chen Jing<br><br>Ng Shuping (Faith) | chen_jing@schools.gov.sg<br><br>ng_shuping@schools.gov.sg |
+| 1R1 |Darshan Kaur <br><br>Daryl Wang | darshan_kaur_a@schools.gov.sg<br><br>daryl_wang@schools.gov.sg|
+| 1R2 | Eric Lim<br><br>Sriwanty Bte Ramli | lim_rong_hua_eric@schools.gov.sg<br><br> sriwanty_ramli@schools.gov.sg|
+| 1R3 | Cheng Xin Ze |cheng_xin_ze@schools.gov.sg  |
+| 1R4 | Amal Luqman<br><br>Tan Wai Ping | amal_luqman_ahmad_ehsan@schools.gov.sg<br><br>tan_wai_ping@schools.gov.sg |
 | 1R5 | Chen Ying<br><br>Tan Wai Hong | chen_ying_d@schools.gov.sg<br><br>tan_wai_hong@schools.gov.sg |
 | 1R6 | Tay Fang Lin (Catherine)<br><br>Rosnani | tay_fang_lin@schools.gov.sg<br><br>rosnani_said@schools.gov.sg |
 | Non-Form Teachers | TBA |
