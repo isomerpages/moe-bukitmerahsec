@@ -43,7 +43,7 @@ variant: markdown
 | 3S4 | Ong Min Li<br><br>Quek Jia Liang | ong_min_li@schools.gov.sg <br><br> quek_jia_liang@schools.gov.sg|
 3S5| Ng Hsueh Mei<br><br> Law Ngiap Hui | ng_hsueh_mei@schools.gov.sg<br><br>law_ngiap_hui@schools.gov.sg  |
 | 3S6 | Chloe Fong <br><br>Terry Xiao | fong_min_shi@schools.gov.sg <br><br>terry_xiao@schools.gov.sg
-| Non-Form Teachers| Tan Guek Lee <br><br> Lim Lay Eng | 
+| Non-Form Teachers| Tan Guek Lee <br><br> Lim Lay Eng | tan_guek_lee@schools.gov.sg<br><br>lim_lay_eng@schools.gov.sg
 |  |  |  |
 
 
@@ -59,5 +59,5 @@ variant: markdown
 | 4E3 | Goh Ee Xin <br><br>Ho Wing Leong (David)| goh_ee_xin@schools.gov.sg <br><br>ho_wing_leong@schools.gov.sg |
 | 4E4 | Qin Zhenzhen <br><br> Jasmine Ng Hui San| qin_zhenzhen@schools.gov.sg <br><br> jasmine_ng_hui_shan@schools.gov.sg |
 | 5N1 | Neo Hock Kheng | neo_hock_kheng@schools.gov.sg |
-| Non-Form Teachers| TBA | 
+| Non-Form Teachers| Loke Lai Yee | loke_lai_yee@schools.gov.sg
 |  |  |  |
