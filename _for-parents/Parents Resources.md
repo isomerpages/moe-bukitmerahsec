@@ -5,6 +5,11 @@ description: ""
 variant: markdown
 ---
 ###  Parents Resources 
+
+**2025 Semester 1 Principal's Message**
+* [Principal Message for Semester 1](/files/BMSS_2025_Semester_1_Principal_s_Message.pdf)
+
+
 **Semester 2  Principal's Message**
 * [Principal Message for Semester 2 2024](/files/BMSS_2024_Semester_2_Principals_Message.pdf)
 
