@@ -29,7 +29,7 @@ variant: markdown
 | 2I3 | Ho Shumin<br><br>Rosli Bin Hamim |ho_shumin@schools.gov.sg<br><br>rosli_hamim@schools.gov.sg  |
 | 2I4 | Chen Jing<br><br>Ng Shuping (Faith) | chen_jing@schools.gov.sg<br><br>ng_shuping@schools.gov.sg |
 | 2I5 | Chen Ying | chen_ying_d@schools.gov.sg|
-| 2I6 | Tay Fang Lin (Catherine)<br><br>Rosnani | tay_fang_lin@schools.gov.sg<br><br>rosnani_said@schools.gov.sg |
+| 2I6 | Tay Fang Lin (Catherine) | tay_fang_lin@schools.gov.sg |
 | Non-Form Teachers | Jayakumar s/o Subramaniyam | jayakumar_subramaniyam@schools.gov.sg
 |  |  |  |
 
