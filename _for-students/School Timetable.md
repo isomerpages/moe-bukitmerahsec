@@ -6,46 +6,39 @@ variant: markdown
 ---
 ### 2025 Semester 1 Curriculum Timetable  
 
-(Click on the respective links to download the timetable of&nbsp;the class)<br><br>
+(Click on the respective links to download the timetable of&nbsp;the class)<br>
 
-*Odd week refers to week 1,3,5,7 &amp; subsequent week of Term 1  <br>
-*Even week refers to week 2,4,6,8 &amp; subsequent week of Term 1 
+For Secondary 3, refer to the timetable for your respective subject banding groups.
 
 **SECONDARY 1 TIMETABLE**
 
-|  |  |  |
-|---|---|---|
-| 1R1 | 
-1R2 | 
-| 1R3 |  | 
-| 1R4 |  |  
-| 1R5 |  | 
-| 1R6 | | 
+|  |  |  
+|---|---|
+| 1R1 | [1R1 Timetable](/files/1R1.pdf) |
+| 1R2 | [1R2 Timetable](/files/1R2.pdf) |
+| 1R3 | [1R3 Timetable](/files/1R3.pdf) | 
+| 1R4 | [1R4 Timetable](/files/1R4.pdf) |  
+| 1R5 | [1R5 Timetable](/files/1R5.pdf) | 
+| 1R6 | [1R6 Timetable](/files/1R6.pdf) | 
 
 
 **SECONDARY 2 TIMETABLE**
 
-|  |  |  |
-|---|---|---|
-| 2I1 | [2I1 ODD WEEK](/files/2I1_ODD_WEEK_UPDATED.pdf) |
-| 2I2 | [2I2 ODD WEEK](/files/2I2_ODD_WEEK_UPDATED.pdf) |
-| 2I3 | [2I3 ODD WEEK](/files/2I3_ODD_WEEK_UPDATED.pdf) | 
-| 2I4 | [2I4 ODD WEEK](/files/2I4_ODD_WEEK_UPDATED.pdf) | 
-| 2I5 | [2I5 ODD WEEK](/files/2I5_ODD_WEEK_UPDATED.pdf) | 
-| 2I6 | [2I6 ODD WEEK](/files/2I6_ODD_WEEK_UPDATED.pdf) |
+|  |  |  
+|---|---|
+| 2I1 | [2I1 Timetable](/files/2I1.pdf) |
+| 2I2 | [2I2 Timetable](/files/2I2.pdf) |
+| 2I3 | [2I3 Timetable](/files/2I3.pdf) | 
+| 2I4 | [2I4 Timetable](/files/2I4.pdf) | 
+| 2I5 | [2I5 Timetable](/files/2I5.pdf) | 
+| 2I6 | [2I6 Timetable](/files/2I6.pdf) |
 
 
 **SECONDARY 3 TIMETABLE**
 
-|  |  |  |
-|---|---|---|
-| 3T1 | [3T1 ODD WEEK](/files/3T1_ODD_WEEK_UPDATED.pdf) | 
-| 3N1 | [3N1 ODD WEEK](/files/3N1_ODD_WEEK_UPDATED.pdf) | 
-| 3N2 | [3N2 ODD WEEK](/files/3N2_ODD_WEEK_UPDATED.pdf) | 
-| 3E1 | [3E1 ODD WEEK](/files/3E2_ODD_WEEK_UPDATED.pdf) | 
-| 3E2 | [3E2 ODD WEEK](/files/3E1_ODD_WEEK_UPDATED.pdf)| 
-| 3E3 | [3E3 ODD WEEK](/files/3E3_ODD_WEEK_UPDATED.pdf) | 
-| 3E4 | [3E4 ODD WEEK](/files/3E4_ODD_WEEK_UPDATED.pdf) | 
+|  |  |  
+|---|---|
+| Sec 3 | [Sec 3 Subject Groups](/files/Sec_3_Subject_Groupings.pdf) |
 
 **SECONDARY 4 &amp; 5 TIMETABLE**
 
@@ -58,4 +51,4 @@ variant: markdown
 | 4E1 | [4E1 ODD WEEK](/files/4E1_ODD_WEEK_UPDATED.pdf) | 
 | 4E2 | [4E2 ODD WEEK](/files/4E2_ODD_WEEK_UPDATED.pdf) | 
 | 4E3 | [4E3 ODD WEEK](/files/4E3_ODD_WEEK_UPDATED.pdf) | 
-| 5N1 | [5N1 ODD WEEK](/files/5N1_ODD_WEEK_UPDATED.pdf) | 
+| 5N1 | [5N1 ODD WEEK](/files/5N1_ODD_WEEK_UPDATED.pdf) |
