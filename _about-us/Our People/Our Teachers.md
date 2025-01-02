@@ -9,7 +9,7 @@ variant: markdown
 
 | Class | Form Teachers | Email | 
 |:---:|:---:|:---:|
-| 1R1 |Darshan Kaur <br><br>Daryl Wang | darshan_kaur_a@schools.gov.sg<br><br>wang_jia_le_c@schools.gov.sg|
+| 1R1 |Darshan Kaur <br><br>Daryl Wang | darshan_kaur_a@schools.gov.sg<br><br>wang_jiale_c@schools.gov.sg|
 | 1R2 | Eric Lim<br><br>Sriwanty Bte Ramli | lim_rong_hua_eric@schools.gov.sg<br><br> sriwanty_ramli@schools.gov.sg|
 | 1R3 | Cheng Xin Ze |cheng_xin_ze@schools.gov.sg  |
 | 1R4 | Amal Luqman<br><br>Tan Wai Ping | amal_luqman_ahmad_ehsan@schools.gov.sg<br><br>tan_wai_ping@schools.gov.sg |
@@ -29,7 +29,7 @@ variant: markdown
 | 2I3 | Ho Shumin<br><br>Rosli Bin Hamim |ho_shumin@schools.gov.sg<br><br>rosli_hamim@schools.gov.sg  |
 | 2I4 | Chen Jing<br><br>Ng Shuping (Faith) | chen_jing@schools.gov.sg<br><br>ng_shuping@schools.gov.sg |
 | 2I5 | Chen Ying | chen_ying_d@schools.gov.sg|
-| 2I6 | Tay Fang Lin (Catherine)<br><br>Rosnani | tay_fang_lin@schools.gov.sg<br><br>rosnani_said@schools.gov.sg |
+| 2I6 | Tay Fang Lin (Catherine) | tay_fang_lin@schools.gov.sg |
 | Non-Form Teachers | Jayakumar s/o Subramaniyam | jayakumar_subramaniyam@schools.gov.sg
 |  |  |  |
 
