@@ -44,11 +44,11 @@ For Secondary 3, refer to the timetable for your respective subject banding grou
 
 |  |  |  |
 |---|---|---|
-| 4T1 | [4T1 ODD WEEK](/files/4T1_ODD_WEEK_UPDATED.pdf) | 
-| 4T2 | [4T2 ODD WEEK](/files/4T2_ODD_WEEK_UPDATED.pdf) | 
-| 4N1 | [4N1 ODD WEEK](/files/4N1_ODD_WEEK_UPDATED.pdf) | 
-| 4N2 | [4N2 ODD WEEK](/files/4N2_ODD_WEEK_UPDATED.pdf) | 
-| 4E1 | [4E1 ODD WEEK](/files/4E1_ODD_WEEK_UPDATED.pdf) | 
-| 4E2 | [4E2 ODD WEEK](/files/4E2_ODD_WEEK_UPDATED.pdf) | 
-| 4E3 | [4E3 ODD WEEK](/files/4E3_ODD_WEEK_UPDATED.pdf) | 
-| 5N1 | [5N1 ODD WEEK](/files/5N1_ODD_WEEK_UPDATED.pdf) |
+| 4T1 | [4T1 Timetable](/files/4T1.pdf) | 
+| 4N1 | [4N1 Timetable](/files/4N1.pdf) | 
+| 4N2 | [4N2 Timetable](/files/4N2.pdf) | 
+| 4E1 | [4E1 Timetable](/files/4E1.pdf) | 
+| 4E2 | [4E2 Timetable](/files/4E2.pdf) | 
+| 4E3 | [4E3 Timetable](/files/4E3.pdf) | 
+| 4E4 | [4E4 Timetable](/files/4E4.pdf) | 
+| 5N1 | [5N1 Timetable](/files/5N1.pdf) |
