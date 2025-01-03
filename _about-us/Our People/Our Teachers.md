@@ -9,7 +9,7 @@ variant: markdown
 
 | Class | Form Teachers | Email | 
 |:---:|:---:|:---:|
-| 1R1 |Darshan Kaur <br><br>Daryl Wang | darshan_kaur_a@schools.gov.sg<br><br>wang_jiale_c@schools.gov.sg|
+| 1R1 |Darshan Kaur <br><br>Daryl Wang | darshan_kaur_a@schools.gov.sg<br><br>wang_jia_le_c@schools.gov.sg|
 | 1R2 | Eric Lim<br><br>Sriwanty Bte Ramli | lim_rong_hua_eric@schools.gov.sg<br><br> sriwanty_ramli@schools.gov.sg|
 | 1R3 | Cheng Xin Ze |cheng_xin_ze@schools.gov.sg  |
 | 1R4 | Amal Luqman<br><br>Tan Wai Ping | amal_luqman_ahmad_ehsan@schools.gov.sg<br><br>tan_wai_ping@schools.gov.sg |
