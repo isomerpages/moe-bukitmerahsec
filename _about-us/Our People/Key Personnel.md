@@ -38,7 +38,7 @@ variant: markdown
 | Chian Yuan Lin | Subject Head Lower Secondary Science (Covering)  | chian_yuan_lin@schools.gov.sg |
 | Ong Min Li | Subject Head 21CC &amp; Student Leadership (Internal)  | ong_min_li@schools.gov.sg |
 | Chee Kwok Seng (Jereme) | Level Head Student Management | chee_kwok_seng@schools.gov.sg |
-| Subramanian s/o Anamalai  | Level Head Mathematics | subramanian_annamalai@schools.gov.sg |
+| Subramanian s/o Annamalai  | Level Head Mathematics | subramanian_annamalai@schools.gov.sg |
 | Lui Yan Ling, Esther | Lead Teacher (Biology) | lui_yan_ling_esther@schools.gov.sg |
 | Sriwanty Bte Ramli | Senior Teacher (History) | sriwanty_ramli@schools.gov.sg |
 | Nurhayati Bte Mohamad | Senior Teacher (Educational Support) | nurhayati_mohamad@schools.gov.sg |
