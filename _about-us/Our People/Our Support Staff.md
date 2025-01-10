@@ -39,4 +39,4 @@ variant: markdown
 | Michelle Lim Peck Hong | Lead Special Educational Needs Officer | michelle_lim_peck_hong@schools.gov.sg |
 | Nithiyasri Subramaniam | Special Educational Needs Officer | nithiyah_subramaniam@schools.gov.sg |
 | Joanne Yau Oi Lai | Student Welfare Officer| yau_oi_lai_joanne@schools.gov.sg |
-| Andrew Lum | Education &amp; Career Guidance Counsellor | TBA |
+| Andrew Lum | Education &amp; Career Guidance Counsellor | lum_kah_wai_andrew_a@schools.gov.sg |
