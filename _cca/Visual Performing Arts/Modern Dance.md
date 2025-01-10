@@ -14,16 +14,15 @@ variant: markdown
 
 *   Ms Tay Fang Lin Catherine (OIC)
 *   Ms Ng Hui Ling (2IC)
-*   Ms Yeo Xing Wen
-*   Ms Belicia Chou Siqi
-*   Mrs Lim Guek Lee (KP Advisor)
+*   Mrs Lim Guek Lee
+*   Mr Emmet Ng (Instructor)
 *   Mr Dan Kwoh (Instructor)
-*   Mr Emmet Ng (Assistant Instructor)
+
 
 **Trainings**
 
-*   Wednesday: 2:30pm – 5:30pm
-*   Friday: 1pm – 4pm (until SYF period), 1pm - 3pm
+*   Wednesday: 3:00pm – 5:00pm
+*   Friday: 1:30pm – 4pm
 
 **Venue:**
 
@@ -31,5 +30,4 @@ variant: markdown
 
 **Activities**
 
-* Journey (19 March 2023)
-* Singapore Youth Festival (April)
+* Singapore Youth Festival (April/May)
