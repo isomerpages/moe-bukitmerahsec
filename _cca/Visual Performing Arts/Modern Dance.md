@@ -22,7 +22,7 @@ variant: markdown
 **Trainings**
 
 *   Wednesday: 3:00pm – 5:00pm
-*   Friday: 1:30pm – 4pm
+*   Friday: 1:30pm – 4:00pm
 
 **Venue:**
 
