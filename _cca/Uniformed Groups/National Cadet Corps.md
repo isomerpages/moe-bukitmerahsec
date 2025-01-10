@@ -15,10 +15,9 @@ variant: markdown
 
 **BMSS NCC Teachers-in-charge**
 
-*   Mr Hisham (OIC)
+*   Ms Looi Tse Theng (OIC)
 *   Mr Cheng Xin Ze (2IC)
 *   Mr Liu Meng Whye
-*   Ms Looi Tse Theng
 *   Mr Zubi Kek (KP Advisor)  
   
 
