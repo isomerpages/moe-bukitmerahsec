@@ -14,6 +14,7 @@ variant: markdown
 | Floorball  |SSSC Floorball National B Div Boys<br><br>SSSC Floorball National B Div Girls<br><br>SSSC Floorball National B Div Boys (League 2)<br><br>SSSC Floorball National B Div Girls  (League 1)| Top 16<br><br>Top 8<br><br> Champion <br><br> Top 16|
 |   |Pesta Sukan Floorball Under-14 Boys<br><br>Pesta Sukan Floorball Under-14 Girls<br><br>Pesta Sukan Floorball Under-17 Boys| Champion<br><br>Participation<br><br> Participation|
 | Tchoukball | Inter-School Tchoukball Championship 2024 – B Division Girls <br><br>Inter-School Tchoukball Championship 2024 – B Division Boys<br><br>Inter-School Tchoukball Championship 2024 – C Division Girls<br><br>Inter-School Tchoukball Championship 2024 – C Division Boys|  4th Place <br><br> 6th Place <br><br> 1st Place<br><br>2nd Place|
+| Basketball | BM Cup Under 16 Boys' &amp; Girls' Basketball Invitational Tournament 2024 |  B Boys - 1st runner <br>B Girls - Champion |
 ||||
 
 
@@ -31,7 +32,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | SJB    | Corps Achievement Award 2024<br><br>District First Aid Competitiion<br><br>HQ First Aid Instructor Course<br><br>HQ Basic Drill Instructor Course   | Gold<br><br>Nursing Cadet Team - 2nd Runner Up<br><br>2 certified cadets <br><br>1 certified cadet |
 | Scouts    | Japan Kyushu Exchange<br><br>Chief Commissioner Well Done Award<br><br>National Patrol Camp | 4 representatives<br><br>1 awardee <br><br> 1 patrol|
-| NCC   | PDS Competition 2024<br><br>NCC Precision Drill Squad (PDS) Basic Instructor Course <br><br>NCC Sports Championship 2024<br><br>National Camp 2024<br><br>NCC CPR-AED Course | Participation<br><br>3 certified cadets<br><br> National Finalists for Soccer and Frisbee category<br><br>1 representative<br><br>24 certified cadets |
+| NCC   | PDS Competition 2024<br><br>NCC Precision Drill Squad (PDS) Basic Instructor Course <br><br>NCC Sports Championship 2024<br><br>National Camp 2024<br><br>NCC CPR-AED Course | Participation<br><br>3 certified cadets<br><br> National Finalists for Soccer and Frisbee category: <br><br>Soccer - 3rd Place<br>Frisbee - 4th Place<br><br>1 representative<br><br>24 certified cadets |
 ||||
 
 #### 2023 Achievements

@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Concert Band
 
-<img src="/images/cca22.png" style="width:80%, align:left">
+<img src="/images/band.jpg" style="width:80%, align:left">
 
 
 **Teachers-in-charge**
