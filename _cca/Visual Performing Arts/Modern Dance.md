@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Modern Dance
 
-<img src="/images/cca23.png" style="width:80%,align:left">
+<img src="/images/FESTIVO.jpg" style="width:80%,align:left">
 
 
 **Teachers-in-charge**
