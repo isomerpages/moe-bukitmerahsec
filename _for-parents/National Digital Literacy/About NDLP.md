@@ -79,12 +79,12 @@ To ensure the affordability of devices, MOE has provided Edusave top-ups of $200
 This is on top of the annual $290 credited into the Edusave account for Secondary School students and $230 for Primary School students.<br><br>
 
 
-For students who need additional support, complete and submit the attached form and supporting income documents to the General Office latest by 19 Jan 2024 (Friday).<br><br>
+For students who need additional support, complete and submit the attached form and supporting income documents to the General Office.<br><br>
 
 <a href="/files/Application-form-for-PDLP-Subsidy-BMSS%20-%202023.pdf">Please click here to download the form.</a>  <br><br>
 	
 
-Application is open to all students whose Gross Household Income (GHI) ≤ $4,400 or Per Capita Income (PCI) ≤ $1,100. PCI is GHI divided by the number of household members. Students on MOE Financial Assistance Scheme or School-Based Financial Assistance Scheme do not need to apply for this as they will automatically be granted the subsidy by the school.. <br><br>
+Application is open to all students whose Gross Household Income (GHI) ≤ $3000 or Per Capita Income (PCI) ≤ $750. PCI is GHI divided by the number of household members. Students on MOE Financial Assistance Scheme or School-Based Financial Assistance Scheme do not need to apply for this as they will automatically be granted the subsidy by the school.. <br><br>
 
 
 </p>
@@ -133,13 +133,10 @@ In the following months, MOE will roll out some or all of the following applicat
 
 MOE will give every secondary school student an email address. This is a service provided by Google as part of Google Suite.<br><br>
 
-•  <b>Microsoft 365</b><br>
+•  <b>Microsoft 365 Pro Plus</b><br>
 
 Every Secondary School will be granted a license to use Microsoft Office tools that include Word, PowerPoint and Excel.<br><br>
 
-•   <b>Zoom</b><br>
-
-MOE will set up Zoom free account with 40 min time limit using Student iCON for the schools’ video conferencing needs.	
 </p>
 
 </div>
@@ -293,7 +290,6 @@ For the ICT Applications (student iCON, Microsoft ProPlus and Zoom), the school 
 
 • Student iCON:&nbsp;<a href="https://workspace.google.com/terms/education\_terms\_japan.html">https://workspace.google.com/terms/education\_terms\_japan.html</a><br>
 • Microsoft Pro Plus:&nbsp;<a href="https://portal.office.com/commerce/mosa.aspx">https://portal.office.com/commerce/mosa.aspx</a><br>
-• Zoom:&nbsp;<a href="https://zoom.us/docs/en-us/schools-privacy-statement.html">https://zoom.us/docs/en-us/schools-privacy-statement.html</a>
 </p>
 
 </div>
@@ -320,9 +316,9 @@ Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. 
 
 #### Parent Handbook
 
-[Parent Handbook I](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
+[Parent Handbook I](/files/IP2___Parent_Handbook__I__2025.pdf)
 <br>
-[Parent Handbook II](/files/IP3___Parent_Handbook__II__2024_FINAL.pdf)
+[Parent Handbook II](/files/IP3___Parent_Handbook__II__2025.pdf)
 
 #### Acceptable Use Policy
 
@@ -330,6 +326,6 @@ Refer to Acceptable Use Policy [here](/files/BMSS%20AUP%20(20210401).pdf)
 
 #### Parent Briefing Slides / Q&amp;A Response
 
-[Parent Engagement Deck 2024](/files/Parent_Engagement_Deck_2024_FINAL.pdf)
+[Parent Engagement Deck 2025](/files/BMSS_2025_PLD_Parent_Engagement_Slides_2025.pdf)
 <br>
 [PDLP Student Device Information Kit](/files/PDLP-Student-Device-Information-Kit_16-Mar-22.pdf)
