@@ -10,10 +10,9 @@ variant: markdown
 
 **Department Teachers**
 
-*   Ms How Si Si Jacqueline (HOD Science (Covering))
+*   Ms How Si Si Jacqueline (HOD Science)
 *   Mr Yap Chin Hua (Year Head Upper Sec)
 *   Mr Lee Tzi Wei Gaius (ST Physics)
-*   Mr Seow Xian Yi Winston (HOD ICT (Covering))
 *   Mr Tan Tua Choon (Assistant
 Year Head Upper Sec)
 *   Mr Au Yong Kok Soon (SH Student Well-Being)
@@ -24,7 +23,6 @@ Year Head Upper Sec)
 *   Mrs Tan Wai Ping
 *   Mrs Chang Lai Yee
 *   Mrs Goh Shumin
-*   Ms Belicia Choy Siqi
 *   Mdm Subramanian Udayakumari (School Laboratory Technician)
 *   Mdm Nor Idayu Binte Ayob (School Laboratory Technician)
 
