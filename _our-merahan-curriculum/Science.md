@@ -23,6 +23,7 @@ Year Head Upper Sec)
 *   Mrs Tan Wai Ping
 *   Mrs Chang Lai Yee
 *   Mrs Goh Shumin
+*   Mr Daryl Wang
 *   Mdm Subramanian Udayakumari (School Laboratory Technician)
 *   Mdm Nor Idayu Binte Ayob (School Laboratory Technician)
 
