@@ -17,7 +17,7 @@ variant: markdown
 Year Head Upper Sec)
 *   Mr Au Yong Kok Soon (SH Student Well-Being)
 *   Ms Lui Yan Ling Esther (Lead Teacher Biology)
-*   Ms Tay Siew Hoon Janelle
+*   Ms Tay Siew Hoon Janelle (SH Educational Support)
 *   Mr Tan Phuay Heng
 *   Mrs Chian Yuan Lin
 *   Mrs Tan Wai Ping
