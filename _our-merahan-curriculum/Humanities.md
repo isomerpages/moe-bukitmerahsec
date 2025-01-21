@@ -22,12 +22,7 @@ variant: markdown
 *   Ms Giselle Maria Rai
 *   Ms Goh Ee Xin Stephanie
 *   Mr Cheng Xin Ze
-*   Ms Lee Wen hui, Priscilla
 *   Mr Amal Luqman
-*   Ms Lim Daisy
-*   Ms Yip Xiao Tong, Adonia
-*   Ms Gay Hui Hui
-
 
 
 **Department Vision**
