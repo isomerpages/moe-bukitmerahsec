@@ -10,7 +10,6 @@ variant: markdown
 
 **Department Teachers**
 
-*   Mr Seow Xian Yi Winston (HOD ICT (Covering))
 *   Mr Chee Kwok Seng Jereme (LH Student Management)
 *   Mr Lui Meng Whye
 *   Mr Jason Tan Soon Peng
