@@ -11,7 +11,7 @@ variant: markdown
 **Department Teachers**
 
 *   Mr Lim Chee Khern Dennis (HOD Craft &amp; Technology)
-*   Mr Muhammad Hisham Bin Anwar (SH NFS (Covering))
+*   Mr Muhammad Hisham Bin Anwar (SH NFS)
 *   Mr Quek Jia Liang (Art Coordinator)
 *   Mrs Tay Fang Lin Catherine 
 *   Mr Low Young Fei 
@@ -19,7 +19,6 @@ variant: markdown
 *   Ms Tan Wai Hong 
 *   Ms Flora Cheong 
 *   Mdm Rosnani Bte Said
-*   Ms Bernice Lau Li Yuan
 *   Mr Chua Eng Chiong (D&amp;T Education Workshop Instructor)
 *   Ms Zhang Lihui (D&amp;T Education Workshop Instructor)
 *   Ms Rita Wong (NFS Teacher Aide)
