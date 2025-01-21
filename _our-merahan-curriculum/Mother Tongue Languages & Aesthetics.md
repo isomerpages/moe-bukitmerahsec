@@ -10,11 +10,10 @@ variant: markdown
 
 **Department Teachers**
 
-*   Mrs Lim Guek Lee (HOD MTL &amp; Aesthetics)
+*   Ms Yeo Xing Wen (SH CCE / Covering HOD MTL)
 *   Mdm Sharulhana Bte Mohd Kamal (HOD CCE)
 *   Ms Lim Kailin (SH Chinese)
 *   Mdm Nurhayati Bte Mohamed (ST Educational Support)
-*   Ms Yeo Xing Wen (SH CCE)
 *   Mdm Qin Zhenzhen
 *   Ms Ong Min Li
 *   Mr Yeo Jun Zhong
@@ -28,6 +27,7 @@ variant: markdown
 *   Mr Jayakumar Subramaniyam
 *   Mrs Mathi
 *   Ms Chen Ying
+*   Mrs Lim Guek Lee 
 
 
 **Department Vision**
