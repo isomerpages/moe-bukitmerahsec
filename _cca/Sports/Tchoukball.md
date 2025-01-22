@@ -7,9 +7,9 @@ variant: markdown
 ---
 ### Tchoukball
 
-<img src="/images/cca20.png" style="width:60%">
+<img src="/images/tchoukballboygirl.jpg" style="width:60%">
 
-<img src="/images/cca21.png" style="width:60%">
+<img src="/images/tchoukballboy.jpg" style="width:60%">
 
 
 **Teachers-in-charge**
