@@ -19,8 +19,9 @@ variant: markdown
 *   Ms Tan Wai Hong 
 *   Ms Flora Cheong 
 *   Mdm Rosnani Bte Said
-*   Mr Chua Eng Chiong (D&amp;T Education Workshop Instructor)
-*   Ms Zhang Lihui (D&amp;T Education Workshop Instructor)
+*   Ms Lim Mei-Chin Eleanor
+*   Mr Chua Eng Chiong (STEM Instructor (Workshop))
+*   Ms Zhang Lihui (STEM Instructor (Workshop))
 *   Ms Rita Wong (NFS Teacher Aide)
 
 **Department Vision**
