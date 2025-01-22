@@ -15,17 +15,17 @@ variant: markdown
 *   Mr Lee Tzi Wei Gaius (ST Physics)
 *   Mr Tan Tua Choon (Assistant
 Year Head Upper Sec)
-*   Mr Au Yong Kok Soon (SH Student Well-Being)
+*   Mr Au Yong Kok Soon (SH Student Well-Being/HOD ICT (Covering))
 *   Ms Lui Yan Ling Esther (Lead Teacher Biology)
 *   Ms Tay Siew Hoon Janelle (SH Educational Support)
 *   Mr Tan Phuay Heng
-*   Mrs Chian Yuan Lin
+*   Mrs Chian Yuan Lin (SH Lower Sec Science (Covering))
 *   Mrs Tan Wai Ping
 *   Mrs Chang Lai Yee
 *   Mrs Goh Shumin
 *   Mr Daryl Wang
-*   Mdm Subramanian Udayakumari (School Laboratory Technician)
-*   Mdm Nor Idayu Binte Ayob (School Laboratory Technician)
+*   Mdm Subramanian Udayakumari (STEM Instructor (Laboratory))
+*   Mdm Nor Idayu Binte Ayob (STEM Instructor (Laboratory))
 
 **Department Vision**
 
