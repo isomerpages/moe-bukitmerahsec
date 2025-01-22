@@ -17,7 +17,7 @@ variant: markdown
 *   Ms Ng Hsueh Mei
 *   Mr Law Ngiap Hui
 *   Mr Ho Wing Leong David
-*   Ms Darshan Kaur A
+*   Ms Darshan Kaur
 *   Mr Lim Rong Hua Eric
 *   Ms Giselle Maria Rai
 *   Ms Goh Ee Xin Stephanie
