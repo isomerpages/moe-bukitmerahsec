@@ -17,7 +17,7 @@ variant: markdown
 *   Ms Fong Min Shi Chloe (SH EL)
 *   Mr Lim Rong Hua Eric
 *   Ms Darshan Kaur
-*   Ms Giselle Maria Rai
+*   Ms Giselle Maria Rai (SH Student Management (Covering))
 *   Ms Ng Shuping Faith
 *   Mr Yeo Jun Zhong
 *   Mr Lawrence Tan Eng Chuan
