@@ -14,8 +14,8 @@ variant: markdown
 *   Mdm Sharulhana Bte Mohd Kamal (HOD CCE)
 *   Ms Lim Kailin (SH Chinese)
 *   Mdm Nurhayati Bte Mohamed (ST Educational Support)
+*   Ms Ong Min Li (SH 21CC &amp; Student Leadership (Internal))
 *   Mdm Qin Zhenzhen
-*   Ms Ong Min Li
 *   Mr Yeo Jun Zhong
 *   Ms Ng Hui Ling
 *   Mr Neo Hock Kheng
