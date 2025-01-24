@@ -15,8 +15,8 @@ variant: markdown
 *   Ms Lim Kailin (SH Chinese)
 *   Mdm Nurhayati Bte Mohamed (ST Educational Support)
 *   Ms Ong Min Li (SH 21CC &amp; Student Leadership (Internal))
+*   Mrs Lim Guek Lee
 *   Mdm Qin Zhenzhen
-*   Mr Yeo Jun Zhong
 *   Ms Ng Hui Ling
 *   Mr Neo Hock Kheng
 *   Mdm Chen Jing
@@ -27,7 +27,8 @@ variant: markdown
 *   Mr Jayakumar Subramaniyam
 *   Mrs Mathi
 *   Ms Chen Ying
-*   Mrs Lim Guek Lee 
+*   Mr Yeo Jun Zhong
+ 
 
 
 **Department Vision**
