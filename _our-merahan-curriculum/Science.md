@@ -19,7 +19,7 @@ Year Head Upper Sec)
 *   Ms Lui Yan Ling Esther (Lead Teacher Biology)
 *   Ms Tay Siew Hoon Janelle (SH Educational Support)
 *   Mr Tan Phuay Heng
-*   Mrs Chian Yuan Lin (SH Lower Sec Science (Covering))
+*   Ms Chian Yuan Lin (SH Lower Sec Science (Covering))
 *   Mrs Tan Wai Ping
 *   Mrs Chang Lai Yee
 *   Mrs Goh Shumin
