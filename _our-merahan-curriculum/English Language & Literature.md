@@ -11,7 +11,7 @@ variant: markdown
  **Department Teachers**
 
 *   Mdm Leow Ser Leng (HOD EL)
-*   Quin (ST EL &amp; Literature)
+*   Ms Lee Siew Yong Loretta (SSD)
 *   Ms Fong Min Shi Chloe (SH EL)
 *   Ms Kong Yin Ling Adeline (ST EL)
 *   Mdm Leow Li Quin (ST EL &amp; Literature)
