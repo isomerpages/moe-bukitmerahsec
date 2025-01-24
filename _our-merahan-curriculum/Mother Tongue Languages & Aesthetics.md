@@ -10,7 +10,7 @@ variant: markdown
 
 **Department Teachers**
 
-*   Ms Yeo Xing Wen (SH CCE / Covering HOD MTL)
+*   Ms Yeo Xing Wen (SH CCE / HOD MTL (Covering))
 *   Mdm Sharulhana Bte Mohd Kamal (HOD CCE)
 *   Ms Lim Kailin (SH Chinese)
 *   Mdm Nurhayati Bte Mohamed (ST Educational Support)
