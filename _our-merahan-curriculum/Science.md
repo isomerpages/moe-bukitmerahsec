@@ -12,11 +12,11 @@ variant: markdown
 
 *   Ms How Si Si Jacqueline (HOD Science)
 *   Mr Yap Chin Hua (Year Head Upper Sec)
+*   Ms Lui Yan Ling Esther (Lead Teacher Biology)
 *   Mr Lee Tzi Wei Gaius (ST Physics)
 *   Mr Tan Tua Choon (Assistant
 Year Head Upper Sec)
 *   Mr Au Yong Kok Soon (SH Student Well-Being/HOD ICT (Covering))
-*   Ms Lui Yan Ling Esther (Lead Teacher Biology)
 *   Ms Tay Siew Hoon Janelle (SH Educational Support)
 *   Mr Tan Phuay Heng
 *   Ms Chian Yuan Lin (SH Lower Sec Science (Covering))
