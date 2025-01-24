@@ -11,13 +11,13 @@ variant: markdown
  **Department Teachers**
 
 *   Mdm Leow Ser Leng (HOD EL)
+*   Quin (ST EL &amp; Literature)
+*   Ms Fong Min Shi Chloe (SH EL)
 *   Ms Kong Yin Ling Adeline (ST EL)
 *   Mdm Leow Li Quin (ST EL &amp; Literature)
-*   Ms Lee Siew Yong Loretta (SSD)
-*   Ms Fong Min Shi Chloe (SH EL)
+*   Ms Giselle Maria Rai (SH Student Management (Covering))
 *   Mr Lim Rong Hua Eric
 *   Ms Darshan Kaur
-*   Ms Giselle Maria Rai (SH Student Management (Covering))
 *   Ms Ng Shuping Faith
 *   Mr Yeo Jun Zhong
 *   Mr Lawrence Tan Eng Chuan
