@@ -18,8 +18,8 @@ variant: markdown
 Year Head Upper Sec)
 *   Mr Au Yong Kok Soon (SH Student Well-Being/HOD ICT (Covering))
 *   Ms Tay Siew Hoon Janelle (SH Educational Support)
-*   Mr Tan Phuay Heng
 *   Ms Chian Yuan Lin (SH Lower Sec Science (Covering))
+*   Mr Tan Phuay Heng
 *   Mrs Tan Wai Ping
 *   Mrs Chang Lai Yee
 *   Mrs Goh Shumin
