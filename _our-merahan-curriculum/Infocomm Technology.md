@@ -10,9 +10,10 @@ variant: markdown
 
 **Department Teachers**
 
-*   Mr Seow Xian Yi Winston (HOD ICT (Covering))
+*   Mr Au Yong Kok Soon (SH Student Well-Being / HOD ICT (Covering))
 *   Mr Chee Kwok Seng Jereme (LH Student Management)
 *   Mr Lui Meng Whye
+*   Ms Looi Tse Heng
 *   Mr Jason Tan Soon Peng
 *   Mr Muhamad Haikal Bin Razali (ICT Manager)
 *   Mr Low Pow Huat (Desktop Engineer)

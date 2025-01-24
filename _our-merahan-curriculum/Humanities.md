@@ -12,22 +12,17 @@ variant: markdown
 
 *   Mdm Kua See Hong (HOD Humanities)
 *   Ms Sriwanty Bte Ramli (ST History)
-*   Mr Ken Hu Jinyuan (Assistant Year Head Lower Sec)
+*   Mr Ken Hu Jinyuan (Assistant YH Lower Sec)
 *   Mr Fang Swee Foong Anthony
 *   Ms Ng Hsueh Mei
 *   Mr Law Ngiap Hui
 *   Mr Ho Wing Leong David
-*   Ms Darshan Kaur A
+*   Ms Darshan Kaur
 *   Mr Lim Rong Hua Eric
 *   Ms Giselle Maria Rai
 *   Ms Goh Ee Xin Stephanie
 *   Mr Cheng Xin Ze
-*   Ms Lee Wen hui, Priscilla
 *   Mr Amal Luqman
-*   Ms Lim Daisy
-*   Ms Yip Xiao Tong, Adonia
-*   Ms Gay Hui Hui
-
 
 
 **Department Vision**

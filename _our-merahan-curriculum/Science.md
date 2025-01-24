@@ -10,23 +10,22 @@ variant: markdown
 
 **Department Teachers**
 
-*   Ms How Si Si Jacqueline (HOD Science (Covering))
+*   Ms How Si Si Jacqueline (HOD Science)
 *   Mr Yap Chin Hua (Year Head Upper Sec)
+*   Ms Lui Yan Ling Esther (Lead Teacher Biology)
 *   Mr Lee Tzi Wei Gaius (ST Physics)
-*   Mr Seow Xian Yi Winston (HOD ICT (Covering))
 *   Mr Tan Tua Choon (Assistant
 Year Head Upper Sec)
-*   Mr Au Yong Kok Soon (SH Student Well-Being)
-*   Ms Lui Yan Ling Esther (Lead Teacher Biology)
-*   Ms Tay Siew Hoon Janelle
+*   Mr Au Yong Kok Soon (SH Student Well-Being/HOD ICT (Covering))
+*   Ms Tay Siew Hoon Janelle (SH Educational Support)
+*   Ms Chian Yuan Lin (SH Lower Sec Science (Covering))
 *   Mr Tan Phuay Heng
-*   Mrs Chian Yuan Lin
 *   Mrs Tan Wai Ping
 *   Mrs Chang Lai Yee
 *   Mrs Goh Shumin
-*   Ms Belicia Choy Siqi
-*   Mdm Subramanian Udayakumari (School Laboratory Technician)
-*   Mdm Nor Idayu Binte Ayob (School Laboratory Technician)
+*   Mr Daryl Wang
+*   Mdm Subramanian Udayakumari (STEM Instructor (Laboratory))
+*   Mdm Nor Idayu Binte Ayob (STEM Instructor (Laboratory))
 
 **Department Vision**
 

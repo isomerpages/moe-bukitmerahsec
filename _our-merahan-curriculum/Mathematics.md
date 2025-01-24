@@ -11,10 +11,10 @@ variant: markdown
 **Department Teachers**
 
 *   Mr Wun Boon Leng (HOD Math)
-*   Ms Neo Siew Eng (HOD Normal Stream)
+*   Ms Neo Siew Eng (Year Head Lower Sec (Designate))
 *   Ms Toh Yongmei Stella (Year Head Lower Sec)
 *   Mr Jereme Chee (LH Student Management)
-*   Ms Liao Xinwei (SH Math)
+*   Mr Subramanian s/o Annamalai (LH Math)
 *   Ms Phang Kay Yen (ST Math)
 *   Mr Lee Tzi Wei Gaius (ST Physics)
 *   Ms Lim Lay Eng

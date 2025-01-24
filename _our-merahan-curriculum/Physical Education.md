@@ -12,7 +12,7 @@ variant: markdown
 
 *   Mr Kek Boon Ann Zubi (HOD PE &amp; CCA)
 *   Mr Satwant Singh (HOD Student Management &amp; Well-Being)
-*   Ms Neo Siew Eng (HOD Educational Support)
+*   Ms Neo Siew Eng (YH Lower Sec (Designate))
 *   Ms Suzanne Eng Siew San (SH PE &amp; CCA)
 *   Ms Loke Jia Yi
 *   Mr Chua Chwee Guan Johnson

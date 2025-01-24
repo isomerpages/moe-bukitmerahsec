@@ -25,8 +25,8 @@ variant: markdown
 | Toh Yongmei Stella | Year Head Lower Sec | toh_yongmei_stella@schools.gov.sg |
 | Neo Siew Eng | Year Head Lower Sec (Designate) | neo_siew_eng@schools.gov.sg |
 | Yap Chin Hua | Year Head Upper Sec |  yap_chin_hua@schools.gov.sg|
-| Au Yong Kok Soon | HOD ICT (Covering) | au_yong_kok_soon@schools.gov.sg |
-| Yeo Xing Wen | HOD Mother Tongue Language (Covering) | yeo_xing_wen@schools.gov.sg |
+| Au Yong Kok Soon | Subject Head Student Well-Being / HOD ICT (Covering) | au_yong_kok_soon@schools.gov.sg |
+| Yeo Xing Wen | Subject Head CCE / HOD Mother Tongue Language (Covering) | yeo_xing_wen@schools.gov.sg |
 | Hu Jinyuan (Ken) | Assistant Year Head Lower Sec |   hu_jinyuan@schools.gov.sg |
 | Tan Tua Choon | Assistant Year Head Upper Sec | tan_tua_choon@schools.gov.sg |
 | Lim Kailin | Subject Head Chinese Language | lim_kailin@schools.gov.sg |
