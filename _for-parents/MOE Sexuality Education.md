@@ -4,7 +4,7 @@ permalink: /for-parents/moe-sexuality-education/
 description: ""
 variant: tiptap
 ---
-<h4>Moe Sexuality Education in Schools</h4>
+<h4>MOE Sexuality Education in Schools</h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
