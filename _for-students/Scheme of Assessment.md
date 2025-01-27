@@ -4,25 +4,22 @@ permalink: /useful-links/BMSS-Students/scheme-of-assessment/
 description: ""
 variant: markdown
 ---
-###  Scheme of Assessment 2024 
+###  Scheme of Assessment 2025 
 
 |  |  |  |  |
 |---|---|---|---|
-| Sec 1 | [Sec 1 Scheme of Assessment](/files/2024_BMSS_Scheme_of_Assessment___Sec_1.pdf) | | |
-
-
-|  |  |  |  |
-|---|---|---|---|
-| Sec 2 | [Sec 2 Scheme of Assessment](/files/2024_BMSS_Scheme_of_Assessment___Sec_2.pdf) |  |  |
+| Sec 1 |[Sec 1 Assessment Scheme](/files/2025_BMSS_Scheme_of_Assessment_Sec_1.pdf) | | |
 
 
 |  |  |  |  |
 |---|---|---|---|
-| Sec 3 | [3NT](/files/2024_BMSS_Scheme_of_Assessment___3NT.pdf) | [3NA](/files/2024_BMSS_Scheme_of_Assessment___3NA.pdf) | [3E](/files/2024_BMSS_Scheme_of_Assessment___3E.pdf) |
+| Sec 2 | [Sec 2 Assessment Scheme](/files/2025_BMSS_Scheme_of_Assessment_Sec_2.pdf) |  |  |
+
 
 |  |  |  |  |
 |---|---|---|---|
-| Sec 4/5 | [4NT](/files/2024_BMSS_Scheme_of_Assessment___4NT.pdf) | [4NA](/files/2024_BMSS_Scheme_of_Assessment___4NA.pdf) | [4E5N](/files/2024_BMSS_Scheme_of_Assessment___4E5N.pdf) |
+| Sec 3 | [Sec 3 G1](/files/2025_BMSS_Scheme_of_Assessment_Sec_3G1.pdf) | [Sec 3 G2 & G3](/files/2025_BMSS_Scheme_of_Assessment_Sec_3G2_G3.pdf) |  |
 
-
-
+|  |  |  |  |
+|---|---|---|---|
+| Sec 4/5 | [4NT](/files/2025_BMSS_Scheme_of_Assessment_Sec_4NT.pdf) | [4NA](/files/2025_BMSS_Scheme_of_Assessment_Sec_4NA.pdf) | [4E5N](/files/2025_BMSS_Scheme_of_Assessment_Sec_4E5N.pdf) |
