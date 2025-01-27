@@ -138,17 +138,21 @@ which are of prime concern at this age.</p>
 by Health Promotion Board, in collaboration with the Ministry of Education,
 to provide Secondary 3 students with accurate information on STIs, HIV
 and protection from a health perspective. <em>eTeens</em> is conducted in
-two segments – a mass talk segment and a classroom-based programme.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
-as decision-making, assertiveness and negotiation to say “no” to sex and
-negative peer pressure. They also learn that the impact of STIs/HIV extends
-beyond themselves and involves their family. Abstinence and upholding family
-values are the key messages. The desired outcome of the <em>eTeens</em> programme
-is that students are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At Bukit Merah Secondary School, the eTeens programme will be implemented as follows in 2024:</strong>
+two segments – a mass talk segment and a classroom-based programme. The
+desired outcome of the <em>eTeens</em> programme is that students are empowered
+to make wise, informed and sensible decisions.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
+by Health Promotion Board, in collaboration with the Ministry of Education,
+to provide Secondary 3 students with accurate information on STIs, HIV
+and protection from a health perspective. <em>eTeens</em> is conducted in
+two segments – a mass talk segment and a classroom-based programme. The
+desired outcome of the <em>eTeens</em> programme is that students are empowered
+to make wise, informed and sensible decisions.</p>
+<p><strong>At Bukit Merah Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexEd_Topic.png">
 </div>
 <p>
 <br>
@@ -160,14 +164,14 @@ the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
-an opt-out form. This form will be distributed to parents at the start
-of the year and is also downloadable <a href="/files/Annex_A___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is to be
-submitted by 25/03/2024.</p>
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also downloadable <a href="/files/Annex_A_Opt_out_Form_Sexuality_Ed_Prog.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+The completed form is to be submitted by 07/02/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the <strong><em>eTeens</em></strong>  <strong>programme</strong> need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="/files/Annex_B___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is to be
-submitted by 25/03/2024.</p>
+out of the <strong><em>eTeens</em> programme</strong> need to complete an
+opt-out form. This form will be communicated to parents at the start of
+the year and is also downloadable <a href="/files/Annex_B_Opt_out_Form_eTeens_Prog.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;The
+completed form is to be submitted by 07/02/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a href="mailto:bmss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bmss@moe.edu.sg</a>for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
