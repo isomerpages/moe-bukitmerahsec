@@ -77,59 +77,53 @@ self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p><strong>&nbsp;</strong>
-</p>
-<p>
-<br>
 <br>
 </p>
-<p><strong>At Bukit Merah Secondary School, the following Sexuality Education lessons will be taught in 2024:</strong>
+<p><strong>At Bukit Merah Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_1_part_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_1_part_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_2_part_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_2_part_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_3_part_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_3_part_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_3_part_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_4_part_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_4_part_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_4_part_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_11.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexed_12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_5.jpg">
 </div>
 <p>
 <br>
