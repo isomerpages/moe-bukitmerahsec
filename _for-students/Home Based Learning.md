@@ -17,7 +17,7 @@ Students are to log on the Singapore Student Learning Space ([http://learning.mo
 
 *Click on the link below to access the HBL timetable:*
 <br>
-[HBL Schedule Semester 1 2025](/files/Sch_Website_HBL_Day_Schedule_2025_Sem_1.pdf)
+[HBL Timetable for Semester 1 2025](/files/Sch_Website_HBL_Day_Schedule_2025_Sem_1.pdf)
 
 <br>
 
