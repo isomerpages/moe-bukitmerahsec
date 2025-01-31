@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - School Timetable.md
+      - Exam Timetable.md
+      - Scheme of Assessment.md
+      - Home Based Learning.md
       - School Booklist.md
       - School Uniform.md
-      - Exam Timetable.md
-      - Post Exam Programme.md
-      - Home Based Learning.md
-      - Scheme of Assessment.md
       - Student iCON.md
       - CCA Holiday Training Schedule.md
+      - Post Exam Programme.md
       - Useful Links for Student.md
