@@ -7,13 +7,13 @@ variant: markdown
 ---
 ### Basketball
 
-<img src="/images/basketball%20team.jpg" style="width:60%,align:left">
+<img src="/images/basketball_1.jpg" style="width:60%,align:left">
 
 
 **Teachers-in-charge**
 
-*   Mdm Ng Hsueh Mei (OIC)
-*   Mr Ho Wing Leong David (2IC)
+*   Mdm Ng Hsueh Mei
+*   Mr Ho Wing Leong David
 *   Mr Rosli Bin Hamim
 *   Mr Lim Chun Leong (OM/ Coach for Girls Team)
 *   Mr Ong Chee Kien(Coach, Coach for the Boys Team)
@@ -46,5 +46,3 @@ Friday:
 *   BM Cup Invitational Basketball Tournaments
 *   Annual training camp 
 *   CCA VIA during BM Cup Group Tournaments
-
-
