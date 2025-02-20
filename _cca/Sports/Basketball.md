@@ -37,7 +37,7 @@ Friday:
 
 **Venues:**
 
-*   Indoor Sports Hall L1
+*   Indoor Sports Hall L1 / L2
 
 **Activites:**
 
