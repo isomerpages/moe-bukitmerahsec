@@ -12,8 +12,8 @@ variant: markdown
 
 **Teachers-in-charge**
 
-*   Mr Ho Wing Leong David (OIC)
-*   Mdm Ng Hsueh Mei (2IC)
+*   Mdm Ng Hsueh Mei (OIC)
+*   Mr Ho Wing Leong David (2IC)
 *   Mr Rosli Bin Hamim
 *   Mr Lim Chun Leong (OM/ Coach for Girls Team)
 *   Mr Ong Chee Kien(Coach, Coach for the Boys Team)
@@ -32,19 +32,19 @@ Wednesday:
 
 Friday:
 
-*   1.40pm – 5.00pm (School Team Players)
+*   1.30pm – 5.00pm (School Team Players)
 
 
 **Venues:**
 
 *   Indoor Sports Hall L1
-*   Basketball Court (Merahan Square)
 
 **Activites:**
 
 *   Pre-season trainings
 *   South Zone Inter-School Basketball Championships
-*   BAS 2nd Tier Basketball League
-*   T-Net Age Group Invitational Basketball Tournaments
-*   Annual training camp (June)
-*   CCA VIA during T-Net Age Group Tournaments
+*   BM Cup Invitational Basketball Tournaments
+*   Annual training camp 
+*   CCA VIA during BM Cup Group Tournaments
+
+
