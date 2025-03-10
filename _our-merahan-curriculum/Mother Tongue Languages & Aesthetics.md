@@ -22,13 +22,9 @@ variant: markdown
 *   Mdm Chen Jing
 *   Mr Lim Sing Gee
 *   Mr Rosli Bin Hamim
-*   Ms Juanna Bte Johari
 *   Ms Nurul Syazwany
 *   Mr Jayakumar Subramaniyam
-*   Mrs Mathi
-*   Ms Chen Ying
-*   Mr Yeo Jun Zhong
- 
+*   Ms Jeyaraj Manoharan Selvarani
 
 
 **Department Vision**
