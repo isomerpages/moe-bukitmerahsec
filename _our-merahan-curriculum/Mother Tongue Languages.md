@@ -1,10 +1,10 @@
 ---
-title: Mother Tongue Languages & Aesthetics
+title: Mother Tongue Languages
 permalink: /our-merahan-curriculum/mother-tongue-dept/
 description: ""
 variant: markdown
 ---
-### Mother Tongue Languages and Aesthetics
+### Mother Tongue Languages
 
 <img src="/images/mother_tongue_languages_and_aesthetics_department_i.jpg" style="width:80%">  
 
@@ -22,13 +22,9 @@ variant: markdown
 *   Mdm Chen Jing
 *   Mr Lim Sing Gee
 *   Mr Rosli Bin Hamim
-*   Ms Juanna Bte Johari
 *   Ms Nurul Syazwany
 *   Mr Jayakumar Subramaniyam
-*   Mrs Mathi
-*   Ms Chen Ying
-*   Mr Yeo Jun Zhong
- 
+*   Ms Jeyaraj Manoharan Selvarani
 
 
 **Department Vision**
