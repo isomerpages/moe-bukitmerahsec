@@ -4,7 +4,7 @@ permalink: /our-merahan-curriculum/mother-tongue-dept/
 description: ""
 variant: markdown
 ---
-### Mother Tongue Languages and Aesthetics
+### Mother Tongue Languages
 
 <img src="/images/mother_tongue_languages_and_aesthetics_department_i.jpg" style="width:80%">  
 
