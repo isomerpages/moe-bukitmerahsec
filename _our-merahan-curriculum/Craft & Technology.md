@@ -19,6 +19,8 @@ variant: markdown
 *   Ms Tan Wai Hong 
 *   Ms Flora Cheong 
 *   Mdm Rosnani Bte Said
+*   Mr Yeo Jun Zhong
+*   Ms Chen Ying
 *   Ms Lim Mei-Chin Eleanor
 *   Mr Chua Eng Chiong (STEM Instructor (Workshop))
 *   Ms Zhang Lihui (STEM Instructor (Workshop))
