@@ -24,12 +24,12 @@ variant: markdown
 
 | Class | Form Teachers | Email | 
 |:---:|:---:|:---:|
-| 2I1 |Looi Tse Theng <br><br>Adeline Kong | looi_tse_theng@schools.gov.sg<br><br>kong_yin_ling_adeline@schools.gov.sg|
+| 2I1 |Looi Tse Theng <br><br>Mendiola Diana Jeane Bautista | looi_tse_theng@schools.gov.sg<br><br>mendiola_diana_jeane_bautista@schools.gov.sg|
 | 2I2 | Chew Min En Lydia<br><br>Low Young Fei | chew_min_en_lydia@schools.gov.sg<br><br> low_young_fei@schools.gov.sg|
 | 2I3 | Ho Shumin<br><br>Rosli Bin Hamim |ho_shumin@schools.gov.sg<br><br>rosli_hamim@schools.gov.sg  |
 | 2I4 | Chen Jing<br><br>Ng Shuping (Faith) | chen_jing@schools.gov.sg<br><br>ng_shuping@schools.gov.sg |
 | 2I5 | Chen Ying | chen_ying_d@schools.gov.sg|
-| 2I6 | Tay Fang Lin (Catherine) | tay_fang_lin@schools.gov.sg |
+| 2I6 | Tay Fang Lin (Catherine)<br><br>Selvarani Jeyaraj Manoharan | tay_fang_lin@schools.gov.sg<br><br>selvarani_jeyaraj_manoharan@schools.gov.sg |
 | Non-Form Teachers | Jayakumar s/o Subramaniyam | jayakumar_subramaniyam@schools.gov.sg
 |  |  |  |
 
@@ -39,7 +39,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | 3S1 | Chua Chwee Guan Johnson<br><br>Nurhayati Bte Mohamad | chua_chwee_guan_johnson@schools.gov.sg<br><br>nurhayati_mohamad@schools.gov.sg |
 | 3S2 | Lawrence Tan Eng Chuan| tan_eng_chuan@schools.gov.sg|
-| 3S3 | Loke Jia Yi| loke_jia_yi@schools.gov.sg|
+| 3S3 | Loke Jia Yi<br><br>Manikandan S/O Sureh Kumar| loke_jia_yi@schools.gov.sg<br><br>manikandan_suresh_kumar@schools.gov.sg|
 | 3S4 | Ong Min Li<br><br>Quek Jia Liang | ong_min_li@schools.gov.sg <br><br> quek_jia_liang@schools.gov.sg|
 3S5| Ng Hsueh Mei<br><br> Law Ngiap Hui | ng_hsueh_mei@schools.gov.sg<br><br>law_ngiap_hui@schools.gov.sg  |
 | 3S6 | Chloe Fong <br><br>Terry Xiao | fong_min_shi@schools.gov.sg <br><br>terry_xiao@schools.gov.sg
