@@ -39,7 +39,7 @@ Friday:
 
 *   Indoor Sports Hall L1 / L2
 
-**Activites:**
+**Activities:**
 
 *   Pre-season trainings
 *   South Zone Inter-School Basketball Championships
