@@ -16,7 +16,6 @@ variant: markdown
 *   Mr Anthony Fang
 *   Mdm Chen Jing
 *   Mr Dennis Lim (KP Advisor)
-*   Ms Suzanne Eng (KP Advisor)
 
 **Trainings**
 
