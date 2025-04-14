@@ -13,10 +13,9 @@ variant: markdown
 **Teachers-in-charge**
 
 *   Ms Chen Ying (OIC)
-*   Mdm Lee Sheau Yin (2IC)
 *   Ms Jasmine Ng Hui Shan
+*   Mr Tan Phuay Heng
 *   Mr Zubi Kek (KP Advisor)
-
 
 **Trainings**
 
