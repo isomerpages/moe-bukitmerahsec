@@ -12,11 +12,11 @@ variant: markdown
 
 **Teachers-in-charge**
 
-*   Mdm Ng Hsueh Mei
+*   Mdm Ng Hsueh Mei (OIC)
 *   Mr Ho Wing Leong David
 *   Mr Rosli Bin Hamim
 *   Mr Lim Chun Leong (OM/ Coach for Girls Team)
-*   Mr Ong Chee Kien(Coach, Coach for the Boys Team)
+*   Mr Ong Chee Kien(Coach for the Boys Team)
 *   Mr Zubi Kek (KP Advisor)
 
 **Trainings**
