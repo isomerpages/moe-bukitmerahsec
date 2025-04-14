@@ -18,6 +18,7 @@ variant: markdown
 *   Ms Looi Tse Theng (OIC)
 *   Mr Cheng Xin Ze (2IC)
 *   Mr Liu Meng Whye
+*   Ms Mendiola Diana Jeane Bautista
 *   Mr Zubi Kek (KP Advisor)  
   
 
