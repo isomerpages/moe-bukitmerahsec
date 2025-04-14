@@ -33,8 +33,7 @@ variant: markdown
 | Janelle Tay | Subject Head Educational Support | tay_siew_hoon_c@schools.gov.sg |
 | Fong Min Shi Chloe | Subject Head English Language | fong_min_shi@schools.gov.sg |
 | Muhammad Hisham Bin Anwar | Subject Head Nutrition &amp; Food Science | muhammad_hisham_anwar@schools.gov.sg |
-| Suzanne Eng Siew San | Subject Head PE &amp; CCA | suzanne_eng@schools.gov.sg |
-| Giselle Illesighe | Subject Head Student Management (Covering) | giselle_maria_illesinghe@schools.gov.sg |
+| Giselle Maria Rai | Subject Head Student Management (Covering) | giselle_maria_illesinghe@schools.gov.sg |
 | Chian Yuan Lin | Subject Head Lower Secondary Science (Covering)  | chian_yuan_lin@schools.gov.sg |
 | Ong Min Li | Subject Head 21CC &amp; Student Leadership (Internal)  | ong_min_li@schools.gov.sg |
 | Chee Kwok Seng (Jereme) | Level Head Student Management | chee_kwok_seng@schools.gov.sg |
