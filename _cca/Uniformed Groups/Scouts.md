@@ -17,6 +17,7 @@ variant: markdown
 *   Ms Faith Ng Shu Ping (OIC)
 *   Mr Lim Rong Hua Eric (2IC)
 *   Ms Chew Min En, Lydia
+*   Mr Manikandan S/O Suresh Kumar
 *   Mr Zubi Kek (KP Advisor)
 
 **Trainings**

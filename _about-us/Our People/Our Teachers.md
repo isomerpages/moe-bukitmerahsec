@@ -39,7 +39,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | 3S1 | Chua Chwee Guan Johnson<br><br>Nurhayati Bte Mohamad | chua_chwee_guan_johnson@schools.gov.sg<br><br>nurhayati_mohamad@schools.gov.sg |
 | 3S2 | Lawrence Tan Eng Chuan| tan_eng_chuan@schools.gov.sg|
-| 3S3 | Loke Jia Yi<br><br>Manikandan S/O Sureh Kumar| loke_jia_yi@schools.gov.sg<br><br>manikandan_suresh_kumar@schools.gov.sg|
+| 3S3 | Loke Jia Yi<br><br>Manikandan S/O Suresh Kumar| loke_jia_yi@schools.gov.sg<br><br>manikandan_suresh_kumar@schools.gov.sg|
 | 3S4 | Ong Min Li<br><br>Quek Jia Liang | ong_min_li@schools.gov.sg <br><br> quek_jia_liang@schools.gov.sg|
 3S5| Ng Hsueh Mei<br><br> Law Ngiap Hui | ng_hsueh_mei@schools.gov.sg<br><br>law_ngiap_hui@schools.gov.sg  |
 | 3S6 | Chloe Fong <br><br>Terry Xiao | fong_min_shi@schools.gov.sg <br><br>terry_xiao@schools.gov.sg

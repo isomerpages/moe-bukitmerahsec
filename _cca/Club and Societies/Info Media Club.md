@@ -12,11 +12,10 @@ variant: markdown
 
 **Teachers-in-charge**
 
-*   Mr Tan Phuay Heng (OIC)
+*   Mr Quek Jia Liang (OIC)
 *   Mr Neo Hock Kheng (2IC)
-*   Mr Quek Jia Liang
+*   Ms Lim Lay Eng
 *   Mr Dennis Lim (KP Advisor)
-*   Ms Suzanne Eng (KP Advisor)
 
 **Trainings**
 

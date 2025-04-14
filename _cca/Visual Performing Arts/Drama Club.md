@@ -12,10 +12,10 @@ variant: markdown
 
 **Teachers-in-charge**
 
-*   Ms Fong Min Shi Chloe (OIC)
-*   Ms Giselle Maria Ria (2IC)
+*   Ms Giselle Maria Ria (OIC)
 *   Ms Adeline Kong
-*   Mrs Lim Guek Lee (KP Advisor)
+*   Ms Tan Sheng Xian
+*   Mr Daryl Wang Jiale
 *   Ms Lala Gwen Thomas (Instructor)
 *   Mr Marc Valentine (Assistant Instructor)
 

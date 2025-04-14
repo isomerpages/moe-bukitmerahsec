@@ -12,7 +12,7 @@ variant: markdown
 
 **Teachers-in-charge**
 
-*   Ms Loke Jia Yi (Overall IC)
+*   Ms Loke Jia Yi (OIC)
 *   Ms Goh Ee Xin
 *   Ms Nurul Syazwany 
 *   Mr Mohamad Rashid Bin Jalaluddin (Boys’ Coach)

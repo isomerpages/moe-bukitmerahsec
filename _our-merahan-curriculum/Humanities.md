@@ -23,6 +23,7 @@ variant: markdown
 *   Ms Goh Ee Xin Stephanie
 *   Mr Cheng Xin Ze
 *   Mr Amal Luqman
+*   Mr Manikandan S/O Suresh Kumar
 
 
 **Department Vision**

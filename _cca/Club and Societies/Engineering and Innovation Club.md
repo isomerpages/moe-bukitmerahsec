@@ -14,7 +14,6 @@ variant: markdown
 
 *   Mrs Goh Shumin (OIC)
 *   Mr Low Young Fei (2IC)
-*   Ms Tan Sheng Xian
 *   Mr Tan Tua Choon
 *   Mr Dennis Lim (KP Advisor)
 *   Ms Suzanne Eng (KP Advisor)

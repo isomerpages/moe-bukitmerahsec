@@ -15,7 +15,7 @@ variant: markdown
 *   Mdm Qin Zhen Zhen (OIC)
 *   Mrs Chang Lai Yee
 *   Mdm Rosnani
-*   Mrs Lim Guek Lee (KP Advisor)
+*   Ms Selvarani Jeyaraj Manoharan
 *   Ms Lim Sze Ai \[(Main Band) Instructor\]
 *   Mr Tan Loke Chuah \[Instructor (Recruit and Percussion)\]
 *   Mr Tan Yue Yuan \[Instructor (Clarinet)\]
