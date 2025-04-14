@@ -24,7 +24,7 @@ variant: markdown
 *   Ms Chen Ying
 *   Ms Chew Min En, Lydia
 *   Mr Amal Luqman
-*   Mendiola Diana Jeane Bautista
+*   Ms Mendiola Diana Jeane Bautista
 
 
 **Department Vision**
