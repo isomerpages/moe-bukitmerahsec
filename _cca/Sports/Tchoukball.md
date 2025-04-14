@@ -16,7 +16,6 @@ variant: markdown
 
 *   Mr Johnson Chua (OIC)
 *   Mr Amal Luqman (2IC)
-*   Ms Suzanne Eng
 *   Mr Zack Tan Zheng Chao (Coach)
 *   Mr Zubi Kek (KP Advisor)
 
