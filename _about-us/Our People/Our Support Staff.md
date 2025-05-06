@@ -28,7 +28,7 @@ variant: markdown
 | Tan Nancy | School GO Receptionist | tan_nancy@schools.gov.sg |
 | Low Pow Huat | Desktop Engineer | powhuatl@ncs.com.sg |
 | Mohammed Nazarudin bin Abdul Malek | Desktop Engineer | mn.ba@ncs.com.sg |
-| Janet Phan | School Health Advisor | janetsf_phan@certisgroup.com |
+
 
 
 #### Student Well-Being Unit
