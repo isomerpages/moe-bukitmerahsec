@@ -41,7 +41,7 @@ positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Bukit Merah Secondary</strong>  <strong>School’s</strong>  <strong>Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Bukit Merah Secondary</strong>  <strong>School’s</strong>  <strong>Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
