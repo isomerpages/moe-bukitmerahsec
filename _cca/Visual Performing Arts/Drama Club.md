@@ -16,8 +16,8 @@ variant: markdown
 *   Ms Adeline Kong
 *   Ms Tan Sheng Xian
 *   Mr Daryl Wang Jiale
-*   Ms Lala Gwen Thomas (Instructor)
-*   Mr Marc Valentine (Assistant Instructor)
+*   Mr Pang Boon Kiat Andy (Main Instructor)
+*   Mr Othman Bin Mohd Yusof (Assistant Instructor)
 
 
 **Trainings**
