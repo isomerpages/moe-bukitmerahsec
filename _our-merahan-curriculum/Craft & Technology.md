@@ -12,7 +12,7 @@ variant: markdown
 
 *   Mr Lim Chee Khern Dennis (HOD Craft &amp; Technology)
 *   Mr Muhammad Hisham Bin Anwar (SH NFS)
-*   Mr Quek Jia Liang (Art Coordinator)
+*   Mr Quek Jia Liang
 *   Mrs Tay Fang Lin Catherine 
 *   Mr Low Young Fei 
 *   Mr Shahrizal Bin Salim 
