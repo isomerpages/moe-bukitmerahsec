@@ -15,7 +15,7 @@ variant: markdown
 *   Ms Fong Min Shi Chloe (SH EL)
 *   Ms Kong Yin Ling Adeline (ST EL)
 *   Mdm Leow Li Quin (ST EL &amp; Literature)
-*   Ms Giselle Maria Rai (SH Student Management (Covering))
+*   Ms Giselle Maria Rai (LH Student Management (Covering))
 *   Mr Lim Rong Hua Eric
 *   Ms Darshan Kaur
 *   Ms Ng Shuping Faith
@@ -25,6 +25,7 @@ variant: markdown
 *   Ms Chew Min En, Lydia
 *   Mr Amal Luqman
 *   Ms Mendiola Diana Jeane Bautista
+*   Mr Praveen Kumar
 
 
 **Department Vision**
