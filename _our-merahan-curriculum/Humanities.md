@@ -15,7 +15,6 @@ variant: markdown
 *   Mr Ken Hu Jinyuan (Assistant YH Lower Sec)
 *   Mr Fang Swee Foong Anthony
 *   Ms Ng Hsueh Mei
-*   Mr Law Ngiap Hui
 *   Mr Ho Wing Leong David
 *   Ms Darshan Kaur
 *   Mr Lim Rong Hua Eric
