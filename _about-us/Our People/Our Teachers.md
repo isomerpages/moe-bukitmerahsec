@@ -25,7 +25,7 @@ variant: markdown
 | Class | Form Teachers | Email | 
 |:---:|:---:|:---:|
 | 2I1 |Looi Tse Theng <br><br>Mendiola Diana Jeane Bautista | looi_tse_theng@schools.gov.sg<br><br>mendiola_diana_jeane_bautista@schools.gov.sg|
-| 2I2 | Chew Min En Lydia<br><br>Low Young Fei | chew_min_en_lydia@schools.gov.sg<br><br> low_young_fei@schools.gov.sg|
+| 2I2 | Chew Min En Lydia<br><br>Shahrizal Salim | chew_min_en_lydia@schools.gov.sg<br><br> shahrizal_salim@schools.gov.sg|
 | 2I3 | Ho Shumin<br><br>Rosli Bin Hamim |ho_shumin@schools.gov.sg<br><br>rosli_hamim@schools.gov.sg  |
 | 2I4 | Chen Jing<br><br>Ng Shuping (Faith) | chen_jing@schools.gov.sg<br><br>ng_shuping@schools.gov.sg |
 | 2I5 | Chen Ying | chen_ying_d@schools.gov.sg|
