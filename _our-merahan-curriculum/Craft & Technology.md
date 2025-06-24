@@ -11,10 +11,9 @@ variant: markdown
 **Department Teachers**
 
 *   Mr Lim Chee Khern Dennis (HOD Craft &amp; Technology)
-*   Mr Muhammad Hisham Bin Anwar (SH NFS)
+*   Mr Muhammad Hisham Bin Anwar (SH NFS/Assist YH Upper Sec (Covering))
 *   Mr Quek Jia Liang
 *   Mrs Tay Fang Lin Catherine 
-*   Mr Low Young Fei 
 *   Mr Shahrizal Bin Salim 
 *   Ms Tan Wai Hong 
 *   Ms Flora Cheong 
