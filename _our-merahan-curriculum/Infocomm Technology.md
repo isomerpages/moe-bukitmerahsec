@@ -10,8 +10,7 @@ variant: markdown
 
 **Department Teachers**
 
-*   Mr Au Yong Kok Soon (SH Student Well-Being / HOD ICT (Covering))
-*   Mr Chee Kwok Seng Jereme (LH Student Management)
+*   Mr Chee Kwok Seng Jereme (HOD ICT/Student Management (Covering))
 *   Mr Lui Meng Whye
 *   Ms Looi Tse Heng
 *   Mr Jason Tan Soon Peng
