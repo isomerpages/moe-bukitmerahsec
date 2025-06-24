@@ -13,12 +13,12 @@ variant: markdown
 *   Mdm Kua See Hong (HOD Humanities)
 *   Ms Sriwanty Bte Ramli (ST History)
 *   Mr Ken Hu Jinyuan (Assistant YH Lower Sec)
+*   Ms Giselle Maria Rai (LH Student Management (Covering))
 *   Mr Fang Swee Foong Anthony
 *   Ms Ng Hsueh Mei
 *   Mr Ho Wing Leong David
 *   Ms Darshan Kaur
 *   Mr Lim Rong Hua Eric
-*   Ms Giselle Maria Rai
 *   Ms Goh Ee Xin Stephanie
 *   Mr Cheng Xin Ze
 *   Mr Amal Luqman
