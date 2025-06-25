@@ -23,7 +23,7 @@ variant: markdown
 *   Mrs Chang Lai Yee
 *   Mrs Goh Shumin
 *   Mr Daryl Wang
-*   Mr Ng Wee Peng
+*   Mr Matthew Ng Wee Peng
 *   Mdm Subramanian Udayakumari (STEM Instructor (Laboratory))
 *   Mdm Nor Idayu Binte Ayob (STEM Instructor (Laboratory))
 
