@@ -14,9 +14,8 @@ variant: markdown
 *   Mr Yap Chin Hua (Year Head Upper Sec)
 *   Ms Lui Yan Ling Esther (Lead Teacher Biology)
 *   Mr Lee Tzi Wei Gaius (ST Physics)
-*   Mr Tan Tua Choon (Assistant
-Year Head Upper Sec)
-*   Mr Au Yong Kok Soon (SH Student Well-Being/HOD ICT (Covering))
+*   Mr Tan Tua Choon (Assistant Year Head Upper Sec)
+*   Mr Au Yong Kok Soon (SH Student Well-Being)
 *   Ms Tay Siew Hoon Janelle (SH Educational Support)
 *   Ms Chian Yuan Lin (SH Lower Sec Science (Covering))
 *   Mr Tan Phuay Heng
@@ -24,6 +23,7 @@ Year Head Upper Sec)
 *   Mrs Chang Lai Yee
 *   Mrs Goh Shumin
 *   Mr Daryl Wang
+*   Mr Ng Wee Peng
 *   Mdm Subramanian Udayakumari (STEM Instructor (Laboratory))
 *   Mdm Nor Idayu Binte Ayob (STEM Instructor (Laboratory))
 

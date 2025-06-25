@@ -14,7 +14,7 @@ variant: markdown
 | 1R3 | Cheng Xin Ze<br><br>Tan Sheng Xian |cheng_xin_ze@schools.gov.sg<br><br>tan_sheng_xian@schools.gov.sg  |
 | 1R4 | Amal Luqman<br><br>Ng Wai Ping (Mrs Tan) | amal_luqman_ahmad_ehsan@schools.gov.sg<br><br>ng_wai_ping@schools.gov.sg |
 | 1R5 | Chian Yuan Lin<br><br>Subramanian Annamalai | chian_yuan_lin@schools.gov.sg<br><br>subramanian_annamalai@schools.gov.sg |
-| 1R6 | Tan Phuay Heng<br><br>Rosnani Said | tan_phuay_heng@schools.gov.sg<br><br>rosnani_said@schools.gov.sg |
+| 1R6 | Shahrizal Salim<br><br>Rosnani Said | shahrizal_salim@schools.gov.sg<br><br>rosnani_said@schools.gov.sg |
 | Non-Form Teachers | Lee Sheau Yin | lee_sheau_yin@schools.gov.sg
 |  |  |  |
 
@@ -25,7 +25,7 @@ variant: markdown
 | Class | Form Teachers | Email | 
 |:---:|:---:|:---:|
 | 2I1 |Looi Tse Theng <br><br>Mendiola Diana Jeane Bautista | looi_tse_theng@schools.gov.sg<br><br>mendiola_diana_jeane_bautista@schools.gov.sg|
-| 2I2 | Chew Min En Lydia<br><br>Low Young Fei | chew_min_en_lydia@schools.gov.sg<br><br> low_young_fei@schools.gov.sg|
+| 2I2 | Chew Min En Lydia<br><br>J Praveen Kumar | chew_min_en_lydia@schools.gov.sg<br><br> j_praveen_kumar@schools.gov.sg|
 | 2I3 | Ho Shumin<br><br>Rosli Bin Hamim |ho_shumin@schools.gov.sg<br><br>rosli_hamim@schools.gov.sg  |
 | 2I4 | Chen Jing<br><br>Ng Shuping (Faith) | chen_jing@schools.gov.sg<br><br>ng_shuping@schools.gov.sg |
 | 2I5 | Chen Ying | chen_ying_d@schools.gov.sg|
@@ -41,7 +41,7 @@ variant: markdown
 | 3S2 | Lawrence Tan Eng Chuan| tan_eng_chuan@schools.gov.sg|
 | 3S3 | Loke Jia Yi<br><br>Manikandan S/O Suresh Kumar| loke_jia_yi@schools.gov.sg<br><br>manikandan_suresh_kumar@schools.gov.sg|
 | 3S4 | Ong Min Li<br><br>Quek Jia Liang | ong_min_li@schools.gov.sg <br><br> quek_jia_liang@schools.gov.sg|
-3S5| Ng Hsueh Mei<br><br> Law Ngiap Hui | ng_hsueh_mei@schools.gov.sg<br><br>law_ngiap_hui@schools.gov.sg  |
+3S5| Ng Hsueh Mei| ng_hsueh_mei@schools.gov.sg |
 | 3S6 | Chloe Fong <br><br>Terry Xiao | fong_min_shi@schools.gov.sg <br><br>terry_xiao@schools.gov.sg
 | Non-Form Teachers| Tan Guek Lee <br><br> Lim Lay Eng | tan_guek_lee@schools.gov.sg<br><br>lim_lay_eng@schools.gov.sg
 |  |  |  |

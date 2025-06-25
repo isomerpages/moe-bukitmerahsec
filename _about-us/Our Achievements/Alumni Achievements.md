@@ -9,6 +9,7 @@ variant: markdown
 
 |  |  | 
 | -------- | -------- | 
+|<img src="/images/Elina_Alexandrova.jpg" style="width:80%">  | Elina Alexandrova<br><br>Course: Diploma in Sports &amp; Wellness Management<br><br>Award: Sport Singapore Gold Medal
 |<img src="/images/navin.png" style="width:80%">  | Navin s/o Kumaran<br><br>Course: Diploma in Biomedical Science with Merit
 |  <img src="/images/Bukit_Merah_Secondary_School_Melody_Mok_DMAD.png" style="width:80%">  | Melody Mok <br><br>Course: Diploma in Media, Arts &amp; Design<br><br>Award: SP 2024 Top Graduate|
 |  <img src="/images/Cheng_Xin_Jun.jpg" style="width:80%">  | Cheng Xin Jun <br><br>Course: Diploma in Computer Engineering <br><br>Award: SP Scholar 2024 |

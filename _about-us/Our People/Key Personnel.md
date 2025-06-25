@@ -21,23 +21,23 @@ variant: markdown
 | Kek Boon Ann Zubi | HOD PE &amp; CCA | kek_boon_ann_zubi@schools.gov.sg |
 | How Si Si, Jacqueline | HOD Science | how_si_si_jacqueline@schools.gov.sg |
 | Satwant Singh | HOD Student Management &amp; Well-Being | satwant_singh_sajjan_singh@schools.gov.sg |
+| Chee Kwok Seng (Jereme) | HOD ICT/ Student Management (Covering) | chee_kwok_seng@schools.gov.sg |
 | Lee Siew Yong Loretta | School Staff Developer | lee_siew_yong_loretta@schools.gov.sg |
-| Toh Yongmei Stella | Year Head Lower Sec | toh_yongmei_stella@schools.gov.sg |
-| Neo Siew Eng | Year Head Lower Sec (Designate) | neo_siew_eng@schools.gov.sg |
+| Neo Siew Eng | Year Head Lower Sec | neo_siew_eng@schools.gov.sg |
 | Yap Chin Hua | Year Head Upper Sec |  yap_chin_hua@schools.gov.sg|
-| Au Yong Kok Soon | Subject Head Student Well-Being / HOD ICT (Covering) | au_yong_kok_soon@schools.gov.sg |
+| Janelle Tay | Subject Head Educational Support/Year Head Upper Sec (Covering) | tay_siew_hoon_c@schools.gov.sg |
+| Au Yong Kok Soon | Subject Head Student Well-Being | au_yong_kok_soon@schools.gov.sg |
 | Yeo Xing Wen | Subject Head CCE / HOD Mother Tongue Language (Covering) | yeo_xing_wen@schools.gov.sg |
 | Hu Jinyuan (Ken) | Assistant Year Head Lower Sec |   hu_jinyuan@schools.gov.sg |
 | Tan Tua Choon | Assistant Year Head Upper Sec | tan_tua_choon@schools.gov.sg |
+| Muhammad Hisham Bin Anwar | Subject Head Nutrition &amp; Food Science/Assistant Year Head Upper Sec (Covering) | muhammad_hisham_anwar@schools.gov.sg |
 | Lim Kailin | Subject Head Chinese Language | lim_kailin@schools.gov.sg |
-| Janelle Tay | Subject Head Educational Support | tay_siew_hoon_c@schools.gov.sg |
 | Fong Min Shi Chloe | Subject Head English Language | fong_min_shi@schools.gov.sg |
-| Muhammad Hisham Bin Anwar | Subject Head Nutrition &amp; Food Science | muhammad_hisham_anwar@schools.gov.sg |
-| Giselle Maria Rai | Subject Head Student Management (Covering) | giselle_maria_illesinghe@schools.gov.sg |
+| Loke Jia Yi | Subject Head PE &amp; CCA (Covering) | fong_min_shi@schools.gov.sg |
 | Chian Yuan Lin | Subject Head Lower Secondary Science (Covering)  | chian_yuan_lin@schools.gov.sg |
 | Ong Min Li | Subject Head 21CC &amp; Student Leadership (Internal)  | ong_min_li@schools.gov.sg |
-| Chee Kwok Seng (Jereme) | Level Head Student Management | chee_kwok_seng@schools.gov.sg |
 | Subramanian s/o Annamalai  | Level Head Mathematics | subramanian_annamalai@schools.gov.sg |
+| Giselle Maria Rai | Level Head Student Management (Covering) | giselle_maria_illesinghe@schools.gov.sg |
 | Lui Yan Ling, Esther | Lead Teacher (Biology) | lui_yan_ling_esther@schools.gov.sg |
 | Sriwanty Bte Ramli | Senior Teacher (History) | sriwanty_ramli@schools.gov.sg |
 | Nurhayati Bte Mohamad | Senior Teacher (Educational Support) | nurhayati_mohamad@schools.gov.sg |
