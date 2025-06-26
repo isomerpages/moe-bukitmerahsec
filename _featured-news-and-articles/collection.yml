@@ -2,7 +2,7 @@ collections:
   featured-news-and-articles:
     output: true
     order:
-      - BMSS Kampong Supernatural.md
+      - The Straits Times BMSS Kampong Supernatural.md
       - The Straits Times — NSG Gymnast.md
       - The Straits Times — BMSS Visits The Istana.md
       - The Straits Times — 25 February 2021.md
