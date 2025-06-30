@@ -12,21 +12,21 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-|  | | |
+| [Sec 1 End of Year Exam Timetable](/files/Final__2025_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_Sec1.pdf) | | |
 |  |  |  |
 
 #### Secondary 2
 
 |  |  |  |
 |---|---|---|
-|  |  |  |
+| [Sec 2 End of Year Exam Timetable](/files/Final__2025_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_Sec2.pdf) |  |  |
 |  |  |  |
 
 #### Secondary 3
 
 |  |  |  |
 |---|---|---|
-| | |
+| [Sec 3 End of Year Exam Timetable](/files/Final__2025_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_Sec3.pdf) | |
 |  |  |  |
 
 ### Prelims (2024)
@@ -34,5 +34,5 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-| | | |
+| [N(A) Prelim Timetable](/files/Final__2025_PRELIM_EXAMINATION_TIMETABLE_Letter_to_Students_N_A_.pdf) | [Express Prelim Timetable](/files/Final__2025_PRELIM_EXAMINATION_TIMETABLE_Letter_to_Students_EXP.pdf) | [N(T) Prelim Timetable](/files/Final__2025_PRELIM_EXAMINATION_TIMETABLE_Letter_to_Students_N_T_.pdf) |
 |  |  |  |
