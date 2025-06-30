@@ -4,7 +4,7 @@ permalink: /useful-links/BMSS-Students/exam-timetable/
 description: ""
 variant: markdown
 ---
-### End-Of-Year Examination Timetable (2024)
+### End-Of-Year Examination Timetable (2025)
 
 (Click on the hyperlink to download the exam timetable of the level/stream)
 
@@ -29,7 +29,7 @@ variant: markdown
 | [Sec 3 End of Year Exam Timetable](/files/Final__2025_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_Sec3.pdf) | |
 |  |  |  |
 
-### Prelims (2024)
+### Prelims (2025)
 #### Secondary 4/5
 
 |  |  |  |
