@@ -5,6 +5,83 @@ description: ""
 third_nav_title: Our Achievements
 variant: tiptap
 ---
+<h5>2025 Achievements</h5>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>NUS Geography Challenge</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Semi-Finalist</p>
+<p>1 Gold Award</p>
+<p>1 Silver Award</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong International Model United Nations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Position Paper</p>
+<p></p>
+<p>Honourable Mention</p>
+<p>Delegate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EBS Amazing Race</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 15</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p></p>
 <h5>2024 Achievements</h5>
 <table style="minWidth: 75px">
 <colgroup>
@@ -147,8 +224,7 @@ NUS Geographical Society and supported by MOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>22<sup>nd</sup> National Secondary Schools Chinese Creative Writing Competition
-2024<strong> </strong>
-</p>
+2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>First Prize - (Lower Secondary)</p>
