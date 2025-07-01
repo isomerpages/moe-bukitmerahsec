@@ -33,7 +33,7 @@ variant: markdown
 | Muhammad Hisham Bin Anwar | Subject Head Nutrition &amp; Food Science/Assistant Year Head Upper Sec (Covering) | muhammad_hisham_anwar@schools.gov.sg |
 | Lim Kailin | Subject Head Chinese Language | lim_kailin@schools.gov.sg |
 | Fong Min Shi Chloe | Subject Head English Language | fong_min_shi@schools.gov.sg |
-| Loke Jia Yi | Subject Head PE &amp; CCA (Covering) | fong_min_shi@schools.gov.sg |
+| Loke Jia Yi | Subject Head PE &amp; CCA (Covering) | loke_jia_yi@schools.gov.sg |
 | Chian Yuan Lin | Subject Head Lower Secondary Science (Covering)  | chian_yuan_lin@schools.gov.sg |
 | Ong Min Li | Subject Head 21CC &amp; Student Leadership (Internal)  | ong_min_li@schools.gov.sg |
 | Subramanian s/o Annamalai  | Level Head Mathematics | subramanian_annamalai@schools.gov.sg |
