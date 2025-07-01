@@ -34,5 +34,5 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-| [N(A) Prelim Timetable](/files/Final__2025_PRELIM_EXAMINATION_TIMETABLE_Letter_to_Students_N_A_.pdf) | [Express Prelim Timetable](/files/Final__2025_PRELIM_EXAMINATION_TIMETABLE_Letter_to_Students_EXP.pdf) | [N(T) Prelim Timetable](/files/Final__2025_PRELIM_EXAMINATION_TIMETABLE_Letter_to_Students_N_T_.pdf) |
+| [N(A) Prelim Timetable](/files/Final__2025_PRELIM_EXAMINATION_TIMETABLE_Letter_to_Students_N_A__1Jul.pdf) | [Express Prelim Timetable](/files/Final__2025_PRELIM_EXAMINATION_TIMETABLE_Letter_to_Students_EXP.pdf) | [N(T) Prelim Timetable](/files/Final__2025_PRELIM_EXAMINATION_TIMETABLE_Letter_to_Students_N_T_.pdf) |
 |  |  |  |
