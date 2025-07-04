@@ -12,14 +12,14 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-| [Sec 1 End of Year Exam Timetable](/files/Final__2025_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_Sec1.pdf) | | |
+| [Sec 1 End of Year Timetable](/files/Final__2025_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_3Jul_S1.pdf) | | |
 |  |  |  |
 
 #### Secondary 2
 
 |  |  |  |
 |---|---|---|
-| [Sec 2 End of Year Exam Timetable](/files/Final__2025_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_Sec2.pdf) |  |  |
+| [Sec 2 End of Year Timetable](/files/Final__2025_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_3Jul_S2.pdf) |  |  |
 |  |  |  |
 
 #### Secondary 3
