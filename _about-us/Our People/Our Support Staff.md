@@ -38,6 +38,6 @@ variant: markdown
 | Ke Chyan Wen | School Counsellor | ke_chyan_wen@schools.gov.sg |
 | Yeo Wei Sze, Rachael| Senior School Counsellor | yeo_wei_sze_rachael@schools.gov.sg |
 | Michelle Lim Peck Hong | Lead Special Educational Needs Officer | michelle_lim_peck_hong@schools.gov.sg |
-| Nithiyasri Subramaniam | Special Educational Needs Officer | nithiyasri_subramaniam@schools.gov.sg |
+| Nithiyasri Subramaniam | Special Educational Needs Officer | nithiyasri_subramaniam_a@schools.gov.sg |
 | Joanne Yau Oi Lai | Student Welfare Officer| yau_oi_lai_joanne@schools.gov.sg |
 | Andrew Lum | Education &amp; Career Guidance Counsellor | lum_kah_wai_andrew_a@schools.gov.sg |
