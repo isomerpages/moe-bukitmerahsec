@@ -269,7 +269,7 @@ The Device Management Application (DMA) which will be installed in your child/wa
 	
 All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: <br><br>
 
-<a href="https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection">https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection</a>
+<a href="https://www.mddi.gov.sg/other-pages/personal-data-protection-laws-and-policies">https://www.mddi.gov.sg/other-pages/personal-data-protection-laws-and-policies</a>
 
 	
 </p>
