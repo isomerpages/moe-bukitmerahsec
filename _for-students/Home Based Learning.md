@@ -11,7 +11,7 @@ variant: markdown
 [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)<br>
 [SLS Login Troubleshooting Guide](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html)  
 
-Students are to log on the Singapore Student Learning Space ([http://learning.moe.edu.sg](http://learning.moe.edu.sg/)) to access instructions to lessons packages prepared by the teachers.
+Students are to log on the Singapore Student Learning Space ([https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)) to access instructions to lessons packages prepared by the teachers.
 
 **Home-Based Learning Schedule For Semester 1 (2025)**
 
