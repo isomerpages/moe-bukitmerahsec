@@ -18,4 +18,4 @@ variant: markdown
 | NDLP@BMSS Portal | [https://go.gov.sg/bmstudents](https://go.gov.sg/bmstudents) |
 | Google Mail | [https://gmail.google.com](https://gmail.google.com/) |
 | Google Classroom | [https://classroom.google.com](https://classroom.google.com/) |
-| Appointment with Mr Andrew (ECGC) | [http://go.gov.sg/bmssecg](http://go.gov.sg/bmssecg) |
+| Appointment with Mr Andrew (ECGC) | [https://go.gov.sg/ecgbmss](https://go.gov.sg/ecgbmss) |
