@@ -13,11 +13,11 @@ variant: markdown
 
 Students are to log on the Singapore Student Learning Space ([https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)) to access instructions to lessons packages prepared by the teachers.
 
-**Home-Based Learning Schedule For Semester 1 (2025)**
+**Home-Based Learning Schedule For Semester 2 (2025)**
 
 *Click on the link below to access the HBL timetable:*
 <br>
-[HBL Timetable for Semester 1 2025](/files/Sch_Website_HBL_Day_Schedule_2025_Sem_1.pdf)
+[HBL Semester 2 Timetable](/files/Sch_Website_HBL_Day_Schedule_2025_Serm_2_Updated.pdf)
 
 <br>
 
