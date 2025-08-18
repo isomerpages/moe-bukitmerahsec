@@ -6,6 +6,9 @@ variant: markdown
 ---
 ###  Parents Resources 
 
+**2025 Semester 2 Principal's Message**
+* [Principal Message for Semester 2 2025](/files/BMSS_2025_Semester_2_Principal_s_Message__Final_.pdf)
+
 **2025 Upper Sec Subject Combination**
 * [1. Principal Address Upper Sec Subj Comb Briefing 2025](/files/1__Principal_Address__Upper_Sec_Subj_Comb_Briefing_2025.pdf)
 * [2. Slides for Upper Sec Subject Combination.pdf](/files/2__Slides_for_Upper_Sec_Subject_Combi.pdf)
