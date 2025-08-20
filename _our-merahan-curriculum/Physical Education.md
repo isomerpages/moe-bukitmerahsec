@@ -15,7 +15,7 @@ variant: markdown
 *   Ms Neo Siew Eng (YH Lower Sec)
 *   Ms Loke Jia Yi (SH PE &amp; CCA (Covering))
 *   Mr Chua Chwee Guan Johnson
-*   Mr Lim Chun Leong (OM)
+
 
 **Department Vision**
 
