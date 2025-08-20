@@ -16,7 +16,7 @@ variant: markdown
 *   Mr Low Young Fei (2IC)
 *   Mr Tan Tua Choon
 *   Mr Dennis Lim (KP Advisor)
-*   Ms Suzanne Eng (KP Advisor)
+
 
 **Trainings**
 
