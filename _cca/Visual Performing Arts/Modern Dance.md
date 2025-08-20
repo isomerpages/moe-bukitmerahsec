@@ -17,6 +17,7 @@ variant: markdown
 *   Mrs Lim Guek Lee
 *   Mr Emmet Ng (Instructor)
 *   Mr Dan Kwoh (Instructor)
+*   Mr Zubi Kek (KP Advisor)
 
 
 **Trainings**
