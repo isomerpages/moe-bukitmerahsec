@@ -18,6 +18,7 @@ variant: markdown
 *   Mr Daryl Wang Jiale
 *   Mr Pang Boon Kiat Andy (Main Instructor)
 *   Mr Othman Bin Mohd Yusof (Assistant Instructor)
+*   Mr Zubi Kek (KP Advisor)
 
 
 **Trainings**

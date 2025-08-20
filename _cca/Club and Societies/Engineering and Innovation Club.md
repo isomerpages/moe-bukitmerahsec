@@ -13,10 +13,9 @@ variant: markdown
 **Teachers-in-charge**
 
 *   Mrs Goh Shumin (OIC)
-*   Mr Low Young Fei (2IC)
-*   Mr Tan Tua Choon
+*   Mr J Praveen Kumar
 *   Mr Dennis Lim (KP Advisor)
-*   Ms Suzanne Eng (KP Advisor)
+
 
 **Trainings**
 
