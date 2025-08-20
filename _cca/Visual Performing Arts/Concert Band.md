@@ -21,6 +21,7 @@ variant: markdown
 *   Mr Tan Yue Yuan \[Instructor (Clarinet)\]
 *   Mr Moo Wei Yang \[Instructor (Trumpet/ Brass)\]
 *   Mr Lim Ngee Cheng, Lewis \[Instructor (French Horn)\]
+*   Mr Zubi Kek (KP Advisor)
 
 **Trainings**
 
