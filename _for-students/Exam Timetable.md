@@ -26,7 +26,7 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-| [Sec 3 End of Year Exam Timetable](/files/Final__2025_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_Sec3.pdf) | |
+| [Sec 3 End of Year Exam Timetable](/files/Final__2025_EOY_EXAMINATION_TIMETABLE_Letter_to_Students_28_July___updated_Sec_3.pdf) | |
 |  |  |  |
 
 ### Prelims (2025)
