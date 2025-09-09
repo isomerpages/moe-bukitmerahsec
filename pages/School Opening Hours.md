@@ -2,12 +2,10 @@
 title: School Opening Hours
 permalink: /about-us/School-Information/school-opening-hours/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Turnstile Gate Opening / Closing Times (2024)
-
-
-
-&nbsp;<img src="/images/back_gate_2.jpg" style="width:90%">
- 
- _Updated as of 3 January 2024_
+<h3>Turnstile Gate Opening / Closing Times 2025</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/back_gate_2025.jpg">
+</div>
+<p>&nbsp;</p>
