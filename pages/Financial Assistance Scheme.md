@@ -22,7 +22,7 @@ Singapore Citizen students who wish to apply for financial assistance are requir
 
 Please ensure that the FAS application is accompanied by all relevant documents required by MOE.
 
-a) Hardcopy - [MOE FAS Hardcopy Form](/files/MOE_FAS_Application_Form_2025__BMSS_.pdf)
+a) Hardcopy - Link will be out soon
 
 Hardcopy form is required for:
 
@@ -32,7 +32,7 @@ Hardcopy form is required for:
 4. family with more than 3 grandparents in the household
 
 
-b) FormSG (e-FAS) ([https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas));
+b) FormSG (e-FAS) - Link will be out soon;
 
 Please prepare the required softcopy supporting documents before you begin completing the online application form. 
 
