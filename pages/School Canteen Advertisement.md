@@ -44,13 +44,13 @@ For individuals
 * Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP) or LTVP-Plus holder with Letter of Consent to work.
 * Non-Muslim applicant shall provide MUIS Halal Certification. A minimum of 1 or 2 Muslim staff members must be employed at the premises applying for the certification.
 * Able to provide good service and quality food/drinks at reasonable prices. Prices will be determined in consultation with the school.
-* Able to provide cooked food/drinks  that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link).
+* Able to provide cooked food/drinks  that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines ([see link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 * Food must be served hot.
 * Able to maintain high standard of food safety and personal hygiene. This includes complying with relevant authorities’ requirements and guidelines.
 * Healthy and fit to operate the stall.
 * Must be in personal attendance at the stall.
 * Preferably possess catering experience or experience operating in a school environment.
-* Able to comply with the latest Healthy Meals in Schools Programme (HMSP) guidelines. For more details, please refer HPB’s website @ HMSP
+* Able to comply with the latest Healthy Meals in Schools Programme (HMSP) guidelines. For more details, please refer HPB’s website @ [HMSP](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
 * Must be able to operate till 7:00 am to 3:00 during school terms
 * Stallholder may be required to operate on other days / time as required by the School.
 
