@@ -18,7 +18,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/2025_Post_Exam_Programme__Summary_.pdf" rel="noopener nofollow" target="_blank">Post Exam Programme</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
