@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Awards Nomination.md
       - National Digital Literacy/.keep
       - National Digital Literacy/About NDLP.md
       - National Digital Literacy/Acer Helpdesk Service Centre.md
@@ -12,3 +11,4 @@ collections:
       - Parents Gateway (PG).md
       - Parents Resources.md
       - Group Personal Accident Insurance Plan for Students.md
+      - Awards Nomination.md
