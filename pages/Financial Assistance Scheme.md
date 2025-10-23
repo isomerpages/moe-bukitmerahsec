@@ -13,29 +13,14 @@ Please visit the [MOE Financial Assistance Scheme](https://www.moe.gov.sg/finan
 **Eligibility Criteria**
 
 *   Student must be a Singapore citizen.
-*  The family’s gross total household income (GHI) does not exceed $3,000 per month; or
-*  The family’s per capita income (PCI) does not exceed $750 per month, where the PCI is computed based on the GHI divided by the number of household members.
+*   The family’s gross total household income (GHI) does not exceed $4,000 per month; or 
+* The family’s per capita income (PCI) does not exceed $1,000 per month, where the PCI is computed based on the GHI divided by the number of household members.
+
 
 **Application Procedure**
 
-Singapore Citizen students who wish to apply for financial assistance are required to complete the FAS Application Form either in hardcopy application form or via FormSG (e-FAS).
-
-Please ensure that the FAS application is accompanied by all relevant documents required by MOE.
-
-a) Hardcopy - Link will be out soon
-
-Hardcopy form is required for:
-
-1. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
-2. family with more than 6 children in GGAS
-3. family with more than 5 unmarried children not in GGAS
-4. family with more than 3 grandparents in the household
-
-
-b) FormSG (e-FAS) - Link will be out soon;
-
-Please prepare the required softcopy supporting documents before you begin completing the online application form. 
+Singapore Citizen students who wish to apply for financial assistance are required to submit the application online via this link: [https://go.gov.sg/moe-efasggas](https://go.gov.sg/moe-efasggas)
 
 Applications may be made throughout the year as exigencies of each family’s financial situation demand. Fresh applications will have to be submitted for each school year.
 
-* [MOE FAS Phamplet](/files/MOE_FAS_pamphlet_EL_CL_ML_TL.pdf)
+* [MOE FAS Phamplet](/files/MOE_FAS_Pamphlet_2026.pdf)
