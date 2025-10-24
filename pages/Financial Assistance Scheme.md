@@ -23,4 +23,4 @@ Singapore Citizen students who wish to apply for financial assistance are requir
 
 Applications may be made throughout the year as exigencies of each family’s financial situation demand. Fresh applications will have to be submitted for each school year.
 
-* [MOE FAS Phamplet](/files/MOE_FAS_Pamphlet_2026.pdf)
+* [MOE FAS Pamphlet 2026](/files/MOE_FAS_Pamphlet_2026_Final.pdf)
