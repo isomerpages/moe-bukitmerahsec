@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-###  St John Brigade 
+###  National Civil Defence Cadet Corps
 
 
 
