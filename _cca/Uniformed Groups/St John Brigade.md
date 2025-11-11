@@ -7,7 +7,6 @@ variant: markdown
 ---
 ###  St John Brigade 
 
-<img src="/images/sjb group.jpg" style="width:60%, align:left">
 
 
 **Teachers-in-charge**
