@@ -264,7 +264,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>4 Bronze</p>
 <p>4 Silver</p>
-<p>1 Honourable Mention</p>
+<p>1 Honorable Mention</p>
 </td>
 </tr>
 <tr>
@@ -603,97 +603,4 @@ NUS Geographical Society and supported by MOE)</p>
 </tbody>
 </table>
 <hr>
-<p></p>
-<h5>2022 Achievements</h5>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Department</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICAS Science Assessment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 High Distinction, 2 Distinctions, 15 Credit and 5 Merits</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Inter-Schools Gymnastics Championship 2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>C' Division Girls Artistic Gymnastics - Overall 5th
-<br>
-<br>'C' Division Boys Artistic Gymnastics - Overall 2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Math Kangaroo Contest (SMKC)
-<br>
-<br>Singapore and Asian Schools Math Olympiad (SASMO)
-<br>
-<br>All Singapore Secondary Mathematics Competition for Normal Course Students
-(ASMC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Bronze, 2 Silver, 3 Gold
-<br>
-<br>
-</p>
-<p>4 Bronze, 4 Silver
-<br>
-<br>
-<br>
-</p>
-<p>8th position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Historical Scene Investigation Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS Geography Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
