@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Parents Support Group
 
-<img src="/images/psg4.png" style="width:60">  
+<img src="/images/New_BM_PSG_Logo.png" style="width:60">  
 
 
 #### Vision
@@ -29,14 +29,14 @@ To enhance and encourage parents’ participation in the Parents’ Support Grou
 
 ### PSG Activities
 
-[BMSS PSG Slides](/files/psg.pdf)
+[BMSS PSG Slides](/files/BM_PSG_Slides.pdf)
 
 #### Membership
 
 Sign up as a member of BMSS Parents’ Support Group&nbsp;[**here.**](https://go.gov.sg/bmpsgregistration)  
 Or scan the QR code below!
 
-<img src="/images/psg3.png" style="width:60%">
+<img src="/images/PSG_code.png" style="width:60%">
 
 #### Contact Us
 
