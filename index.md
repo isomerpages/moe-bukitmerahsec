@@ -19,7 +19,7 @@ sections:
       title: BM Footprints Open House
       subtitle: Join us
       id: infopic
-      description: Saturday, 22 November 2025 9.00am to 1.00pm
+      description: Saturday, 22 November 2025 from 9.00am to 1.00pm
       image: /images/BMSS_Open_House_Flyer_Design_2026.jpg
       alt: Image alt text
 ---
