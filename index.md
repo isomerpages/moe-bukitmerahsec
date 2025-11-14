@@ -4,7 +4,7 @@ title: Bukit Merah Secondary School
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: Join us for our BM Footprints Open House on 22 November 2025, 9.00am to 1.00pm
 sections:
   - hero:
       background: /images/New Website Banner copy.jpg
