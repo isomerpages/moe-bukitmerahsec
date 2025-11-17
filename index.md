@@ -15,4 +15,7 @@ sections:
         - title: Students
           description: Information for Students
           url: /for-students/school-timetable/
+        - title: Open House 2025
+          description: BM Footprints
+          url: /bmss-open-house25/
 ---

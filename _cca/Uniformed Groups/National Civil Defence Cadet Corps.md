@@ -1,13 +1,12 @@
 ---
-title: St John Brigade
-permalink: /cca/Uniformed-Groups/st-john-brigade/
+title: National Civil Defence Cadet Corps
+permalink: /cca/uniformed-groups/ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-###  St John Brigade 
+###  National Civil Defence Cadet Corps
 
-<img src="/images/sjb group.jpg" style="width:60%, align:left">
 
 
 **Teachers-in-charge**
@@ -29,7 +28,7 @@ variant: markdown
 **Venues**
 
 *   Classrooms H2-3, H2-4 &amp; H2-5
-*   St John Brigade Rooms at CCA Hub
+*   NCDCC Rooms at CCA Hub
 
 Cadets may be required to attend compulsory courses, Values-In- Action projects, public duties and HQ events on some weekends. These events will count towards their CCA performance and are required for the cadets’ promotion and development. In such cases, notification letters will be issued to the parents/guardian.
 

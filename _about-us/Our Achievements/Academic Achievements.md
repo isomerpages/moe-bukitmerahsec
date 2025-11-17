@@ -36,6 +36,7 @@ variant: tiptap
 <p>Semi-Finalist</p>
 <p>1 Gold Award</p>
 <p>1 Silver Award</p>
+<p>1 student selected for MOE Geography Talent Development Programme</p>
 <p></p>
 <p></p>
 <p></p>
@@ -63,8 +64,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Best Position Paper</p>
 <p></p>
-<p>Honourable Mention</p>
-<p>Delegate</p>
+<p>Honourable Mention Delegate</p>
 </td>
 </tr>
 <tr>
@@ -76,6 +76,228 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE History Talent Development Program</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 students selected for MOE History Talent Development Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Historical Scene Investigation Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 School Cluster “Voice and Laughter Heroes” Dubbing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold Award (mixed schools)</p>
+<p>1 Silver Award (mixed schools)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Students’ Calligraphy Competition 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Excellent Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9th National Chinese Poetry Writing Competition 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Outstanding Performance Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30th National Mandarin Oratorical Competition for Sec Schools 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Outstanding Performance Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 School Cluster Malay Translation Learning Journey and Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st place (mixed schools)</p>
+<p>2nd place (mixed schools)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language &amp; Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Schools Literature Festival - Flash Fiction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation Award (Lower Secondary category)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SINGAPORE MATH KANGAROO CONTEST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Gold</p>
+<p>8 Silver</p>
+<p>15 Bronze</p>
+<p>5 Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SINGAPORE AND ASIAN SCHOOLS MATH OLYMPIADS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Gold</p>
+<p>3 Silver</p>
+<p>7 Bronze</p>
+<p>3 Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SINGAPORE MATHEMATICS OLYMPIAD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver</p>
+<p>3 Bronze</p>
+<p>5 Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Craft and Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 NFS Cluster Schools Cooking Competition 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Runner-Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICAS Science 2025 (Sec 1 -3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 Merits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Biology Olympiad 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Bronze</p>
+<p>4 Silver</p>
+<p>1 Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National AI Student Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Questa Badge (by Singapore Science Centre)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Silver badges</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Young Physicists’ Tournament (SYPT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Poster Presentation - Merit</p>
 </td>
 </tr>
 </tbody>
@@ -381,97 +603,4 @@ NUS Geographical Society and supported by MOE)</p>
 </tbody>
 </table>
 <hr>
-<p></p>
-<h5>2022 Achievements</h5>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Department</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICAS Science Assessment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 High Distinction, 2 Distinctions, 15 Credit and 5 Merits</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Inter-Schools Gymnastics Championship 2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>C' Division Girls Artistic Gymnastics - Overall 5th
-<br>
-<br>'C' Division Boys Artistic Gymnastics - Overall 2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Math Kangaroo Contest (SMKC)
-<br>
-<br>Singapore and Asian Schools Math Olympiad (SASMO)
-<br>
-<br>All Singapore Secondary Mathematics Competition for Normal Course Students
-(ASMC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Bronze, 2 Silver, 3 Gold
-<br>
-<br>
-</p>
-<p>4 Bronze, 4 Silver
-<br>
-<br>
-<br>
-</p>
-<p>8th position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Historical Scene Investigation Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS Geography Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
