@@ -2,7 +2,6 @@ collections:
   our-merahan-curriculum:
     output: true
     order:
-      - Character & Citizenship Education.md
       - English Language & Literature.md
       - Mathematics.md
       - Science.md
@@ -11,3 +10,4 @@ collections:
       - Craft & Technology.md
       - Physical Education.md
       - Infocomm Technology.md
+      - Character & Citizenship Education.md
