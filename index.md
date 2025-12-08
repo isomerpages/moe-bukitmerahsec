@@ -18,7 +18,4 @@ sections:
         - title: Open House 2025
           description: BM Footprints
           url: /bmss-open-house25/
-        - title: Sec 1 Registration
-          description: For 2026
-          url: https://sites.google.com/moe.edu.sg/bmsssec1registration2026/home
 ---
