@@ -15,7 +15,6 @@ MOE launched the National Digital Literacy Programme (NDLP) for our schools and 
 
 Students from PDLP Pilot schools sharing their experiences learning with a personal learning device.
 
-<iframe width="776" height="510" src="https://www.youtube.com/embed/atVkNBXMVnY" title="Digital Literacy – Students’ Voxpop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### Personalised Digital Learning Programme (PDLP) in BMSS
 
@@ -322,7 +321,7 @@ Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. 
 
 #### Acceptable Use Policy
 
-Refer to Acceptable Use Policy [here](/files/BMSS%20AUP%20(20210401).pdf)
+Refer to Acceptable Use Policy [here](/files/Acceptable_Use_Policy_Handbook_28Oct2025.pdf)
 
 #### Parent Briefing Slides / Q&amp;A Response
 
