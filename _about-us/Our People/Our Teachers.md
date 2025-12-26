@@ -88,9 +88,9 @@ variant: tiptap
 <p>1R2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fang Swee Foong (Anthony)
-<br>
-<br>Ng Hui Ling</p>
+<p>Fang Swee Foong (Anthony)</p>
+<p></p>
+<p>Ng Hui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>fang_swee_foong@schools.gov.sg
@@ -105,7 +105,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ng Shuping (Faith)
 <br>
-<br>Selvarani Jeyaraj Manoharan</p>
+</p>
+<p>Selvarani Jeyaraj Manoharan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_shuping@schools.gov.sg
@@ -464,8 +465,8 @@ variant: tiptap
 <br>Muhammad Hisham Bin Anwar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mendiola_diana_jeane_bautista@schools.gov.sg
-<br>
+<p>mendiola_diana_jeane_bautista@schools.gov.sg</p>
+<p>
 <br>muhammad_hisham_anwar@schools.gov.sg</p>
 </td>
 </tr>
