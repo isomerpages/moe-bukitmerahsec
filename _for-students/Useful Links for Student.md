@@ -11,9 +11,8 @@ variant: markdown
 | MIMS Portal | [https://portal.mims.moe.gov.sg/idmdash](https://portal.mims.moe.gov.sg/idmdash) |
 | Student iCON | [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) |
 | Student Learning Space | [https://learning.moe.edu.sg](https://learning.moe.edu.sg/) |
-| Profiling Form | [https://for.edu.sg/bmssprofiling2025](https://for.edu.sg/bmssprofiling2025) |
-| BM Student Portal | [https://go.gov.sg/bmsp](https://go.gov.sg/bmsp) |
-| BM Term 1 Check In Survey | [https://for.edu.sg/term1survey2025](https://for.edu.sg/term1survey2025) |
+| Profiling Form | [https://for.edu.sg/bmssprofiling2026](https://for.edu.sg/bmssprofiling2025) |
+| BM Term 1 Check In Survey | [https://for.edu.sg/term1survey2026](https://for.edu.sg/term1survey2025) |
 | Character Strength Survey | [https://www.viacharacter.org](https://www.viacharacter.org/) |
 | NDLP@BMSS Portal | [https://go.gov.sg/bmstudents](https://go.gov.sg/bmstudents) |
 | Google Mail | [https://gmail.google.com](https://gmail.google.com/) |
