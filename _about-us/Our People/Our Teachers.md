@@ -6,6 +6,9 @@ third_nav_title: Our People
 variant: markdown
 ---
 #### Secondary 1 Level Teachers
+|  |  |  | 
+|:---:|:---:|:---:|
+| Year Head Lower Sec | Yap Chin Hua | cheong_wai_yin_flora@schools.gov.sg  ||||
 
 | Class | Form Teachers | Email | 
 |:---:|:---:|:---:|
@@ -42,10 +45,10 @@ variant: markdown
 | 3S4 | Lui Meng Whye | lui_meng_whye@schools.gov.sg |
 | 3S5 | Qin ZhenZhen | qin_zhenzhen@schools.gov.sg |
 | 3S6 | Tay Fang Lin (Catherine)| tay_fang_lin@schools.gov.sg |
-| Non-Form Teachers | Phang Kay Yen <br><br> Yvonne Lee <br><br> Lim Guek Lee|phang_kay_yen@schools.gov.sg <br><br>  <br><br> tan_guek_lee@schools.gov.sg
+| Non-Form Teachers | Phang Kay Yen <br><br> Yvonne Lee <br><br> Lim Guek Lee|phang_kay_yen@schools.gov.sg <br><br>lee_hwee_choo@schools.gov.sg  <br><br> tan_guek_lee@schools.gov.sg
 |  |  |  |
 
-#### Secondary 4 Level Teachers 
+#### Secondary 4&amp;5 Level Teachers 
 
 | Class | Form Teachers | Email |
 |:---:|:---:|:---:|
@@ -56,20 +59,5 @@ variant: markdown
 | 4E5| Ng Hsueh Mei<br><br>Leow Li Quin| ng_hsueh_mei@schools.gov.sg<br><br>leow_li_quin@schools.gov.sg|
 | 4E6 | Chloe Fong <br><br>Terry Xiao | fong_min_shi@schools.gov.sg <br><br>terry_xiao@schools.gov.sg|
 | 5N1 | Nurul Syazwany | nurul_syazwany_mohd_saleh@schools.gov.sg |
-| Non-Form Teachers| Lim Lay Eng <br><br> Joe Lim <br><br> Jason Tan| lim_lay_eng@schools.gov.sg <br><br>  <br><br>jason_tan_soon_peng@schools.gov.sg
-|  |  |  |
-
-
-#### Secondary 4 Level Teachers
-
-| Class | Form Teachers | Email |
-|:---:|:---:|:---:|
-| 4E1 |  <br><br> |  <br><br> |
-| 4E2 |<br><br> | <br><br> |
-| 4E3 | <br><br> | <br><br> |
-| 4E4 | <br><br> | <br><br>|
-| 4E5 | <br><br> |<br><br> |
-| 4E6 |  <br><br>|  <br><br> |
-| 5N1 |  |  |
-| Non-Form Teachers|  | 
+| Non-Form Teachers| Lim Lay Eng <br><br> Joe Lim <br><br> Jason Tan| lim_lay_eng@schools.gov.sg <br><br> lim_sing_gee@schools.gov.sg <br><br>jason_tan_soon_peng@schools.gov.sg
 |  |  |  |
