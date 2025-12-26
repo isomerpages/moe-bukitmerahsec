@@ -93,9 +93,9 @@ variant: tiptap
 <p>Ng Hui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fang_swee_foong@schools.gov.sg
-<br>
-<br>ng_hui_ling@schools.gov.sg</p>
+<p>fang_swee_foong@schools.gov.sg</p>
+<p></p>
+<p>ng_hui_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -637,9 +637,9 @@ variant: tiptap
 <br>Nurhayati Bte Mohamad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_chwee_guan_johnson@schools.gov.sg
-<br>
-<br>nurhayati_mohamad@schools.gov.sg</p>
+<p>chua_chwee_guan_johnson@schoools.gov.sg</p>
+<p></p>
+<p>nurhayati_mohamad@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
