@@ -95,6 +95,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>fang_swee_foong@schools.gov.sg</p>
 <p></p>
+<p></p>
 <p>ng_hui_ling@schools.gov.sg</p>
 </td>
 </tr>
@@ -109,8 +110,8 @@ variant: tiptap
 <p>Selvarani Jeyaraj Manoharan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_shuping@schools.gov.sg
-<br>
+<p>ng_shuping@schools.gov.sg</p>
+<p>
 <br>selvarani_jeyaraj_manoharan@schools.gov.sg</p>
 </td>
 </tr>
@@ -212,21 +213,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head
-<br>Lower Sec</p>
-<p></p>
 <p>Assistant Year Head
 <br>Lower Sec (Covering)</p>
+<p></p>
+<p>Year Head
+<br>Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yap Chin Hua</p>
-<p></p>
 <p>Yeo Jun Zhong</p>
+<p></p>
+<p>Yap Chin Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yap_chin_hua@schools.gov.sg</p>
-<p></p>
 <p>yeo_jun_zhong@schools.gov.sg</p>
+<p></p>
+<p>yap_chin_hua@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

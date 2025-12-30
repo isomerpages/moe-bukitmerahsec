@@ -21,23 +21,35 @@ variant: markdown
 
 **Trainings**
 
+For Term 1 Week 1 and Week 2:
+
+| Date | Time | Venue|
+| -------- | -------- | -------- |
+| 7 Jan     | 2:40 – 4:10pm    | All Boys (ISH)     |
+| 9 Jann     | 1:30 – 3:30pm    | All Girls (ISH)    |
+| 12 Jan    | 3:00 – 5:30pm    | All Girls (Hall)<br>All Boys (ISH)    |
+| 14 Jan    | 2:40 – 4:10pm    | All Girls (Hall)<br>All Boys (ISH)    |
+|||
+
+
+From Term 1 Week 3 onwards (19 January onwards):
+
 Mondays:
 
-*   3pm - 5:30pm (School Team Girls) (School Hall)
-*   3pm - 5:30pm (School Team Boys) (ISH)
-    
-*(*Optional for non-school team players*) <br><br>
-
+*   3pm - 5:30pm (All Boys) (ISH)
+   
 
 Wednesdays:
 
-*   2:40pm – 4:40pm (All Girls) (School Hall)
-*   2:40pm – 4:10pm (All Boys) (School ISH)
+*   2:40pm – 5:10pm (All Girls) (ISH)
+
 
 Fridays:
 
-*   1:30pm – 3:30pm (All Girls) (ISH)
-*   3:30pm – 5:30pm (All Boys) (ISH)
+*   1:30pm - 3:30pm (School Team Girls) (ISH)<br>
+*Optional for non-school team players*
+*   3:30pm - 5:30pm (School Team Boys) (ISH)<br>
+*Optional for non-school team players*
 
 
 **Venues:**
