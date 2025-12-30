@@ -24,7 +24,7 @@ variant: markdown
 | Yap Chin Hua | Year Head Lower Sec |  yap_chin_hua@schools.gov.sg|
 | Neo Siew Eng | Year Head Upper Sec | neo_siew_eng@schools.gov.sg |
 | Yeo Jun Zhong | Assistant Year Head Lower Sec (Covering)|  yeo_jun_zhong@schools.gov.sg|
-| Janelle Tay | Assistant Year Head Upper Sec (Covering) | tay_siew_hoon_c@schools.gov.sg |
+| Janelle Tay | Assistant Year Head Upper Sec | tay_siew_hoon_c@schools.gov.sg |
 | Ho Shumin | Level Head ICT (Covering) | ho_shumin@schools.gov.sg |
 | Subramanian s/o Annamalai  | Level Head Mathematics | subramanian_annamalai@schools.gov.sg |
 | Giselle Maria Rai | Level Head Student Management (Internal) | giselle_maria_illesinghe@schools.gov.sg |
@@ -36,7 +36,7 @@ variant: markdown
 | Chian Yuan Lin | Subject Head Lower Secondary Science | chian_yuan_lin@schools.gov.sg |
 | Muhammad Hisham Bin Anwar | Subject Head Nutrition &amp; Food Science | muhammad_hisham_anwar@schools.gov.sg |
 | Loke Jia Yi | Subject Head PE &amp; CCA | loke_jia_yi@schools.gov.sg |
-| Leung Sin Yung | Subject Social Studies | leung_sin_yung@schools.gov.sg |
+| Leung Sin Yung | Subject Head Social Studies | leung_sin_yung@schools.gov.sg |
 | Au Yong Kok Soon | Subject Head Student Well-Being | au_yong_kok_soon@schools.gov.sg |
 | Lui Yan Ling, Esther | Lead Teacher (Biology) | lui_yan_ling_esther@schools.gov.sg |
 | Sriwanty Bte Ramli | Senior Teacher (History) | sriwanty_ramli@schools.gov.sg |
