@@ -408,21 +408,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head
-<br>Upper Sec</p>
-<p></p>
 <p>Assistant Year Head
 <br>Upper Sec</p>
+<p></p>
+<p>Year Head
+<br>Upper Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neo Siew Eng</p>
-<p></p>
 <p>Janelle Tay</p>
+<p></p>
+<p>Neo Siew Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>neo_siew_eng@schools.gov.sg</p>
-<p></p>
 <p>tay_siew_hoon_c@schools.gov.sg</p>
+<p></p>
+<p>neo_siew_eng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

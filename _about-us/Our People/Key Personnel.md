@@ -214,7 +214,7 @@ variant: tiptap
 <p>Ho Shumin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head ICT (Covering)</p>
+<p>Subject Head ICT (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ho_shumin@schools.gov.sg</p>
