@@ -4,7 +4,12 @@ permalink: /for-parents/resources/
 description: ""
 variant: markdown
 ---
-###  Parents Resources 
+###  Parents 
+
+**2026 Semester 1 Principal's Message**
+* [Principal Message for Semester 1 2026](/files/BMSS_2026_Semester_1_Principal_s_Message_v2.pdf)
+
+<hr>
 
 **2025 Semester 2 Principal's Message**
 * [Principal Message for Semester 2 2025](/files/BMSS_2025_Semester_2_Principal_s_Message__Final_.pdf)
