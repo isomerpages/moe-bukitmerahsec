@@ -73,12 +73,12 @@ variant: tiptap
 <p>1R1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neo Hock Keng
+<p>Neo Hock Kheng
 <br>
 <br>Looi Tse Theng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>neo_hock_keng@schools.gov.sg
+<p>neo_hock_kheng@schools.gov.sg
 <br>
 <br>looi_tse_theng@schools.gov.sg</p>
 </td>
