@@ -127,7 +127,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>tan_wai_hong@schools.gov.sg
 <br>
-<br>eunice_teo@schools.gov.sg</p>
+<br>teo_wei_ting_eunice@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
