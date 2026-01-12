@@ -34,6 +34,8 @@ banding groups.</p>
 <p>| Sec 3 | <a href="/files/Sec_3_Group_2026.pdf" rel="noopener nofollow" target="_blank">Old Sec 3 Timetable</a> |</p>
 <p><strong>SECONDARY 4 &amp;amp; 5 TIMETABLE</strong>
 </p>
-<p></p>
 <p>| Sec 4 | <a href="/files/Sec_4_Group_2026.pdf" rel="noopener nofollow" target="_blank">Old Sec 4 Timetable</a> |</p>
-<p>| 5N1 | [Sec 5 Timetable](/files/Sec_5_2026.pdf) |</p>
+<p>| Sec 5 | <a href="/files/Sec_5_2026.pdf" rel="noopener nofollow" target="_blank">Old Sec 5 Timetable</a> |</p>
+<p></p>
+<p></p>
+<p></p>
