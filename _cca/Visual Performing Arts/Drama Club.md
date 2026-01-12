@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Visual Performing Arts
 variant: markdown
 ---
-### Drama Club
+### Drama Club - (Train. Transform. Perform)
+
 
 <img src="/images/cca24.png" style="width:80%,align:left">
 
@@ -23,7 +24,7 @@ variant: markdown
 **Trainings**
 
 *   Wednesday: 2:40pm – 5:40pm
-*   Friday: 1:30pm – 4:30pm (Selected Groups of students)
+*   Friday: 1:40pm – 4:40pm (Selected students)
 
 
 **Venues**
