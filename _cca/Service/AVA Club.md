@@ -13,7 +13,7 @@ variant: markdown
 **Teachers-in-charge**
 
 *   Ms Chen Ying (OIC)
-*   Ms Dasrshan Kaur
+*   Ms Darshan Kaur
 *   Mr Jayakumar
 *   Mr Zubi Kek (KP Advisor)
 
