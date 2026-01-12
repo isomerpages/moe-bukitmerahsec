@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual Performing Arts
 variant: markdown
 ---
-### Drama Club - (Train. Transform. Perform)
+### Drama Club - Train. Transform. Perform
 
 
 <img src="/images/cca24.png" style="width:80%,align:left">
