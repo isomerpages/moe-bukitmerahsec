@@ -13,15 +13,15 @@ variant: markdown
 **Teachers-in-charge**
 
 *   Ms Chen Ying (OIC)
-*   Ms Jasmine Ng Hui Shan
-*   Mr Tan Phuay Heng
+*   Ms Dasrshan Kaur
+*   Mr Jayakumar
 *   Mr Zubi Kek (KP Advisor)
 
 **Trainings**
 
-* Friday:  12:45pm – 1:15pm
+* Friday:  12:50pm – 1:30pm
 
-* Monday – Friday: 7:10am and during Special Functions
+* Monday – Friday: 7:00am and during Special Functions
 
 **Activities**
 
