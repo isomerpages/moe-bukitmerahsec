@@ -14,8 +14,8 @@ variant: markdown
 
 *   Mrs Tan Wai Ping (OIC)
 *   Mr Anthony Fang
-*   Mdm Chen Jing
-*   Mr Dennis Lim (KP Advisor)
+*   Mr Mathhew Ng
+*   Ms Loke Jia Yi(KP Advisor)
 
 **Trainings**
 
@@ -33,6 +33,6 @@ variant: markdown
 **Activities**
 
 *   Entrepreneurship opportunities – Appreciation Sale, Teachers’ Day Sale
-*   Enrichment Programmes – Crafting workshops
-*   Entrepreneurship workshop by SNCF
-*   Intergroup Projects – Poster Design
+*   Enrichment Programmes – Crafting workshops, Upcycling and sustainable environment-related workshops
+*   Intergroup Projects – Poster Design, Brainstorm for items to sell
+*   Competition – Young Trailblazers 

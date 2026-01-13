@@ -15,6 +15,7 @@ MOE launched the National Digital Literacy Programme (NDLP) for our schools and 
 
 Students from PDLP Pilot schools sharing their experiences learning with a personal learning device.
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/atVkNBXMVnY?si=65M9okeEA7lCvI4N" height="315" width="560"></iframe>
 
 #### Personalised Digital Learning Programme (PDLP) in BMSS
 
@@ -73,9 +74,9 @@ Acer TravelMate is a portable device that offers students convenient learning on
 <p>
 
 
-To ensure the affordability of devices, MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023, to all eligible Singaporean students in primary and secondary schools. 
+To ensure the affordability of devices, MOE provided a $500 Edusave top-up for students aged 13-16 years old. This is on top of the annual Edusave contribution of $290 for secondary school students and $230 for primary school students
 
-This is on top of the annual $290 credited into the Edusave account for Secondary School students and $230 for Primary School students.<br><br>
+This is on top of the annual Edusave contribution of $290 for secondary school students and $230 for primary school students.<br><br>
 
 
 For students who need additional support, complete and submit the attached form and supporting income documents to the General Office.<br><br>
@@ -83,7 +84,7 @@ For students who need additional support, complete and submit the attached form 
 <a href="/files/Application-form-for-PDLP-Subsidy-BMSS%20-%202023.pdf">Please click here to download the form.</a>  <br><br>
 	
 
-Application is open to all students whose Gross Household Income (GHI) ≤ $3000 or Per Capita Income (PCI) ≤ $750. PCI is GHI divided by the number of household members. Students on MOE Financial Assistance Scheme or School-Based Financial Assistance Scheme do not need to apply for this as they will automatically be granted the subsidy by the school.. <br><br>
+Application is open to all students whose Gross Household Income (GHI) ≤ $4000 or Per Capita Income (PCI) ≤ $1000. PCI is GHI divided by the number of household members. Students on MOE Financial Assistance Scheme or School-Based Financial Assistance Scheme do not need to apply for this as they will automatically be granted the subsidy by the school.. <br><br>
 
 
 </p>
