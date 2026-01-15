@@ -15,7 +15,7 @@ variant: markdown
 
 *   Ms Giselle Maria Ria (OIC)
 *   Ms Mendiola Diana Jeane Bautista
-*   Ms Ms Jeyaraj Manoharan Selvarani
+*   Ms Jeyaraj Manoharan Selvarani
 *   Mr Pang Boon Kiat Andy (Main Instructor)
 *   Mr Othman Bin Mohd Yusof (Assistant Instructor)
 *   Mr Zubi Kek (KP Advisor)
