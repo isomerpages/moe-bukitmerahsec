@@ -15,8 +15,8 @@ variant: markdown
 **Teachers-in-charge**
 
 *   Ms Faith Ng Shu Ping (OIC)
-*   Mr Lim Rong Hua Eric (2IC)
-*   Ms Chew Min En, Lydia
+*   Ms Chew Min En, Lydia (2IC)
+*   Mr Lim Rong Hua Eric
 *   Mr Manikandan S/O Suresh Kumar
 *   Mr Zubi Kek (KP Advisor)
 
