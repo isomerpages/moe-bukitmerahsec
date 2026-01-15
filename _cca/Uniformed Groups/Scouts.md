@@ -7,9 +7,9 @@ variant: markdown
 ---
 ### Scouts
 
-<img src="/images/scout group2.jpg" style="width:60%,align:left">
-
-<img src="/images/scout group.jpg" style="width:100%">
+<img src="/images/scouts20261.jpg" style="width:60%,align:left">
+<br>
+<img src="/images/scouts2026.jpg" style="width:100%">
 
 
 **Teachers-in-charge**
