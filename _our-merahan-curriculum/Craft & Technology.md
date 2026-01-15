@@ -6,19 +6,19 @@ variant: markdown
 ---
 ### Craft and Technology
 
-<img src="/images/craft_and_technology_department_i.jpg" style="width:80%">
+<img src="/images/cnt2026.jpg" style="width:80%">
 
 **Department Teachers**
 
 *   Mr Lim Chee Khern Dennis (HOD Craft &amp; Technology)
-*   Mr Muhammad Hisham Bin Anwar (SH NFS/Assist YH Upper Sec (Covering))
+*   Mr Yeo Jun Zhong (Assisstant Year Head Lower Sec (Covering))
+*   Mr Muhammad Hisham Bin Anwar (SH NFS)
 *   Mr Quek Jia Liang
 *   Mrs Tay Fang Lin Catherine 
 *   Mr Shahrizal Bin Salim 
 *   Ms Tan Wai Hong 
 *   Ms Flora Cheong 
 *   Mdm Rosnani Bte Said
-*   Mr Yeo Jun Zhong
 *   Ms Chen Ying
 *   Ms Lim Mei-Chin Eleanor
 *   Mr Chua Eng Chiong (STEM Instructor (Workshop))
