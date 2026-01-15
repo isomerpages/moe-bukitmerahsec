@@ -6,12 +6,12 @@ variant: markdown
 ---
 ### Infocomm Technology
 
-<img src="/images/infocomm_technology_department_2.jpg" style="width:80%">
+<img src="/images/ict2026.jpg" style="width:80%">
 
 **Department Teachers**
 
-*   Mr Chee Kwok Seng Jereme (HOD ICT/Student Management (Covering))
-*   Mr Lui Meng Whye
+*   Mr Chee Kwok Seng Jereme (LH Student Management/HOD ICT (Covering))
+*   Ms Jasmine Ng
 *   Ms Looi Tse Heng
 *   Mr Jason Tan Soon Peng
 *   Mr Muhamad Haikal Bin Razali (ICT Manager)

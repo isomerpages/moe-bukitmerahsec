@@ -6,14 +6,14 @@ variant: markdown
 ---
 ### Humanities
 
-<img src="/images/humanities_department_i.jpg" style="width:80%">
+<img src="/images/human2026.jpg" style="width:80%">
 
 **Department Teachers**
 
 *   Mdm Kua See Hong (HOD Humanities)
 *   Ms Sriwanty Bte Ramli (ST History)
-*   Mr Ken Hu Jinyuan (Assistant YH Lower Sec)
-*   Ms Giselle Maria Rai (LH Student Management (Covering))
+*   Ms Leung Sin Yung (SH Social Studies)
+*   Ms Giselle Maria Rai (LH Student Management (Internal))
 *   Mr Fang Swee Foong Anthony
 *   Ms Ng Hsueh Mei
 *   Mr Ho Wing Leong David

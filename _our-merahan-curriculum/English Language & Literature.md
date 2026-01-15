@@ -6,16 +6,15 @@ variant: markdown
 ---
 ### English Language and Literature
 
-&nbsp;<img src="/images/english_language_and_literature_department_I.jpg" style="width:80%">  
+&nbsp;<img src="/images/el2026.jpg" style="width:80%">  
  
  **Department Teachers**
 
 *   Mdm Leow Ser Leng (HOD EL)
-*   Ms Lee Siew Yong Loretta (SSD)
 *   Ms Fong Min Shi Chloe (SH EL)
 *   Ms Kong Yin Ling Adeline (ST EL)
 *   Mdm Leow Li Quin (ST EL &amp; Literature)
-*   Ms Giselle Maria Rai (LH Student Management (Covering))
+*   Ms Giselle Maria Rai (LH Student Management (Internal))
 *   Mr Lim Rong Hua Eric
 *   Ms Darshan Kaur
 *   Ms Ng Shuping Faith

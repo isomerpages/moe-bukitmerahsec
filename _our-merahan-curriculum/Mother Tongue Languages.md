@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Mother Tongue Languages
 
-<img src="/images/mother_tongue_languages_and_aesthetics_department_i.jpg" style="width:80%">  
+<img src="/images/mtl2026.jpg" style="width:80%">  
 
 **Department Teachers**
 
@@ -19,7 +19,6 @@ variant: markdown
 *   Mdm Qin Zhenzhen
 *   Ms Ng Hui Ling
 *   Mr Neo Hock Kheng
-*   Mdm Chen Jing
 *   Mr Lim Sing Gee
 *   Mr Rosli Bin Hamim
 *   Ms Nurul Syazwany

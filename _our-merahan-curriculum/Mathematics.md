@@ -6,26 +6,26 @@ variant: markdown
 ---
 ### Mathematics
 
-<img src="/images/mathematics_department_i.jpg" style="width:80%">  
+<img src="/images/math2026.jpg" style="width:80%">  
 
 **Department Teachers**
 
 *   Mr Wun Boon Leng (HOD Math)
-*   Ms Neo Siew Eng (Year Head Lower Sec)
-*   Mr Jereme Chee (HOD ICT/Student Management (Covering))
+*   Ms Neo Siew Eng (Year Head Upper Sec)
+*   Mr Jereme Chee (LH Student Management/HOD ICT (Covering))
+*   Ms Loke Jia Yi (SH PE (Covering))
 *   Mr Subramanian s/o Annamalai (LH Math)
-*   Ms Phang Kay Yen (ST Math)
 *   Mr Lee Tzi Wei Gaius (ST Physics)
+*   Ms Phang Kay Yen
 *   Ms Lim Lay Eng
 *   Ms Tan Sheng Xian
-*   Ms Loke Jiayi
 *   Mr Shahrizal Bin Salim
 *   Ms Lee Sheau Yin
 *   Mr Lui Meng Whye
 *   Ms Jasmine Ng Hui Shan
 *   Ms Looi Tse Theng
 *   Ms Lee Hwee Choo Yvonne
-*   Mr Steven Tan
+
 
 
 **Department Vision**
