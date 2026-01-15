@@ -7,7 +7,9 @@ variant: markdown
 ---
 ###  National Civil Defence Cadet Corps
 
+<img src="/images/ncdcc20261.jpg" style="width:75%"><br>
 
+<img src="/images/ncdcc2026.jpg" style="width:75%">
 
 **Teachers-in-charge**
 
