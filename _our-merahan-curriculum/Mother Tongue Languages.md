@@ -19,7 +19,6 @@ variant: markdown
 *   Mdm Qin Zhenzhen
 *   Ms Ng Hui Ling
 *   Mr Neo Hock Kheng
-*   Mdm Chen Jing
 *   Mr Lim Sing Gee
 *   Mr Rosli Bin Hamim
 *   Ms Nurul Syazwany
