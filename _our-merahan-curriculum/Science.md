@@ -6,26 +6,24 @@ variant: markdown
 ---
 ### Science
 
-<img src="/images/science_department_i.jpg" style="width:80%">  
+<img src="/images/science2026.jpg" style="width:80%">  
 
 **Department Teachers**
 
 *   Ms How Si Si Jacqueline (HOD Science)
-*   Mr Yap Chin Hua (Year Head Upper Sec)
+*   Mr Yap Chin Hua (Year Head Lower Sec)
+*   Ms Tay Siew Hoon Janelle (Assistant Year Head Upper Sec)
 *   Ms Lui Yan Ling Esther (Lead Teacher Biology)
 *   Mr Lee Tzi Wei Gaius (ST Physics)
-*   Mr Tan Tua Choon (Assistant Year Head Upper Sec)
 *   Mr Au Yong Kok Soon (SH Student Well-Being)
-*   Ms Tay Siew Hoon Janelle (SH Educational Support)
-*   Ms Chian Yuan Lin (SH Lower Sec Science (Covering))
+*   Ms Chian Yuan Lin (SH Lower Sec Science)
 *   Mr Tan Phuay Heng
 *   Mrs Tan Wai Ping
-*   Mrs Chang Lai Yee
 *   Mrs Goh Shumin
 *   Mr Daryl Wang
 *   Mr Matthew Ng Wee Peng
 *   Mdm Subramanian Udayakumari (STEM Instructor (Laboratory))
-*   Mdm Nor Idayu Binte Ayob (STEM Instructor (Laboratory))
+
 
 **Department Vision**
 
