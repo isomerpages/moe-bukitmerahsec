@@ -13,7 +13,7 @@ variant: markdown
 
 **Teachers-in-charge**
 
-*   Ms Giselle Maria Ria (OIC)
+*   Ms Giselle Maria Rai (OIC)
 *   Ms Mendiola Diana Jeane Bautista
 *   Ms Jeyaraj Manoharan Selvarani
 *   Mr Pang Boon Kiat Andy (Main Instructor)
