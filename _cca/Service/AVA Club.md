@@ -15,7 +15,7 @@ variant: markdown
 *   Ms Chen Ying (OIC)
 *   Ms Darshan Kaur
 *   Mr Jayakumar
-*   Mr Zubi Kek (KP Advisor)
+*   Mr Loke Jia Yi (KP Advisor)
 
 **Trainings**
 
