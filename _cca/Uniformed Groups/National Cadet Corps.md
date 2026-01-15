@@ -18,7 +18,6 @@ variant: markdown
 *   Ms Looi Tse Theng (OIC)
 *   Mr Cheng Xin Ze (2IC)
 *   Mr Liu Meng Whye
-*   Ms Mendiola Diana Jeane Bautista
 *   Mr Zubi Kek (KP Advisor)  
   
 
@@ -27,13 +26,14 @@ variant: markdown
 
 *   Tuesday: 3:00pm – 4:30pm (Only for selected NCC PDS cadets)
 *   Wednesday: 2:50pm – 5:30pm
-*   Friday*: 1:00pm – 3:00pm (Only for selected NCC PDS cadets)
 
-*Please note that should additional training sessions on Tuesdays or Fridays be required due to competitions or HQ events, you will be informed by additional school letters/ notification via Parents Gateway. Rest assured that the additional training sessions will only be organized on a needs basis. Attendance is compulsory unless supported by valid reasons.*
+
+*Please note that should additional training sessions on Tuesdays be required due to competitions or HQ events, you will be informed by additional school letters/ notification via Parents Gateway. Rest assured that the additional training sessions will only be organized on a needs basis. Attendance is compulsory unless supported by valid reasons.*
 
 **Venue:**
 
-*   School Compound/CCA Hub
+*   Outside NCC room at CCA Hub
+*   Classroom S5-3 &amp; S5-2
 
 **NCC Vision and Mission**
 

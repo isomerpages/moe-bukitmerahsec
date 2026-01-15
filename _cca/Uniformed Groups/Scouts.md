@@ -7,16 +7,16 @@ variant: markdown
 ---
 ### Scouts
 
-<img src="/images/scout group2.jpg" style="width:60%,align:left">
-
-<img src="/images/scout group.jpg" style="width:100%">
+<img src="/images/scouts20261.jpg" style="width:60%,align:left">
+<br>
+<img src="/images/scouts2026.jpg" style="width:100%">
 
 
 **Teachers-in-charge**
 
 *   Ms Faith Ng Shu Ping (OIC)
-*   Mr Lim Rong Hua Eric (2IC)
-*   Ms Chew Min En, Lydia
+*   Ms Chew Min En, Lydia (2IC)
+*   Mr Lim Rong Hua Eric
 *   Mr Manikandan S/O Suresh Kumar
 *   Mr Zubi Kek (KP Advisor)
 

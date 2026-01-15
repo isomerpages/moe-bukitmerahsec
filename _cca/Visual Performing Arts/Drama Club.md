@@ -8,14 +8,14 @@ variant: markdown
 ### Drama Club - Train. Transform. Perform
 
 
-<img src="/images/cca24.png" style="width:80%,align:left">
+<img src="/images/drama_banner_2026.jpg" style="width:80%,align:left">
 
 
 **Teachers-in-charge**
 
-*   Ms Giselle Maria Ria (OIC)
+*   Ms Giselle Maria Rai (OIC)
 *   Ms Mendiola Diana Jeane Bautista
-*   Ms Ms Jeyaraj Manoharan Selvarani
+*   Ms Jeyaraj Manoharan Selvarani
 *   Mr Pang Boon Kiat Andy (Main Instructor)
 *   Mr Othman Bin Mohd Yusof (Assistant Instructor)
 *   Mr Zubi Kek (KP Advisor)
