@@ -12,7 +12,7 @@ variant: markdown
 
 *   Mr Wun Boon Leng (HOD Math)
 *   Ms Neo Siew Eng (Year Head Upper Sec)
-*   Mr Jereme Chee (Student Management/HOD IC (Covering))
+*   Mr Jereme Chee (Student Management/HOD ICT (Covering))
 *   Ms Loke Jia Yi (SH PE (Covering))
 *   Mr Subramanian s/o Annamalai (LH Math)
 *   Mr Lee Tzi Wei Gaius (ST Physics)
