@@ -6,14 +6,14 @@ variant: markdown
 ---
 ### Physical Education
 
-<img src="/images/physical_education_and_cca_department_i.jpg" style="width:80%">
+<img src="/images/pe2026.jpg" style="width:80%">
 
 **Department Teachers**
 
 *   Mr Kek Boon Ann Zubi (HOD PE &amp; CCA)
 *   Mr Satwant Singh (HOD Student Management &amp; Well-Being)
-*   Ms Neo Siew Eng (YH Lower Sec)
-*   Ms Loke Jia Yi (SH PE &amp; CCA (Covering))
+*   Ms Neo Siew Eng (Year Head Upper Sec)
+*   Ms Loke Jia Yi (SH PE &amp; CCA)
 *   Mr Chua Chwee Guan Johnson
 
 
