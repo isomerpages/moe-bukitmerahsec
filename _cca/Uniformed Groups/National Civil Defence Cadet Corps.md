@@ -12,9 +12,8 @@ variant: markdown
 **Teachers-in-charge**
 
 *   Mr Gaius Lee (OIC)
-*   Ms Chian Yuan Lin (2IC)
 *   Ms Tan Wai Hong
-*   Mr Ken Hu
+*   Ms Jasmine Ng
 *   Mr Zubi Kek (KP Advisor)
 
 **Trainings**
@@ -22,7 +21,7 @@ variant: markdown
 *   Wednesday: <br>
 2:40 pm – 5:00 pm (for cadets)<br>
 2:40 pm - 5:40 pm (for leaders)
-*   Friday: 1:40pm – 4:30pm (for competition team members)
+*   Friday: 1:40pm – 4:30pm (for competition team members and marching contingent)
 
 
 **Venues**
@@ -34,29 +33,43 @@ Cadets may be required to attend compulsory courses, Values-In- Action projects,
 
 **Mission**
 
-To serve mankind through discipline and training in life saving skills and healthcare.
+To develop and empower our youths to be active and concerned citizens advocating life-saving skills
+
 
 **Vision**
 
-To fulfil the Motto of the Order of St John (For the Faith and the Service of Humanity) by improving first aid skills in school and the community and to inculcate positive core values and pride in the students through trainings, school and public duties, physical activities and games.
+A Choice Uniformed Group of Community First Responders
+
+**Motto**
+
+We Learn, We Lead, We Serve
+
+**Pledge**
+
+We, the members of the National Civil Defence Cadet Corps, hereby pledge to serve our community.
+We take pride in our training and uniform.
+We are responsible for our actions.
+We are loyal to our nation.
 
 **Activities**
 
-*   Basic and Advanced NCO Training Course/Camp
-*   HQ Annual General Inspection
-*   St John Brigade Annual School Camp
-*   Combined Uniformed Group Camp\*
-*   Sports Enrichment Programme (e.g. Archery, Kayaking, Air Rifle)
-*   First Aid and Home Nursing Competition
-*   Hospital Attachment
-*   Basic Drill Instructor Course
-*   First Aid Instructor Course
-*   Home Nursing Instructor Course
-*   St John Walkathon &amp; Flag Day
-*   Basic First Aid &amp; Adult First Aid
-*   School &amp; Public First Aid Duties
-*   Values-In- Action Corps Event
-*   CPR + AED Course
-*   Basic Cardiac Life Support Course
-*   Civil Defence Course – Community Emergency Preparedness Programme (CEPP)
-*   Total Defence Course (Bronze/Silver/Gold)
+
+* NCDCC Camp
+* Sports Enrichment Programme (e.g. Archery, Kayaking, Air Rifle, Cycling)
+* Parade Marching Contingent
+* Public Duty
+* Fire Safety
+* Foot Drill (Bronze)
+* Total Defence (Bronze)
+* First Aid
+* Civil Defence Knowledge
+* Singapore Anti-Narcotics Association
+* Cardiopulmonary Resuscitation / Automated External Defibrillation
+* Foot Drill (Silver)
+* Rescue
+* Hazmat
+* Homefront Security
+* Specialisation Course: Fire Safety
+* Specialisation Course: Medical Response
+* Specialisation Course: Marine Fire &amp; Rescue
+* Specialisation Course: Urban Search &amp; Rescus
