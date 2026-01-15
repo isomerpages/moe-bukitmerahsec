@@ -7,7 +7,7 @@ description: ""
 <h3>2026 Semester 1 Curriculum Timetable (Old Version)</h3>
 <p><strong>Dear Students,</strong>
 </p>
-<p><strong>Kindly note that this timetable is valid from 12 January 2025 to 15 January 2025. This link will be removed by the end of this Friday, 15 January 2025.</strong>
+<p><strong>Kindly note that this timetable is valid from 12 January 2026 to 15 January 2026. This link will be removed by the end of this Friday, 15 January 2026.</strong>
 </p>
 <p>(Click on the respective links to download the timetable of&amp;nbsp;the
 class)&lt;br&gt;</p>
