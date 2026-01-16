@@ -316,9 +316,9 @@ Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. 
 
 #### Parent Handbook
 
-[Parent Handbook I](/files/IP2___Parent_Handbook__I__2025.pdf)
+[Parent Handbook I](/files/02_IP2___Parent_Handbook__I__2026.pdf)
 <br>
-[Parent Handbook II](/files/IP3___Parent_Handbook__II__2025.pdf)
+[Parent Handbook II](/files/03_IP3___Parent_Handbook__II__2026.pdf)
 
 #### Acceptable Use Policy
 
@@ -326,6 +326,6 @@ Refer to Acceptable Use Policy [here](/files/Acceptable_Use_Policy_Handbook_28Oc
 
 #### Parent Briefing Slides / Q&amp;A Response
 
-[Parent Engagement Deck 2025](/files/BMSS_2025_PLD_Parent_Engagement_Slides_2025.pdf)
+[Parent Engagement Deck 2026](/files/06_IP1___Parent_Engagement_Deck_2026.pdf)
 <br>
-[PDLP Student Device Information Kit](/files/PDLP-Student-Device-Information-Kit_16-Mar-22.pdf)
+[PDLP Student Device Information Kit](/files/PDLP_Student_Device_Information_Kit_2026.pdf)
