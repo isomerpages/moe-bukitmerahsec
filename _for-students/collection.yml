@@ -2,7 +2,6 @@ collections:
   for-students:
     output: true
     order:
-      - School Timetable (Old Version).md
       - School Timetable.md
       - Exam Timetable.md
       - Scheme of Assessment.md
