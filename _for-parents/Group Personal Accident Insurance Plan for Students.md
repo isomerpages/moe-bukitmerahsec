@@ -18,7 +18,7 @@ activities or event as stated in the policy coverage.</p>
 subjected to a cap of 365 days from the date of accident.</p>
 <p>4)&nbsp; &nbsp; &nbsp;Ensure all details in the claim form are accurate
 and complete, including contact number and email address of the parent/guardian.</p>
-<p><a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/MOE+Student+Product+Fact+Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a> for
+<p><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Click here</a> for
 the insurance fact sheet with summary of claims procedures. As MOE is advocating
 paperless and saving our environment, please submit your claims, via e-claim
 submission.</p>
