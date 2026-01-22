@@ -28,9 +28,9 @@ Please note that General Office opening hours may be subjected to changes on day
 
 
 
-&nbsp;<img src="/images/back_gate_2025_ver_2_0.jpg" style="width:90%">
+&nbsp;<img src="/images/School_Gate_Opening_Hours_2026.jpg" style="width:90%">
  
- _Updated as of 27 September 2025_
+ _Updated as of 22 January 2026_
 
 #### How to get there
 
