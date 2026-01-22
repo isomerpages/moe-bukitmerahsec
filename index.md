@@ -15,7 +15,4 @@ sections:
         - title: Students
           description: Information for Students
           url: /for-students/school-timetable/
-        - title: HBL
-          description: Timetable
-          url: /useful-links/BMSS-Students/hbl/
 ---
