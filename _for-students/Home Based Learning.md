@@ -7,21 +7,15 @@ variant: markdown
 ### Home-based Learning (HBL)
 
 
-**Links to Student Learning Space &amp; Troubleshooting Guide:**<br>
-[Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)<br>
-[SLS Login Troubleshooting Guide](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html)  
-
-Students are to log on the Singapore Student Learning Space ([https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)) to access instructions to lessons packages prepared by the teachers.
 
 **Home-Based Learning Schedule For Semester 2 (2026)**
 
 *Click on the link below to access the HBL timetable:*
 <br>
-Link TBA
+[HBL Timetable for 28 January 2026](/files/2026_Sem_1_HBL_Day_Schedule.pdf)
 
-<br>
 
-<img src="/images/hbl.png" style="width:60%">
+
 
 **School Operating Hours**
 
