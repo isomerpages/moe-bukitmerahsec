@@ -15,7 +15,7 @@ sections:
         - title: Students
           description: Information for Students
           url: /for-students/school-timetable/
-        - title: Sec 1 Registration
-          description: For 2026
-          url: https://sites.google.com/moe.edu.sg/bmsssec1registration2026/home
+        - title: HBL
+          description: Timetable
+          url: /useful-links/BMSS-Students/hbl/
 ---
