@@ -21,6 +21,6 @@ arrangements for the dismissal and collection of your child/ward.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Gate_Opening_Hours_2026_1.jpg">
 </div>
 <p></p>
-<p> <em>Updated as of 22 January 2026</em>
+<p><em>Updated as of 22 January 2026</em>
 </p>
 <p></p>
