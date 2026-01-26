@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Opening Hours.md
       - Principal's Message.md
       - Our School Crest and Song/.keep
       - Our School Crest and Song/School Emblem & Motto.md
@@ -23,5 +22,6 @@ collections:
       - Our Achievements/Success Stories 2022.md
       - Our Publications.md
       - Our Corporate Video.md
+      - School Opening Hours.md
       - Contact Us.md
       - Engagement Charter.md
