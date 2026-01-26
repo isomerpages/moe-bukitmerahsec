@@ -6,4 +6,4 @@ variant: markdown
 ---
 ###  School Rules and Regulations 
 
-Please click here for [School Disciplinary Rules Handbook](/files/School_Disciplinary_Rules_Hanbook_2024.pdf)
+Please click here for [School Disciplinary Rules Handbook](/files/BMSS_Disciplinary.pdf)

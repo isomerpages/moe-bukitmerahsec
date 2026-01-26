@@ -14,23 +14,7 @@ variant: markdown
 | **Email:** | bmss@moe.edu.sg |
 
 
-#### General Office Opening Hours
 
-Mondays to Fridays: 0700 hrs – 1800 hrs
-
-Mondays to Fridays (during school vacation): 0700 hrs – 1700 hrs 
-
-School is closed on Saturdays, Sundays and Public Holidays. 
-
-Please note that General Office opening hours may be subjected to changes on days with major school events.
-
-#### Turnstile Back Gate Opening / Closing Times
-
-
-
-&nbsp;<img src="/images/back_gate_2025_ver_2_0.jpg" style="width:90%">
- 
- _Updated as of 27 September 2025_
 
 #### How to get there
 
