@@ -8,13 +8,13 @@ variant: markdown
 
 
 
-**Home-Based Learning Schedule For Semester 2 (2026)**
+**Home-Based Learning Schedule For Semester 1 (2026)**
 
 *Click on the link below to access the HBL timetable:*
 <br>
-[HBL Timetable for 28 January 2026](/files/2026_Sem_1_HBL_Day_Schedule.pdf)
+[HBL Timetable for Semester 1](/files/For_Sch_Website__2026_Sem_1_HBL_Day_Schedule.pdf)
 
-
+<br>
 
 
 **School Operating Hours**
