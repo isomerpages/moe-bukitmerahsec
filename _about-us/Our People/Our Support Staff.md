@@ -136,17 +136,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rafiah Bte Mohd Jali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Office Attendant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rafiah_mohd_jali@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chua Eng Chiong</p>
 </td>
 <td rowspan="1" colspan="1">
