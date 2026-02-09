@@ -169,13 +169,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Nur Trisna Binte Parian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Laboratory)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_trisna_parian@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Phang Tiong Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct Operations Support Officer</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>phang_tiong_seng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>See Chai Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>see_chai_meng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
