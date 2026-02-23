@@ -23,8 +23,7 @@ a personal learning device.</p>
 </div>
 <h4>Personalised Digital Learning Programme (PDLP) in BMSS</h4>
 <p><strong><u>Objectives</u></strong>
-</p>
-<p>With 1 to 1 tech-enabled learning, to create a&nbsp;student-centric,&nbsp;engaging&nbsp;and&nbsp;stimulating&nbsp;teaching
+<br>With 1 to 1 tech-enabled learning, to create a&nbsp;student-centric,&nbsp;engaging&nbsp;and&nbsp;stimulating&nbsp;teaching
 and learning environment which encourages Merahans to:
 <br>
 </p>
@@ -41,8 +40,7 @@ and learning environment which encourages Merahans to:
 </ul>
 <p></p>
 <p><strong><u>School-Prescribed Personal Learning Device (PLD)</u></strong>
-</p>
-<p>Every new Merahan in 2026 will be using the Acer TravelMate Spin B3 as
+<br>Every new Merahan in 2026 will be using the Acer TravelMate Spin B3 as
 their personal learning device.
 <br>
 </p>
@@ -250,7 +248,6 @@ skills.
 </table>
 <p></p>
 <h4>Financial Assistance</h4>
-<p></p>
 <p>To ensure the affordability of devices, MOE provided a $500 Edusave top-up
 for students aged 13-16 years old. This is on top of the annual Edusave
 contribution of $290 for secondary school students and $230 for primary
@@ -291,9 +288,9 @@ on the collection of data via these applications.</p>
 <br>In the following months, MOE will roll out some or all of the following
 applications:
 <br>
-<br><strong>Student ICON  - </strong>MOE will give every secondary school
-student an email address. This is a service provided by Google as part
-of Google Suite.
+<br><strong>Student ICON - </strong>MOE will give every secondary school student
+an email address. This is a service provided by Google as part of Google
+Suite.
 <br>
 <br><strong>Microsoft 365 Pro Plus - </strong>Every Secondary School will
 be granted a license to use Microsoft Office tools that include Word, PowerPoint
