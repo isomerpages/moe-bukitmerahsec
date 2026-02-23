@@ -69,7 +69,7 @@ skills.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11″ Notebook</p>
+<p>12’’ Notebook</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ skills.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pentium Quad Core N6000 (upgraded from Pentium Quad Core N5030)</p>
+<p>Intel N250 processor</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ skills.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.6″</p>
+<p>12.2’’</p>
 </td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@ skills.
 <br>• 3.2 Gen 1 (up to 5 Gbps)
 <br>• DisplayPort over USB-C
 <br>• USB charging 5 V; 3 A
-<br>• DC-in port 5 or 9 or 15 or 20 V; 45 W
+<br>
 <br>Two USB 3.2 Gen 1 ports
 <br>HDMI® port.
 <br>microSDTM Card reader
@@ -240,8 +240,7 @@ skills.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Power Adaptor, Mouse,&nbsp; Carrier Bag, Active Stylus Pen (Docked-in)
-(upgraded from Rubber-tipped Stylus)</p>
+<p>Power Adaptor, Mouse,&nbsp; Carrier Bag, Active Stylus Pen (Docked-in)</p>
 </td>
 </tr>
 </tbody>
