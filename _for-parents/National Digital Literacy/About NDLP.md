@@ -22,28 +22,28 @@ a personal learning device.</p>
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/atVkNBXMVnY?si=65M9okeEA7lCvI4N"></iframe>
 </div>
 <h4>Personalised Digital Learning Programme (PDLP) in BMSS</h4>
-<ul>
-<li>
-<p>Objectives</p>
-<p></p>
-<p>With 1 to 1 tech-enabled learning, to create a&nbsp;<strong><u>student-centric</u></strong>,&nbsp;<strong><u>engaging</u></strong>&nbsp;and&nbsp;<strong><u>stimulating</u></strong>&nbsp;teaching
+<p><strong><u>Objectives</u></strong>
+</p>
+<p>With 1 to 1 tech-enabled learning, to create a&nbsp;student-centric,&nbsp;engaging&nbsp;and&nbsp;stimulating&nbsp;teaching
 and learning environment which encourages Merahans to:
 <br>
-<br>
 </p>
-<p>• take&nbsp;<strong><u>ownership</u></strong>&nbsp;of their learning,
-<br>• participate in&nbsp;<strong><u>collaborative</u></strong>&nbsp;learning
-and
-<br>• extend their learning&nbsp;<strong><u>beyond the classroom.</u></strong>
-</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>take&nbsp;ownership&nbsp;of their learning,</p>
 </li>
 <li>
-<p>School-Prescribed Personal Learning Device (PLD)</p>
+<p>participate in&nbsp;collaborative&nbsp;learning and</p>
+</li>
+<li>
+<p>extend their learning&nbsp;beyond the classroom</p>
+</li>
+</ul>
 <p></p>
+<p><strong><u>School-Prescribed Personal Learning Device (PLD)</u></strong>
+</p>
 <p>Every new Merahan in 2026 will be using the Acer TravelMate Spin B3 as
 their personal learning device.
-<br>
 <br>
 </p>
 <p>Acer TravelMate is a portable device that offers students convenient learning
@@ -58,10 +58,7 @@ skills.
 <div class="isomer-image-wrapper">
 <img style="width:55%" height="auto" width="100%" src="/images/Acer.png">
 </div>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -101,7 +98,7 @@ skills.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>128GB eMMC</p>
+<p>256GB</p>
 </td>
 </tr>
 <tr>
@@ -227,7 +224,7 @@ skills.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Windows 10 Pro (Education)</p>
+<p>Windows 11 (Education)</p>
 </td>
 </tr>
 <tr>
@@ -252,9 +249,7 @@ skills.
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
-<p>Financial Assistance</p>
+<h4>Financial Assistance</h4>
 <p></p>
 <p>To ensure the affordability of devices, MOE provided a $500 Edusave top-up
 for students aged 13-16 years old. This is on top of the annual Edusave
@@ -263,18 +258,14 @@ school students</p>
 <p>This is on top of the annual Edusave contribution of $290 for secondary
 school students and $230 for primary school students.
 <br>
-<br>
 </p>
 <p>For students who need additional support, complete and submit the attached
 form and supporting income documents to the General Office.
 <br>
-<br>
 </p>
 <p><a href="/files/Application-form-for-PDLP-Subsidy-BMSS%20-%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Please click here to download the form.</a> 
 <br>
-<br>
-</p>
-<p>Application is open to all students whose Gross Household Income (GHI)
+<br>Application is open to all students whose Gross Household Income (GHI)
 ≤ $4000 or Per Capita Income (PCI) ≤ $1000. PCI is GHI divided by the number
 of household members. Students on MOE Financial Assistance Scheme or School-Based
 Financial Assistance Scheme do not need to apply for this as they will
@@ -283,63 +274,39 @@ automatically be granted the subsidy by the school..
 <br>
 </p>
 <p></p>
-</li>
-</ul>
 <h4>ICT Applications as part of National Digital Literacy Programme</h4>
-<ul>
-<li>
-<p>Overview</p>
-<p>As part of the NDLP, schools will progressively roll out ICT applications
+<p><strong><u>Overview</u></strong>
+<br>As part of the NDLP, schools will progressively roll out ICT applications
 that will be vital to students’ learning experience and educational journey.
-<br>
 <br>
 </p>
 <p>The school will need to use your child/ward’s personal data such as his/her
 name and class to set up user accounts.
 <br>
-<br>
 </p>
 <p>Please refer to our Frequently Asked Questions section for more information
 on the collection of data via these applications.</p>
 <p></p>
-</li>
-<li>
-<p>ICT Applications</p>
-<p></p>
-<p>In the following months, MOE will roll out some or all of the following
+<p><strong><u>ICT Applications</u></strong>
+<br>In the following months, MOE will roll out some or all of the following
 applications:
 <br>
+<br><strong>Student ICON  - </strong>MOE will give every secondary school
+student an email address. This is a service provided by Google as part
+of Google Suite.
 <br>
-</p>
-<p>• <strong>Student ICON</strong>
-<br>
-</p>
-<p>MOE will give every secondary school student an email address. This is
-a service provided by Google as part of Google Suite.
-<br>
-<br>
-</p>
-<p>• <strong>Microsoft 365 Pro Plus</strong>
-<br>
-</p>
-<p>Every Secondary School will be granted a license to use Microsoft Office
-tools that include Word, PowerPoint and Excel.
+<br><strong>Microsoft 365 Pro Plus - </strong>Every Secondary School will
+be granted a license to use Microsoft Office tools that include Word, PowerPoint
+and Excel.
 <br>
 <br>
 </p>
-<p></p>
-</li>
-</ul>
 <h4>Device Management Application (DMA)</h4>
-<ul>
-<li>
-<p>Overview</p>
-<p></p>
-<p>Please note that when you purchase a PLD, the PLD will be pre-installed
+<p><strong><u>Overview</u></strong>
+<br>Please note that when you purchase a PLD, the PLD will be pre-installed
 with a Device Management Application (DMA). The DMA has a variety of functions
 that will support the use of the PLD in the classroom, as well as safeguard
 students’ cyber-wellness. The DMA can:
-<br>
 <br>
 </p>
 <p>• Remotely deploy teaching and learning applications as well as security
@@ -348,103 +315,85 @@ patches
 <br>• Restrict apps and websites accessible
 <br>• Limit screen time</p>
 <p></p>
-</li>
-<li>
-<p>Classroom Management</p>
-<p></p>
-<p>Teachers are able to actively monitor and control the student’s use of
+<p><strong><u>Classroom Management</u></strong>
+<br>Teachers are able to actively monitor and control the student’s use of
 the PLD during lesson time to help student better manage distractions and
 deliver effective teaching.</p>
 <p></p>
-</li>
-<li>
-<p>Mobile Device Management</p>
-<p></p>
-<p>Remote deployment of teaching and learning applications as well as security
+<p><strong><u>Mobile Device Management</u></strong>
+<br>Remote deployment of teaching and learning applications as well as security
 patches is made possible with DMA. Schools may also leverage on the Mobile
 Device Management Service to install the school’s teaching and learning
 resources.</p>
 <p></p>
-</li>
-<li>
-<p>Usage Management</p>
-<p></p>
-<p>This addresses stress to the student’s eyes from prolonged use and cyber
+<p><strong><u>Usage Management</u></strong>
+<br>This addresses stress to the student’s eyes from prolonged use and cyber
 wellness concerns, such as excessive and inappropriate use of the PLD.</p>
 <p></p>
-</li>
-<li>
-<p>Updating Choice of After-School DMA Option</p>
-<p>Choice of after-school DMA settings can be changed at any time using the
+<p><strong><u>Updating Choice of After-School DMA Option</u></strong>
+<br>Choice of after-school DMA settings can be changed at any time using the
 following link.
 <br>
-<br>
-</p>
-<p>Do note that changes to the after-school DMA option will only take effect
+<br>Do note that changes to the after-school DMA option will only take effect
 at&nbsp;<strong>the end of every month upon receipt of request before the 15th of each month.</strong>&nbsp;An
 email confirmation will be sent to confirm the updated after-school DMA
 option once it has been activated.
 <br>
-<br>
-</p>
-<p>Request made after the 15th of each month will only take effect the following
+<br>Request made after the 15th of each month will only take effect the following
 month.
 <br>
-<br>
-</p>
-<p>Link: <a href="https://go.gov.sg/bmssdma" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bmssdma</a>
+<br>Link: <a href="https://go.gov.sg/bmssdma" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bmssdma</a>
 </p>
 <p></p>
-</li>
-</ul>
 <h4>Frequently Asked Questions</h4>
-<ul>
+<ol data-tight="true" class="tight">
 <li>
 <p>How will my child/ward's data be used in DMA?</p>
-<p></p>
 <p>The Device Management Application (DMA) which will be installed in your
 child/ward’s PLD collects data on usage by the student, such as the amount
 of time spent on each application. The DMA data will only be used for MOE’s
 cyber-wellness measures and technical troubleshooting. MOE will not disclose
 the data to any person otherwise than permitted under the law.</p>
-<p></p>
 </li>
+</ol>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
 <li>
 <p>Where will the data collected by DMA and IT Applications for NDLP be stored?</p>
-<p></p>
 <p>All user data which is collected by MOE will be stored in secure servers
 managed by the respective vendors of our systems. The Government has put
 in place strong personal data protection laws and policies to safeguard
 sensitive data collected by public agencies such as MOE. Please refer to
 this website for more information on these laws and policies:
 <br>
-<br>
 </p>
 <p><a href="https://www.mddi.gov.sg/other-pages/personal-data-protection-laws-and-policies" rel="noopener noreferrer nofollow" target="_blank">https://www.mddi.gov.sg/other-pages/personal-data-protection-laws-and-policies</a>
 </p>
-<p></p>
 </li>
+</ol>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p>How will my child/ward's data be used in the ICT Applications?</p>
-<p></p>
-<p>For the ICT Applications (student iCON, Microsoft ProPlus and Zoom), the
-school will use your child/ward’s personal data such as his/her name, birth
-certificate number and class to set up user accounts. This data will also
-be used for the purposes of authenticating and verifying user identity,
-troubleshooting and facilitating system improvements. In addition, the
-commercial providers of these platforms (e.g. Google, Microsoft) will collect
-and deal with user data generated by your child/ward’s use of these applications.
-The collection use and disclosure of such data are governed by the commercial
+<p>For the ICT Applications (student iCON, Microsoft ProPlus), the school
+will use your child/ward’s personal data such as his/her name, birth certificate
+number and class to set up user accounts. This data will also be used for
+the purposes of authenticating and verifying user identity, troubleshooting
+and facilitating system improvements. In addition, the commercial providers
+of these platforms (e.g. Google, Microsoft) will collect and deal with
+user data generated by your child/ward’s use of these applications. The
+collection use and disclosure of such data are governed by the commercial
 provider’s terms of use, which can be found here:
 <br>
-<br>
 </p>
+</li>
+</ol>
 <p>• Student iCON:&nbsp;<a href="https://workspace.google.com/terms/education_terms/" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/terms/education_terms/</a>
 <br>• Microsoft Pro Plus:&nbsp;<a href="https://portal.office.com/commerce/mosa.aspx" rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com/commerce/mosa.aspx</a>
 <br>
 </p>
 <p></p>
-</li>
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p>Where can I find the full terms of purchase of the PLD?</p>
 <p>Parents/guardians will be purchasing the PLD directly from the vendor,
@@ -453,7 +402,9 @@ vendor. The tender documents set out the full terms and conditions of such
 a purchase, and can be found at this website:&nbsp;<a href="https://go.gov.sg/pldtermsandconditions" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pldtermsandconditions</a>
 </p>
 </li>
-</ul>
+</ol>
+<hr>
+<p></p>
 <h4>Parent Handbook</h4>
 <p><a href="/files/02_IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I</a>
 <br><a href="/files/03_IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>
