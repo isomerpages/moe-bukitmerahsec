@@ -387,8 +387,8 @@ provider’s terms of use, which can be found here:</p>
 <details class="isomer-details">
 <summary>What is the PLD warranty?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>PLD devices bought in 2026 will be given 4 years warranty. PLD devices
-bought in 2025 will be given 3 years warranty.</p>
+<p>PLD devices bought in 2026 onwards will be given 4 years warranty. PLD
+devices bought in 2025 and before will be given 3 years warranty.</p>
 </div>
 </details>
 </div>
