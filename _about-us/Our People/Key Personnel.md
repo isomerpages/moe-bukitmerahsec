@@ -239,7 +239,7 @@ variant: tiptap
 <p>Level Head Student Management (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>giselle_maria_illesinghe@schools.gov.sg</p>
+<p>giselle_maria_rai@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
