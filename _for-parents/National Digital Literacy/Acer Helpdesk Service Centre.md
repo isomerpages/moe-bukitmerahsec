@@ -85,7 +85,7 @@ bridge and a 7 mins walk to Acer service centre.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Operating Hours</strong> 
+<p><strong>Operating Hours</strong>
 </p>
 <p>Monday to Friday: 8:45am – 5:15 pm</p>
 <p></p>
