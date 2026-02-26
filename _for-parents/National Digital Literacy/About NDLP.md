@@ -327,19 +327,11 @@ resources.</p>
 wellness concerns, such as excessive and inappropriate use of the PLD.</p>
 <p></p>
 <p><strong><u>Updating Choice of After-School DMA Option</u></strong>
-<br>Choice of after-school DMA settings can be changed at any time using the
-following link.
+<br>If you would like to change your DMA settings option, please email our
+school DMA administrator for assistance. Kindly note that changes to your
+DMA option will take at <strong>least 1 working day. </strong>
 <br>
-<br>Do note that changes to the after-school DMA option will only take effect
-at&nbsp;<strong>the end of every month upon receipt of request before the 15th of each month.</strong>&nbsp;An
-email confirmation will be sent to confirm the updated after-school DMA
-option once it has been activated.
-<br>
-<br>Request made after the 15th of each month will only take effect the following
-month.
-<br>
-<br>Link: <a href="https://go.gov.sg/bmssdma" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bmssdma</a>
-</p>
+<br>Email: muhammad_haikal_razali@schools.gov.sg</p>
 <p></p>
 <h4>Frequently Asked Questions (FAQ)</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
