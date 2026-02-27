@@ -12,11 +12,11 @@ variant: markdown
 
 **Teachers-in-charge**
 
-*   Ms Loke Jia Yi (OIC)
+*   Ms Loke Jia Yi (OIC/KP Advisor)
 *   Ms Nurul Syazwany 
 *   Mr Mohamad Rashid Bin Jalaluddin (Boys’ Coach)
 *   Mr Muhammad Shamir Alfee Bin Aminudin (Girls’ Coach)
-*   Ms Loke Jia Yi (KP Advisor)
+
 
 **Trainings**
 
