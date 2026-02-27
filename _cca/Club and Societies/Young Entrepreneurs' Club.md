@@ -14,6 +14,7 @@ variant: markdown
 
 *   Mrs Tan Wai Ping (OIC)
 *   Mr Anthony Fang
+*   Ms Goh Ee Xin
 *   Mr Mathhew Ng
 *   Ms Loke Jia Yi(KP Advisor)
 
@@ -35,4 +36,4 @@ variant: markdown
 *   Entrepreneurship opportunities – Appreciation Sale, Teachers’ Day Sale
 *   Enrichment Programmes – Crafting workshops, Upcycling and sustainable environment-related workshops
 *   Intergroup Projects – Poster Design, Brainstorm for items to sell
-*   Competition – Young Trailblazers 
+*   Competition – Young Trailblazers
