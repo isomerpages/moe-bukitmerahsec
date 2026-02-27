@@ -13,7 +13,7 @@ variant: markdown
 **Teachers-in-charge**
 
 *   Mdm Qin Zhen Zhen (OIC)
-*   Mrs Chang Lai Yee
+*   Mr Yeo Jun Zhong
 *   Mdm Rosnani
 *   Ms Selvarani Jeyaraj Manoharan
 *   Ms Lim Sze Ai \[(Main Band) Instructor\]
