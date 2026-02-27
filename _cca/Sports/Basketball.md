@@ -17,7 +17,7 @@ variant: markdown
 *   Mr Rosli Bin Hamim
 *   Mr Lim Chun Leong (OM/ Coach for Girls Team)
 *   Mr Ong Chee Kien(Coach for the Boys Team)
-*   Mr Zubi Kek (KP Advisor)
+*   Ms Loke Jia Yi (KP Advisor)
 
 **Trainings**
 
