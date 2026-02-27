@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Modern Dance
 
-<img src="/images/FESTIVO.jpg" style="width:80%,align:left">
+<img src="/images/modern2026.jpg" style="width:80%,align:left">
 
 
 **Teachers-in-charge**
@@ -31,4 +31,4 @@ variant: markdown
 
 **Activities**
 
-* Singapore Youth Festival (April/May)
+* Festivo
