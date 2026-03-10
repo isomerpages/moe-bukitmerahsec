@@ -13,14 +13,15 @@ variant: markdown
 **Teachers-in-charge**
 
 *   Mdm Qin Zhen Zhen (OIC)
-*   Mrs Chang Lai Yee
+*   Mr Yeo Jun Zhong
 *   Mdm Rosnani
-*   Ms Selvarani Jeyaraj Manoharan
 *   Ms Lim Sze Ai \[(Main Band) Instructor\]
 *   Mr Tan Loke Chuah \[Instructor (Recruit and Percussion)\]
 *   Mr Tan Yue Yuan \[Instructor (Clarinet)\]
 *   Mr Moo Wei Yang \[Instructor (Trumpet/ Brass)\]
 *   Mr Lim Ngee Cheng, Lewis \[Instructor (French Horn)\]
+*   Ms Chan Jia Ling Michellina \[Instructor (Saxophone)\]
+*   Mr Uvahraaj Anbarasan \[Instructor (Lower Brass)\]
 *   Mr Zubi Kek (KP Advisor)
 
 **Trainings**

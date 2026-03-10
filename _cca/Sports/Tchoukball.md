@@ -18,7 +18,7 @@ variant: markdown
 *   Mr Amal Luqman (2IC)
 *   Ms Lee Hwee Choo Yvonne
 *   Mr Zack Tan Zheng Chao (Coach)
-*   Mr Zubi Kek (KP Advisor)
+*   Ms Loke Jia Yi (KP Advisor)
 
 **Trainings**
 

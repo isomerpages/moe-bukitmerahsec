@@ -15,7 +15,7 @@ variant: markdown
 *   Mr Quek Jia Liang (OIC)
 *   Mr Neo Hock Kheng (2IC)
 *   Ms Lim Lay Eng
-*   Mr Dennis Lim (KP Advisor)
+*   Ms Loke Jia Yi (KP Advisor)
 
 **Trainings**
 

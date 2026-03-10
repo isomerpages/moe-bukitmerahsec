@@ -13,7 +13,8 @@ variant: markdown
 **Teachers-in-charge**
 
 *   Mrs Goh Shumin (OIC)
-*   Mr J Praveen Kumar
+*   Mr Daryl Wang
+*   Ms Tan Sheng Xian
 *   Mr Dennis Lim (KP Advisor)
 
 
