@@ -24,6 +24,6 @@ variant: markdown
 
 |  |  |
 |---|---|
-| MOE Intranet | [http://intranet.moe.gov.sg/Pages/Home.aspx](http://intranet.moe.gov.sg/Pages/Home.aspx) |
+| MOE Intranet | [https://intranet.moe.gov.sg/Pages/Home.aspx](http://intranet.moe.gov.sg/Pages/Home.aspx) |
 | iEXAMS2 | [https://iexams.seab.gov.sg/login](https://iexams.seab.gov.sg/login) |
 | School Cockpit Plus | [https://schoolcockpit.moe.gov.sg](https://schoolcockpit.moe.gov.sg) |
