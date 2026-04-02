@@ -5,6 +5,54 @@ description: ""
 third_nav_title: Our Achievements
 variant: tiptap
 ---
+<h5>2026 Achievements</h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>NUS Geography Challenge</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>2 Bronze Award</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
+<p></p>
 <h5>2025 Achievements</h5>
 <p></p>
 <table style="minWidth: 75px">
@@ -451,153 +499,6 @@ NUS Geographical Society and supported by MOE)</p>
 <td rowspan="1" colspan="1">
 <p>First Prize - (Lower Secondary)</p>
 <p>Second Prize - (Upper Secondary)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<p></p>
-<h5>2023 Achievements</h5>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Department</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore and Asian Schools Math Olympiad (SASMO)
-<br>
-<br>Singapore Mathematical Olympiad (SMO)
-<br>
-<br>Singapore Math Kangaroo Contest (SMKC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Gold, 3 Silver, 7 Bronze and 7 Honourable Mention
-<br>
-<br>4 Honourable Mention
-<br>
-<br>
-</p>
-<p>2 Gold, 2 Silver, 4 Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Chinese Language Championship 全国华文大比拼</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Awarded top 30 out of 1050 contestants</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21st National Secondary School Chinese Creative Writing Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd prize for Upper Secondary category</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Australia Big Science Competition
-<br>
-<br>
-<br>Singapore Junior Chemistry Olympiad</p>
-<p></p>
-<p>
-<br>Science ICAS 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 High Distinctions, 1 Distinction and 7 Credits
-<br>
-<br>Bronze
-<br>
-<br>
-<br>
-</p>
-<p></p>
-<p></p>
-<p>Distinction, 7 credits and 1 merit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Inter-school Principle Of Accounts Quest (organised by Deyi Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hwa Chong International Model United Nations (HMUN) 2023 Conference</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Awarded the Most Honourable Delegate Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Accounting Challenge (CPDD Humanities Branch)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Merit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOE History Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A student selected for History Talent Development Programme (HTDP) 2023/2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Historical Scene Investigation Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 </tbody>
