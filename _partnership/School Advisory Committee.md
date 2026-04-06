@@ -6,7 +6,7 @@ variant: markdown
 ---
 ##### School Advisory Committee (SAC)
 
-<img src="/images/sac2025.jpg" style="width:50,align:left"> 
+<img src="/images/Website.jpg" style="width:50,align:left"> 
 
 Our School Advisory Committee (SAC) is made up of members from the education, business, social and community sectors. Currently, 4 of our members – Mr Andy Chew, Mrs Gina Tan, Mr Tan Teck Lee and Mr Teo Soon Kwan Elisha Peterson – are alumni who have returned to contribute to the school that has played a part in nurturing them to be who they are today
 
