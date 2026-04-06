@@ -511,9 +511,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Lui Meng Whye</p>
+<p></p>
+<p>Belicia Choy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lui_meng_whye@schools.gov.sg</p>
+<p></p>
+<p>belicia_choy_siqi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -522,9 +526,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Qin ZhenZhen</p>
+<p></p>
+<p>Muhammad Shafiq Bin Iskandar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>qin_zhenzhen@schools.gov.sg</p>
+<p></p>
+<p>muhammad_shafiq_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
