@@ -21,6 +21,7 @@ variant: markdown
 *   Mrs Tan Wai Ping
 *   Mrs Goh Shumin
 *   Mr Daryl Wang
+*   Ms Belicia Choy Siqi
 *   Mr Matthew Ng Wee Peng
 *   Mdm Subramanian Udayakumari (STEM Instructor (Laboratory))
 *   Mdm Nur Trisna Binte Parian (STEM Instructor (Laboratory))
