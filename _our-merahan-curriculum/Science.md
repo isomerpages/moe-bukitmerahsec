@@ -23,6 +23,7 @@ variant: markdown
 *   Mr Daryl Wang
 *   Mr Matthew Ng Wee Peng
 *   Mdm Subramanian Udayakumari (STEM Instructor (Laboratory))
+*   Mdm Nur Trisna Binte Parian (STEM Instructor (Laboratory))
 
 
 **Department Vision**
