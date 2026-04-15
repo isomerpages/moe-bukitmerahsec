@@ -25,6 +25,7 @@ variant: markdown
 *   Mr Amal Luqman
 *   Ms Mendiola Diana Jeane Bautista
 *   Mr Praveen Kumar
+*   Ms Yip Xiao Tong, Adonia
 
 
 **Department Vision**
