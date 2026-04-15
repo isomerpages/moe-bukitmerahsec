@@ -15,6 +15,7 @@ variant: markdown
 *   Mrs Goh Shumin (OIC)
 *   Mr Daryl Wang
 *   Ms Tan Sheng Xian
+*   Mr Muhammad Shafiq Bin Iskandar
 *   Mr Dennis Lim (KP Advisor)
 
 
