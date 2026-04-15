@@ -15,6 +15,7 @@ variant: markdown
 *   Ms Loke Jia Yi (OIC/KP Advisor)
 *   Ms Nurul Syazwany 
 *   Mr J Praveen Kumar
+*   Ms Yip Xiao Tong, Adonia
 *   Mr Mohamad Rashid Bin Jalaluddin (Boys’ Coach)
 *   Mr Muhammad Shamir Alfee Bin Aminudin (Girls’ Coach)
 
