@@ -20,6 +20,7 @@ variant: markdown
 *   Ms Flora Cheong 
 *   Mdm Rosnani Bte Said
 *   Ms Chen Ying
+*   Mr Muhammad Shafiq Bin Iskandar
 *   Ms Lim Mei-Chin Eleanor
 *   Mr Chua Eng Chiong (STEM Instructor (Workshop))
 *   Ms Zhang Lihui (STEM Instructor (Workshop))

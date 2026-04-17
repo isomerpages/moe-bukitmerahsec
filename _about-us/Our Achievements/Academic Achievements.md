@@ -50,6 +50,18 @@ variant: tiptap
 </tr>
 <tr></tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13th Biomedical Quiz 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver
+<br>(Top 20%)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

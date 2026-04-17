@@ -15,6 +15,7 @@ variant: markdown
 *   Mdm Qin Zhen Zhen (OIC)
 *   Mr Yeo Jun Zhong
 *   Mdm Rosnani
+*   Ms Belicia Choy Siqi
 *   Ms Lim Sze Ai \[(Main Band) Instructor\]
 *   Mr Tan Loke Chuah \[Instructor (Recruit and Percussion)\]
 *   Mr Tan Yue Yuan \[Instructor (Clarinet)\]
