@@ -15,7 +15,6 @@ variant: markdown
 *   Ms Kong Yin Ling Adeline (ST EL)
 *   Mdm Leow Li Quin (ST EL &amp; Literature)
 *   Ms Giselle Maria Rai (LH Student Management (Internal))
-*   Mr Lim Rong Hua Eric
 *   Ms Darshan Kaur
 *   Ms Ng Shuping Faith
 *   Mr Yeo Jun Zhong
@@ -24,7 +23,6 @@ variant: markdown
 *   Ms Chew Min En, Lydia
 *   Mr Amal Luqman
 *   Ms Mendiola Diana Jeane Bautista
-*   Mr Praveen Kumar
 *   Ms Yip Xiao Tong, Adonia
 
 

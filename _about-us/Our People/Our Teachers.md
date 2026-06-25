@@ -150,14 +150,10 @@ variant: tiptap
 <p>1R6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chen Ying
-<br>
-<br>Praveen Kumar</p>
+<p>Chen Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_ying_d@schools.gov.sg
-<br>
-<br>j_praveen_kumar@schools.gov.sg</p>
+<p>chen_ying_d@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -281,16 +277,12 @@ variant: tiptap
 <p>2I2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eric Lim
-<br>
-<br>Sriwanty Bte Ramli</p>
+<p>Sriwanty Bte Ramli</p>
 <p></p>
 <p>Yip Xiao Tong Adonia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_rong_hua_eric@schools.gov.sg
-<br>
-<br>sriwanty_ramli@schools.gov.sg</p>
+<p>sriwanty_ramli@schools.gov.sg</p>
 <p></p>
 <p>yip_xiao_tong_adonia@schools.gov.sg</p>
 </td>
@@ -315,16 +307,12 @@ variant: tiptap
 <p>2I4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>David Ho
-<br>
-<br>Ng Wai Ping
+<p>Ng Wai Ping
 <br>
 <br>Amal Luqman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ho_wing_leong@schools.gov.sg
-<br>
-<br>ng_wai_ping@schools.gov.sg
+<p>ng_wai_ping@schools.gov.sg
 <br>
 <br>amal_luqman_ahmad_ehsan@schools.gov.sg</p>
 </td>
@@ -349,13 +337,16 @@ variant: tiptap
 <p>2I6</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Subramanian Annamalai</p>
+<p></p>
 <p>Shahrizal Salim
 <br>
 <br>Rosnani Said</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>subramanian_annamalai@schools.gov.sg</p>
+<p></p>
 <p>shahrizal_salim@schools.gov.sg
-<br>
 <br>rosnani_said@schools.gov.sg</p>
 </td>
 </tr>
@@ -366,16 +357,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Lee Sheau Yin
 <br>
-<br>Bernard Goh
-<br>
-<br>Eleanor Lim</p>
+<br>Bernard Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_sheau_yin@schools.gov.sg
 <br>
-<br>goh_kiat_foong@schools.gov.sg
-<br>
-<br>lim_mei-chin_eleanor@schools.gov.sg</p>
+<br>goh_kiat_foong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
