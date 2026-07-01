@@ -6,8 +6,8 @@ variant: markdown
 ---
 ###  Parents Resources
 
-**2026 Semester 1 Principal's Message**
-* [Principal Message for Semester 2 2026](/files/Principal_s_Message_for_Semester_2.pdf)
+**2026 Semestral Principal's Message**
+* [Principal Message for Semester 2 2026](/files/Bukit_Merah_Sec_24062026.pdf)
 * [Principal Message for Semester 1 2026](/files/BMSS_2026_Semester_1_Principal_s_Message_v2.pdf)
 
 
