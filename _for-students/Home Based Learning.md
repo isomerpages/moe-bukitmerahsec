@@ -12,7 +12,7 @@ variant: markdown
 
 *Click on the link below to access the HBL timetable:*
 <br>
-[HBL Timetable for Semester 1](/files/For_Sch_Website__2026_Sem_1_HBL_Day_Schedule.pdf)
+[HBL Timetable for Semester 2](/files/SEM_2_HBL_Day_Schedule.pdf)
 
 <br>
 
