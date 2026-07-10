@@ -8,7 +8,7 @@ variant: markdown
 
 
 
-**Home-Based Learning Schedule For Semester 1 (2026)**
+**Home-Based Learning Schedule**
 
 *Click on the link below to access the HBL timetable:*
 <br>
